@@ -8,8 +8,12 @@ on:
 jobs:
   daily-db-backup:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
     steps:
       - name: Checkout repo code
         uses:  actions/checkout@v4
       - name: Create a copy of database
         run: mkdir -p backups && cp DB/noticias.db "backups/$(date +%F)noticias.db"
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
