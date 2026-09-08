@@ -1,0 +1,15 @@
+name: DATABASE DAILY BACKUP
+on:   
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  daily-db-backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo code
+        uses:  actions/checkout@v4
+      - name: Create a copy of database
+        run: cp DB/noticias.db "backup/$(date +%F)noticias.db"

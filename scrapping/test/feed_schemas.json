@@ -1,0 +1,482 @@
+[
+  {
+    "medio": "The Clinic",
+    "url": "https://www.theclinic.cl/feed/",
+    "total_entries": 10,
+    "claves": [
+      "author",
+      "author_detail",
+      "authors",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "published",
+      "published_parsed",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail"
+    ],
+    "ejemplo": {
+      "author": "Pablo Serey",
+      "author_detail": {
+        "name": "Pablo Serey"
+      },
+      "authors": [
+        {
+          "name": "Pablo Serey"
+        }
+      ],
+      "guidislink": false,
+      "id": "https://www.theclinic.cl/?p=1794394",
+      "link": "https://www.theclinic.cl/2026/09/04/de-lautaro-carmona-a-evelyn-matthei-la-politica-chilena-despide-a-camilo-escalona-y-destaca-su-rol-como-formador-y-precursor-de-acuerdos/",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.theclinic.cl/2026/09/04/de-lautaro-carmona-a-evelyn-matthei-la-politica-chilena-despide-a-camilo-escalona-y-destaca-su-rol-como-formador-y-precursor-de-acuerdos/"
+        }
+      ],
+      "published": "Sat, 05 Sep 2026 02:55:32 +0000",
+      "published_parsed": [
+        2026,
+        9,
+        5,
+        2,
+        55,
+        32,
+        5,
+        248,
+        0
+      ],
+      "summary": "<p>“Formó a generaciones de socialistas y acompañó al partido en sus momentos más difíciles”, destacó la presidenta del PS, Paulina Vodanovic. “Siempre buscó acuerdos y veló por el respeto a las instituciones”, sostuvo el senador Matías Walker. Mientras tanto el alcalde de Santiago, Mario Desbordes, recordó el papel que jugó durante el estallido social. “En su departamento tuvimos las primeras reuniones que permitieron salir de la crisis política de 2019. Su rol fue clave en muchos momentos críticos para Chile”, estableció.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/04/de-lautaro-carmona-a-evelyn-matthei-la-politica-chilena-despide-a-camilo-escalona-y-destaca-su-rol-como-formador-y-precursor-de-acuerdos/\">De Lautaro Carmona a Evelyn Matthei: la política chilena despide a Camilo Escalona y destaca su rol como formador y precursor de acuerdos</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "",
+        "value": "<p>“Formó a generaciones de socialistas y acompañó al partido en sus momentos más difíciles”, destacó la presidenta del PS, Paulina Vodanovic. “Siempre buscó acuerdos y veló por el respeto a las instituciones”, sostuvo el senador Matías Walker. Mientras tanto el alcalde de Santiago, Mario Desbordes, recordó el papel que jugó durante el estallido social. “En su departamento tuvimos las primeras reuniones que permitieron salir de la crisis política de 2019. Su rol fue clave en muchos momentos críticos para Chile”, estableció.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/04/de-lautaro-carmona-a-evelyn-matthei-la-politica-chilena-despide-a-camilo-escalona-y-destaca-su-rol-como-formador-y-precursor-de-acuerdos/\">De Lautaro Carmona a Evelyn Matthei: la política chilena despide a Camilo Escalona y destaca su rol como formador y precursor de acuerdos</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+      },
+      "tags": [
+        {
+          "term": "Política",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "camilo escalona",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "lautaro carmona",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Mario Desbordes",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Partido Socialista de Chile",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "paulina vodanovic",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "title": "De Lautaro Carmona a Evelyn Matthei: la política chilena despide a Camilo Escalona y destaca su rol como formador y precursor de acuerdos",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "",
+        "value": "De Lautaro Carmona a Evelyn Matthei: la política chilena despide a Camilo Escalona y destaca su rol como formador y precursor de acuerdos"
+      }
+    }
+  },
+  {
+    "medio": "La Nación",
+    "url": "https://www.lanacion.cl/feed/",
+    "total_entries": 10,
+    "claves": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "published",
+      "published_parsed",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail"
+    ],
+    "ejemplo": {
+      "author": "Patricia Schüller Gamboa",
+      "author_detail": {
+        "name": "Patricia Schüller Gamboa"
+      },
+      "authors": [
+        {
+          "name": "Patricia Schüller Gamboa"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "",
+          "value": "<p><strong>Camilo Escalona, secretario general del Partido Socialista (PS) y una de las figuras más influyentes de la izquierda chilena de las últimas cinco décadas</strong>, falleció este viernes en la Clínica Indisa, a los 71 años, tras una larga batalla contra un agresivo cáncer de próstata.<br /><br /><strong>El dirigente permanecía hospitalizado desde hace más de una semana</strong>. Esto luego de que su cuadro se agravara y debiera ser sometido a un coma inducido, procedimiento al que ya había sido sometido en ocasiones anteriores por el manejo de su enfermedad.<br /><br />Su entorno más cercano había descartado inicialmente un riesgo vital inminente, e incluso reportaba una evolución favorable, mientras distintas autoridades y dirigentes visitaron el recinto para expresar su apoyo a la familia.<br /><br />Escalona <strong>ejerció como secretario general de la actual directiva del PS, encabezada por la senadora Paulina Vodanovic,</strong> cargo que desempeñó hasta hace algunos meses, cuando complicaciones de salud lo alejaron definitivamente de la vida pública. En su ausencia, <strong>el primer vicepresidente de la colectividad, Arturo Barrios, asumió sus funciones.</strong></p>\n\n\n\n<h2 class=\"wp-block-heading\">En 1974 el sacerdote Rafael Maroto lo ayudó a ingresar a la Embajada de Austria</h2>\n\n\n\n<p><strong>Su trayectoria dentro del socialismo chileno se remonta a la clandestinidad durante la dictadura de Augusto Pinochet.</strong> Perseguido por el régimen, en 1974 el sacerdote Rafael Maroto lo ayudó a ingresar a la Embajada de Austria, donde obtuvo asilo político y viajó a Viena.<br /><br /><strong>En los años siguientes vivió en Cuba y en la entonces República Democrática Alemana, hasta que en 1983 regresó de manera clandestina a Chile</strong>, donde continuó reconstruyendo las bases del PS de cara al plebiscito de 1988.</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img alt=\"\" class=\"wp-image-414368\" height=\"600\" src=\"https://www.lanacion.cl/wp-content/uploads/2026/09/FOTO-ESCALONA.jpg\" width=\"900\" /></figure>\n\n\n\n<h2 class=\"wp-block-heading\">Fue presidente del PS en tres periodos distintos</h2>\n\n\n\n<p>Fue presidente del Partido Socialista en tres periodos distintos -entre 1994 y 1998, entre 2001 y 2003, y entre 2006 y 2008- y encabezó al interior de la colectividad el histórico sector Nueva Izquierda, desde donde formó políticamente a figuras como la expresidenta Michelle Bachelet, de cuya primera candidatura presidencial fue generalísimo, además del exministro Álvaro Elizalde y el exsubsecretario Mahmud Aleuy, entre otros.<br /><br /><strong>En el Congreso Nacional, Escalona acumuló una trayectoria parlamentaria de 24 años:</strong> 16 como diputado y ocho como senador, período en el que presidió el Senado entre 2012 y 2013, durante el primer gobierno de Sebastián Piñera.<br /><br />Una de sus últimas apariciones públicas la realizó a través de redes sociales, en medio de las tensiones internas que enfrentó el PS este año entre Vodanovic y la senadora Daniella Cicardini, a propósito de la discusión de la Ley de Reconstrucción Nacional impulsada por el Gobierno del Presidente José Antonio Kast. En esa oportunidad, llamó a preservar la &#8220;unidad socialista&#8221; como algo &#8220;primordial para la unidad de la oposición&#8221;.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-wp-embed is-provider-la-nacion wp-block-embed-la-nacion\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"wp-embedded-content\"><a href=\"https://www.lanacion.cl/camilo-escalona-reaparece-en-medio-de-agresiva-enfermedad-y-agradece-innumerables-mensajes-de-apoyo-solidario/\">Camilo Escalona reaparece en medio de agresiva enfermedad y agradece &#8220;innumerables mensajes de apoyo solidario&#8221;</a></blockquote>\n</div></figure>\n<p>The post <a href=\"https://www.lanacion.cl/a-los-71-anos-muere-camilo-escalona-historico-dirigente-del-partido-socialista/\" rel=\"nofollow\">A los 71 años muere Camilo Escalona, histórico dirigente del Partido Socialista</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        }
+      ],
+      "guidislink": false,
+      "id": "https://www.lanacion.cl/?p=414618",
+      "link": "https://www.lanacion.cl/a-los-71-anos-muere-camilo-escalona-historico-dirigente-del-partido-socialista/",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.lanacion.cl/a-los-71-anos-muere-camilo-escalona-historico-dirigente-del-partido-socialista/"
+        }
+      ],
+      "published": "Sat, 05 Sep 2026 01:27:25 +0000",
+      "published_parsed": [
+        2026,
+        9,
+        5,
+        1,
+        27,
+        25,
+        5,
+        248,
+        0
+      ],
+      "summary": "<p>Camilo Escalona, secretario general del Partido Socialista (PS) y una de las figuras más influyentes de la izquierda chilena de las últimas cinco décadas, falleció este viernes en la Clínica Indisa, a los 71 años, tras una larga batalla contra un agresivo cáncer de próstata. El dirigente permanecía hospitalizado desde hace más de una semana. [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/a-los-71-anos-muere-camilo-escalona-historico-dirigente-del-partido-socialista/\" rel=\"nofollow\">A los 71 años muere Camilo Escalona, histórico dirigente del Partido Socialista</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "",
+        "value": "<p>Camilo Escalona, secretario general del Partido Socialista (PS) y una de las figuras más influyentes de la izquierda chilena de las últimas cinco décadas, falleció este viernes en la Clínica Indisa, a los 71 años, tras una larga batalla contra un agresivo cáncer de próstata. El dirigente permanecía hospitalizado desde hace más de una semana. [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/a-los-71-anos-muere-camilo-escalona-historico-dirigente-del-partido-socialista/\" rel=\"nofollow\">A los 71 años muere Camilo Escalona, histórico dirigente del Partido Socialista</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+      },
+      "tags": [
+        {
+          "term": "Política",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Portada",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "camilo",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "dirigente",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Escalona",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "histórico",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "muere",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "muerete",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "ps",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "title": "A los 71 años muere Camilo Escalona, histórico dirigente del Partido Socialista",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "",
+        "value": "A los 71 años muere Camilo Escalona, histórico dirigente del Partido Socialista"
+      }
+    }
+  },
+  {
+    "medio": "Diario Financiero",
+    "url": "https://www.df.cl/noticias/site/list/port/rss.xml",
+    "total_entries": 50,
+    "claves": [
+      "df_fechap",
+      "df_fechapl",
+      "df_fid",
+      "df_foto600",
+      "df_horap",
+      "df_tagnames",
+      "df_ts",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "published",
+      "published_parsed",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail"
+    ],
+    "ejemplo": {
+      "df_fechap": "20260904",
+      "df_fechapl": "Viernes 4 de septiembre de 2026",
+      "df_fid": "fid_noticia",
+      "df_foto600": "/noticias/site/artic/20260904/imag/foto_0000003020260904210639/Aton_1057931.jpg",
+      "df_horap": "21:05",
+      "df_tagnames": "Claudia Rivas,PS,Política,Partido Socialista,gobierno",
+      "df_ts": "20260904210639",
+      "guidislink": false,
+      "id": "http://www.df.cl/noticias/site/artic/20260904/pags/20260904210639.html",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/de-luto-el-mundo-politico-concertacionista-historico-dirigente-socialista",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "http://www.df.cl/economia-y-politica/actualidad/de-luto-el-mundo-politico-concertacionista-historico-dirigente-socialista"
+        }
+      ],
+      "published": "Sat, 05 Sep 2026 02:00:00 GMT",
+      "published_parsed": [
+        2026,
+        9,
+        5,
+        2,
+        0,
+        0,
+        5,
+        248,
+        0
+      ],
+      "summary": "Fue un agresivo cáncer el que afectó al emblemático dirigente, que terminó sus días en un coma inducido. Representantes opositores llegaron hasta la Clínica Indisa a “despedirse”. &#160; &#160;",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "",
+        "value": "Fue un agresivo cáncer el que afectó al emblemático dirigente, que terminó sus días en un coma inducido. Representantes opositores llegaron hasta la Clínica Indisa a “despedirse”. &#160; &#160;"
+      },
+      "tags": [
+        {
+          "term": "Economía y Política",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "title": "De luto el mundo político concertacionista: histórico dirigente socialista Camilo Escalona fallece a los 71 años",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "",
+        "value": "De luto el mundo político concertacionista: histórico dirigente socialista Camilo Escalona fallece a los 71 años"
+      }
+    }
+  },
+  {
+    "medio": "BioBioChile",
+    "url": "https://www.biobiochile.cl/static/feed-rss",
+    "total_entries": 20,
+    "claves": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "published",
+      "published_parsed",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail"
+    ],
+    "ejemplo": {
+      "author": "Constanza Bello Caipillán",
+      "author_detail": {
+        "name": "Constanza Bello Caipillán"
+      },
+      "authors": [
+        {
+          "name": "Constanza Bello Caipillán"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "",
+          "value": "<p>Preocupación ha causado entre los seguidores de la serie de History, <em>&#8216;El precio de la historia&#8217;</em>, la salud de <strong>Rick Harrison</strong>, uno de los dueños de la mítica tienda &#8220;Gold &#038; Silver Pawn Shop&#8221; ubicada en Las Vegas, Estados Unidos.</p>\n<p>Esto, ya que hace solo unas horas el portal de espectáculos estadounidense, <a href=\"https://www.tmz.com/2026/09/04/rick-harrison-undergoes-emergency-bypass-surgery/\" rel=\"noopener\" target=\"_blank\">TMZ</a>, reveló que la estrella de televisión de 61 años se tuvo que someter a una <strong>cirugía de emergencia</strong>.</p>\n<p>Tal como detalla el sitio web, Rick acudió a una clínica para una instalación de <em>stent</em>, un procedimiento considerado rutinario dentro de la medicina. </p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/01/07/rick-harrison-se-caso-en-las-vegas-ceremonia-fue-oficiada-por-el-imitador-de-elvis-presley.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/01/07/rick-harrison-se-caso-en-las-vegas-ceremonia-fue-oficiada-por-el-imitador-de-elvis-presley.shtml\">Rick Harrison se casó en Las Vegas: ceremonia fue oficiada por el imitador de Elvis Presley</a>\n\t\t<span style=\"display: none;\">Miércoles 07 Enero, 2026 | 13:20</span>\n\t</div>\n</div>\n<p>Sin embargo, los doctores se percataron de que había problemas mayores en su corazón, por lo que optaron por practicar una cirugía de emergencia para hacerle un <span class=\"destacador\">bypass coronario</span>.</p>\n<p>De acuerdo a sus representantes, la intervención quirúrgica no tuvo inconvenientes, y ahora Rick Harrison está <strong>&#8220;descansando cómodamente y espera recuperarse por completo&#8221;</strong> en el hospital acompañado por su familia y su esposa Angie, con quien de hecho se comprometió en Chile el año pasado.</p>\n<p>Tal como lo describe la <a href=\"https://medlineplus.gov/spanish/coronaryarterybypasssurgery.html\" rel=\"noopener\" target=\"_blank\">Biblioteca Nacional de Medicina </a>de EE.UU, un bypass coronario se realiza en la arteria del mismo nombre con el fin de crear una nueva vía para que la sangre fluya hacia el corazón. </p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/03/13/rick-harrison-le-exige-a-su-hijo-corey-devolver-el-dinero-de-las-donaciones-tras-grave-accidente.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/03/13/rick-harrison-le-exige-a-su-hijo-corey-devolver-el-dinero-de-las-donaciones-tras-grave-accidente.shtml\">Rick Harrison le exige a su hijo Corey devolver el dinero de las donaciones tras grave accidente</a>\n\t\t<span style=\"display: none;\">Viernes 13 Marzo, 2026 | 17:54</span>\n\t</div>\n</div>\n<p>Esta cirugía se suele practicar cuando el paciente tiene una arteria total o parcialmente bloqueada en el corazón.</p>\n<p>De momento, la salud de Rick Harrison sigue siendo de cuidado, lo que ha quedado de manifiesto en su ausencia de las <a href=\"https://www.instagram.com/rick_harrison/\" rel=\"noopener\" target=\"_blank\">redes sociales</a>, donde suele ser bastante activo.</p>\n<p>Con la muerte de su padre, &#8220;El Viejo&#8221; -también Rick Harrison- en 2018, la mítica serie de empeños dio un giro, ya que actualmente los capítulos se centran en transacciones de mayor valor y expertos fuera de la tienda, que, tras el estreno de <em>&#8220;El precio de la historia&#8221;</em> en 2009, se convirtió en todo un atractivo turístico de la zona de Nevada.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/09/04/someten-a-cirugia-de-emergencia-a-rick-harrison-estrella-de-el-precio-de-la-historia.shtml\" rel=\"nofollow\">Someten a cirugía de emergencia a Rick Harrison, estrella de &quot;El precio de la historia&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        }
+      ],
+      "guidislink": false,
+      "id": "https://www.biobiochile.cl/?p=6945325",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/09/04/someten-a-cirugia-de-emergencia-a-rick-harrison-estrella-de-el-precio-de-la-historia.shtml",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/09/04/someten-a-cirugia-de-emergencia-a-rick-harrison-estrella-de-el-precio-de-la-historia.shtml"
+        }
+      ],
+      "published": "Sat, 05 Sep 2026 03:45:05 +0000",
+      "published_parsed": [
+        2026,
+        9,
+        5,
+        3,
+        45,
+        5,
+        5,
+        248,
+        0
+      ],
+      "summary": "<p>Preocupación ha causado entre los seguidores de la serie de History, &#8216;El precio de la historia&#8217;, la salud de Rick Harrison, uno de los dueños de la mítica tienda &#8220;Gold &#038; Silver Pawn Shop&#8221; ubicada en Las Vegas, Estados Unidos. Esto, ya que hace solo unas horas el portal de espectáculos estadounidense, TMZ, reveló que &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/09/04/someten-a-cirugia-de-emergencia-a-rick-harrison-estrella-de-el-precio-de-la-historia.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Someten a cirugía de emergencia a Rick Harrison, estrella de \"El precio de la historia\"\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/09/04/someten-a-cirugia-de-emergencia-a-rick-harrison-estrella-de-el-precio-de-la-historia.shtml\" rel=\"nofollow\">Someten a cirugía de emergencia a Rick Harrison, estrella de &quot;El precio de la historia&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "",
+        "value": "<p>Preocupación ha causado entre los seguidores de la serie de History, &#8216;El precio de la historia&#8217;, la salud de Rick Harrison, uno de los dueños de la mítica tienda &#8220;Gold &#038; Silver Pawn Shop&#8221; ubicada en Las Vegas, Estados Unidos. Esto, ya que hace solo unas horas el portal de espectáculos estadounidense, TMZ, reveló que &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/09/04/someten-a-cirugia-de-emergencia-a-rick-harrison-estrella-de-el-precio-de-la-historia.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Someten a cirugía de emergencia a Rick Harrison, estrella de \"El precio de la historia\"\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/09/04/someten-a-cirugia-de-emergencia-a-rick-harrison-estrella-de-el-precio-de-la-historia.shtml\" rel=\"nofollow\">Someten a cirugía de emergencia a Rick Harrison, estrella de &quot;El precio de la historia&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+      },
+      "tags": [
+        {
+          "term": "Celebridades",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Biblioteca Nacional de Medicina",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "bypass coronario",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "celebridades",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cirugía",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "corazón",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "emergencia",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Espectáculos",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "familia",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Gold & Silver Pawn Shop",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "historia",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Intervención",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "medicina",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Preocupación",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Recuperación",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "redes sociales",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Salud",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "seleccion-tendencias",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Serie",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "televisión",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "title": "Someten a cirugía de emergencia a Rick Harrison, estrella de \"El precio de la historia\"",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "",
+        "value": "Someten a cirugía de emergencia a Rick Harrison, estrella de \"El precio de la historia\""
+      }
+    }
+  }
+]

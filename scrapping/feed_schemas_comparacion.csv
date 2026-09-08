@@ -1,0 +1,23 @@
+clave,descripcion,The Clinic,La Nación,Diario Financiero,BioBioChile
+author,Nombre del autor de la noticia (texto simple).,presente,presente,ausente,presente
+author_detail,"Autor en formato estructurado, ej. {'name': ...}.",presente,presente,ausente,presente
+authors,"Lista de autores estructurados (normalmente un solo elemento, igual a author_detail).",presente,presente,ausente,presente
+content,"Cuerpo completo de la noticia en HTML (texto extenso, con tags <p>, <img>, etc.).",ausente,presente,ausente,presente
+df_fechap,Fecha de publicación en formato YYYYMMDD (campo propio de Diario Financiero).,ausente,ausente,presente,ausente
+df_fechapl,"Fecha de publicación en texto largo, ej. 'Viernes 4 de septiembre de 2026' (campo propio de DF).",ausente,ausente,presente,ausente
+df_fid,Identificador interno de tipo de contenido usado por DF (ej. 'fid_noticia').,ausente,ausente,presente,ausente
+df_foto600,Ruta relativa a una imagen destacada de 600px (campo propio de DF).,ausente,ausente,presente,ausente
+df_horap,Hora de publicación en formato HH:MM (campo propio de DF).,ausente,ausente,presente,ausente
+df_tagnames,Lista de tags/categorías como string separado por comas (campo propio de DF).,ausente,ausente,presente,ausente
+df_ts,Timestamp interno de publicación en formato YYYYMMDDHHMMSS (campo propio de DF).,ausente,ausente,presente,ausente
+guidislink,Booleano: indica si el GUID del item también es una URL válida.,presente,presente,presente,presente
+id,"Identificador único de la noticia (GUID), normalmente una URL.",presente,presente,presente,presente
+link,URL de la noticia.,presente,presente,presente,presente
+links,"Lista de enlaces relacionados a la noticia (alternate, etc.), con rel/type/href.",presente,presente,presente,presente
+published,"Fecha de publicación en formato RFC 822/2822 (texto), ej. 'Sat, 05 Sep 2026 02:55:32 +0000'.",presente,presente,presente,presente
+published_parsed,"Fecha de publicación parseada como struct_time (tupla año, mes, día, hora, min, seg, ...).",presente,presente,presente,presente
+summary,Resumen/extracto de la noticia en HTML (más corto que content).,presente,presente,presente,presente
+summary_detail,"Resumen en formato estructurado: {'type', 'language', 'base', 'value'}.",presente,presente,presente,presente
+tags,"Lista de categorías/etiquetas de la noticia, cada una como {'term', 'scheme', 'label'}.",presente,presente,presente,presente
+title,Título de la noticia (texto plano).,presente,presente,presente,presente
+title_detail,"Título en formato estructurado: {'type', 'language', 'base', 'value'}.",presente,presente,presente,presente

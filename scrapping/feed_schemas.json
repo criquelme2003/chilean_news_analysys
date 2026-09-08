@@ -1,0 +1,457 @@
+[
+  {
+    "medio": "The Clinic",
+    "url": "https://www.theclinic.cl/feed/",
+    "total_entries": 10,
+    "claves": [
+      "author",
+      "author_detail",
+      "authors",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "published",
+      "published_parsed",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail"
+    ],
+    "ejemplo": {
+      "author": "The Clinic",
+      "author_detail": {
+        "name": "The Clinic"
+      },
+      "authors": [
+        {
+          "name": "The Clinic"
+        }
+      ],
+      "guidislink": false,
+      "id": "https://www.theclinic.cl/?p=1795300",
+      "link": "https://www.theclinic.cl/2026/09/08/radiografia-digital-ninos-2026/",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.theclinic.cl/2026/09/08/radiografia-digital-ninos-2026/"
+        }
+      ],
+      "published": "Tue, 08 Sep 2026 18:27:42 +0000",
+      "published_parsed": [
+        2026,
+        9,
+        8,
+        18,
+        27,
+        42,
+        1,
+        251,
+        0
+      ],
+      "summary": "<p>La IX Radiografía Digital de Niños, Niñas y Adolescentes, desarrollada por Claro Chile junto a Criteria Research y con el apoyo de la Subtel, registra la primera baja en el tiempo de ocio digital declarado por menores desde que existe la medición. El impacto de los resultados, así como situaciones como el sharenting, la desinformación o el impacto de la inteligencia artificial, fueron abordados por expertos en la materia.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/08/radiografia-digital-ninos-2026/\">Los niños reducen el uso del celular y casi el 50% de ellos afirma que sus padres se conectan demasiado</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "",
+        "value": "<p>La IX Radiografía Digital de Niños, Niñas y Adolescentes, desarrollada por Claro Chile junto a Criteria Research y con el apoyo de la Subtel, registra la primera baja en el tiempo de ocio digital declarado por menores desde que existe la medición. El impacto de los resultados, así como situaciones como el sharenting, la desinformación o el impacto de la inteligencia artificial, fueron abordados por expertos en la materia.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/08/radiografia-digital-ninos-2026/\">Los niños reducen el uso del celular y casi el 50% de ellos afirma que sus padres se conectan demasiado</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+      },
+      "tags": [
+        {
+          "term": "The Clinic | Lab",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "adolescentes chilenos",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "niños",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "uso del celular",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "uso digital",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "title": "Los niños reducen el uso del celular y casi el 50% de ellos afirma que sus padres se conectan demasiado",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "",
+        "value": "Los niños reducen el uso del celular y casi el 50% de ellos afirma que sus padres se conectan demasiado"
+      }
+    }
+  },
+  {
+    "medio": "La Nación",
+    "url": "https://www.lanacion.cl/feed/",
+    "total_entries": 10,
+    "claves": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "published",
+      "published_parsed",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail"
+    ],
+    "ejemplo": {
+      "author": "Eduardo Córdova",
+      "author_detail": {
+        "name": "Eduardo Córdova"
+      },
+      "authors": [
+        {
+          "name": "Eduardo Córdova"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "",
+          "value": "<p><strong>El presidente Abelardo de la Espriella flexibilizó el porte de armas en Colombia mediante un decreto que pone fin a la suspensión general vigente desde 2015 para quienes cuentan con los respectivos permisos.</strong></p>\n\n\n\n<p>El mandatario defendió la medida a través de un video publicado en sus redes sociales, donde cuestionó las restricciones impuestas durante los últimos años.</p>\n\n\n\n<p><strong>&#8220;Durante años se restringió al ciudadano que cumple la ley mientras los criminales siguieron armándose ilegalmente hasta los dientes. Eso tiene que cambiar&#8221;,</strong> aseguró.</p>\n\n\n\n<p>De la Espriella aclaró que la disposición <strong>no establece un porte indiscriminado de armas</strong>, ya que se mantendrán los controles, requisitos y permisos exigidos por las autoridades.</p>\n\n\n\n<p>Según explicó, cerca de <strong>700.000 personas cuentan con salvoconductos</strong> que les permiten acceder al sistema de permisos.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Decreto pone fin a suspensión del porte de armas</h2>\n\n\n\n<p>Mediante el <strong>decreto 1368, publicado este 8 de septiembre</strong>, el Gobierno mantiene vigente el sistema creado hace más de 30 años.</p>\n\n\n\n<p>La normativa exige que las personas demuestren su <strong>idoneidad física y mental</strong> para obtener un salvoconducto que les permita poseer un arma.</p>\n\n\n\n<p>Además, deberán cumplir con los requisitos establecidos para portarla, es decir, llevarla consigo.</p>\n\n\n\n<p><strong>&#8220;Lo que termina es la suspensión general que convertía la prohibición en regla&#8221;,</strong> afirmó el presidente.</p>\n\n\n\n<p>La suspensión del porte de armas había sido implementada en 2015 por el entonces presidente Juan Manuel Santos.</p>\n\n\n\n<p>En ese momento, diversos estudios advertían que <strong>llevar un arma podía aumentar la disposición a utilizarla</strong>, lo que podría incidir en las cifras de personas heridas y fallecidas por violencia.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Santos, Duque y Petro mantuvieron las restricciones</h2>\n\n\n\n<p>Tras la decisión de Juan Manuel Santos, <strong>sus sucesores Iván Duque y Gustavo Petro mantuvieron la suspensión</strong>, pese a representar sectores políticos distintos.</p>\n\n\n\n<p>La medida buscaba promover el desarme de la población civil y mantener restringido el porte de armas.</p>\n\n\n\n<p>Sin embargo, <strong>Abelardo de la Espriella ha defendido una postura diferente y sostiene que los llamados &#8220;ciudadanos de bien&#8221; deben poder portar armas para enfrentar a los criminales</strong>.</p>\n\n\n\n<p>La posición del mandatario se alinea con argumentos defendidos por sectores republicanos de Estados Unidos, que promueven una mayor presencia de armas en manos de ciudadanos autorizados.</p>\n<p>The post <a href=\"https://www.lanacion.cl/video-de-la-espriella-levanta-suspension-del-porte-de-armas-en-colombia/\" rel=\"nofollow\">VIDEO: De la Espriella levanta suspensión del porte de armas en Colombia</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        }
+      ],
+      "guidislink": false,
+      "id": "https://www.lanacion.cl/?p=414848",
+      "link": "https://www.lanacion.cl/video-de-la-espriella-levanta-suspension-del-porte-de-armas-en-colombia/",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.lanacion.cl/video-de-la-espriella-levanta-suspension-del-porte-de-armas-en-colombia/"
+        }
+      ],
+      "published": "Tue, 08 Sep 2026 17:56:44 +0000",
+      "published_parsed": [
+        2026,
+        9,
+        8,
+        17,
+        56,
+        44,
+        1,
+        251,
+        0
+      ],
+      "summary": "<p>El presidente Abelardo de la Espriella flexibilizó el porte de armas en Colombia mediante un decreto que pone fin a la suspensión general vigente desde 2015 para quienes cuentan con los respectivos permisos. El mandatario defendió la medida a través de un video publicado en sus redes sociales, donde cuestionó las restricciones impuestas durante los [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/video-de-la-espriella-levanta-suspension-del-porte-de-armas-en-colombia/\" rel=\"nofollow\">VIDEO: De la Espriella levanta suspensión del porte de armas en Colombia</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "",
+        "value": "<p>El presidente Abelardo de la Espriella flexibilizó el porte de armas en Colombia mediante un decreto que pone fin a la suspensión general vigente desde 2015 para quienes cuentan con los respectivos permisos. El mandatario defendió la medida a través de un video publicado en sus redes sociales, donde cuestionó las restricciones impuestas durante los [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/video-de-la-espriella-levanta-suspension-del-porte-de-armas-en-colombia/\" rel=\"nofollow\">VIDEO: De la Espriella levanta suspensión del porte de armas en Colombia</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+      },
+      "tags": [
+        {
+          "term": "Actualidad",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Vanguardia",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Abelardo de la Espriella",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "armas",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Colombia",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "decreto 1368",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "porte de armas",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "seguridad",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "title": "VIDEO: De la Espriella levanta suspensión del porte de armas en Colombia",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "",
+        "value": "VIDEO: De la Espriella levanta suspensión del porte de armas en Colombia"
+      }
+    }
+  },
+  {
+    "medio": "Diario Financiero",
+    "url": "https://www.df.cl/noticias/site/list/port/rss.xml",
+    "total_entries": 50,
+    "claves": [
+      "df_fechap",
+      "df_fechapl",
+      "df_fid",
+      "df_foto600",
+      "df_horap",
+      "df_tagnames",
+      "df_ts",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "published",
+      "published_parsed",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail"
+    ],
+    "ejemplo": {
+      "df_fechap": "20260908",
+      "df_fechapl": "Martes 8 de septiembre de 2026",
+      "df_fid": "fid_noticia",
+      "df_foto600": "/noticias/site/artic/20260908/imag/foto_0000000120260908150823/DOBLE_CLICK_1.gif",
+      "df_horap": "15:11",
+      "df_tagnames": "dólar hoy,Doble Click,IPC,Coca-Cola",
+      "df_ts": "20260908150823",
+      "guidislink": false,
+      "id": "http://www.df.cl/noticias/site/artic/20260908/pags/20260908150823.html",
+      "link": "http://www.df.cl/doble-click/lo-que-debes-saber-a-esta-hora-de-la-tarde-8mdgw",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "http://www.df.cl/doble-click/lo-que-debes-saber-a-esta-hora-de-la-tarde-8mdgw"
+        }
+      ],
+      "published": "Tue, 08 Sep 2026 18:13:18 GMT",
+      "published_parsed": [
+        2026,
+        9,
+        8,
+        18,
+        13,
+        18,
+        1,
+        251,
+        0
+      ],
+      "summary": "IPC de agosto sorprende al alza + Coca-Cola destapa millonaria inversión en Chile + Fuerte caída del dólar",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "",
+        "value": "IPC de agosto sorprende al alza + Coca-Cola destapa millonaria inversión en Chile + Fuerte caída del dólar"
+      },
+      "tags": [
+        {
+          "term": "Doble Click",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "title": "Lo que debes saber a esta hora de la tarde",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "",
+        "value": "Lo que debes saber a esta hora de la tarde"
+      }
+    }
+  },
+  {
+    "medio": "BioBioChile",
+    "url": "https://www.biobiochile.cl/static/feed-rss",
+    "total_entries": 20,
+    "claves": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "published",
+      "published_parsed",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail"
+    ],
+    "ejemplo": {
+      "author": "Álvaro Acuña Morales",
+      "author_detail": {
+        "name": "Álvaro Acuña Morales"
+      },
+      "authors": [
+        {
+          "name": "Álvaro Acuña Morales"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "",
+          "value": "<p><strong>Martín Cicotello</strong>, ahora ex director técnico de <strong>Unión La Calera</strong>, renunció al cargo tras la arritmia que sufrió en el partido ante O&#8217;Higgins en Rancagua.</p>\n<p>Según informó el periodista Ricardo Maturana de El Observador, el estratega cedió el cargo a ocho fechas del término de la Liga de Primera debido a sus problemas de salud. </p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/07/union-la-calera-revelo-diagnostico-del-dt-martin-cicotello-se-descompenso-tras-traspie-ante-ohiggins.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/07/union-la-calera-revelo-diagnostico-del-dt-martin-cicotello-se-descompenso-tras-traspie-ante-ohiggins.shtml\">Unión La Calera reveló diagnóstico del DT Martín Cicotello: se descompensó tras traspié ante O’Higgins</a>\n\t\t<span style=\"display: none;\">Lunes 07 Septiembre, 2026 | 08:34</span>\n\t</div>\n</div>\n<p><strong>El cuadro calerano se encuentra a un pie del descenso con 14 puntos en 22 fechas disputadas</strong> y la baja de su entrenador los pone en una situación crítica de cara a la última fase del torneo. Cicotello completó 12 partidos consecutivos sin ganar en Primera División, lo que condujo a su renuncia.</p>\n<p>Desde su arribo a inicios de temporada, <span class=\"destacador\">el director técnico argentino, ex Montevideo City Torque e Independiente de Rivadavia, registró 21.2 % de rendimiento</span> con 3 victorias, 5 empates y 14 derrotas en la Liga de Primera.</p>\n<p>Además, en el último entrenamiento los cementeros contaron con el sucesor de Cicotello que trabajará en búsqueda de la salvación. Se trata de <strong>Carlos Galdames</strong>, director técnico interino que asume nuevamente en el equipo y que hará su debut en el encuentro ante Deportes Limache el próximo lunes 14 de septiembre.</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\"><img alt=\"🚨\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f6a8.png\" style=\"height: 1em;\" /> CONFIRMADO. Martín Cicotello no sigue en Unión La Calera. Hoy se despidió del plantel en Mantagua. El DT argentino cerró su ciclo en los rojos, último en la tabla, con un 21,2% de rendimiento en 22 fechas. <a href=\"https://x.com/EfectoCementero?ref_src=twsrc%5Etfw\">@EfectoCementero</a> <a href=\"https://x.com/radiolacalera?ref_src=twsrc%5Etfw\">@radiolacalera</a> <a href=\"https://x.com/eo_enlinea?ref_src=twsrc%5Etfw\">@eo_enlinea</a> <a href=\"https://t.co/xH9jEyhQx2\">pic.twitter.com/xH9jEyhQx2</a></p>\n<p>&mdash; Ricardo Maturana (@ricardosinnick) <a href=\"https://x.com/ricardosinnick/status/2097318538696388804?ref_src=twsrc%5Etfw\">September 8, 2026</a></p></blockquote>\n<p> </p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml\" rel=\"nofollow\">Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        }
+      ],
+      "guidislink": false,
+      "id": "https://www.biobiochile.cl/?p=6947849",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml",
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml"
+        }
+      ],
+      "published": "Tue, 08 Sep 2026 18:29:48 +0000",
+      "published_parsed": [
+        2026,
+        9,
+        8,
+        18,
+        29,
+        48,
+        1,
+        251,
+        0
+      ],
+      "summary": "<p>Martín Cicotello, ahora ex director técnico de Unión La Calera, renunció al cargo tras la arritmia que sufrió en el partido ante O&#8217;Higgins en Rancagua. Según informó el periodista Ricardo Maturana de El Observador, el estratega cedió el cargo a ocho fechas del término de la Liga de Primera debido a sus problemas de salud. &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml\" rel=\"nofollow\">Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "",
+        "value": "<p>Martín Cicotello, ahora ex director técnico de Unión La Calera, renunció al cargo tras la arritmia que sufrió en el partido ante O&#8217;Higgins en Rancagua. Según informó el periodista Ricardo Maturana de El Observador, el estratega cedió el cargo a ocho fechas del término de la Liga de Primera debido a sus problemas de salud. &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml\" rel=\"nofollow\">Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+      },
+      "tags": [
+        {
+          "term": "Futbol Nacional",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Arritmia",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Carlos Galdames",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Crisis",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cuadro calerano",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Deportes Limache",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Descenso",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "director técnico interino",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "estratega",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Liga de Primera",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Martín Cicotello",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Montevideo City Torque",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "O'Higgins",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "problemas de salud",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "rendimiento",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Renuncia",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Unión La Calera",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "title": "Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "",
+        "value": "Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel"
+      }
+    }
+  }
+]
