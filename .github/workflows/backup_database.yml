@@ -12,4 +12,4 @@ jobs:
       - name: Checkout repo code
         uses:  actions/checkout@v4
       - name: Create a copy of database
-        run: mkdir -p backups & cp DB/noticias.db "backups/$(date +%F)noticias.db"
+        run: mkdir -p backups && cp DB/noticias.db "backups/$(date +%F)noticias.db"
