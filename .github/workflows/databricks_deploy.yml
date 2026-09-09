@@ -18,10 +18,20 @@ jobs:
       - name: Set up Databricks CLI
         uses: databricks/setup-cli@main
 
+
+      - name: Validate Databricks Session
+        run: |
+          databricks auth describe
+        env:
+          DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+          DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+          DATABRICKS_AUTH_TYPE: "pat"
+    
       - name: Validate Bundle
         env: 
           DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
           DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+          DATABRICKS_AUTH_TYPE: "pat"
         run: databricks bundle validate
 
       - name: Deploy bundle
