@@ -1,0 +1,20 @@
+name: create proyect caltalog
+on:
+  workflow_dispatch
+
+jobs:
+  create-catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo 
+        uses: actions/checkout@v4
+      
+      - name: Setup Databricks CLI
+        uses: databricks/setup-cli@v1
+
+      - name: Create Unity Catalog
+        env:
+          DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+          DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+        run: |
+          echo "XD"
