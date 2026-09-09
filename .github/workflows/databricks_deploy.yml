@@ -3,10 +3,10 @@ name: Deploy Databricks Bundle
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
@@ -25,7 +25,7 @@ jobs:
         run: dataricks bundle validate
 
       - name: Deploy bundle
-        if: github.event_name == 'push' && github.ref == 'ref/head/main'
+        if: github.event_name == 'push' && github.ref == 'ref/head/master'
         env:
           DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
           DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
