@@ -22,7 +22,7 @@ jobs:
         env: 
           DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
           DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
-        run: dataricks bundle validate
+        run: databricks bundle validate
 
       - name: Deploy bundle
         if: github.event_name == 'push' && github.ref == 'ref/head/master'
