@@ -30,33 +30,33 @@
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1795300",
-      "link": "https://www.theclinic.cl/2026/09/08/radiografia-digital-ninos-2026/",
+      "id": "https://www.theclinic.cl/?p=1797771",
+      "link": "https://www.theclinic.cl/2026/09/15/catedrales-directv-amazon-prime-novela/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/09/08/radiografia-digital-ninos-2026/"
+          "href": "https://www.theclinic.cl/2026/09/15/catedrales-directv-amazon-prime-novela/"
         }
       ],
-      "published": "Tue, 08 Sep 2026 18:27:42 +0000",
+      "published": "Tue, 15 Sep 2026 18:02:26 +0000",
       "published_parsed": [
         2026,
         9,
-        8,
+        15,
         18,
-        27,
-        42,
+        2,
+        26,
         1,
-        251,
+        258,
         0
       ],
-      "summary": "<p>La IX Radiografía Digital de Niños, Niñas y Adolescentes, desarrollada por Claro Chile junto a Criteria Research y con el apoyo de la Subtel, registra la primera baja en el tiempo de ocio digital declarado por menores desde que existe la medición. El impacto de los resultados, así como situaciones como el sharenting, la desinformación o el impacto de la inteligencia artificial, fueron abordados por expertos en la materia.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/08/radiografia-digital-ninos-2026/\">Los niños reducen el uso del celular y casi el 50% de ellos afirma que sus padres se conectan demasiado</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>Luego del éxito de La Casa de los Espíritus, el 16 de septiembre llega el estreno de otra serie original, inspirada en la literatura latinoamericana. Se trata de “Catedrales”, un thriller dramático de producción chilena y basado en la novela homónima de la reconocida escritora argentina. Cuándo y dónde verla. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/15/catedrales-directv-amazon-prime-novela/\">La adaptación de la novela “Catedrales” de Claudia Piñeiro llega al streaming: cómo y dónde verla  </a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La IX Radiografía Digital de Niños, Niñas y Adolescentes, desarrollada por Claro Chile junto a Criteria Research y con el apoyo de la Subtel, registra la primera baja en el tiempo de ocio digital declarado por menores desde que existe la medición. El impacto de los resultados, así como situaciones como el sharenting, la desinformación o el impacto de la inteligencia artificial, fueron abordados por expertos en la materia.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/08/radiografia-digital-ninos-2026/\">Los niños reducen el uso del celular y casi el 50% de ellos afirma que sus padres se conectan demasiado</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>Luego del éxito de La Casa de los Espíritus, el 16 de septiembre llega el estreno de otra serie original, inspirada en la literatura latinoamericana. Se trata de “Catedrales”, un thriller dramático de producción chilena y basado en la novela homónima de la reconocida escritora argentina. Cuándo y dónde verla. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/15/catedrales-directv-amazon-prime-novela/\">La adaptación de la novela “Catedrales” de Claudia Piñeiro llega al streaming: cómo y dónde verla  </a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
@@ -65,32 +65,42 @@
           "label": null
         },
         {
-          "term": "adolescentes chilenos",
+          "term": "Amazon Prime",
           "scheme": null,
           "label": null
         },
         {
-          "term": "niños",
+          "term": "Catedrales",
           "scheme": null,
           "label": null
         },
         {
-          "term": "uso del celular",
+          "term": "Claudia Piñeiro",
           "scheme": null,
           "label": null
         },
         {
-          "term": "uso digital",
+          "term": "claudia piñero",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "DirecTV",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Thriller",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Los niños reducen el uso del celular y casi el 50% de ellos afirma que sus padres se conectan demasiado",
+      "title": "La adaptación de la novela “Catedrales” de Claudia Piñeiro llega al streaming: cómo y dónde verla",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Los niños reducen el uso del celular y casi el 50% de ellos afirma que sus padres se conectan demasiado"
+        "value": "La adaptación de la novela “Catedrales” de Claudia Piñeiro llega al streaming: cómo y dónde verla"
       }
     }
   },
@@ -116,13 +126,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Eduardo Córdova",
+      "author": "Autor",
       "author_detail": {
-        "name": "Eduardo Córdova"
+        "name": "Autor"
       },
       "authors": [
         {
-          "name": "Eduardo Córdova"
+          "name": "Autor"
         }
       ],
       "content": [
@@ -130,37 +140,37 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p><strong>El presidente Abelardo de la Espriella flexibilizó el porte de armas en Colombia mediante un decreto que pone fin a la suspensión general vigente desde 2015 para quienes cuentan con los respectivos permisos.</strong></p>\n\n\n\n<p>El mandatario defendió la medida a través de un video publicado en sus redes sociales, donde cuestionó las restricciones impuestas durante los últimos años.</p>\n\n\n\n<p><strong>&#8220;Durante años se restringió al ciudadano que cumple la ley mientras los criminales siguieron armándose ilegalmente hasta los dientes. Eso tiene que cambiar&#8221;,</strong> aseguró.</p>\n\n\n\n<p>De la Espriella aclaró que la disposición <strong>no establece un porte indiscriminado de armas</strong>, ya que se mantendrán los controles, requisitos y permisos exigidos por las autoridades.</p>\n\n\n\n<p>Según explicó, cerca de <strong>700.000 personas cuentan con salvoconductos</strong> que les permiten acceder al sistema de permisos.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Decreto pone fin a suspensión del porte de armas</h2>\n\n\n\n<p>Mediante el <strong>decreto 1368, publicado este 8 de septiembre</strong>, el Gobierno mantiene vigente el sistema creado hace más de 30 años.</p>\n\n\n\n<p>La normativa exige que las personas demuestren su <strong>idoneidad física y mental</strong> para obtener un salvoconducto que les permita poseer un arma.</p>\n\n\n\n<p>Además, deberán cumplir con los requisitos establecidos para portarla, es decir, llevarla consigo.</p>\n\n\n\n<p><strong>&#8220;Lo que termina es la suspensión general que convertía la prohibición en regla&#8221;,</strong> afirmó el presidente.</p>\n\n\n\n<p>La suspensión del porte de armas había sido implementada en 2015 por el entonces presidente Juan Manuel Santos.</p>\n\n\n\n<p>En ese momento, diversos estudios advertían que <strong>llevar un arma podía aumentar la disposición a utilizarla</strong>, lo que podría incidir en las cifras de personas heridas y fallecidas por violencia.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Santos, Duque y Petro mantuvieron las restricciones</h2>\n\n\n\n<p>Tras la decisión de Juan Manuel Santos, <strong>sus sucesores Iván Duque y Gustavo Petro mantuvieron la suspensión</strong>, pese a representar sectores políticos distintos.</p>\n\n\n\n<p>La medida buscaba promover el desarme de la población civil y mantener restringido el porte de armas.</p>\n\n\n\n<p>Sin embargo, <strong>Abelardo de la Espriella ha defendido una postura diferente y sostiene que los llamados &#8220;ciudadanos de bien&#8221; deben poder portar armas para enfrentar a los criminales</strong>.</p>\n\n\n\n<p>La posición del mandatario se alinea con argumentos defendidos por sectores republicanos de Estados Unidos, que promueven una mayor presencia de armas en manos de ciudadanos autorizados.</p>\n<p>The post <a href=\"https://www.lanacion.cl/video-de-la-espriella-levanta-suspension-del-porte-de-armas-en-colombia/\" rel=\"nofollow\">VIDEO: De la Espriella levanta suspensión del porte de armas en Colombia</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p>Elegir un regalo floral no debería significar renunciar a la frescura ni arriesgarte a que llegue tarde. Cuando el despacho se gestiona desde un punto central, el arreglo debe recorrer una mayor distancia antes de llegar a destino, lo que puede influir en el estado de las flores al momento de recibirlo. <a href=\"https://www.redfloral.cl\">Red Floral</a> resuelve esto conectando tu pedido con talleres de floristas de la misma comuna, para que las flores se preparen y entreguen el mismo día, reduciendo traslados e intermediarios.</p>\n\n\n\n<p>¿Qué cambia realmente para ti como comprador? Ganas tiempo, evitas sorpresas desagradables y puedes elegir entre catálogos con stock real, en lugar de un listado genérico.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a>Flores para cada ocasión especial</a></h2>\n\n\n\n<p>Un buen regalo floral se adapta al mensaje que quieres transmitir, no al revés. Por eso conviene tener varias opciones a mano según el momento que estés celebrando:</p>\n\n\n\n<ul>\n<li><strong>Aniversarios y cumpleaños</strong>: ramos de rosas, liliums y girasoles que pueden combinarse con globos o chocolates para sumar un detalle extra.</li>\n\n\n\n<li><strong>Condolencias</strong>: coronas y pedestales confeccionados con flores frescas, pensados para acompañar con respeto en un momento difícil.</li>\n\n\n\n<li><strong>Nacimientos</strong>: canastas y floreros con peluches o tarjetas personalizadas.</li>\n\n\n\n<li><strong>Detalles corporativos</strong>: centros de mesa y bouquets de temporada, ideales para felicitar a colegas o decorar un espacio de trabajo.</li>\n\n\n\n<li><strong>Fechas conmemorativas</strong>: arreglos pensados para el Día de la Madre, el Día de los Enamorados o graduaciones, con opciones que van de lo clásico a lo más llamativo.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\"><a>Por qué elegir una red de florerías locales</a></h2>\n\n\n\n<p>Cuando compras a través de florerías que operan cerca del destino final, el trayecto de las flores se reduce casi a cero. Eso significa tallos mejor hidratados y arreglos que conservan su forma original hasta que llegan a destino.</p>\n\n\n\n<p>Además, cada compra fortalece el trabajo de floristas independientes en lugar de concentrar las ganancias en un único distribuidor centralizado. Es una forma sencilla de apoyar oficios locales sin sacrificar variedad ni comodidad al momento de comprar online, y a la vez impulsa economías de barrio que muchas veces quedan fuera del radar de las grandes cadenas.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a>Entrega rápida y cobertura en todo el país</a></h2>\n\n\n\n<p>La logística de proximidad simplifica cada etapa del proceso, desde la preparación hasta el despacho final. Estos son los puntos que marcan la diferencia frente a un envío tradicional:</p>\n\n\n\n<ul>\n<li><strong>Despacho el mismo día</strong>: según la disponibilidad, los pedidos confirmados dentro del horario habilitado se preparan y entregan en cuestión de horas.</li>\n\n\n\n<li><strong>Cobertura amplia</strong>: presencia activa en varias comunas del país, de norte a sur.</li>\n\n\n\n<li><strong>Confirmación y seguimiento</strong>: el taller asignado valida la preparación y coordina la entrega para que sigas el estado de tu pedido. Al momento de la entrega de las flores, recibes una fotografía por WhatsApp.</li>\n\n\n\n<li><strong>Pagos protegidos:</strong> distintos métodos de pago disponibles para completar la compra con tranquilidad.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\"><a>Red Floral: flores que llegan en el momento justo</a></h2>\n\n\n\n<p>Planificar el envío de flores se vuelve simple cuando eliges la comuna de entrega, seleccionas el arreglo que mejor representa tu mensaje y sumas los detalles que quieras personalizar antes de confirmar la compra. Al reunir a <a href=\"https://www.redfloral.cl\">florerias</a> de distintas ciudades bajo una misma propuesta, Red Floral entrega frescura y puntualidad, sin importar la comuna desde la que estés.</p>\n<p>The post <a href=\"https://www.lanacion.cl/red-floral-el-marketplace-de-flores-para-cada-ocasion/\" rel=\"nofollow\">Red Floral: el marketplace de flores para cada ocasión</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=414848",
-      "link": "https://www.lanacion.cl/video-de-la-espriella-levanta-suspension-del-porte-de-armas-en-colombia/",
+      "id": "https://www.lanacion.cl/?p=415501",
+      "link": "https://www.lanacion.cl/red-floral-el-marketplace-de-flores-para-cada-ocasion/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/video-de-la-espriella-levanta-suspension-del-porte-de-armas-en-colombia/"
+          "href": "https://www.lanacion.cl/red-floral-el-marketplace-de-flores-para-cada-ocasion/"
         }
       ],
-      "published": "Tue, 08 Sep 2026 17:56:44 +0000",
+      "published": "Tue, 15 Sep 2026 18:33:25 +0000",
       "published_parsed": [
         2026,
         9,
-        8,
-        17,
-        56,
-        44,
+        15,
+        18,
+        33,
+        25,
         1,
-        251,
+        258,
         0
       ],
-      "summary": "<p>El presidente Abelardo de la Espriella flexibilizó el porte de armas en Colombia mediante un decreto que pone fin a la suspensión general vigente desde 2015 para quienes cuentan con los respectivos permisos. El mandatario defendió la medida a través de un video publicado en sus redes sociales, donde cuestionó las restricciones impuestas durante los [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/video-de-la-espriella-levanta-suspension-del-porte-de-armas-en-colombia/\" rel=\"nofollow\">VIDEO: De la Espriella levanta suspensión del porte de armas en Colombia</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>Elegir un regalo floral no debería significar renunciar a la frescura ni arriesgarte a que llegue tarde. Cuando el despacho se gestiona desde un punto central, el arreglo debe recorrer una mayor distancia antes de llegar a destino, lo que puede influir en el estado de las flores al momento de recibirlo. Red Floral resuelve [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/red-floral-el-marketplace-de-flores-para-cada-ocasion/\" rel=\"nofollow\">Red Floral: el marketplace de flores para cada ocasión</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El presidente Abelardo de la Espriella flexibilizó el porte de armas en Colombia mediante un decreto que pone fin a la suspensión general vigente desde 2015 para quienes cuentan con los respectivos permisos. El mandatario defendió la medida a través de un video publicado en sus redes sociales, donde cuestionó las restricciones impuestas durante los [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/video-de-la-espriella-levanta-suspension-del-porte-de-armas-en-colombia/\" rel=\"nofollow\">VIDEO: De la Espriella levanta suspensión del porte de armas en Colombia</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>Elegir un regalo floral no debería significar renunciar a la frescura ni arriesgarte a que llegue tarde. Cuando el despacho se gestiona desde un punto central, el arreglo debe recorrer una mayor distancia antes de llegar a destino, lo que puede influir en el estado de las flores al momento de recibirlo. Red Floral resuelve [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/red-floral-el-marketplace-de-flores-para-cada-ocasion/\" rel=\"nofollow\">Red Floral: el marketplace de flores para cada ocasión</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
@@ -169,47 +179,42 @@
           "label": null
         },
         {
-          "term": "Vanguardia",
+          "term": "Tendencia",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Abelardo de la Espriella",
+          "term": "florerías",
           "scheme": null,
           "label": null
         },
         {
-          "term": "armas",
+          "term": "Marketplace",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Colombia",
+          "term": "ocasión",
           "scheme": null,
           "label": null
         },
         {
-          "term": "decreto 1368",
+          "term": "red floral",
           "scheme": null,
           "label": null
         },
         {
-          "term": "porte de armas",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "seguridad",
+          "term": "regalo",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "VIDEO: De la Espriella levanta suspensión del porte de armas en Colombia",
+      "title": "Red Floral: el marketplace de flores para cada ocasión",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "VIDEO: De la Espriella levanta suspensión del porte de armas en Colombia"
+        "value": "Red Floral: el marketplace de flores para cada ocasión"
       }
     }
   },
@@ -238,55 +243,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20260908",
-      "df_fechapl": "Martes 8 de septiembre de 2026",
+      "df_fechap": "20260915",
+      "df_fechapl": "Martes 15 de septiembre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20260908/imag/foto_0000000120260908150823/DOBLE_CLICK_1.gif",
-      "df_horap": "15:11",
-      "df_tagnames": "dólar hoy,Doble Click,IPC,Coca-Cola",
-      "df_ts": "20260908150823",
+      "df_foto600": "/noticias/site/artic/20260915/imag/foto_0000000120260915133144/foto_0000000220241007204228.jpg",
+      "df_horap": "15:27",
+      "df_tagnames": "<![CDATA[agencias calificadoras,crecimiento,gasto fiscal,presupuesto,S&P,Amanda Santillán]]>",
+      "df_ts": "20260915133144",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20260908/pags/20260908150823.html",
-      "link": "http://www.df.cl/doble-click/lo-que-debes-saber-a-esta-hora-de-la-tarde-8mdgw",
+      "id": "http://www.df.cl/noticias/site/artic/20260915/pags/20260915133144.html",
+      "link": "http://www.df.cl/economia-y-politica/macro/s-p-se-alinea-con-el-banco-central-las-condiciones-estan-para-que-chile",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/doble-click/lo-que-debes-saber-a-esta-hora-de-la-tarde-8mdgw"
+          "href": "http://www.df.cl/economia-y-politica/macro/s-p-se-alinea-con-el-banco-central-las-condiciones-estan-para-que-chile"
         }
       ],
-      "published": "Tue, 08 Sep 2026 18:13:18 GMT",
+      "published": "Tue, 15 Sep 2026 18:29:58 GMT",
       "published_parsed": [
         2026,
         9,
-        8,
+        15,
         18,
-        13,
-        18,
+        29,
+        58,
         1,
-        251,
+        258,
         0
       ],
-      "summary": "IPC de agosto sorprende al alza + Coca-Cola destapa millonaria inversión en Chile + Fuerte caída del dólar",
+      "summary": "La directora de Calificaciones Soberanas y Finanzas Públicas de S&amp;P, Constanza Pérez Aquino, pone fichas en la inversión para el próximo año y en la gestión de permisos para proyectos.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "IPC de agosto sorprende al alza + Coca-Cola destapa millonaria inversión en Chile + Fuerte caída del dólar"
+        "value": "La directora de Calificaciones Soberanas y Finanzas Públicas de S&amp;P, Constanza Pérez Aquino, pone fichas en la inversión para el próximo año y en la gestión de permisos para proyectos."
       },
       "tags": [
         {
-          "term": "Doble Click",
+          "term": "Economía y Política",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Lo que debes saber a esta hora de la tarde",
+      "title": "S&P se alinea con el Banco Central: \"Las condiciones están\" para que Chile tenga un mejor 2027 y 2028",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Lo que debes saber a esta hora de la tarde"
+        "value": "S&P se alinea con el Banco Central: \"Las condiciones están\" para que Chile tenga un mejor 2027 y 2028"
       }
     }
   },
@@ -326,131 +331,131 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p><strong>Martín Cicotello</strong>, ahora ex director técnico de <strong>Unión La Calera</strong>, renunció al cargo tras la arritmia que sufrió en el partido ante O&#8217;Higgins en Rancagua.</p>\n<p>Según informó el periodista Ricardo Maturana de El Observador, el estratega cedió el cargo a ocho fechas del término de la Liga de Primera debido a sus problemas de salud. </p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/07/union-la-calera-revelo-diagnostico-del-dt-martin-cicotello-se-descompenso-tras-traspie-ante-ohiggins.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/07/union-la-calera-revelo-diagnostico-del-dt-martin-cicotello-se-descompenso-tras-traspie-ante-ohiggins.shtml\">Unión La Calera reveló diagnóstico del DT Martín Cicotello: se descompensó tras traspié ante O’Higgins</a>\n\t\t<span style=\"display: none;\">Lunes 07 Septiembre, 2026 | 08:34</span>\n\t</div>\n</div>\n<p><strong>El cuadro calerano se encuentra a un pie del descenso con 14 puntos en 22 fechas disputadas</strong> y la baja de su entrenador los pone en una situación crítica de cara a la última fase del torneo. Cicotello completó 12 partidos consecutivos sin ganar en Primera División, lo que condujo a su renuncia.</p>\n<p>Desde su arribo a inicios de temporada, <span class=\"destacador\">el director técnico argentino, ex Montevideo City Torque e Independiente de Rivadavia, registró 21.2 % de rendimiento</span> con 3 victorias, 5 empates y 14 derrotas en la Liga de Primera.</p>\n<p>Además, en el último entrenamiento los cementeros contaron con el sucesor de Cicotello que trabajará en búsqueda de la salvación. Se trata de <strong>Carlos Galdames</strong>, director técnico interino que asume nuevamente en el equipo y que hará su debut en el encuentro ante Deportes Limache el próximo lunes 14 de septiembre.</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\"><img alt=\"🚨\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f6a8.png\" style=\"height: 1em;\" /> CONFIRMADO. Martín Cicotello no sigue en Unión La Calera. Hoy se despidió del plantel en Mantagua. El DT argentino cerró su ciclo en los rojos, último en la tabla, con un 21,2% de rendimiento en 22 fechas. <a href=\"https://x.com/EfectoCementero?ref_src=twsrc%5Etfw\">@EfectoCementero</a> <a href=\"https://x.com/radiolacalera?ref_src=twsrc%5Etfw\">@radiolacalera</a> <a href=\"https://x.com/eo_enlinea?ref_src=twsrc%5Etfw\">@eo_enlinea</a> <a href=\"https://t.co/xH9jEyhQx2\">pic.twitter.com/xH9jEyhQx2</a></p>\n<p>&mdash; Ricardo Maturana (@ricardosinnick) <a href=\"https://x.com/ricardosinnick/status/2097318538696388804?ref_src=twsrc%5Etfw\">September 8, 2026</a></p></blockquote>\n<p> </p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml\" rel=\"nofollow\">Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>El volante ofensivo, <strong>James Rodríguez</strong>, anunció este martes su retiro de la selección colombiana tras ser parte del combinado por casi quince años desde su debut en 2011.</p>\n<p>En su paso por la selección cafetera, <strong>Rodríguez se convirtió en el jugador que más veces vistió la camiseta tricolor con 131 apariciones</strong>. Además, es el segundo máximo goleador de la historia con 31 goles, solo por detrás de Radamel Falcao García (36).</p>\n<p>Hace unos días, <span class=\"destacador\">el jugador arribó a Atlético Nacional</span> como uno de los flamantes refuerzos de cara al torneo Finalización de la Liga DIMAYOR.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/pupilo-marroqui-de-pellegrini-desata-escandalo-por-mensaje-de-apoyo-a-ceuta-acabo-cerrando-redes.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/pupilo-marroqui-de-pellegrini-desata-escandalo-por-mensaje-de-apoyo-a-ceuta-acabo-cerrando-redes.shtml\">Pupilo marroquí de Pellegrini desata escándalo por mensaje de apoyo a Ceuta: acabó cerrando redes</a>\n\t\t<span style=\"display: none;\">Martes 15 Septiembre, 2026 | 12:22</span>\n\t</div>\n</div>\n<p>James Rodríguez, hoy con 35 años, fue el máximo anotador de la selección colombiana en el Mundial de Brasil 2014 con 6 tantos. Su sólida actuación en ese torneo le permitió fichar por el Real Madrid desde el AS Monaco por un monto cercano a los 75 millones de euros, en su momento la venta más cara de un jugador colombiano.</p>\n<p>En su paso por el combinado nacional, Rodríguez jugó en tres mundiales (2014, 2018 y 2026) y en cuatro ediciones de la Copa América (2015, 2016, 2019 y 2024).</p>\n<p><strong>A través de un video en sus redes sociales, el mediocampista escribió una dedicatoria para los fanáticos de su país</strong>.</p>\n<p>&#8220;Llegó el momento. Gracias por cada partido, cada alegría, cada lágrima y cada sueño compartido. Defender los colores de la selección Colombia fue uno de los mayores honores de mi vida. Gracias, Colombia. Para siempre&#8221;.</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">Llegó el momento. <img alt=\"🇨🇴\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f1e8-1f1f4.png\" style=\"height: 1em;\" /></p>\n<p>Gracias por cada partido, cada alegría, cada lágrima y cada sueño compartido.</p>\n<p>Defender los colores de la selección Colombia fue uno de los mayores honores de mi vida.</p>\n<p>Gracias, Colombia. Para siempre. <img alt=\"💛\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f49b.png\" style=\"height: 1em;\" /><img alt=\"💙\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f499.png\" style=\"height: 1em;\" /><img alt=\"❤\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/2764.png\" style=\"height: 1em;\" /> <a href=\"https://t.co/AlRxMgtFeI\">pic.twitter.com/AlRxMgtFeI</a></p>\n<p>&mdash; James Rodríguez (@jamesdrodriguez) <a href=\"https://x.com/jamesdrodriguez/status/2099913637318033729?ref_src=twsrc%5Etfw\">September 15, 2026</a></p></blockquote>\n<p> </p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml\" rel=\"nofollow\">James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6947849",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml",
+      "id": "https://www.biobiochile.cl/?p=6955284",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml"
+          "href": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml"
         }
       ],
-      "published": "Tue, 08 Sep 2026 18:29:48 +0000",
+      "published": "Tue, 15 Sep 2026 18:29:00 +0000",
       "published_parsed": [
         2026,
         9,
-        8,
+        15,
         18,
         29,
-        48,
+        0,
         1,
-        251,
+        258,
         0
       ],
-      "summary": "<p>Martín Cicotello, ahora ex director técnico de Unión La Calera, renunció al cargo tras la arritmia que sufrió en el partido ante O&#8217;Higgins en Rancagua. Según informó el periodista Ricardo Maturana de El Observador, el estratega cedió el cargo a ocho fechas del término de la Liga de Primera debido a sus problemas de salud. &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml\" rel=\"nofollow\">Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>El volante ofensivo, James Rodríguez, anunció este martes su retiro de la selección colombiana tras ser parte del combinado por casi quince años desde su debut en 2011. En su paso por la selección cafetera, Rodríguez se convirtió en el jugador que más veces vistió la camiseta tricolor con 131 apariciones. Además, es el segundo &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml\" rel=\"nofollow\">James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Martín Cicotello, ahora ex director técnico de Unión La Calera, renunció al cargo tras la arritmia que sufrió en el partido ante O&#8217;Higgins en Rancagua. Según informó el periodista Ricardo Maturana de El Observador, el estratega cedió el cargo a ocho fechas del término de la Liga de Primera debido a sus problemas de salud. &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/08/martin-cicotello-dejo-union-la-calera-dt-se-descompenso-en-ultimo-partido-y-ya-se-despidio-de-plantel.shtml\" rel=\"nofollow\">Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>El volante ofensivo, James Rodríguez, anunció este martes su retiro de la selección colombiana tras ser parte del combinado por casi quince años desde su debut en 2011. En su paso por la selección cafetera, Rodríguez se convirtió en el jugador que más veces vistió la camiseta tricolor con 131 apariciones. Además, es el segundo &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml\" rel=\"nofollow\">James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Futbol Nacional",
+          "term": "Notas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Arritmia",
+          "term": "Agradecimiento",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Carlos Galdames",
+          "term": "Atletico Nacional",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Crisis",
+          "term": "camiseta tricolor",
           "scheme": null,
           "label": null
         },
         {
-          "term": "cuadro calerano",
+          "term": "fanáticos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Deportes Limache",
+          "term": "James Rodríguez",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Descenso",
+          "term": "jugador",
           "scheme": null,
           "label": null
         },
         {
-          "term": "director técnico interino",
+          "term": "Liga Dimayor",
           "scheme": null,
           "label": null
         },
         {
-          "term": "estratega",
+          "term": "Máximo Goleador",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Liga de Primera",
+          "term": "Mundial de Brasil 2014",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Martín Cicotello",
+          "term": "Radamel Falcao García",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Montevideo City Torque",
+          "term": "Real Madrid",
           "scheme": null,
           "label": null
         },
         {
-          "term": "O'Higgins",
+          "term": "redes sociales",
           "scheme": null,
           "label": null
         },
         {
-          "term": "problemas de salud",
+          "term": "retiro",
           "scheme": null,
           "label": null
         },
         {
-          "term": "rendimiento",
+          "term": "Selección Colombiana",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Renuncia",
+          "term": "torneo finalización",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Unión La Calera",
+          "term": "volante ofensivo",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel",
+      "title": "James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Martín Cicotello dejó Unión La Calera: DT se descompensó en último partido y ya se despidió de plantel"
+        "value": "James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años"
       }
     }
   }
