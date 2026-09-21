@@ -22,11 +22,11 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .shared import FEEDS, Feed, fetch_feed
+from .shared import FEEDS, Feed, fetch_feed, DB_PATH
 
 DEFAULT_OUTPUT_JSON = Path(__file__).parent / "feed_schemas.json"
 DEFAULT_OUTPUT_CSV = Path(__file__).parent / "feed_schemas_comparacion.csv"
-DB_PATH = Path(__file__).resolve().parent.parent / "noticias.db"
+
 
 TABLA_RAW = "noticias_raw"
 

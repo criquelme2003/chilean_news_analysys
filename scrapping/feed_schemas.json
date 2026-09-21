@@ -20,87 +20,82 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "The Clinic",
+      "author": "Catalina Riquelme",
       "author_detail": {
-        "name": "The Clinic"
+        "name": "Catalina Riquelme"
       },
       "authors": [
         {
-          "name": "The Clinic"
+          "name": "Catalina Riquelme"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1797771",
-      "link": "https://www.theclinic.cl/2026/09/15/catedrales-directv-amazon-prime-novela/",
+      "id": "https://www.theclinic.cl/?p=1799231",
+      "link": "https://www.theclinic.cl/2026/09/21/de-las-farmacias-a-las-cafeterias-dr-simi-registra-cafe-simi-en-chile-y-estos-son-sus-precios-en-mexico-donde-ya-cuenta-con-tres-locales/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/09/15/catedrales-directv-amazon-prime-novela/"
+          "href": "https://www.theclinic.cl/2026/09/21/de-las-farmacias-a-las-cafeterias-dr-simi-registra-cafe-simi-en-chile-y-estos-son-sus-precios-en-mexico-donde-ya-cuenta-con-tres-locales/"
         }
       ],
-      "published": "Tue, 15 Sep 2026 18:02:26 +0000",
+      "published": "Mon, 21 Sep 2026 17:15:51 +0000",
       "published_parsed": [
         2026,
         9,
+        21,
+        17,
         15,
-        18,
-        2,
-        26,
-        1,
-        258,
+        51,
+        0,
+        264,
         0
       ],
-      "summary": "<p>Luego del éxito de La Casa de los Espíritus, el 16 de septiembre llega el estreno de otra serie original, inspirada en la literatura latinoamericana. Se trata de “Catedrales”, un thriller dramático de producción chilena y basado en la novela homónima de la reconocida escritora argentina. Cuándo y dónde verla. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/15/catedrales-directv-amazon-prime-novela/\">La adaptación de la novela “Catedrales” de Claudia Piñeiro llega al streaming: cómo y dónde verla  </a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>Farmacias de Similares obtuvo el registro de la marca “Café Simi” ante Inapi, paso previo a una eventual expansión de sus cafeterías en Chile. El formato, que ya opera en México, apunta a ofrecer café y alimentos a precios accesibles.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/de-las-farmacias-a-las-cafeterias-dr-simi-registra-cafe-simi-en-chile-y-estos-son-sus-precios-en-mexico-donde-ya-cuenta-con-tres-locales/\">De las farmacias a las cafeterías: Dr. Simi registra Café Simi en Chile y estos son sus precios en México donde ya cuenta con tres locales</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Luego del éxito de La Casa de los Espíritus, el 16 de septiembre llega el estreno de otra serie original, inspirada en la literatura latinoamericana. Se trata de “Catedrales”, un thriller dramático de producción chilena y basado en la novela homónima de la reconocida escritora argentina. Cuándo y dónde verla. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/15/catedrales-directv-amazon-prime-novela/\">La adaptación de la novela “Catedrales” de Claudia Piñeiro llega al streaming: cómo y dónde verla  </a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>Farmacias de Similares obtuvo el registro de la marca “Café Simi” ante Inapi, paso previo a una eventual expansión de sus cafeterías en Chile. El formato, que ya opera en México, apunta a ofrecer café y alimentos a precios accesibles.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/de-las-farmacias-a-las-cafeterias-dr-simi-registra-cafe-simi-en-chile-y-estos-son-sus-precios-en-mexico-donde-ya-cuenta-con-tres-locales/\">De las farmacias a las cafeterías: Dr. Simi registra Café Simi en Chile y estos son sus precios en México donde ya cuenta con tres locales</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "The Clinic | Lab",
+          "term": "Negocios",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Amazon Prime",
+          "term": "Café Simi",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Catedrales",
+          "term": "Chile",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Claudia Piñeiro",
+          "term": "Dr. Simi",
           "scheme": null,
           "label": null
         },
         {
-          "term": "claudia piñero",
+          "term": "Farmacias de Similares",
           "scheme": null,
           "label": null
         },
         {
-          "term": "DirecTV",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Thriller",
+          "term": "Inapi",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "La adaptación de la novela “Catedrales” de Claudia Piñeiro llega al streaming: cómo y dónde verla",
+      "title": "De las farmacias a las cafeterías: Dr. Simi registra Café Simi en Chile y estos son sus precios en México donde ya cuenta con tres locales",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "La adaptación de la novela “Catedrales” de Claudia Piñeiro llega al streaming: cómo y dónde verla"
+        "value": "De las farmacias a las cafeterías: Dr. Simi registra Café Simi en Chile y estos son sus precios en México donde ya cuenta con tres locales"
       }
     }
   },
@@ -126,13 +121,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Autor",
+      "author": "Patricia Schüller Gamboa",
       "author_detail": {
-        "name": "Autor"
+        "name": "Patricia Schüller Gamboa"
       },
       "authors": [
         {
-          "name": "Autor"
+          "name": "Patricia Schüller Gamboa"
         }
       ],
       "content": [
@@ -140,37 +135,37 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>Elegir un regalo floral no debería significar renunciar a la frescura ni arriesgarte a que llegue tarde. Cuando el despacho se gestiona desde un punto central, el arreglo debe recorrer una mayor distancia antes de llegar a destino, lo que puede influir en el estado de las flores al momento de recibirlo. <a href=\"https://www.redfloral.cl\">Red Floral</a> resuelve esto conectando tu pedido con talleres de floristas de la misma comuna, para que las flores se preparen y entreguen el mismo día, reduciendo traslados e intermediarios.</p>\n\n\n\n<p>¿Qué cambia realmente para ti como comprador? Ganas tiempo, evitas sorpresas desagradables y puedes elegir entre catálogos con stock real, en lugar de un listado genérico.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a>Flores para cada ocasión especial</a></h2>\n\n\n\n<p>Un buen regalo floral se adapta al mensaje que quieres transmitir, no al revés. Por eso conviene tener varias opciones a mano según el momento que estés celebrando:</p>\n\n\n\n<ul>\n<li><strong>Aniversarios y cumpleaños</strong>: ramos de rosas, liliums y girasoles que pueden combinarse con globos o chocolates para sumar un detalle extra.</li>\n\n\n\n<li><strong>Condolencias</strong>: coronas y pedestales confeccionados con flores frescas, pensados para acompañar con respeto en un momento difícil.</li>\n\n\n\n<li><strong>Nacimientos</strong>: canastas y floreros con peluches o tarjetas personalizadas.</li>\n\n\n\n<li><strong>Detalles corporativos</strong>: centros de mesa y bouquets de temporada, ideales para felicitar a colegas o decorar un espacio de trabajo.</li>\n\n\n\n<li><strong>Fechas conmemorativas</strong>: arreglos pensados para el Día de la Madre, el Día de los Enamorados o graduaciones, con opciones que van de lo clásico a lo más llamativo.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\"><a>Por qué elegir una red de florerías locales</a></h2>\n\n\n\n<p>Cuando compras a través de florerías que operan cerca del destino final, el trayecto de las flores se reduce casi a cero. Eso significa tallos mejor hidratados y arreglos que conservan su forma original hasta que llegan a destino.</p>\n\n\n\n<p>Además, cada compra fortalece el trabajo de floristas independientes en lugar de concentrar las ganancias en un único distribuidor centralizado. Es una forma sencilla de apoyar oficios locales sin sacrificar variedad ni comodidad al momento de comprar online, y a la vez impulsa economías de barrio que muchas veces quedan fuera del radar de las grandes cadenas.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a>Entrega rápida y cobertura en todo el país</a></h2>\n\n\n\n<p>La logística de proximidad simplifica cada etapa del proceso, desde la preparación hasta el despacho final. Estos son los puntos que marcan la diferencia frente a un envío tradicional:</p>\n\n\n\n<ul>\n<li><strong>Despacho el mismo día</strong>: según la disponibilidad, los pedidos confirmados dentro del horario habilitado se preparan y entregan en cuestión de horas.</li>\n\n\n\n<li><strong>Cobertura amplia</strong>: presencia activa en varias comunas del país, de norte a sur.</li>\n\n\n\n<li><strong>Confirmación y seguimiento</strong>: el taller asignado valida la preparación y coordina la entrega para que sigas el estado de tu pedido. Al momento de la entrega de las flores, recibes una fotografía por WhatsApp.</li>\n\n\n\n<li><strong>Pagos protegidos:</strong> distintos métodos de pago disponibles para completar la compra con tranquilidad.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\"><a>Red Floral: flores que llegan en el momento justo</a></h2>\n\n\n\n<p>Planificar el envío de flores se vuelve simple cuando eliges la comuna de entrega, seleccionas el arreglo que mejor representa tu mensaje y sumas los detalles que quieras personalizar antes de confirmar la compra. Al reunir a <a href=\"https://www.redfloral.cl\">florerias</a> de distintas ciudades bajo una misma propuesta, Red Floral entrega frescura y puntualidad, sin importar la comuna desde la que estés.</p>\n<p>The post <a href=\"https://www.lanacion.cl/red-floral-el-marketplace-de-flores-para-cada-ocasion/\" rel=\"nofollow\">Red Floral: el marketplace de flores para cada ocasión</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p>El <strong>alcalde de Ñuñoa, Sebastián Sichel,</strong> se refirió a los <strong>insultos que gritaron asistentes de la Fonda &#8220;Corazón de Chile&#8221; contra el Presidente José Antonio Kast.<br /><br />&#8220;Me parecía ofensivo que estando niños se le gritaran cosas así de agresivas a un Presidente de la república.</strong> Creo que no es un ejemplo que hay que dar y no hay por qué tolerarlo&#8221;, señaló en entrevista con Radio <em>Agricultura.<br /></em><br />Sichel <strong>culpó al Frente Amplio y al Partido Comunista de instalar la cultura de la cancelación</strong>. Añadió que &#8220;me encantaría ver un cambio en el mundo de esa izquierda&#8221;.<br /><br />&#8220;Mi gran llamado acá es que me encantaría un mea culpa. Más que llamar a los acuerdos, diciendo &#8216;saben que la embarramos&#8217; y no estén aplaudiendo este tipo de prácticas&#8221;, precisó.<br /><br /><strong>También comentó la carta firmada por los alcaldes de Maipú, Tomás Vodanovic (FA), y de Providencia, Jaime Bellolio (UDI), donde propusieron construir una agenda en común a largo plazo.<br /><br /></strong>Al respecto, pidió que <strong>&#8220;no firmen tantas cartitas de amor y hagan política en serio&#8221;.<br /><br /></strong>Sichel llamó al alcalde de Maipú a firmar un acuerdo por un nuevo Estado de Excepción de 30 días. <strong>&#8220;Yo le propongo al alcalde Vodanovic que mañana firmemos un acuerdo sobre ese estado de excepción para ver si hay un acuerdo de verdad&#8221;,</strong> indicó.<br /><br />&#8220;Si él está dispuesto mañana a firmar ese estado de excepción, yo empiezo a creer que hay voluntad de acuerdo. Si es así empiezo a creer que el Frente Amplio tiene voluntad de hacer cosas concretas para que el país avance&#8221;, añadió.</p>\n<p>The post <a href=\"https://www.lanacion.cl/sichel-por-los-insultos-a-kast-en-la-fonda-de-nunoa-no-hay-por-que-tolerarlo/\" rel=\"nofollow\">Sichel por los insultos a Kast en la fonda de Ñuñoa: &#8220;No hay por qué tolerarlo&#8221;</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=415501",
-      "link": "https://www.lanacion.cl/red-floral-el-marketplace-de-flores-para-cada-ocasion/",
+      "id": "https://www.lanacion.cl/?p=415829",
+      "link": "https://www.lanacion.cl/sichel-por-los-insultos-a-kast-en-la-fonda-de-nunoa-no-hay-por-que-tolerarlo/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/red-floral-el-marketplace-de-flores-para-cada-ocasion/"
+          "href": "https://www.lanacion.cl/sichel-por-los-insultos-a-kast-en-la-fonda-de-nunoa-no-hay-por-que-tolerarlo/"
         }
       ],
-      "published": "Tue, 15 Sep 2026 18:33:25 +0000",
+      "published": "Mon, 21 Sep 2026 17:12:48 +0000",
       "published_parsed": [
         2026,
         9,
-        15,
-        18,
-        33,
-        25,
-        1,
-        258,
+        21,
+        17,
+        12,
+        48,
+        0,
+        264,
         0
       ],
-      "summary": "<p>Elegir un regalo floral no debería significar renunciar a la frescura ni arriesgarte a que llegue tarde. Cuando el despacho se gestiona desde un punto central, el arreglo debe recorrer una mayor distancia antes de llegar a destino, lo que puede influir en el estado de las flores al momento de recibirlo. Red Floral resuelve [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/red-floral-el-marketplace-de-flores-para-cada-ocasion/\" rel=\"nofollow\">Red Floral: el marketplace de flores para cada ocasión</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>El alcalde de Ñuñoa, Sebastián Sichel, se refirió a los insultos que gritaron asistentes de la Fonda &#8220;Corazón de Chile&#8221; contra el Presidente José Antonio Kast. &#8220;Me parecía ofensivo que estando niños se le gritaran cosas así de agresivas a un Presidente de la república. Creo que no es un ejemplo que hay que dar [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/sichel-por-los-insultos-a-kast-en-la-fonda-de-nunoa-no-hay-por-que-tolerarlo/\" rel=\"nofollow\">Sichel por los insultos a Kast en la fonda de Ñuñoa: &#8220;No hay por qué tolerarlo&#8221;</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Elegir un regalo floral no debería significar renunciar a la frescura ni arriesgarte a que llegue tarde. Cuando el despacho se gestiona desde un punto central, el arreglo debe recorrer una mayor distancia antes de llegar a destino, lo que puede influir en el estado de las flores al momento de recibirlo. Red Floral resuelve [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/red-floral-el-marketplace-de-flores-para-cada-ocasion/\" rel=\"nofollow\">Red Floral: el marketplace de flores para cada ocasión</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>El alcalde de Ñuñoa, Sebastián Sichel, se refirió a los insultos que gritaron asistentes de la Fonda &#8220;Corazón de Chile&#8221; contra el Presidente José Antonio Kast. &#8220;Me parecía ofensivo que estando niños se le gritaran cosas así de agresivas a un Presidente de la república. Creo que no es un ejemplo que hay que dar [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/sichel-por-los-insultos-a-kast-en-la-fonda-de-nunoa-no-hay-por-que-tolerarlo/\" rel=\"nofollow\">Sichel por los insultos a Kast en la fonda de Ñuñoa: &#8220;No hay por qué tolerarlo&#8221;</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
@@ -179,42 +174,42 @@
           "label": null
         },
         {
-          "term": "Tendencia",
+          "term": "Nacional",
           "scheme": null,
           "label": null
         },
         {
-          "term": "florerías",
+          "term": "Política",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Marketplace",
+          "term": "ALCALDE",
           "scheme": null,
           "label": null
         },
         {
-          "term": "ocasión",
+          "term": "fonda",
           "scheme": null,
           "label": null
         },
         {
-          "term": "red floral",
+          "term": "Kast",
           "scheme": null,
           "label": null
         },
         {
-          "term": "regalo",
+          "term": "ñuñoa",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Red Floral: el marketplace de flores para cada ocasión",
+      "title": "Sichel por los insultos a Kast en la fonda de Ñuñoa: “No hay por qué tolerarlo”",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Red Floral: el marketplace de flores para cada ocasión"
+        "value": "Sichel por los insultos a Kast en la fonda de Ñuñoa: “No hay por qué tolerarlo”"
       }
     }
   },
@@ -243,55 +238,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20260915",
-      "df_fechapl": "Martes 15 de septiembre de 2026",
+      "df_fechap": "20260921",
+      "df_fechapl": "Lunes 21 de septiembre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20260915/imag/foto_0000000120260915133144/foto_0000000220241007204228.jpg",
-      "df_horap": "15:27",
-      "df_tagnames": "<![CDATA[agencias calificadoras,crecimiento,gasto fiscal,presupuesto,S&P,Amanda Santillán]]>",
-      "df_ts": "20260915133144",
+      "df_foto600": "/noticias/site/artic/20260921/imag/foto_0000000120260921133747.jpeg",
+      "df_horap": "13:35",
+      "df_tagnames": "Valeria Ibarra,cobre,Minera,Minería",
+      "df_ts": "20260921133747",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20260915/pags/20260915133144.html",
-      "link": "http://www.df.cl/economia-y-politica/macro/s-p-se-alinea-con-el-banco-central-las-condiciones-estan-para-que-chile",
+      "id": "http://www.df.cl/noticias/site/artic/20260921/pags/20260921133747.html",
+      "link": "http://www.df.cl/empresas/mineria/canadiense-capstone-copper-vende-mina-en-mexico-por-us-385-millones-para",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/economia-y-politica/macro/s-p-se-alinea-con-el-banco-central-las-condiciones-estan-para-que-chile"
+          "href": "http://www.df.cl/empresas/mineria/canadiense-capstone-copper-vende-mina-en-mexico-por-us-385-millones-para"
         }
       ],
-      "published": "Tue, 15 Sep 2026 18:29:58 GMT",
+      "published": "Mon, 21 Sep 2026 16:54:26 GMT",
       "published_parsed": [
         2026,
         9,
-        15,
-        18,
-        29,
-        58,
-        1,
-        258,
+        21,
+        16,
+        54,
+        26,
+        0,
+        264,
         0
       ],
-      "summary": "La directora de Calificaciones Soberanas y Finanzas Públicas de S&amp;P, Constanza Pérez Aquino, pone fichas en la inversión para el próximo año y en la gestión de permisos para proyectos.",
+      "summary": "\"Es el momento ideal para racionalizar nuestra cartera mediante esta desinversión, a medida que avanzamos hacia un crecimiento transformador del cobre en Chile y Estados Unidos\", dijo Cashel Meagher, CEO de la compañía.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "La directora de Calificaciones Soberanas y Finanzas Públicas de S&amp;P, Constanza Pérez Aquino, pone fichas en la inversión para el próximo año y en la gestión de permisos para proyectos."
+        "value": "\"Es el momento ideal para racionalizar nuestra cartera mediante esta desinversión, a medida que avanzamos hacia un crecimiento transformador del cobre en Chile y Estados Unidos\", dijo Cashel Meagher, CEO de la compañía."
       },
       "tags": [
         {
-          "term": "Economía y Política",
+          "term": "Empresas",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "S&P se alinea con el Banco Central: \"Las condiciones están\" para que Chile tenga un mejor 2027 y 2028",
+      "title": "Canadiense Capstone Copper vende mina en México por US$ 385 millones para centrarse en Chile",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "S&P se alinea con el Banco Central: \"Las condiciones están\" para que Chile tenga un mejor 2027 y 2028"
+        "value": "Canadiense Capstone Copper vende mina en México por US$ 385 millones para centrarse en Chile"
       }
     }
   },
@@ -317,13 +312,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Álvaro Acuña Morales",
+      "author": "Javier Zamorano",
       "author_detail": {
-        "name": "Álvaro Acuña Morales"
+        "name": "Javier Zamorano"
       },
       "authors": [
         {
-          "name": "Álvaro Acuña Morales"
+          "name": "Javier Zamorano"
         }
       ],
       "content": [
@@ -331,131 +326,136 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>El volante ofensivo, <strong>James Rodríguez</strong>, anunció este martes su retiro de la selección colombiana tras ser parte del combinado por casi quince años desde su debut en 2011.</p>\n<p>En su paso por la selección cafetera, <strong>Rodríguez se convirtió en el jugador que más veces vistió la camiseta tricolor con 131 apariciones</strong>. Además, es el segundo máximo goleador de la historia con 31 goles, solo por detrás de Radamel Falcao García (36).</p>\n<p>Hace unos días, <span class=\"destacador\">el jugador arribó a Atlético Nacional</span> como uno de los flamantes refuerzos de cara al torneo Finalización de la Liga DIMAYOR.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/pupilo-marroqui-de-pellegrini-desata-escandalo-por-mensaje-de-apoyo-a-ceuta-acabo-cerrando-redes.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/pupilo-marroqui-de-pellegrini-desata-escandalo-por-mensaje-de-apoyo-a-ceuta-acabo-cerrando-redes.shtml\">Pupilo marroquí de Pellegrini desata escándalo por mensaje de apoyo a Ceuta: acabó cerrando redes</a>\n\t\t<span style=\"display: none;\">Martes 15 Septiembre, 2026 | 12:22</span>\n\t</div>\n</div>\n<p>James Rodríguez, hoy con 35 años, fue el máximo anotador de la selección colombiana en el Mundial de Brasil 2014 con 6 tantos. Su sólida actuación en ese torneo le permitió fichar por el Real Madrid desde el AS Monaco por un monto cercano a los 75 millones de euros, en su momento la venta más cara de un jugador colombiano.</p>\n<p>En su paso por el combinado nacional, Rodríguez jugó en tres mundiales (2014, 2018 y 2026) y en cuatro ediciones de la Copa América (2015, 2016, 2019 y 2024).</p>\n<p><strong>A través de un video en sus redes sociales, el mediocampista escribió una dedicatoria para los fanáticos de su país</strong>.</p>\n<p>&#8220;Llegó el momento. Gracias por cada partido, cada alegría, cada lágrima y cada sueño compartido. Defender los colores de la selección Colombia fue uno de los mayores honores de mi vida. Gracias, Colombia. Para siempre&#8221;.</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">Llegó el momento. <img alt=\"🇨🇴\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f1e8-1f1f4.png\" style=\"height: 1em;\" /></p>\n<p>Gracias por cada partido, cada alegría, cada lágrima y cada sueño compartido.</p>\n<p>Defender los colores de la selección Colombia fue uno de los mayores honores de mi vida.</p>\n<p>Gracias, Colombia. Para siempre. <img alt=\"💛\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f49b.png\" style=\"height: 1em;\" /><img alt=\"💙\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f499.png\" style=\"height: 1em;\" /><img alt=\"❤\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/2764.png\" style=\"height: 1em;\" /> <a href=\"https://t.co/AlRxMgtFeI\">pic.twitter.com/AlRxMgtFeI</a></p>\n<p>&mdash; James Rodríguez (@jamesdrodriguez) <a href=\"https://x.com/jamesdrodriguez/status/2099913637318033729?ref_src=twsrc%5Etfw\">September 15, 2026</a></p></blockquote>\n<p> </p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml\" rel=\"nofollow\">James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>El duelo entre <strong>Universidad de Chile y Ñublense</strong>, programado para la fecha 24 de la <a href=\"https://www.campeonatochileno.cl/ligas/liga-de-primera-mercado-libre/\" rel=\"noopener\" target=\"_blank\">Liga de Primera 2026</a>, tiene nuevo horario y estadio.</p>\n<p>Originalmente, el choque entre La U y los chillanejos se iba a disputar <strong>el viernes 9 de octubre, a las 20:00 horas, en el Estadio Nacional</strong>.</p>\n<p>Sin embargo, <span class=\"destacador\">la realización de los conciertos de BTS en el reducto de Ñuñoa</span> obligaron a los azules a buscar otra alternativa.</p>\n<p>Cabe mencionar que la banda surcoreana se presentará en el Estadio Nacional los días 14, 16 y 17 de octubre. La productora del espectáculo, para labores de montaje y logística, ocupará el recinto varios días antes.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/16/huachipato-termino-su-tarea-pendiente-ante-coquimbo-aguanto-ventaja-y-sumo-puntos-vitales-en-la-liga.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/16/huachipato-termino-su-tarea-pendiente-ante-coquimbo-aguanto-ventaja-y-sumo-puntos-vitales-en-la-liga.shtml\">Huachipato terminó su tarea pendiente ante Coquimbo: aguantó ventaja y sumó puntos vitales en La Liga</a>\n\t\t<span style=\"display: none;\">Miércoles 16 Septiembre, 2026 | 18:52</span>\n\t</div>\n</div>\n<p>Así las cosas, <strong>La U finalmente jugará ante Ñublense el día lunes 12 de octubre, a partir de las 18:00 horas, en el estadio Santa Laura</strong>. Es feriado por conmemorarse el &#8220;Encuentro de dos Mundos&#8221;.</p>\n<p>El recinto de Independencia, donde es local Unión Española, no recibirá más partidos ese fin de semana, ya que los hispanos vistarán a Deportes Iquique por la <a href=\"https://www.campeonatochileno.cl/ligas/liga-de-ascenso-caixun/\" rel=\"noopener\" target=\"_blank\">Liga de Ascenso</a>.</p>\n<p>La U marcha en el tercer puesto de la Liga de Primera, con 42 puntos. Los azules tienen las mismas unidades que Universidad Católica (que tiene mejor diferencia de goles) y están a 12 del líder Colo Colo.</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">Este fin de semana no tendremos fútbol, pero la próxima semana volvemos con todo a los octavos de final de <a href=\"https://x.com/hashtag/CopaChileCocaColaZeroAz%C3%BAcar?src=hash&amp;ref_src=twsrc%5Etfw\">#CopaChileCocaColaZeroAzúcar</a> <img alt=\"🏆\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f3c6.png\" style=\"height: 1em;\" /><img alt=\"⚽\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/26bd.png\" style=\"height: 1em;\" /> <a href=\"https://t.co/ZRtrNL8aTj\">pic.twitter.com/ZRtrNL8aTj</a></p>\n<p>&mdash; Universidad de Chile (@udechile) <a href=\"https://x.com/udechile/status/2100253474285932591?ref_src=twsrc%5Etfw\">September 16, 2026</a></p></blockquote>\n<p> </p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml\" rel=\"nofollow\">Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6955284",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml",
+      "id": "https://www.biobiochile.cl/?p=6960065",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml"
+          "href": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml"
         }
       ],
-      "published": "Tue, 15 Sep 2026 18:29:00 +0000",
+      "published": "Mon, 21 Sep 2026 17:14:10 +0000",
       "published_parsed": [
         2026,
         9,
-        15,
-        18,
-        29,
+        21,
+        17,
+        14,
+        10,
         0,
-        1,
-        258,
+        264,
         0
       ],
-      "summary": "<p>El volante ofensivo, James Rodríguez, anunció este martes su retiro de la selección colombiana tras ser parte del combinado por casi quince años desde su debut en 2011. En su paso por la selección cafetera, Rodríguez se convirtió en el jugador que más veces vistió la camiseta tricolor con 131 apariciones. Además, es el segundo &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml\" rel=\"nofollow\">James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>El duelo entre Universidad de Chile y Ñublense, programado para la fecha 24 de la Liga de Primera 2026, tiene nuevo horario y estadio. Originalmente, el choque entre La U y los chillanejos se iba a disputar el viernes 9 de octubre, a las 20:00 horas, en el Estadio Nacional. Sin embargo, obligaron a los &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml\" rel=\"nofollow\">Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El volante ofensivo, James Rodríguez, anunció este martes su retiro de la selección colombiana tras ser parte del combinado por casi quince años desde su debut en 2011. En su paso por la selección cafetera, Rodríguez se convirtió en el jugador que más veces vistió la camiseta tricolor con 131 apariciones. Además, es el segundo &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/09/15/james-rodriguez-anuncio-su-retiro-de-la-seleccion-colombiana-defendio-a-los-cafeteros-por-14-anos.shtml\" rel=\"nofollow\">James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>El duelo entre Universidad de Chile y Ñublense, programado para la fecha 24 de la Liga de Primera 2026, tiene nuevo horario y estadio. Originalmente, el choque entre La U y los chillanejos se iba a disputar el viernes 9 de octubre, a las 20:00 horas, en el Estadio Nacional. Sin embargo, obligaron a los &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml\" rel=\"nofollow\">Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Notas",
+          "term": "Futbol Nacional",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Agradecimiento",
+          "term": "BTS",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Atletico Nacional",
+          "term": "Colo Colo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "camiseta tricolor",
+          "term": "conciertos de BTS",
           "scheme": null,
           "label": null
         },
         {
-          "term": "fanáticos",
+          "term": "CopaChileCocaColaZeroAzúcar",
           "scheme": null,
           "label": null
         },
         {
-          "term": "James Rodríguez",
+          "term": "Deportes Iquique",
           "scheme": null,
           "label": null
         },
         {
-          "term": "jugador",
+          "term": "Encuentro de Dos Mundos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Liga Dimayor",
+          "term": "estadio nacional",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Máximo Goleador",
+          "term": "Estadio Santa Laura",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Mundial de Brasil 2014",
+          "term": "Fútbol",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Radamel Falcao García",
+          "term": "La U",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Real Madrid",
+          "term": "Liga de ascenso",
           "scheme": null,
           "label": null
         },
         {
-          "term": "redes sociales",
+          "term": "Liga de Primera 2026",
           "scheme": null,
           "label": null
         },
         {
-          "term": "retiro",
+          "term": "Ñublense",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Selección Colombiana",
+          "term": "Octavos de Final",
           "scheme": null,
           "label": null
         },
         {
-          "term": "torneo finalización",
+          "term": "Unión Española",
           "scheme": null,
           "label": null
         },
         {
-          "term": "volante ofensivo",
+          "term": "Universidad Católica",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Universidad de Chile",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años",
+      "title": "Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "James Rodríguez anunció su retiro de la selección colombiana: defendió a los cafeteros por 14 años"
+        "value": "Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional"
       }
     }
   }
