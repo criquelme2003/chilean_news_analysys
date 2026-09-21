@@ -20,77 +20,82 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Leo Mellado",
+      "author": "Sofía Pelfort",
       "author_detail": {
-        "name": "Leo Mellado"
+        "name": "Sofía Pelfort"
       },
       "authors": [
         {
-          "name": "Leo Mellado"
+          "name": "Sofía Pelfort"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1799347",
-      "link": "https://www.theclinic.cl/2026/09/21/auto-chileno-puma-historia-enigma/",
+      "id": "https://www.theclinic.cl/?p=1799331",
+      "link": "https://www.theclinic.cl/2026/09/21/seis-premios-nobel-de-economia-respaldan-el-impuesto-a-los-multimillonarios-de-california/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/09/21/auto-chileno-puma-historia-enigma/"
+          "href": "https://www.theclinic.cl/2026/09/21/seis-premios-nobel-de-economia-respaldan-el-impuesto-a-los-multimillonarios-de-california/"
         }
       ],
-      "published": "Mon, 21 Sep 2026 17:25:05 +0000",
+      "published": "Mon, 21 Sep 2026 18:10:00 +0000",
       "published_parsed": [
         2026,
         9,
         21,
-        17,
-        25,
-        5,
+        18,
+        10,
+        0,
         0,
         264,
         0
       ],
-      "summary": "<p>El auto chileno Puma representa uno de los capítulos más fascinantes y misteriosos de la industria automotriz nacional. En abril de 1960, la revista Ercilla (edición n.º 1301) anunciaba el nacimiento de un sofisticado vehículo diseñado para adaptar la ingeniería francesa a los caminos del país. Prometía un 85 % de componentes nacionales, una velocidad de 155 km/h y una producción estimada de seis unidades diarias. Sin embargo, tras ensamblarse solo tres ejemplares, el proyecto se disolvió en el aire y el paradero de los vehículos se convirtió en un mito indescifrable.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/auto-chileno-puma-historia-enigma/\">El enigma del auto chileno Puma: el deportivo de 1960 que desapareció sin dejar rastro</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>Daron Acemoglu, Abhijit Banerjee, Peter Diamond, Esther Duflo, Paul Krugman y  Joseph Stiglitz firmaron una carta en apoyo a la Proposición 40, la iniciativa que California votará el 3 de noviembre y que propone un tributo único de 5% sobre el patrimonio de sus casi 250 multimillonarios para financiar salud pública.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/seis-premios-nobel-de-economia-respaldan-el-impuesto-a-los-multimillonarios-de-california/\">Seis premios Nobel de Economía respaldan el impuesto a los multimillonarios de California</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El auto chileno Puma representa uno de los capítulos más fascinantes y misteriosos de la industria automotriz nacional. En abril de 1960, la revista Ercilla (edición n.º 1301) anunciaba el nacimiento de un sofisticado vehículo diseñado para adaptar la ingeniería francesa a los caminos del país. Prometía un 85 % de componentes nacionales, una velocidad de 155 km/h y una producción estimada de seis unidades diarias. Sin embargo, tras ensamblarse solo tres ejemplares, el proyecto se disolvió en el aire y el paradero de los vehículos se convirtió en un mito indescifrable.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/auto-chileno-puma-historia-enigma/\">El enigma del auto chileno Puma: el deportivo de 1960 que desapareció sin dejar rastro</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>Daron Acemoglu, Abhijit Banerjee, Peter Diamond, Esther Duflo, Paul Krugman y  Joseph Stiglitz firmaron una carta en apoyo a la Proposición 40, la iniciativa que California votará el 3 de noviembre y que propone un tributo único de 5% sobre el patrimonio de sus casi 250 multimillonarios para financiar salud pública.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/seis-premios-nobel-de-economia-respaldan-el-impuesto-a-los-multimillonarios-de-california/\">Seis premios Nobel de Economía respaldan el impuesto a los multimillonarios de California</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "AUTO TEST",
+          "term": "Negocios",
           "scheme": null,
           "label": null
         },
         {
-          "term": "autos clásicos",
+          "term": "California",
           "scheme": null,
           "label": null
         },
         {
-          "term": "fabricado en Chile",
+          "term": "Daron Acemoglu",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Historia chilena",
+          "term": "Joseph Stiglitz",
           "scheme": null,
           "label": null
         },
         {
-          "term": "historia del automóvil",
+          "term": "paul krugman",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Proposición 40",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "El enigma del auto chileno Puma: el deportivo de 1960 que desapareció sin dejar rastro",
+      "title": "Seis premios Nobel de Economía respaldan el impuesto a los multimillonarios de California",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "El enigma del auto chileno Puma: el deportivo de 1960 que desapareció sin dejar rastro"
+        "value": "Seis premios Nobel de Economía respaldan el impuesto a los multimillonarios de California"
       }
     }
   },
@@ -130,37 +135,37 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p><strong>Juan Pedro Verdier fue hospitalizado y no participó en la nueva jornada de eliminación de &#8220;Fiebre de Canto&#8221;</strong>, luego de presentar problemas de salud que requirieron atención médica.</p>\n\n\n\n<p>El ganador de &#8220;Mundos Opuestos 3&#8221; era uno de los participantes nominados de la semana anterior. Sin embargo, <strong>su ausencia llamó la atención durante el capítulo emitido este domingo</strong>, recogió <em>La Hora</em>. </p>\n\n\n\n<p>Diana Bolocco fue la encargada de explicar la situación al inicio del programa. La animadora señaló que <strong>Verdier se encontraba hospitalizado y bajo observación médica</strong>.</p>\n\n\n\n<p>Según explicó Bolocco, no se trataría de una situación grave, aunque <strong>los médicos determinaron que debía permanecer en observación</strong>.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Juan Pedro Verdier mostró su hospitalización</strong></h2>\n\n\n\n<p>Horas antes de la emisión del capítulo, <strong>Verdier había compartido imágenes desde una cama de hospital a través de sus historias de Instagram</strong>.</p>\n\n\n\n<p>En una de las publicaciones, el uruguayo apareció recostado mientras recibía medicamentos por vía intravenosa. Además, entregó algunos detalles sobre los síntomas que había presentado.</p>\n\n\n\n<p><strong>&#8220;15 días con cefalea, 4 días con vómitos&#8221;</strong>, escribió el participante junto a la imagen.</p>\n\n\n\n<p>De esta manera, <strong>Verdier dejó en evidencia que llevaba varios días enfrentando problemas de salud</strong> antes de ser hospitalizado.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Karen Paola lo acompañó durante su hospitalización</strong></h2>\n\n\n\n<p>Durante este periodo, <strong>Karen Paola permaneció junto a Juan Pedro Verdier</strong> y también compartió registros relacionados con el estado de salud de su pareja.</p>\n\n\n\n<p>La cantante y participante de &#8220;Fiebre de Canto&#8221; acompañó al uruguayo mientras recibía atención médica. Asimismo, sus publicaciones permitieron conocer parte del complejo momento que estaba atravesando.</p>\n\n\n\n<p>Pese a su ausencia en el programa, <strong>Verdier se mostró atento a la competencia desde el hospital</strong>. El participante publicó registros viendo el episodio y aseguró que extrañaba a sus compañeros.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Todavía no hay fecha para su regreso</strong></h2>\n\n\n\n<p>Mientras Verdier permanece fuera de la competencia, <strong>la jornada de eliminación continuó con los demás participantes nominados</strong>.</p>\n\n\n\n<p>Geraldine Muñoz, Kurt Carrera, Juan Vera, Nel Mauri y Jota Saavedra, entre otros concursantes, participaron de la instancia para mantenerse en &#8220;Fiebre de Canto&#8221;.</p>\n\n\n\n<p>En tanto, <strong>Cuco Cerda quedó entre los participantes peor evaluados por el jurado y el público</strong> durante la jornada.</p>\n\n\n\n<p>Hasta ahora, <strong>no se ha informado cuándo Juan Pedro Verdier podrá regresar a la competencia</strong>. Su eventual reintegro dependerá de su evolución y de las indicaciones médicas.</p>\n<p>The post <a href=\"https://www.lanacion.cl/juan-pedro-verdier-fue-hospitalizado-y-se-ausento-de-fiebre-de-canto-revisa-su-diagnostico/\" rel=\"nofollow\">Juan Pedro Verdier fue hospitalizado y se ausentó de &#8220;Fiebre de Canto&#8221;: revisa su diagnóstico</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p><strong>José Miguel Viñuela habría sido fichado por <em>Chilevisión</em> para asumir la conducción de &#8220;Gran Hermano Chile&#8221;</strong>, según reveló la periodista Cecilia Gutiérrez en redes sociales.</p>\n\n\n\n<p>De concretarse, <strong>el exanimador de &#8220;Mekano&#8221; reemplazaría a Diana Bolocco</strong>, quien estuvo a cargo de las temporadas anteriores del reality, recogió <em>La Hora</em>. </p>\n\n\n\n<p>La información fue entregada por Gutiérrez, quien explicó que <strong><em>Chilevisión</em> estaría buscando nuevos rostros para sus próximos proyectos televisivos</strong>.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>José Miguel Viñuela regresaría a un canal de mayor alcance</strong></h2>\n\n\n\n<p>De acuerdo con la periodista, <strong>la salida de Bolocco de la conducción de &#8220;Gran Hermano&#8221; estaría relacionada con la reorganización de rostros del canal</strong>.</p>\n\n\n\n<p>&#8220;La escasez de rostros tiene que ver con que Diana se hizo cargo de ‘Pasapalabra’, que también regresa a la televisión y no había animador. Julián (Elfenbein) está fuera de pantalla, incierto también cuando puede volver&#8221;, explicó Gutiérrez.</p>\n\n\n\n<p>En ese contexto, la comunicadora aseguró que <strong><em>Chilevisión</em> habría cerrado la incorporación de José Miguel Viñuela</strong>.</p>\n\n\n\n<p>&#8220;Hay otro rostro que ya fichó por <em>Chilevisión</em> y se va a hacer cargo de la conducción de ‘Gran Hermano’. Y también sería su regreso a los canales grandes. Me refiero a José Miguel Viñuela&#8221;, afirmó.</p>\n\n\n\n<p>El eventual arribo del animador marcaría <strong>su regreso a una señal de mayor alcance</strong>, luego de su actual etapa en <em>TV+</em>, donde conduce el programa &#8220;Tal Cual&#8221;.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Eduardo Fuentes también habría sido considerado</strong></h2>\n\n\n\n<p>Por otra parte, Gutiérrez aseguró que <strong><em>Chilevisión</em> habría evaluado otros nombres para conducir el reality</strong> antes de optar presuntamente por Viñuela.</p>\n\n\n\n<p>Entre las alternativas mencionadas apareció <strong>Eduardo Fuentes</strong>, quien actualmente desarrolla su carrera televisiva en <em>Canal 13.</em></p>\n\n\n\n<p>Sin embargo, según la periodista, finalmente <strong>la opción de Viñuela habría tomado fuerza para liderar la próxima temporada de &#8220;Gran Hermano&#8221;</strong>.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Raquel Argandoña habría rechazado una propuesta</strong></h2>\n\n\n\n<p>Otro de los nombres vinculados al proyecto fue <strong>Raquel Argandoña</strong>, quien habría recibido una propuesta de <em>Chilevisión</em> luego de su participación como jurado en &#8220;Fiebre de Baile&#8221;.</p>\n\n\n\n<p>&#8220;En algún momento también se lo ofrecieron a Raquel Argandoña. Le ofrecieron un pack, hacerse cargo de Gran Hermano y además incorporarse como panelista de ‘Primer Plano’&#8221;, detalló Gutiérrez.</p>\n\n\n\n<p>Según la comunicadora, <strong>Argandoña habría rechazado la propuesta debido a sus otros compromisos profesionales y personales</strong>.</p>\n\n\n\n<p>&#8220;Ella no aceptó, porque tiene otras cosas. Raquel también viaja mucho, entonces no es compatible una agenda tan apretada con sus proyectos de viaje y campañas en el extranjero&#8221;, explicó.</p>\n\n\n\n<p>Por ahora, <strong>la eventual llegada de José Miguel Viñuela a la conducción de &#8220;Gran Hermano Chile&#8221; corresponde a una información difundida por Cecilia Gutiérrez y no a un anuncio oficial de <em>Chilevisión</em></strong>.</p>\n<p>The post <a href=\"https://www.lanacion.cl/conocido-rostro-asumiria-la-conduccion-de-gran-hermano-chile-en-reemplazo-de-diana-bolocco/\" rel=\"nofollow\">Conocido rostro asumiría la conducción de &#8220;Gran Hermano Chile&#8221; en reemplazo de Diana Bolocco</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=415830",
-      "link": "https://www.lanacion.cl/juan-pedro-verdier-fue-hospitalizado-y-se-ausento-de-fiebre-de-canto-revisa-su-diagnostico/",
+      "id": "https://www.lanacion.cl/?p=415835",
+      "link": "https://www.lanacion.cl/conocido-rostro-asumiria-la-conduccion-de-gran-hermano-chile-en-reemplazo-de-diana-bolocco/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/juan-pedro-verdier-fue-hospitalizado-y-se-ausento-de-fiebre-de-canto-revisa-su-diagnostico/"
+          "href": "https://www.lanacion.cl/conocido-rostro-asumiria-la-conduccion-de-gran-hermano-chile-en-reemplazo-de-diana-bolocco/"
         }
       ],
-      "published": "Mon, 21 Sep 2026 17:26:01 +0000",
+      "published": "Mon, 21 Sep 2026 17:56:24 +0000",
       "published_parsed": [
         2026,
         9,
         21,
         17,
-        26,
-        1,
+        56,
+        24,
         0,
         264,
         0
       ],
-      "summary": "<p>Juan Pedro Verdier fue hospitalizado y no participó en la nueva jornada de eliminación de &#8220;Fiebre de Canto&#8221;, luego de presentar problemas de salud que requirieron atención médica. El ganador de &#8220;Mundos Opuestos 3&#8221; era uno de los participantes nominados de la semana anterior. Sin embargo, su ausencia llamó la atención durante el capítulo emitido [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/juan-pedro-verdier-fue-hospitalizado-y-se-ausento-de-fiebre-de-canto-revisa-su-diagnostico/\" rel=\"nofollow\">Juan Pedro Verdier fue hospitalizado y se ausentó de &#8220;Fiebre de Canto&#8221;: revisa su diagnóstico</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>José Miguel Viñuela habría sido fichado por Chilevisión para asumir la conducción de &#8220;Gran Hermano Chile&#8221;, según reveló la periodista Cecilia Gutiérrez en redes sociales. De concretarse, el exanimador de &#8220;Mekano&#8221; reemplazaría a Diana Bolocco, quien estuvo a cargo de las temporadas anteriores del reality, recogió La Hora. La información fue entregada por Gutiérrez, quien [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/conocido-rostro-asumiria-la-conduccion-de-gran-hermano-chile-en-reemplazo-de-diana-bolocco/\" rel=\"nofollow\">Conocido rostro asumiría la conducción de &#8220;Gran Hermano Chile&#8221; en reemplazo de Diana Bolocco</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Juan Pedro Verdier fue hospitalizado y no participó en la nueva jornada de eliminación de &#8220;Fiebre de Canto&#8221;, luego de presentar problemas de salud que requirieron atención médica. El ganador de &#8220;Mundos Opuestos 3&#8221; era uno de los participantes nominados de la semana anterior. Sin embargo, su ausencia llamó la atención durante el capítulo emitido [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/juan-pedro-verdier-fue-hospitalizado-y-se-ausento-de-fiebre-de-canto-revisa-su-diagnostico/\" rel=\"nofollow\">Juan Pedro Verdier fue hospitalizado y se ausentó de &#8220;Fiebre de Canto&#8221;: revisa su diagnóstico</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>José Miguel Viñuela habría sido fichado por Chilevisión para asumir la conducción de &#8220;Gran Hermano Chile&#8221;, según reveló la periodista Cecilia Gutiérrez en redes sociales. De concretarse, el exanimador de &#8220;Mekano&#8221; reemplazaría a Diana Bolocco, quien estuvo a cargo de las temporadas anteriores del reality, recogió La Hora. La información fue entregada por Gutiérrez, quien [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/conocido-rostro-asumiria-la-conduccion-de-gran-hermano-chile-en-reemplazo-de-diana-bolocco/\" rel=\"nofollow\">Conocido rostro asumiría la conducción de &#8220;Gran Hermano Chile&#8221; en reemplazo de Diana Bolocco</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
@@ -179,37 +184,37 @@
           "label": null
         },
         {
+          "term": "Cecilia Gutiérrez",
+          "scheme": null,
+          "label": null
+        },
+        {
           "term": "Chilevisión",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Fiebre de Canto",
+          "term": "diana bolocco",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Juan Pedro Verdier",
+          "term": "Gran Hermano",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Karen Paola",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Mundos Opuestos 3",
+          "term": "José Miguel Viñuela",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Juan Pedro Verdier fue hospitalizado y se ausentó de “Fiebre de Canto”: revisa su diagnóstico",
+      "title": "Conocido rostro asumiría la conducción de “Gran Hermano Chile” en reemplazo de Diana Bolocco",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Juan Pedro Verdier fue hospitalizado y se ausentó de “Fiebre de Canto”: revisa su diagnóstico"
+        "value": "Conocido rostro asumiría la conducción de “Gran Hermano Chile” en reemplazo de Diana Bolocco"
       }
     }
   },
@@ -255,14 +260,14 @@
           "href": "http://www.df.cl/empresas/mineria/canadiense-capstone-copper-vende-mina-en-mexico-por-us-385-millones-para"
         }
       ],
-      "published": "Mon, 21 Sep 2026 17:19:32 GMT",
+      "published": "Mon, 21 Sep 2026 17:59:47 GMT",
       "published_parsed": [
         2026,
         9,
         21,
         17,
-        19,
-        32,
+        59,
+        47,
         0,
         264,
         0
@@ -312,13 +317,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Andrea Sepúlveda",
+      "author": "Daniela Salgado",
       "author_detail": {
-        "name": "Andrea Sepúlveda"
+        "name": "Daniela Salgado"
       },
       "authors": [
         {
-          "name": "Andrea Sepúlveda"
+          "name": "Daniela Salgado"
         }
       ],
       "content": [
@@ -326,131 +331,71 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>El 21 de septiembre de 1576 <strong>murió Gerolamo Cardano, matemático y médico italiano</strong>. Su trabajo abordó las matemáticas, la medicina, la astrología y los juegos de azar. También fue protagonista de una vida marcada por conflictos personales y políticos.</p>\n<h2>Entre el azar y la astrología</h2>\n<p>Cardano nació en Pavía en 1501 y estudió medicina, siguiendo la tradición familiar. Su padre, Fazio Cardano, había sido amigo de Leonardo da Vinci. Durante su vida también desarrolló un fuerte interés por las matemáticas y el azar.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/20/efemerides-20-de-septiembre-de-2005-simon-wiesenthal-el-cazador-de-nazis.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/20/efemerides-20-de-septiembre-de-2005-simon-wiesenthal-el-cazador-de-nazis.shtml\">Efemérides 20 de septiembre de 2005: Simon Wiesenthal, el cazador de nazis</a>\n\t\t<span style=\"display: none;\">Domingo 20 Septiembre, 2026 | 11:30</span>\n\t</div>\n</div>\n<p>Escribió un tratado sobre los juegos de azar, basado en sus propias experiencias como jugador. También practicó la astrología y elaboró horóscopos para distintas personalidades de su época. Sus estudios sobre la probabilidad se adelantaron a desarrollos posteriores de las matemáticas.</p>\n<p>Cardano tuvo conflictos con la Iglesia por sus escritos y fue acusado de herejía. Uno de sus hijos fue ejecutado, mientras él enfrentó problemas económicos y personales. Murió en Roma en 1576, después de afirmar que podía predecir la fecha de su propia muerte.</p>\n<p><strong>En este video, Nibaldo Mosciatti narra la vida de Gerolamo Cardano y su relación con el azar.</strong></p>\n<p>The post <a href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml\" rel=\"nofollow\">Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>Hasta más de 80 años de cárcel recibieron los comuneros que lideraron el ataque a la familia Grollmus y el incendio al molino, registrado el 29 de agosto de 2022 en Contulmo, en la <a href=\"https://www.biobiochile.cl/buscador.shtml?s=regi%C3%B3n%20del%20B%C3%ADo%20B%C3%ADo\">región del Bío Bío</a>. </p>\n<p>En el Tribunal Oral en lo Penal de Cañete se leyó este lunes <strong>la sentencia de los 18 condenados por delitos de incendios, homicidios calificados, robos con intimidación, entre otros ilícitos.</strong></p>\n<p>Las penas más altas, de <strong>más de 80 años de presidio, <span class=\"destacador\">las recibieron cinco de los 18 condenados, correspondientes a los líderes de la Resistencia Mapuche Lafkenche.</span> Entre ellos está Federico Astete. </strong></p>\n<p>A ellos se suman <strong>cinco condenados que recibieron 65 años de presidio y otros cinco que deberán cumplir 34 años de privación de libertad</strong>. Sobre los sujetos que eran adolescentes al momento de los hechos, dos quedaron con internación en régimen cerrado y el tercero con libertad vigilada.</p>\n<p>La sumatoria de las sentencias es de más de 1.000 años de cárcel, incluyendo las sanciones de los adolescentes.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml\" rel=\"nofollow\">Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6959986",
-      "link": "https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml",
+      "id": "https://www.biobiochile.cl/?p=6960091",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml"
+          "href": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml"
         }
       ],
-      "published": "Mon, 21 Sep 2026 17:44:10 +0000",
+      "published": "Mon, 21 Sep 2026 18:14:18 +0000",
       "published_parsed": [
         2026,
         9,
         21,
-        17,
-        44,
-        10,
+        18,
+        14,
+        18,
         0,
         264,
         0
       ],
-      "summary": "<p>El 21 de septiembre de 1576 murió Gerolamo Cardano, matemático y médico italiano. Su trabajo abordó las matemáticas, la medicina, la astrología y los juegos de azar. También fue protagonista de una vida marcada por conflictos personales y políticos. Entre el azar y la astrología Cardano nació en Pavía en 1501 y estudió medicina, siguiendo &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml\" rel=\"nofollow\">Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>Hasta más de 80 años de cárcel recibieron los comuneros que lideraron el ataque a la familia Grollmus y el incendio al molino, registrado el 29 de agosto de 2022 en Contulmo, en la región del Bío Bío. En el Tribunal Oral en lo Penal de Cañete se leyó este lunes la sentencia de los &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml\" rel=\"nofollow\">Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El 21 de septiembre de 1576 murió Gerolamo Cardano, matemático y médico italiano. Su trabajo abordó las matemáticas, la medicina, la astrología y los juegos de azar. También fue protagonista de una vida marcada por conflictos personales y políticos. Entre el azar y la astrología Cardano nació en Pavía en 1501 y estudió medicina, siguiendo &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml\" rel=\"nofollow\">Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>Hasta más de 80 años de cárcel recibieron los comuneros que lideraron el ataque a la familia Grollmus y el incendio al molino, registrado el 29 de agosto de 2022 en Contulmo, en la región del Bío Bío. En el Tribunal Oral en lo Penal de Cañete se leyó este lunes la sentencia de los &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml\" rel=\"nofollow\">Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Efemérides",
+          "term": "Región del Bío Bío",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Astrología",
+          "term": "Concepción",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Bio Bio tv",
+          "term": "Contulmo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Bío-Bío",
+          "term": "molino grollmus",
           "scheme": null,
           "label": null
         },
         {
-          "term": "conflictos personales",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Conflictos políticos",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Fazio Cardano",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Gerolamo Cardano",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Herejía",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Iglesia",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "juegos de azar",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Leonardo Da Vinci",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "matemático italiano",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Médico",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "pavía",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "probabilidad",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Roma",
+          "term": "region del bio bio",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano",
+      "title": "Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano"
+        "value": "Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus"
       }
     }
   }
