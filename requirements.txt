@@ -1,51 +1,20 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: linux-64
-# created-by: conda 26.7.2
-# Note: This is a conda requirements file (MatchSpec format)
-# Contains conda package specifications, not pip requirements
-
-defaults::_libgcc_mutex==0.1=main
-defaults::_openmp_mutex==5.1=52_gnu
-defaults::brotlicffi==1.2.0.1=py314h7354ed3_0
-defaults::bzip2==1.0.8=h5eee18b_6
-defaults::ca-certificates==2026.8.13=h06a4308_0
-defaults::certifi==2026.7.22=py314h06a4308_0
-defaults::cffi==2.1.1=py314h3b52fac_0
-defaults::charset-normalizer==3.4.7=py314h06a4308_0
-defaults::feedparser==6.0.12=py314h06a4308_0
-defaults::idna==3.18=py314h06a4308_0
-defaults::ld_impl_linux-64==2.44=h9e0c5a2_3
-defaults::libexpat==2.8.4=h7354ed3_0
-defaults::libffi==3.4.8=h06d3fd0_3
-defaults::libgcc==15.2.0=h69a1729_8
-defaults::libgcc-ng==15.2.0=h166f726_8
-defaults::libmpdec==4.0.1=h47b2149_0
-defaults::libstdcxx==15.2.0=h39759b7_8
-defaults::libstdcxx-ng==15.2.0=hc03a8fd_8
-defaults::libuuid==1.41.5=h5eee18b_0
-defaults::libxcb==1.17.0=h9b100fa_0
-defaults::libzlib==1.3.2=h47b2149_0
-defaults::lz4-c==1.9.4=h7354ed3_5
-defaults::ncurses==6.6=hfaaeb4e_0
-defaults::openssl==3.5.8=h1b28b03_0
-defaults::pip==26.2.1=pyh0d26453_0
-defaults::pthread-stubs==0.3=h47b2149_2
-defaults::pycparser==3.0=py314h06a4308_0
-defaults::pysocks==1.7.1=py314h06a4308_1
-defaults::python==3.14.7=h2bd7c14_101_cp314
-defaults::python_abi==3.14=4_cp314
-defaults::readline==8.3=hc2a1206_0
-defaults::requests==2.34.2=py314h06a4308_0
-defaults::sgmllib3k==1.0.0=pyhd3eb1b0_0
-defaults::sqlite==3.53.2=h795bf6d_0
-defaults::tk==9.0.4=h3840b71_1
-defaults::tzdata==2026c=he532380_0
-defaults::urllib3==2.7.0=py314h06a4308_0
-defaults::xorg-libx11==1.8.13=h65de747_0
-defaults::xorg-libxau==1.0.12=h9b100fa_0
-defaults::xorg-libxdmcp==1.1.5=h9b100fa_0
-defaults::xorg-xorgproto==2025.1=h47b2149_0
-defaults::xz==5.8.2=h448239c_0
-defaults::zlib==1.3.2=h47b2149_0
-defaults::zstd==1.5.7=h11fc155_0
+beautifulsoup4==4.15.0
+brotlicffi @ file:///home/task_178644398037123/croot/brotlicffi_1786444028068/work
+certifi @ file:///home/task_A5sLR00KQxqQn_0/croot/certifi_1785412676510/work/certifi
+cffi @ file:///home/task_178669697485257/croot/cffi_1786697019433/work
+charset-normalizer @ file:///home/task_IT4CAeSZRPOb0_0/croot/charset-normalizer_1782917574135/work
+feedparser @ file:///home/task_177209713676260/croot/feedparser_1772097164027/work
+idna @ file:///home/task_178056148282513/croot/idna_1780561508300/work
+iniconfig==2.3.0
+lxml==6.1.3
+packaging==26.3
+pluggy==1.6.0
+pycparser @ file:///home/task_177495969108169/croot/pycparser_1774959731445/work
+Pygments==2.21.0
+PySocks @ file:///home/task_176175231270627/conda-bld/pysocks_1761753008896/work
+pytest==9.1.1
+requests @ file:///home/task_178034867916164/croot/requests_1780348747484/work
+sgmllib3k @ file:///Users/ktietz/demo/mc3/conda-bld/sgmllib3k_1630650258356/work
+soupsieve==2.9.2
+typing_extensions==4.16.0
+urllib3 @ file:///home/task_177853566424579/croot/urllib3_1778536185042/work
