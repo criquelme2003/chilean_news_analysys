@@ -1,0 +1,28 @@
+name: DAILY SCRAPPING
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  scapping-all:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.14'
+          cache: 'pip' # caching pip dependencies
+      - run: pip install -r requirements.txt
+        
+      - name: SCRAPPING
+        run: python -m scrapping.extract_schema
+      
+      - run: python -m scrapping.modular_sites.biobiochile 
+      - run: python -m scrapping.modular_sites.diario_financiero
+      - run: python -m scrapping.modular_sites.la_nacion
+      - run: python -m scrapping.modular_sites.the_clinic 

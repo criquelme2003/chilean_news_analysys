@@ -20,82 +20,77 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Catalina Riquelme",
+      "author": "Leo Mellado",
       "author_detail": {
-        "name": "Catalina Riquelme"
+        "name": "Leo Mellado"
       },
       "authors": [
         {
-          "name": "Catalina Riquelme"
+          "name": "Leo Mellado"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1799231",
-      "link": "https://www.theclinic.cl/2026/09/21/de-las-farmacias-a-las-cafeterias-dr-simi-registra-cafe-simi-en-chile-y-estos-son-sus-precios-en-mexico-donde-ya-cuenta-con-tres-locales/",
+      "id": "https://www.theclinic.cl/?p=1799347",
+      "link": "https://www.theclinic.cl/2026/09/21/auto-chileno-puma-historia-enigma/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/09/21/de-las-farmacias-a-las-cafeterias-dr-simi-registra-cafe-simi-en-chile-y-estos-son-sus-precios-en-mexico-donde-ya-cuenta-con-tres-locales/"
+          "href": "https://www.theclinic.cl/2026/09/21/auto-chileno-puma-historia-enigma/"
         }
       ],
-      "published": "Mon, 21 Sep 2026 17:15:51 +0000",
+      "published": "Mon, 21 Sep 2026 17:25:05 +0000",
       "published_parsed": [
         2026,
         9,
         21,
         17,
-        15,
-        51,
+        25,
+        5,
         0,
         264,
         0
       ],
-      "summary": "<p>Farmacias de Similares obtuvo el registro de la marca “Café Simi” ante Inapi, paso previo a una eventual expansión de sus cafeterías en Chile. El formato, que ya opera en México, apunta a ofrecer café y alimentos a precios accesibles.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/de-las-farmacias-a-las-cafeterias-dr-simi-registra-cafe-simi-en-chile-y-estos-son-sus-precios-en-mexico-donde-ya-cuenta-con-tres-locales/\">De las farmacias a las cafeterías: Dr. Simi registra Café Simi en Chile y estos son sus precios en México donde ya cuenta con tres locales</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>El auto chileno Puma representa uno de los capítulos más fascinantes y misteriosos de la industria automotriz nacional. En abril de 1960, la revista Ercilla (edición n.º 1301) anunciaba el nacimiento de un sofisticado vehículo diseñado para adaptar la ingeniería francesa a los caminos del país. Prometía un 85 % de componentes nacionales, una velocidad de 155 km/h y una producción estimada de seis unidades diarias. Sin embargo, tras ensamblarse solo tres ejemplares, el proyecto se disolvió en el aire y el paradero de los vehículos se convirtió en un mito indescifrable.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/auto-chileno-puma-historia-enigma/\">El enigma del auto chileno Puma: el deportivo de 1960 que desapareció sin dejar rastro</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Farmacias de Similares obtuvo el registro de la marca “Café Simi” ante Inapi, paso previo a una eventual expansión de sus cafeterías en Chile. El formato, que ya opera en México, apunta a ofrecer café y alimentos a precios accesibles.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/de-las-farmacias-a-las-cafeterias-dr-simi-registra-cafe-simi-en-chile-y-estos-son-sus-precios-en-mexico-donde-ya-cuenta-con-tres-locales/\">De las farmacias a las cafeterías: Dr. Simi registra Café Simi en Chile y estos son sus precios en México donde ya cuenta con tres locales</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>El auto chileno Puma representa uno de los capítulos más fascinantes y misteriosos de la industria automotriz nacional. En abril de 1960, la revista Ercilla (edición n.º 1301) anunciaba el nacimiento de un sofisticado vehículo diseñado para adaptar la ingeniería francesa a los caminos del país. Prometía un 85 % de componentes nacionales, una velocidad de 155 km/h y una producción estimada de seis unidades diarias. Sin embargo, tras ensamblarse solo tres ejemplares, el proyecto se disolvió en el aire y el paradero de los vehículos se convirtió en un mito indescifrable.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/auto-chileno-puma-historia-enigma/\">El enigma del auto chileno Puma: el deportivo de 1960 que desapareció sin dejar rastro</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Negocios",
+          "term": "AUTO TEST",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Café Simi",
+          "term": "autos clásicos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Chile",
+          "term": "fabricado en Chile",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Dr. Simi",
+          "term": "Historia chilena",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Farmacias de Similares",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Inapi",
+          "term": "historia del automóvil",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "De las farmacias a las cafeterías: Dr. Simi registra Café Simi en Chile y estos son sus precios en México donde ya cuenta con tres locales",
+      "title": "El enigma del auto chileno Puma: el deportivo de 1960 que desapareció sin dejar rastro",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "De las farmacias a las cafeterías: Dr. Simi registra Café Simi en Chile y estos son sus precios en México donde ya cuenta con tres locales"
+        "value": "El enigma del auto chileno Puma: el deportivo de 1960 que desapareció sin dejar rastro"
       }
     }
   },
@@ -121,13 +116,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Patricia Schüller Gamboa",
+      "author": "Eduardo Córdova",
       "author_detail": {
-        "name": "Patricia Schüller Gamboa"
+        "name": "Eduardo Córdova"
       },
       "authors": [
         {
-          "name": "Patricia Schüller Gamboa"
+          "name": "Eduardo Córdova"
         }
       ],
       "content": [
@@ -135,37 +130,37 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>El <strong>alcalde de Ñuñoa, Sebastián Sichel,</strong> se refirió a los <strong>insultos que gritaron asistentes de la Fonda &#8220;Corazón de Chile&#8221; contra el Presidente José Antonio Kast.<br /><br />&#8220;Me parecía ofensivo que estando niños se le gritaran cosas así de agresivas a un Presidente de la república.</strong> Creo que no es un ejemplo que hay que dar y no hay por qué tolerarlo&#8221;, señaló en entrevista con Radio <em>Agricultura.<br /></em><br />Sichel <strong>culpó al Frente Amplio y al Partido Comunista de instalar la cultura de la cancelación</strong>. Añadió que &#8220;me encantaría ver un cambio en el mundo de esa izquierda&#8221;.<br /><br />&#8220;Mi gran llamado acá es que me encantaría un mea culpa. Más que llamar a los acuerdos, diciendo &#8216;saben que la embarramos&#8217; y no estén aplaudiendo este tipo de prácticas&#8221;, precisó.<br /><br /><strong>También comentó la carta firmada por los alcaldes de Maipú, Tomás Vodanovic (FA), y de Providencia, Jaime Bellolio (UDI), donde propusieron construir una agenda en común a largo plazo.<br /><br /></strong>Al respecto, pidió que <strong>&#8220;no firmen tantas cartitas de amor y hagan política en serio&#8221;.<br /><br /></strong>Sichel llamó al alcalde de Maipú a firmar un acuerdo por un nuevo Estado de Excepción de 30 días. <strong>&#8220;Yo le propongo al alcalde Vodanovic que mañana firmemos un acuerdo sobre ese estado de excepción para ver si hay un acuerdo de verdad&#8221;,</strong> indicó.<br /><br />&#8220;Si él está dispuesto mañana a firmar ese estado de excepción, yo empiezo a creer que hay voluntad de acuerdo. Si es así empiezo a creer que el Frente Amplio tiene voluntad de hacer cosas concretas para que el país avance&#8221;, añadió.</p>\n<p>The post <a href=\"https://www.lanacion.cl/sichel-por-los-insultos-a-kast-en-la-fonda-de-nunoa-no-hay-por-que-tolerarlo/\" rel=\"nofollow\">Sichel por los insultos a Kast en la fonda de Ñuñoa: &#8220;No hay por qué tolerarlo&#8221;</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p><strong>Juan Pedro Verdier fue hospitalizado y no participó en la nueva jornada de eliminación de &#8220;Fiebre de Canto&#8221;</strong>, luego de presentar problemas de salud que requirieron atención médica.</p>\n\n\n\n<p>El ganador de &#8220;Mundos Opuestos 3&#8221; era uno de los participantes nominados de la semana anterior. Sin embargo, <strong>su ausencia llamó la atención durante el capítulo emitido este domingo</strong>, recogió <em>La Hora</em>. </p>\n\n\n\n<p>Diana Bolocco fue la encargada de explicar la situación al inicio del programa. La animadora señaló que <strong>Verdier se encontraba hospitalizado y bajo observación médica</strong>.</p>\n\n\n\n<p>Según explicó Bolocco, no se trataría de una situación grave, aunque <strong>los médicos determinaron que debía permanecer en observación</strong>.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Juan Pedro Verdier mostró su hospitalización</strong></h2>\n\n\n\n<p>Horas antes de la emisión del capítulo, <strong>Verdier había compartido imágenes desde una cama de hospital a través de sus historias de Instagram</strong>.</p>\n\n\n\n<p>En una de las publicaciones, el uruguayo apareció recostado mientras recibía medicamentos por vía intravenosa. Además, entregó algunos detalles sobre los síntomas que había presentado.</p>\n\n\n\n<p><strong>&#8220;15 días con cefalea, 4 días con vómitos&#8221;</strong>, escribió el participante junto a la imagen.</p>\n\n\n\n<p>De esta manera, <strong>Verdier dejó en evidencia que llevaba varios días enfrentando problemas de salud</strong> antes de ser hospitalizado.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Karen Paola lo acompañó durante su hospitalización</strong></h2>\n\n\n\n<p>Durante este periodo, <strong>Karen Paola permaneció junto a Juan Pedro Verdier</strong> y también compartió registros relacionados con el estado de salud de su pareja.</p>\n\n\n\n<p>La cantante y participante de &#8220;Fiebre de Canto&#8221; acompañó al uruguayo mientras recibía atención médica. Asimismo, sus publicaciones permitieron conocer parte del complejo momento que estaba atravesando.</p>\n\n\n\n<p>Pese a su ausencia en el programa, <strong>Verdier se mostró atento a la competencia desde el hospital</strong>. El participante publicó registros viendo el episodio y aseguró que extrañaba a sus compañeros.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Todavía no hay fecha para su regreso</strong></h2>\n\n\n\n<p>Mientras Verdier permanece fuera de la competencia, <strong>la jornada de eliminación continuó con los demás participantes nominados</strong>.</p>\n\n\n\n<p>Geraldine Muñoz, Kurt Carrera, Juan Vera, Nel Mauri y Jota Saavedra, entre otros concursantes, participaron de la instancia para mantenerse en &#8220;Fiebre de Canto&#8221;.</p>\n\n\n\n<p>En tanto, <strong>Cuco Cerda quedó entre los participantes peor evaluados por el jurado y el público</strong> durante la jornada.</p>\n\n\n\n<p>Hasta ahora, <strong>no se ha informado cuándo Juan Pedro Verdier podrá regresar a la competencia</strong>. Su eventual reintegro dependerá de su evolución y de las indicaciones médicas.</p>\n<p>The post <a href=\"https://www.lanacion.cl/juan-pedro-verdier-fue-hospitalizado-y-se-ausento-de-fiebre-de-canto-revisa-su-diagnostico/\" rel=\"nofollow\">Juan Pedro Verdier fue hospitalizado y se ausentó de &#8220;Fiebre de Canto&#8221;: revisa su diagnóstico</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=415829",
-      "link": "https://www.lanacion.cl/sichel-por-los-insultos-a-kast-en-la-fonda-de-nunoa-no-hay-por-que-tolerarlo/",
+      "id": "https://www.lanacion.cl/?p=415830",
+      "link": "https://www.lanacion.cl/juan-pedro-verdier-fue-hospitalizado-y-se-ausento-de-fiebre-de-canto-revisa-su-diagnostico/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/sichel-por-los-insultos-a-kast-en-la-fonda-de-nunoa-no-hay-por-que-tolerarlo/"
+          "href": "https://www.lanacion.cl/juan-pedro-verdier-fue-hospitalizado-y-se-ausento-de-fiebre-de-canto-revisa-su-diagnostico/"
         }
       ],
-      "published": "Mon, 21 Sep 2026 17:12:48 +0000",
+      "published": "Mon, 21 Sep 2026 17:26:01 +0000",
       "published_parsed": [
         2026,
         9,
         21,
         17,
-        12,
-        48,
+        26,
+        1,
         0,
         264,
         0
       ],
-      "summary": "<p>El alcalde de Ñuñoa, Sebastián Sichel, se refirió a los insultos que gritaron asistentes de la Fonda &#8220;Corazón de Chile&#8221; contra el Presidente José Antonio Kast. &#8220;Me parecía ofensivo que estando niños se le gritaran cosas así de agresivas a un Presidente de la república. Creo que no es un ejemplo que hay que dar [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/sichel-por-los-insultos-a-kast-en-la-fonda-de-nunoa-no-hay-por-que-tolerarlo/\" rel=\"nofollow\">Sichel por los insultos a Kast en la fonda de Ñuñoa: &#8220;No hay por qué tolerarlo&#8221;</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>Juan Pedro Verdier fue hospitalizado y no participó en la nueva jornada de eliminación de &#8220;Fiebre de Canto&#8221;, luego de presentar problemas de salud que requirieron atención médica. El ganador de &#8220;Mundos Opuestos 3&#8221; era uno de los participantes nominados de la semana anterior. Sin embargo, su ausencia llamó la atención durante el capítulo emitido [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/juan-pedro-verdier-fue-hospitalizado-y-se-ausento-de-fiebre-de-canto-revisa-su-diagnostico/\" rel=\"nofollow\">Juan Pedro Verdier fue hospitalizado y se ausentó de &#8220;Fiebre de Canto&#8221;: revisa su diagnóstico</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El alcalde de Ñuñoa, Sebastián Sichel, se refirió a los insultos que gritaron asistentes de la Fonda &#8220;Corazón de Chile&#8221; contra el Presidente José Antonio Kast. &#8220;Me parecía ofensivo que estando niños se le gritaran cosas así de agresivas a un Presidente de la república. Creo que no es un ejemplo que hay que dar [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/sichel-por-los-insultos-a-kast-en-la-fonda-de-nunoa-no-hay-por-que-tolerarlo/\" rel=\"nofollow\">Sichel por los insultos a Kast en la fonda de Ñuñoa: &#8220;No hay por qué tolerarlo&#8221;</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>Juan Pedro Verdier fue hospitalizado y no participó en la nueva jornada de eliminación de &#8220;Fiebre de Canto&#8221;, luego de presentar problemas de salud que requirieron atención médica. El ganador de &#8220;Mundos Opuestos 3&#8221; era uno de los participantes nominados de la semana anterior. Sin embargo, su ausencia llamó la atención durante el capítulo emitido [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/juan-pedro-verdier-fue-hospitalizado-y-se-ausento-de-fiebre-de-canto-revisa-su-diagnostico/\" rel=\"nofollow\">Juan Pedro Verdier fue hospitalizado y se ausentó de &#8220;Fiebre de Canto&#8221;: revisa su diagnóstico</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
@@ -174,42 +169,47 @@
           "label": null
         },
         {
-          "term": "Nacional",
+          "term": "Nación Indiscreta",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Política",
+          "term": "Vanguardia",
           "scheme": null,
           "label": null
         },
         {
-          "term": "ALCALDE",
+          "term": "Chilevisión",
           "scheme": null,
           "label": null
         },
         {
-          "term": "fonda",
+          "term": "Fiebre de Canto",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Kast",
+          "term": "Juan Pedro Verdier",
           "scheme": null,
           "label": null
         },
         {
-          "term": "ñuñoa",
+          "term": "Karen Paola",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Mundos Opuestos 3",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Sichel por los insultos a Kast en la fonda de Ñuñoa: “No hay por qué tolerarlo”",
+      "title": "Juan Pedro Verdier fue hospitalizado y se ausentó de “Fiebre de Canto”: revisa su diagnóstico",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Sichel por los insultos a Kast en la fonda de Ñuñoa: “No hay por qué tolerarlo”"
+        "value": "Juan Pedro Verdier fue hospitalizado y se ausentó de “Fiebre de Canto”: revisa su diagnóstico"
       }
     }
   },
@@ -255,14 +255,14 @@
           "href": "http://www.df.cl/empresas/mineria/canadiense-capstone-copper-vende-mina-en-mexico-por-us-385-millones-para"
         }
       ],
-      "published": "Mon, 21 Sep 2026 16:54:26 GMT",
+      "published": "Mon, 21 Sep 2026 17:19:32 GMT",
       "published_parsed": [
         2026,
         9,
         21,
-        16,
-        54,
-        26,
+        17,
+        19,
+        32,
         0,
         264,
         0
@@ -312,13 +312,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Javier Zamorano",
+      "author": "Andrea Sepúlveda",
       "author_detail": {
-        "name": "Javier Zamorano"
+        "name": "Andrea Sepúlveda"
       },
       "authors": [
         {
-          "name": "Javier Zamorano"
+          "name": "Andrea Sepúlveda"
         }
       ],
       "content": [
@@ -326,136 +326,131 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>El duelo entre <strong>Universidad de Chile y Ñublense</strong>, programado para la fecha 24 de la <a href=\"https://www.campeonatochileno.cl/ligas/liga-de-primera-mercado-libre/\" rel=\"noopener\" target=\"_blank\">Liga de Primera 2026</a>, tiene nuevo horario y estadio.</p>\n<p>Originalmente, el choque entre La U y los chillanejos se iba a disputar <strong>el viernes 9 de octubre, a las 20:00 horas, en el Estadio Nacional</strong>.</p>\n<p>Sin embargo, <span class=\"destacador\">la realización de los conciertos de BTS en el reducto de Ñuñoa</span> obligaron a los azules a buscar otra alternativa.</p>\n<p>Cabe mencionar que la banda surcoreana se presentará en el Estadio Nacional los días 14, 16 y 17 de octubre. La productora del espectáculo, para labores de montaje y logística, ocupará el recinto varios días antes.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/16/huachipato-termino-su-tarea-pendiente-ante-coquimbo-aguanto-ventaja-y-sumo-puntos-vitales-en-la-liga.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/16/huachipato-termino-su-tarea-pendiente-ante-coquimbo-aguanto-ventaja-y-sumo-puntos-vitales-en-la-liga.shtml\">Huachipato terminó su tarea pendiente ante Coquimbo: aguantó ventaja y sumó puntos vitales en La Liga</a>\n\t\t<span style=\"display: none;\">Miércoles 16 Septiembre, 2026 | 18:52</span>\n\t</div>\n</div>\n<p>Así las cosas, <strong>La U finalmente jugará ante Ñublense el día lunes 12 de octubre, a partir de las 18:00 horas, en el estadio Santa Laura</strong>. Es feriado por conmemorarse el &#8220;Encuentro de dos Mundos&#8221;.</p>\n<p>El recinto de Independencia, donde es local Unión Española, no recibirá más partidos ese fin de semana, ya que los hispanos vistarán a Deportes Iquique por la <a href=\"https://www.campeonatochileno.cl/ligas/liga-de-ascenso-caixun/\" rel=\"noopener\" target=\"_blank\">Liga de Ascenso</a>.</p>\n<p>La U marcha en el tercer puesto de la Liga de Primera, con 42 puntos. Los azules tienen las mismas unidades que Universidad Católica (que tiene mejor diferencia de goles) y están a 12 del líder Colo Colo.</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">Este fin de semana no tendremos fútbol, pero la próxima semana volvemos con todo a los octavos de final de <a href=\"https://x.com/hashtag/CopaChileCocaColaZeroAz%C3%BAcar?src=hash&amp;ref_src=twsrc%5Etfw\">#CopaChileCocaColaZeroAzúcar</a> <img alt=\"🏆\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f3c6.png\" style=\"height: 1em;\" /><img alt=\"⚽\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/26bd.png\" style=\"height: 1em;\" /> <a href=\"https://t.co/ZRtrNL8aTj\">pic.twitter.com/ZRtrNL8aTj</a></p>\n<p>&mdash; Universidad de Chile (@udechile) <a href=\"https://x.com/udechile/status/2100253474285932591?ref_src=twsrc%5Etfw\">September 16, 2026</a></p></blockquote>\n<p> </p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml\" rel=\"nofollow\">Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>El 21 de septiembre de 1576 <strong>murió Gerolamo Cardano, matemático y médico italiano</strong>. Su trabajo abordó las matemáticas, la medicina, la astrología y los juegos de azar. También fue protagonista de una vida marcada por conflictos personales y políticos.</p>\n<h2>Entre el azar y la astrología</h2>\n<p>Cardano nació en Pavía en 1501 y estudió medicina, siguiendo la tradición familiar. Su padre, Fazio Cardano, había sido amigo de Leonardo da Vinci. Durante su vida también desarrolló un fuerte interés por las matemáticas y el azar.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/20/efemerides-20-de-septiembre-de-2005-simon-wiesenthal-el-cazador-de-nazis.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/20/efemerides-20-de-septiembre-de-2005-simon-wiesenthal-el-cazador-de-nazis.shtml\">Efemérides 20 de septiembre de 2005: Simon Wiesenthal, el cazador de nazis</a>\n\t\t<span style=\"display: none;\">Domingo 20 Septiembre, 2026 | 11:30</span>\n\t</div>\n</div>\n<p>Escribió un tratado sobre los juegos de azar, basado en sus propias experiencias como jugador. También practicó la astrología y elaboró horóscopos para distintas personalidades de su época. Sus estudios sobre la probabilidad se adelantaron a desarrollos posteriores de las matemáticas.</p>\n<p>Cardano tuvo conflictos con la Iglesia por sus escritos y fue acusado de herejía. Uno de sus hijos fue ejecutado, mientras él enfrentó problemas económicos y personales. Murió en Roma en 1576, después de afirmar que podía predecir la fecha de su propia muerte.</p>\n<p><strong>En este video, Nibaldo Mosciatti narra la vida de Gerolamo Cardano y su relación con el azar.</strong></p>\n<p>The post <a href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml\" rel=\"nofollow\">Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6960065",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml",
+      "id": "https://www.biobiochile.cl/?p=6959986",
+      "link": "https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml"
+          "href": "https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml"
         }
       ],
-      "published": "Mon, 21 Sep 2026 17:14:10 +0000",
+      "published": "Mon, 21 Sep 2026 17:44:10 +0000",
       "published_parsed": [
         2026,
         9,
         21,
         17,
-        14,
+        44,
         10,
         0,
         264,
         0
       ],
-      "summary": "<p>El duelo entre Universidad de Chile y Ñublense, programado para la fecha 24 de la Liga de Primera 2026, tiene nuevo horario y estadio. Originalmente, el choque entre La U y los chillanejos se iba a disputar el viernes 9 de octubre, a las 20:00 horas, en el Estadio Nacional. Sin embargo, obligaron a los &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml\" rel=\"nofollow\">Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>El 21 de septiembre de 1576 murió Gerolamo Cardano, matemático y médico italiano. Su trabajo abordó las matemáticas, la medicina, la astrología y los juegos de azar. También fue protagonista de una vida marcada por conflictos personales y políticos. Entre el azar y la astrología Cardano nació en Pavía en 1501 y estudió medicina, siguiendo &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml\" rel=\"nofollow\">Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El duelo entre Universidad de Chile y Ñublense, programado para la fecha 24 de la Liga de Primera 2026, tiene nuevo horario y estadio. Originalmente, el choque entre La U y los chillanejos se iba a disputar el viernes 9 de octubre, a las 20:00 horas, en el Estadio Nacional. Sin embargo, obligaron a los &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/21/anfp-confirma-nuevo-horario-y-estadio-para-la-u-vs-nublense-liga-de-primera.shtml\" rel=\"nofollow\">Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>El 21 de septiembre de 1576 murió Gerolamo Cardano, matemático y médico italiano. Su trabajo abordó las matemáticas, la medicina, la astrología y los juegos de azar. También fue protagonista de una vida marcada por conflictos personales y políticos. Entre el azar y la astrología Cardano nació en Pavía en 1501 y estudió medicina, siguiendo &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/biobiotv/programas/efemerides/2026/09/21/efemerides-21-de-septiembre-de-1576-murio-el-matematico-italiano-gerolamo-cardano.shtml\" rel=\"nofollow\">Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Futbol Nacional",
+          "term": "Efemérides",
           "scheme": null,
           "label": null
         },
         {
-          "term": "BTS",
+          "term": "Astrología",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Colo Colo",
+          "term": "Bio Bio tv",
           "scheme": null,
           "label": null
         },
         {
-          "term": "conciertos de BTS",
+          "term": "Bío-Bío",
           "scheme": null,
           "label": null
         },
         {
-          "term": "CopaChileCocaColaZeroAzúcar",
+          "term": "conflictos personales",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Deportes Iquique",
+          "term": "Conflictos políticos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Encuentro de Dos Mundos",
+          "term": "Fazio Cardano",
           "scheme": null,
           "label": null
         },
         {
-          "term": "estadio nacional",
+          "term": "Gerolamo Cardano",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Estadio Santa Laura",
+          "term": "Herejía",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Fútbol",
+          "term": "Iglesia",
           "scheme": null,
           "label": null
         },
         {
-          "term": "La U",
+          "term": "juegos de azar",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Liga de ascenso",
+          "term": "Leonardo Da Vinci",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Liga de Primera 2026",
+          "term": "matemático italiano",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Ñublense",
+          "term": "Médico",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Octavos de Final",
+          "term": "pavía",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Unión Española",
+          "term": "probabilidad",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Universidad Católica",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Universidad de Chile",
+          "term": "Roma",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional",
+      "title": "Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Programan duelo de La U y Ñublense en nuevo horario y estadio: conciertos de BTS ocuparán el Nacional"
+        "value": "Efemérides 21 de septiembre de 1576: murió el matemático italiano Gerolamo Cardano"
       }
     }
   }
