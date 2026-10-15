@@ -20,82 +20,57 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Sofía Pelfort",
+      "author": "Marcelo Silva",
       "author_detail": {
-        "name": "Sofía Pelfort"
+        "name": "Marcelo Silva"
       },
       "authors": [
         {
-          "name": "Sofía Pelfort"
+          "name": "Marcelo Silva"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1799331",
-      "link": "https://www.theclinic.cl/2026/09/21/seis-premios-nobel-de-economia-respaldan-el-impuesto-a-los-multimillonarios-de-california/",
+      "id": "https://www.theclinic.cl/?p=1809156",
+      "link": "https://www.theclinic.cl/2026/10/14/hay-que-ser-muy-valiente-republicanos-respaldan-a-figuras-de-izquierda-que-apoyan-conmutacion-de-penas-a-condenados-enfermos/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/09/21/seis-premios-nobel-de-economia-respaldan-el-impuesto-a-los-multimillonarios-de-california/"
+          "href": "https://www.theclinic.cl/2026/10/14/hay-que-ser-muy-valiente-republicanos-respaldan-a-figuras-de-izquierda-que-apoyan-conmutacion-de-penas-a-condenados-enfermos/"
         }
       ],
-      "published": "Mon, 21 Sep 2026 18:10:00 +0000",
+      "published": "Thu, 15 Oct 2026 02:01:22 +0000",
       "published_parsed": [
         2026,
-        9,
-        21,
-        18,
         10,
-        0,
-        0,
-        264,
+        15,
+        2,
+        1,
+        22,
+        3,
+        288,
         0
       ],
-      "summary": "<p>Daron Acemoglu, Abhijit Banerjee, Peter Diamond, Esther Duflo, Paul Krugman y  Joseph Stiglitz firmaron una carta en apoyo a la Proposición 40, la iniciativa que California votará el 3 de noviembre y que propone un tributo único de 5% sobre el patrimonio de sus casi 250 multimillonarios para financiar salud pública.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/seis-premios-nobel-de-economia-respaldan-el-impuesto-a-los-multimillonarios-de-california/\">Seis premios Nobel de Economía respaldan el impuesto a los multimillonarios de California</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>El senador socialista Fidel Espinoza planteó que el país debe avanzar hacia una política de justicia y memoria pero sin rencor ni venganza, permitiendo a personas con enfermedades terminales o Alzheimer pasar sus últimos días en casa. Algo similar planteó la exministra Carolina Tohá, lo que le valió fuertes cuestionamientos en el oficialismo. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/14/hay-que-ser-muy-valiente-republicanos-respaldan-a-figuras-de-izquierda-que-apoyan-conmutacion-de-penas-a-condenados-enfermos/\">&#8220;Hay que ser muy valiente&#8221;: Republicanos respaldan a figuras de izquierda que apoyan conmutación de penas a condenados enfermos</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Daron Acemoglu, Abhijit Banerjee, Peter Diamond, Esther Duflo, Paul Krugman y  Joseph Stiglitz firmaron una carta en apoyo a la Proposición 40, la iniciativa que California votará el 3 de noviembre y que propone un tributo único de 5% sobre el patrimonio de sus casi 250 multimillonarios para financiar salud pública.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/09/21/seis-premios-nobel-de-economia-respaldan-el-impuesto-a-los-multimillonarios-de-california/\">Seis premios Nobel de Economía respaldan el impuesto a los multimillonarios de California</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>El senador socialista Fidel Espinoza planteó que el país debe avanzar hacia una política de justicia y memoria pero sin rencor ni venganza, permitiendo a personas con enfermedades terminales o Alzheimer pasar sus últimos días en casa. Algo similar planteó la exministra Carolina Tohá, lo que le valió fuertes cuestionamientos en el oficialismo. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/14/hay-que-ser-muy-valiente-republicanos-respaldan-a-figuras-de-izquierda-que-apoyan-conmutacion-de-penas-a-condenados-enfermos/\">&#8220;Hay que ser muy valiente&#8221;: Republicanos respaldan a figuras de izquierda que apoyan conmutación de penas a condenados enfermos</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Negocios",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "California",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Daron Acemoglu",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Joseph Stiglitz",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "paul krugman",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Proposición 40",
+          "term": "Política",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Seis premios Nobel de Economía respaldan el impuesto a los multimillonarios de California",
+      "title": "“Hay que ser muy valiente”: Republicanos respaldan a figuras de izquierda que apoyan conmutación de penas a condenados enfermos",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Seis premios Nobel de Economía respaldan el impuesto a los multimillonarios de California"
+        "value": "“Hay que ser muy valiente”: Republicanos respaldan a figuras de izquierda que apoyan conmutación de penas a condenados enfermos"
       }
     }
   },
@@ -121,13 +96,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Eduardo Córdova",
+      "author": "Patricia Schüller Gamboa",
       "author_detail": {
-        "name": "Eduardo Córdova"
+        "name": "Patricia Schüller Gamboa"
       },
       "authors": [
         {
-          "name": "Eduardo Córdova"
+          "name": "Patricia Schüller Gamboa"
         }
       ],
       "content": [
@@ -135,86 +110,101 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p><strong>José Miguel Viñuela habría sido fichado por <em>Chilevisión</em> para asumir la conducción de &#8220;Gran Hermano Chile&#8221;</strong>, según reveló la periodista Cecilia Gutiérrez en redes sociales.</p>\n\n\n\n<p>De concretarse, <strong>el exanimador de &#8220;Mekano&#8221; reemplazaría a Diana Bolocco</strong>, quien estuvo a cargo de las temporadas anteriores del reality, recogió <em>La Hora</em>. </p>\n\n\n\n<p>La información fue entregada por Gutiérrez, quien explicó que <strong><em>Chilevisión</em> estaría buscando nuevos rostros para sus próximos proyectos televisivos</strong>.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>José Miguel Viñuela regresaría a un canal de mayor alcance</strong></h2>\n\n\n\n<p>De acuerdo con la periodista, <strong>la salida de Bolocco de la conducción de &#8220;Gran Hermano&#8221; estaría relacionada con la reorganización de rostros del canal</strong>.</p>\n\n\n\n<p>&#8220;La escasez de rostros tiene que ver con que Diana se hizo cargo de ‘Pasapalabra’, que también regresa a la televisión y no había animador. Julián (Elfenbein) está fuera de pantalla, incierto también cuando puede volver&#8221;, explicó Gutiérrez.</p>\n\n\n\n<p>En ese contexto, la comunicadora aseguró que <strong><em>Chilevisión</em> habría cerrado la incorporación de José Miguel Viñuela</strong>.</p>\n\n\n\n<p>&#8220;Hay otro rostro que ya fichó por <em>Chilevisión</em> y se va a hacer cargo de la conducción de ‘Gran Hermano’. Y también sería su regreso a los canales grandes. Me refiero a José Miguel Viñuela&#8221;, afirmó.</p>\n\n\n\n<p>El eventual arribo del animador marcaría <strong>su regreso a una señal de mayor alcance</strong>, luego de su actual etapa en <em>TV+</em>, donde conduce el programa &#8220;Tal Cual&#8221;.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Eduardo Fuentes también habría sido considerado</strong></h2>\n\n\n\n<p>Por otra parte, Gutiérrez aseguró que <strong><em>Chilevisión</em> habría evaluado otros nombres para conducir el reality</strong> antes de optar presuntamente por Viñuela.</p>\n\n\n\n<p>Entre las alternativas mencionadas apareció <strong>Eduardo Fuentes</strong>, quien actualmente desarrolla su carrera televisiva en <em>Canal 13.</em></p>\n\n\n\n<p>Sin embargo, según la periodista, finalmente <strong>la opción de Viñuela habría tomado fuerza para liderar la próxima temporada de &#8220;Gran Hermano&#8221;</strong>.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Raquel Argandoña habría rechazado una propuesta</strong></h2>\n\n\n\n<p>Otro de los nombres vinculados al proyecto fue <strong>Raquel Argandoña</strong>, quien habría recibido una propuesta de <em>Chilevisión</em> luego de su participación como jurado en &#8220;Fiebre de Baile&#8221;.</p>\n\n\n\n<p>&#8220;En algún momento también se lo ofrecieron a Raquel Argandoña. Le ofrecieron un pack, hacerse cargo de Gran Hermano y además incorporarse como panelista de ‘Primer Plano’&#8221;, detalló Gutiérrez.</p>\n\n\n\n<p>Según la comunicadora, <strong>Argandoña habría rechazado la propuesta debido a sus otros compromisos profesionales y personales</strong>.</p>\n\n\n\n<p>&#8220;Ella no aceptó, porque tiene otras cosas. Raquel también viaja mucho, entonces no es compatible una agenda tan apretada con sus proyectos de viaje y campañas en el extranjero&#8221;, explicó.</p>\n\n\n\n<p>Por ahora, <strong>la eventual llegada de José Miguel Viñuela a la conducción de &#8220;Gran Hermano Chile&#8221; corresponde a una información difundida por Cecilia Gutiérrez y no a un anuncio oficial de <em>Chilevisión</em></strong>.</p>\n<p>The post <a href=\"https://www.lanacion.cl/conocido-rostro-asumiria-la-conduccion-de-gran-hermano-chile-en-reemplazo-de-diana-bolocco/\" rel=\"nofollow\">Conocido rostro asumiría la conducción de &#8220;Gran Hermano Chile&#8221; en reemplazo de Diana Bolocco</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p><strong>Los trabajadores del Sindicato N° 2 de Supervisores y Staff de Minera Escondida aprobaron con un 64% de los votos la última oferta de la empresa, controlada por BHP</strong>, y evitaron la huelga. <strong>El nuevo contrato colectivo tendrá una vigencia de 36 meses.<br /><br /></strong>Según informó Radio <em>Biobío</em>, <strong>entre los principales beneficios económicos figura un bono de término de negociación que alcanza los $28 millones. Incorpora un préstamo blando de $3 millones y otros montos asociados a las condiciones acordadas.<br /></strong><br />El acuerdo también contempla un bono de vacaciones de $1,5 millones. Este se pagará en noviembre y será entregado a todo evento. <strong>A esto se suma una asignación mensual de movilización de $350 mil líquidos y un beneficio educacional de 25 UF para los trabajadores que no tienen hijos.</strong></p>\n\n\n\n<h2 class=\"wp-block-heading\">Beneficios familiares</h2>\n\n\n\n<p>En materia de beneficios familiares, <strong>la propuesta incorpora cobertura del 100% para la criopreservación de óvulos, además de un aporte líquido de $600 mil para sala cuna.</strong> También considera condiciones de reintegro laboral tras el postnatal, con un mes de trabajo posterior al término del permiso legal.<br /><br />Tras la votación, la organización sindical valoró el resultado de una negociación que estuvo marcada por diferencias con la empresa, el rechazo de dos propuestas consecutivas y la instalación de un campamento de huelga en las afueras de la faena.<br /><br />Desde el sindicato señalaron en un comunicado que “pese a innumerables desacuerdos y desencuentros entre las partes negociadoras”, lo que incluyó el rechazo a dos ofertas consecutivas y la instalación de un campamento de huelga en las afueras de Escondida, “la presión y la unión de las bases logró que la Empresa accediera a la entrega de mejores y mayores beneficios”.<br /><br />Desde BHP también destacaron las modificaciones incorporadas en materias que afectan a las trabajadoras, especialmente en situaciones de maternidad y en las asignaciones destinadas al cuidado infantil. Asimismo, relevó el monto acordado para el cierre de la negociación colectiva.<br /><br />“De esta manera, los Supervisores y Staff siguen contando con un contrato líder en la industria para el segmento y se da término al proceso de negociación colectiva reglada”, señalaron desde la minera.<br /><br />Pero más allá del acuerdo, desde el sindicato advirtieron que en “el mismo proceso nos mostró aquellas cuestiones que quedarán pendientes y que, sabemos, deberán ser materia de negociaciones en el futuro”.</p>\n<p>The post <a href=\"https://www.lanacion.cl/sindicato-n2-de-supervisores-y-staff-de-minera-escondida-aprueba-oferta-de-bhp-y-evita-la-huelga/\" rel=\"nofollow\">Sindicato N°2 de Supervisores y Staff de Minera Escondida aprueba oferta de BHP y evita la huelga</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=415835",
-      "link": "https://www.lanacion.cl/conocido-rostro-asumiria-la-conduccion-de-gran-hermano-chile-en-reemplazo-de-diana-bolocco/",
+      "id": "https://www.lanacion.cl/?p=417962",
+      "link": "https://www.lanacion.cl/sindicato-n2-de-supervisores-y-staff-de-minera-escondida-aprueba-oferta-de-bhp-y-evita-la-huelga/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/conocido-rostro-asumiria-la-conduccion-de-gran-hermano-chile-en-reemplazo-de-diana-bolocco/"
+          "href": "https://www.lanacion.cl/sindicato-n2-de-supervisores-y-staff-de-minera-escondida-aprueba-oferta-de-bhp-y-evita-la-huelga/"
         }
       ],
-      "published": "Mon, 21 Sep 2026 17:56:24 +0000",
+      "published": "Wed, 14 Oct 2026 23:01:04 +0000",
       "published_parsed": [
         2026,
-        9,
-        21,
-        17,
-        56,
-        24,
-        0,
-        264,
+        10,
+        14,
+        23,
+        1,
+        4,
+        2,
+        287,
         0
       ],
-      "summary": "<p>José Miguel Viñuela habría sido fichado por Chilevisión para asumir la conducción de &#8220;Gran Hermano Chile&#8221;, según reveló la periodista Cecilia Gutiérrez en redes sociales. De concretarse, el exanimador de &#8220;Mekano&#8221; reemplazaría a Diana Bolocco, quien estuvo a cargo de las temporadas anteriores del reality, recogió La Hora. La información fue entregada por Gutiérrez, quien [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/conocido-rostro-asumiria-la-conduccion-de-gran-hermano-chile-en-reemplazo-de-diana-bolocco/\" rel=\"nofollow\">Conocido rostro asumiría la conducción de &#8220;Gran Hermano Chile&#8221; en reemplazo de Diana Bolocco</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>Los trabajadores del Sindicato N° 2 de Supervisores y Staff de Minera Escondida aprobaron con un 64% de los votos la última oferta de la empresa, controlada por BHP, y evitaron la huelga. El nuevo contrato colectivo tendrá una vigencia de 36 meses. Según informó Radio Biobío, entre los principales beneficios económicos figura un bono [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/sindicato-n2-de-supervisores-y-staff-de-minera-escondida-aprueba-oferta-de-bhp-y-evita-la-huelga/\" rel=\"nofollow\">Sindicato N°2 de Supervisores y Staff de Minera Escondida aprueba oferta de BHP y evita la huelga</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>José Miguel Viñuela habría sido fichado por Chilevisión para asumir la conducción de &#8220;Gran Hermano Chile&#8221;, según reveló la periodista Cecilia Gutiérrez en redes sociales. De concretarse, el exanimador de &#8220;Mekano&#8221; reemplazaría a Diana Bolocco, quien estuvo a cargo de las temporadas anteriores del reality, recogió La Hora. La información fue entregada por Gutiérrez, quien [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/conocido-rostro-asumiria-la-conduccion-de-gran-hermano-chile-en-reemplazo-de-diana-bolocco/\" rel=\"nofollow\">Conocido rostro asumiría la conducción de &#8220;Gran Hermano Chile&#8221; en reemplazo de Diana Bolocco</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>Los trabajadores del Sindicato N° 2 de Supervisores y Staff de Minera Escondida aprobaron con un 64% de los votos la última oferta de la empresa, controlada por BHP, y evitaron la huelga. El nuevo contrato colectivo tendrá una vigencia de 36 meses. Según informó Radio Biobío, entre los principales beneficios económicos figura un bono [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/sindicato-n2-de-supervisores-y-staff-de-minera-escondida-aprueba-oferta-de-bhp-y-evita-la-huelga/\" rel=\"nofollow\">Sindicato N°2 de Supervisores y Staff de Minera Escondida aprueba oferta de BHP y evita la huelga</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
-          "term": "Actualidad",
+          "term": "Economía",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Nación Indiscreta",
+          "term": "Nacional",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Vanguardia",
+          "term": "Portada",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Cecilia Gutiérrez",
+          "term": "bhp",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Chilevisión",
+          "term": "escondida",
           "scheme": null,
           "label": null
         },
         {
-          "term": "diana bolocco",
+          "term": "evita",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Gran Hermano",
+          "term": "huelga",
           "scheme": null,
           "label": null
         },
         {
-          "term": "José Miguel Viñuela",
+          "term": "minera",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "oferta",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "sindicato",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "supervisores",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Conocido rostro asumiría la conducción de “Gran Hermano Chile” en reemplazo de Diana Bolocco",
+      "title": "Sindicato N°2 de Supervisores y Staff de Minera Escondida aprueba oferta de BHP y evita la huelga",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Conocido rostro asumiría la conducción de “Gran Hermano Chile” en reemplazo de Diana Bolocco"
+        "value": "Sindicato N°2 de Supervisores y Staff de Minera Escondida aprueba oferta de BHP y evita la huelga"
       }
     }
   },
@@ -243,55 +233,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20260921",
-      "df_fechapl": "Lunes 21 de septiembre de 2026",
+      "df_fechap": "20261014",
+      "df_fechapl": "Miércoles 14 de octubre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20260921/imag/foto_0000000120260921133747.jpeg",
-      "df_horap": "13:35",
-      "df_tagnames": "Valeria Ibarra,cobre,Minera,Minería",
-      "df_ts": "20260921133747",
+      "df_foto600": "/noticias/site/artic/20261014/imag/foto_0000001020261014195559/2026-10-13T010219Z_1833013625_RC29LNAXU574_RTRMADP.jpg",
+      "df_horap": "20:00",
+      "df_tagnames": "Anthropic,apertura a bolsa,Inteligencia Artificial,tecnología",
+      "df_ts": "20261014195559",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20260921/pags/20260921133747.html",
-      "link": "http://www.df.cl/empresas/mineria/canadiense-capstone-copper-vende-mina-en-mexico-por-us-385-millones-para",
+      "id": "http://www.df.cl/noticias/site/artic/20261014/pags/20261014195559.html",
+      "link": "http://www.df.cl/internacional/ft/ingresos-de-anthropic-subieron-un-50-hasta-alcanzar-los-us-16-800",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/empresas/mineria/canadiense-capstone-copper-vende-mina-en-mexico-por-us-385-millones-para"
+          "href": "http://www.df.cl/internacional/ft/ingresos-de-anthropic-subieron-un-50-hasta-alcanzar-los-us-16-800"
         }
       ],
-      "published": "Mon, 21 Sep 2026 17:59:47 GMT",
+      "published": "Wed, 14 Oct 2026 22:58:57 GMT",
       "published_parsed": [
         2026,
-        9,
-        21,
-        17,
-        59,
-        47,
-        0,
-        264,
+        10,
+        14,
+        22,
+        58,
+        57,
+        2,
+        287,
         0
       ],
-      "summary": "\"Es el momento ideal para racionalizar nuestra cartera mediante esta desinversión, a medida que avanzamos hacia un crecimiento transformador del cobre en Chile y Estados Unidos\", dijo Cashel Meagher, CEO de la compañía.",
+      "summary": "La startup de IA reunió a inversionistas para realizar presentaciones en San Francisco el miércoles, ad portas de su debut bursátil.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "\"Es el momento ideal para racionalizar nuestra cartera mediante esta desinversión, a medida que avanzamos hacia un crecimiento transformador del cobre en Chile y Estados Unidos\", dijo Cashel Meagher, CEO de la compañía."
+        "value": "La startup de IA reunió a inversionistas para realizar presentaciones en San Francisco el miércoles, ad portas de su debut bursátil."
       },
       "tags": [
         {
-          "term": "Empresas",
+          "term": "Internacional",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Canadiense Capstone Copper vende mina en México por US$ 385 millones para centrarse en Chile",
+      "title": "Ingresos de Anthropic subieron un 50%, hasta alcanzar los US$ 16.800 millones, antes de su salida a bolsa",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Canadiense Capstone Copper vende mina en México por US$ 385 millones para centrarse en Chile"
+        "value": "Ingresos de Anthropic subieron un 50%, hasta alcanzar los US$ 16.800 millones, antes de su salida a bolsa"
       }
     }
   },
@@ -317,13 +307,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Daniela Salgado",
+      "author": "Antonio Gonzalez",
       "author_detail": {
-        "name": "Daniela Salgado"
+        "name": "Antonio Gonzalez"
       },
       "authors": [
         {
-          "name": "Daniela Salgado"
+          "name": "Antonio Gonzalez"
         }
       ],
       "content": [
@@ -331,71 +321,221 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>Hasta más de 80 años de cárcel recibieron los comuneros que lideraron el ataque a la familia Grollmus y el incendio al molino, registrado el 29 de agosto de 2022 en Contulmo, en la <a href=\"https://www.biobiochile.cl/buscador.shtml?s=regi%C3%B3n%20del%20B%C3%ADo%20B%C3%ADo\">región del Bío Bío</a>. </p>\n<p>En el Tribunal Oral en lo Penal de Cañete se leyó este lunes <strong>la sentencia de los 18 condenados por delitos de incendios, homicidios calificados, robos con intimidación, entre otros ilícitos.</strong></p>\n<p>Las penas más altas, de <strong>más de 80 años de presidio, <span class=\"destacador\">las recibieron cinco de los 18 condenados, correspondientes a los líderes de la Resistencia Mapuche Lafkenche.</span> Entre ellos está Federico Astete. </strong></p>\n<p>A ellos se suman <strong>cinco condenados que recibieron 65 años de presidio y otros cinco que deberán cumplir 34 años de privación de libertad</strong>. Sobre los sujetos que eran adolescentes al momento de los hechos, dos quedaron con internación en régimen cerrado y el tercero con libertad vigilada.</p>\n<p>La sumatoria de las sentencias es de más de 1.000 años de cárcel, incluyendo las sanciones de los adolescentes.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml\" rel=\"nofollow\">Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>Funcionarios de Carabineros de la Prefectura El Loa y efectivos del Ejército realizaron un operativo de rescate y asistencia en la ruta internacional 27-CH tras el accidente de un camión en el sector cordillerano de San Pedro de Atacama. La presencia de hielo en la vía provocó que el vehículo de carga perdiera el control y desplazara su carga sobre la calzada que obstaculizó el paso. El conductor del vehículo resultó sin lesiones, según el reporte policial.</p>\n<p>La interrupción del tránsito impidió que cerca de 40 pasajeros de un bus y una veintena de motociclistas continuaran su trayecto desde el paso Jama hacia San Pedro de Atacama. Esta situación dejó a los <strong>viajeros expuestos a condiciones meteorológicas adversas y a los riesgos vinculados a la altitud de la zona</strong>. En este contexto, los uniformados priorizaron la evacuación de las personas afectadas por el mal de altura.</p>\n<p>La emergencia movilizó a patrullas de la Segunda Comisaría San Pedro de Atacama. El despliegue policial sumó el refuerzo de personal del Retén Toconao y la activación de una patrulla especializada del GOPE. La policía uniformada coordinó además medios de transporte y personal del Ejército para apoyar la evacuación.</p>\n<p>Al arribar al sector del kilómetro 74, <strong>Carabineros constató la presencia de un bus con 37 ocupantes</strong>, entre los cuales se encontraban <strong>cuatro adultos mayores</strong>. En el lugar permanecían además diversos motociclistas.</p>\n<h2>Despliegue de evacución en la alta cordillera</h2>\n<blockquote><p>Las labores de las patrullas se concentraron en reunir y asistir a las personas en el punto de la emergencia. Los funcionarios priorizaron la evacuación de quienes presentaron síntomas asociados al mal agudo de montaña, enfermedades preexistentes o mayor vulnerabilidad frente a las condiciones ambientales del sector.</p></blockquote>\n<p>De acuerdo con el reporte de las 22:15 horas, <strong>personal del Ejército inició el descenso de 20 motociclistas en vehículos militares hacia sectores de menor altitud.</strong> Entre los evacuados se reportó una mujer con una lesión en el hombro izquierdo a causa de una caída, cuya evaluación médica permanecía pendiente.</p>\n<p>La presencia de hielo y nieve en la calzada dificultó el acceso de los vehículos de apoyo desplegados en el área. Por este motivo, los equipos de emergencia evaluaron cada desplazamiento de acuerdo con las condiciones de seguridad que presenta la ruta internacional.</p>\n<p>Paralelamente, Carabineros dispuso puntos de recepción y registro para la totalidad de las personas evacuadas. La institución coordinó además la derivación de los afectados hacia un establecimiento asistencial con el objetivo de evaluar su estado de salud tras la exposición ambiental.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/biobiotv/programas/podria-ser-peor/2026/10/14/no-lo-puedo-justificar-concejal-de-antofagasta-por-examenes-de-conducir-aprobados-en-menos-de-1-min.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/biobiotv/programas/podria-ser-peor/2026/10/14/no-lo-puedo-justificar-concejal-de-antofagasta-por-examenes-de-conducir-aprobados-en-menos-de-1-min.shtml\">\"No lo puedo justificar\": Concejal de Antofagasta por exámenes de conducir aprobados en menos de 1 min</a>\n\t\t<span style=\"display: none;\">Miércoles 14 Octubre, 2026 | 19:03</span>\n\t</div>\n</div>\n<h2>Coordinación institucional</h2>\n<p>El operativo se extendió hasta cerca de la medianoche en coordinación con el Ejército y las autoridades provinciales para mantener la protección de las personas. El balance definitivo de la jornada será informado una vez consolidados los antecedentes y el número final de rescatados.</p>\n<p>El capitán <strong>Emanuel Guerra</strong>, subcomisario de los Servicios de la 2a Comisaría de San Pedro de Atacama, declaró que &#8220;venimos en rescate de personas que <strong>se quedaron varadas producto de las condiciones climáticas consistentes en hielo y fuertes vientos</strong>&#8220;.</p>\n<p>Respecto de la situación en el punto del bloqueo, el oficial detalló que &#8220;en el bus se encuentran aproximadamente 37 personas y <strong>en los alrededores había 20 motociclistas, de los cuales uno se mantenía lesionado</strong>; era una persona femenina&#8221;.</p>\n<p>En cuanto a las acciones desarrolladas en conjunto con las Fuerzas Armadas, el capitán añadió que &#8220;se hicieron las gestiones y, con ayuda de personal del Ejército, un trabajo mancomunado que se está realizando, un despliegue operativo bastante grande. En la ruta se gestionó un camión en el cual se pudieron bajar a 20 motociclistas, quienes se mantenían a la intemperie, y nos estamos trasladando al sector de Hito Cajón para realizar los primeros auxilios y se procede a la individualización de estas personas&#8221;.</p>\n<h2>Registros:</h2>\n\n\n\n\n\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/10/15/rescatan-a-medio-centenar-de-turistas-atrapados-en-la-alta-cordillera-en-san-pedro-de-atacama.shtml\" rel=\"nofollow\">Rescatan a medio centenar de turistas atrapados en la alta cordillera en San Pedro de Atacama</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6960091",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml",
+      "id": "https://www.biobiochile.cl/?p=6985121",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/10/15/rescatan-a-medio-centenar-de-turistas-atrapados-en-la-alta-cordillera-en-san-pedro-de-atacama.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml"
+          "href": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/10/15/rescatan-a-medio-centenar-de-turistas-atrapados-en-la-alta-cordillera-en-san-pedro-de-atacama.shtml"
         }
       ],
-      "published": "Mon, 21 Sep 2026 18:14:18 +0000",
+      "published": "Thu, 15 Oct 2026 03:04:21 +0000",
       "published_parsed": [
         2026,
-        9,
+        10,
+        15,
+        3,
+        4,
         21,
-        18,
-        14,
-        18,
-        0,
-        264,
+        3,
+        288,
         0
       ],
-      "summary": "<p>Hasta más de 80 años de cárcel recibieron los comuneros que lideraron el ataque a la familia Grollmus y el incendio al molino, registrado el 29 de agosto de 2022 en Contulmo, en la región del Bío Bío. En el Tribunal Oral en lo Penal de Cañete se leyó este lunes la sentencia de los &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml\" rel=\"nofollow\">Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>Funcionarios de Carabineros de la Prefectura El Loa y efectivos del Ejército realizaron un operativo de rescate y asistencia en la ruta internacional 27-CH tras el accidente de un camión en el sector cordillerano de San Pedro de Atacama. La presencia de hielo en la vía provocó que el vehículo de carga perdiera el control &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/10/15/rescatan-a-medio-centenar-de-turistas-atrapados-en-la-alta-cordillera-en-san-pedro-de-atacama.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Rescatan a medio centenar de turistas atrapados en la alta cordillera en San Pedro de Atacama\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/10/15/rescatan-a-medio-centenar-de-turistas-atrapados-en-la-alta-cordillera-en-san-pedro-de-atacama.shtml\" rel=\"nofollow\">Rescatan a medio centenar de turistas atrapados en la alta cordillera en San Pedro de Atacama</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Hasta más de 80 años de cárcel recibieron los comuneros que lideraron el ataque a la familia Grollmus y el incendio al molino, registrado el 29 de agosto de 2022 en Contulmo, en la región del Bío Bío. En el Tribunal Oral en lo Penal de Cañete se leyó este lunes la sentencia de los &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/21/mas-de-80-anos-de-carcel-reciben-lideres-de-rml-por-ataque-a-familia-y-a-molino-grollmus.shtml\" rel=\"nofollow\">Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>Funcionarios de Carabineros de la Prefectura El Loa y efectivos del Ejército realizaron un operativo de rescate y asistencia en la ruta internacional 27-CH tras el accidente de un camión en el sector cordillerano de San Pedro de Atacama. La presencia de hielo en la vía provocó que el vehículo de carga perdiera el control &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/10/15/rescatan-a-medio-centenar-de-turistas-atrapados-en-la-alta-cordillera-en-san-pedro-de-atacama.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Rescatan a medio centenar de turistas atrapados en la alta cordillera en San Pedro de Atacama\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/10/15/rescatan-a-medio-centenar-de-turistas-atrapados-en-la-alta-cordillera-en-san-pedro-de-atacama.shtml\" rel=\"nofollow\">Rescatan a medio centenar de turistas atrapados en la alta cordillera en San Pedro de Atacama</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Región del Bío Bío",
+          "term": "Región de Antofagasta",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Concepción",
+          "term": "Videos Prensa",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Contulmo",
+          "term": "accidente de camión",
           "scheme": null,
           "label": null
         },
         {
-          "term": "molino grollmus",
+          "term": "alta cordillera",
           "scheme": null,
           "label": null
         },
         {
-          "term": "region del bio bio",
+          "term": "Asistencia",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "bloqueo en la ruta",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "capitán Emanuel Guerra",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "carga del vehículo",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "condiciones meteorológicas adversas",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "coordinación interinstitucional",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "despliegue de evacuación",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Ejército",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "establecimiento asistencial",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Evacuación",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Fuertes vientos",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Funcionarios de Carabineros",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "gestiones con el Ejército",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "hielo en la vía",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "hielo y nieve en la calzada",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "individualización de personas",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "interrupción del tránsito",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "lesión en el hombro",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Mal de altura",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "motociclistas",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "motociclistas evacuados",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "operativo de rescate",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "pasajeros de bus",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Personal del Ejército",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Prefectura El Loa",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Primeros Auxilios",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "puntos de recepción y registro",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "rescatan turistas san pedro atacama",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Rescate de personas",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Ruta Internacional 27 Ch",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "San Pedro de Atacama",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus",
+      "title": "Rescatan a medio centenar de turistas atrapados en la alta cordillera en San Pedro de Atacama",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Más de 80 años de cárcel reciben líderes de RML por ataque a familia y a molino Grollmus"
+        "value": "Rescatan a medio centenar de turistas atrapados en la alta cordillera en San Pedro de Atacama"
       }
     }
   }
