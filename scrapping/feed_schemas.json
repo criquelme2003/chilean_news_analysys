@@ -20,82 +20,72 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Felipe Betancour",
+      "author": "The Clinic",
       "author_detail": {
-        "name": "Felipe Betancour"
+        "name": "The Clinic"
       },
       "authors": [
         {
-          "name": "Felipe Betancour"
+          "name": "The Clinic"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1810412",
-      "link": "https://www.theclinic.cl/2026/10/17/para-hacer-una-pelicula-solo-hace-falta-un-arma-del-argentino-santiago-sein-obtiene-el-maximo-galardon-en-el-ficvaldivia/",
+      "id": "https://www.theclinic.cl/?p=1810457",
+      "link": "https://www.theclinic.cl/2026/10/18/macron-responsabiliza-a-la-extrema-izquierda-por-violencia-en-francia-y-trump-llama-a-cerrar-las-fronteras-las-fuertes-imagenes-que-recuerdan-al-estallido-chileno/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/10/17/para-hacer-una-pelicula-solo-hace-falta-un-arma-del-argentino-santiago-sein-obtiene-el-maximo-galardon-en-el-ficvaldivia/"
+          "href": "https://www.theclinic.cl/2026/10/18/macron-responsabiliza-a-la-extrema-izquierda-por-violencia-en-francia-y-trump-llama-a-cerrar-las-fronteras-las-fuertes-imagenes-que-recuerdan-al-estallido-chileno/"
         }
       ],
-      "published": "Sun, 18 Oct 2026 00:27:48 +0000",
+      "published": "Sun, 18 Oct 2026 21:41:53 +0000",
       "published_parsed": [
         2026,
         10,
         18,
-        0,
-        27,
-        48,
+        21,
+        41,
+        53,
         6,
         291,
         0
       ],
-      "summary": "<p>La 33ª edición del Festival Internacional de Cine de Valdivia distinguió a la película argentina de Santiago Sein con el Pudú a Mejor Largometraje. En tanto, el premio para la mejor película chilena fue para \"Hijas Únikas\" de Alba Gaviraghi.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/17/para-hacer-una-pelicula-solo-hace-falta-un-arma-del-argentino-santiago-sein-obtiene-el-maximo-galardon-en-el-ficvaldivia/\">&#8220;Para hacer una película solo hace falta un arma&#8221; del argentino Santiago Sein obtiene el máximo galardón en el FICValdivia</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>El incendio que destruyó el histórico Ayuntamiento de Limoges se convirtió en uno de los símbolos de las manifestaciones contra el costo de la vida en Francia. En una jornada que dejó miles de detenidos, Emmanuel Macron apuntó contra grupos de ultraizquierda, mientras Donald Trump responsabilizó a la inmigración.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/18/macron-responsabiliza-a-la-extrema-izquierda-por-violencia-en-francia-y-trump-llama-a-cerrar-las-fronteras-las-fuertes-imagenes-que-recuerdan-al-estallido-chileno/\">Macron responsabiliza a la extrema izquierda por violencia en Francia y Trump llama a cerrar las fronteras: las fuertes imágenes que recuerdan al estallido chileno</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La 33ª edición del Festival Internacional de Cine de Valdivia distinguió a la película argentina de Santiago Sein con el Pudú a Mejor Largometraje. En tanto, el premio para la mejor película chilena fue para \"Hijas Únikas\" de Alba Gaviraghi.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/17/para-hacer-una-pelicula-solo-hace-falta-un-arma-del-argentino-santiago-sein-obtiene-el-maximo-galardon-en-el-ficvaldivia/\">&#8220;Para hacer una película solo hace falta un arma&#8221; del argentino Santiago Sein obtiene el máximo galardón en el FICValdivia</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>El incendio que destruyó el histórico Ayuntamiento de Limoges se convirtió en uno de los símbolos de las manifestaciones contra el costo de la vida en Francia. En una jornada que dejó miles de detenidos, Emmanuel Macron apuntó contra grupos de ultraizquierda, mientras Donald Trump responsabilizó a la inmigración.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/18/macron-responsabiliza-a-la-extrema-izquierda-por-violencia-en-francia-y-trump-llama-a-cerrar-las-fronteras-las-fuertes-imagenes-que-recuerdan-al-estallido-chileno/\">Macron responsabiliza a la extrema izquierda por violencia en Francia y Trump llama a cerrar las fronteras: las fuertes imágenes que recuerdan al estallido chileno</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Tiempo Libre",
+          "term": "Ciudad",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Alessandra Sanguinetti",
+          "term": "Francia",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Festival Internacional de Cine de Valdivia",
+          "term": "MAcron",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Hijas Únikas",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Santiago Sein",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "valdivia",
+          "term": "Trump",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "“Para hacer una película solo hace falta un arma” del argentino Santiago Sein obtiene el máximo galardón en el FICValdivia",
+      "title": "Macron responsabiliza a la extrema izquierda por violencia en Francia y Trump llama a cerrar las fronteras: las fuertes imágenes que recuerdan al estallido chileno",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "“Para hacer una película solo hace falta un arma” del argentino Santiago Sein obtiene el máximo galardón en el FICValdivia"
+        "value": "Macron responsabiliza a la extrema izquierda por violencia en Francia y Trump llama a cerrar las fronteras: las fuertes imágenes que recuerdan al estallido chileno"
       }
     }
   },
@@ -135,41 +125,46 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p><strong>Al </strong><strong>menos tres muertos y cuatro heridos deja una avalancha</strong> que se registró&nbsp;en el sector de Laguna del Inca, <strong>cercano al centro hotelero y de esquí Ski Portillo,</strong> en la comuna de<strong> Los Andes</strong>, Región de Valparaíso.</p>\n\n\n\n<p>Según informó el Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred), <strong>las personas lesionadas están siendo atendidas y evaluadas por personal del SAMU</strong>, Serán trasladas a distintos centros asistenciales de acuerdo con la gravedad de sus lesiones, informó Radio <em>Cooperativa.</em></p>\n\n\n\n<p>Senapred<strong> reportó inicialmente cuatro personas fallecidas,</strong> pero el delegado presidencial de Valparaíso, <strong>Manuel Millones, precisó:</strong> <strong>&#8220;Hubo una información errónea desde el SAMU,</strong> que reportó cuatro muertos y por eso la información que replicó Senapred fue incorrecta&#8221;.</p>\n\n\n\n<p><strong>&#8220;Son tres fallecidos y el total de personas afectadas fueron siete.</strong> Hay dos cuerpos rescatados y uno está en el agua, en este caso, de la laguna. <strong>Por su profundidad de 30 metros, no tenemos los implementos para rescatarlo</strong>. Hay que ordenar la diligencia a otra institución&#8221;, indicó, consignó el medio citado.</p>\n\n\n\n<p>Senapred<strong> no descarta que haya más personas afectadas.</strong></p>\n<p>The post <a href=\"https://www.lanacion.cl/avalancha-en-portillo-al-menos-tres-muertos-y-cuatro-heridos/\" rel=\"nofollow\">Avalancha en Portillo: Al menos tres muertos y cuatro heridos</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p>El Gobierno anunció la noche de este domingo que se suspenderán las clases este martes 20 de octubre en 10 comunas de la Región Metropolitana que se encuentran bajo Alerta Roja. Esto por la posibilidad de remociones en masa.</p>\n\n\n\n<p>La medida fue comunicada por el <strong>biministro del Interior y de la Segegob, Claudio Alvarado,</strong> <strong>tras una mesa técnica con delegados presidenciales y directores regionales del Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred)</strong>. En esta se analizaron las condiciones meteorológicas previstas para los próximos días, consignó <em>T13.</em></p>\n\n\n\n<p>Las comunas donde se suspenderán las clases son <strong>San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina.</strong></p>\n\n\n\n<p>Alvarado explicó que <strong>la decisión responde a la necesidad de tomar medidas preventivas ante el riesgo de remociones en masa </strong>y proteger a la población frente a las condiciones climáticas inestables que se esperan durante la semana.</p>\n\n\n\n<p>El Gobierno informó que<strong> la situación del resto de las comunas de la Región Metropolitana y de la Región de O’Higgins será evaluada</strong>, y que este lunes se tomará una decisión respecto de eventuales medidas adicionales.</p>\n<p>The post <a href=\"https://www.lanacion.cl/suspenden-clases-este-martes-en-10-comunas-de-la-rm-con-alerta-roja-por-riesgo-de-remocion-en-masa/\" rel=\"nofollow\">Suspenden clases este martes en 10 comunas de la RM con Alerta Roja por riesgo de remoción en masa</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=418209",
-      "link": "https://www.lanacion.cl/avalancha-en-portillo-al-menos-tres-muertos-y-cuatro-heridos/",
+      "id": "https://www.lanacion.cl/?p=418218",
+      "link": "https://www.lanacion.cl/suspenden-clases-este-martes-en-10-comunas-de-la-rm-con-alerta-roja-por-riesgo-de-remocion-en-masa/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/avalancha-en-portillo-al-menos-tres-muertos-y-cuatro-heridos/"
+          "href": "https://www.lanacion.cl/suspenden-clases-este-martes-en-10-comunas-de-la-rm-con-alerta-roja-por-riesgo-de-remocion-en-masa/"
         }
       ],
-      "published": "Sat, 17 Oct 2026 22:59:57 +0000",
+      "published": "Mon, 19 Oct 2026 01:05:40 +0000",
       "published_parsed": [
         2026,
         10,
-        17,
-        22,
-        59,
-        57,
+        19,
+        1,
         5,
-        290,
+        40,
+        0,
+        292,
         0
       ],
-      "summary": "<p>Al menos tres muertos y cuatro heridos deja una avalancha que se registró&#160;en el sector de Laguna del Inca, cercano al centro hotelero y de esquí Ski Portillo, en la comuna de Los Andes, Región de Valparaíso. Según informó el Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred), las personas lesionadas están siendo atendidas y [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/avalancha-en-portillo-al-menos-tres-muertos-y-cuatro-heridos/\" rel=\"nofollow\">Avalancha en Portillo: Al menos tres muertos y cuatro heridos</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>El Gobierno anunció la noche de este domingo que se suspenderán las clases este martes 20 de octubre en 10 comunas de la Región Metropolitana que se encuentran bajo Alerta Roja. Esto por la posibilidad de remociones en masa. La medida fue comunicada por el biministro del Interior y de la Segegob, Claudio Alvarado, tras una [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/suspenden-clases-este-martes-en-10-comunas-de-la-rm-con-alerta-roja-por-riesgo-de-remocion-en-masa/\" rel=\"nofollow\">Suspenden clases este martes en 10 comunas de la RM con Alerta Roja por riesgo de remoción en masa</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Al menos tres muertos y cuatro heridos deja una avalancha que se registró&#160;en el sector de Laguna del Inca, cercano al centro hotelero y de esquí Ski Portillo, en la comuna de Los Andes, Región de Valparaíso. Según informó el Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred), las personas lesionadas están siendo atendidas y [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/avalancha-en-portillo-al-menos-tres-muertos-y-cuatro-heridos/\" rel=\"nofollow\">Avalancha en Portillo: Al menos tres muertos y cuatro heridos</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>El Gobierno anunció la noche de este domingo que se suspenderán las clases este martes 20 de octubre en 10 comunas de la Región Metropolitana que se encuentran bajo Alerta Roja. Esto por la posibilidad de remociones en masa. La medida fue comunicada por el biministro del Interior y de la Segegob, Claudio Alvarado, tras una [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/suspenden-clases-este-martes-en-10-comunas-de-la-rm-con-alerta-roja-por-riesgo-de-remocion-en-masa/\" rel=\"nofollow\">Suspenden clases este martes en 10 comunas de la RM con Alerta Roja por riesgo de remoción en masa</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
           "term": "Nacional",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Política",
           "scheme": null,
           "label": null
         },
@@ -179,37 +174,52 @@
           "label": null
         },
         {
-          "term": "avalancha",
+          "term": "alerta",
           "scheme": null,
           "label": null
         },
         {
-          "term": "cuatro",
+          "term": "clases",
           "scheme": null,
           "label": null
         },
         {
-          "term": "herdos",
+          "term": "masa",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Los Andes",
+          "term": "remoción",
           "scheme": null,
           "label": null
         },
         {
-          "term": "tres muertos",
+          "term": "riesgo",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "roja",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Senapred",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "suspensión",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Avalancha en Portillo: Al menos tres muertos y cuatro heridos",
+      "title": "Suspenden clases este martes en 10 comunas de la RM con Alerta Roja por riesgo de remoción en masa",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Avalancha en Portillo: Al menos tres muertos y cuatro heridos"
+        "value": "Suspenden clases este martes en 10 comunas de la RM con Alerta Roja por riesgo de remoción en masa"
       }
     }
   },
@@ -238,55 +248,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261017",
-      "df_fechapl": "Sábado 17 de octubre de 2026",
+      "df_fechap": "20261018",
+      "df_fechapl": "Domingo 18 de octubre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261017/imag/foto_0000001120261017104853/fondo_e.jpg",
-      "df_horap": "21:00",
-      "df_tagnames": "Azucena González",
-      "df_ts": "20261017104853",
+      "df_foto600": "/noticias/site/artic/20261018/imag/foto_0000002720261018111816/Aton_1200611.jpeg",
+      "df_horap": "19:00",
+      "df_tagnames": "18 de octubre,estallido social,protesta",
+      "df_ts": "20261018111816",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261017/pags/20261017104853.html",
-      "link": "http://www.df.cl/df-mas/por-dentro/los-swaps-el-efecto-manada-el-riesgo-sistemico-las-responsabilidades",
+      "id": "http://www.df.cl/noticias/site/artic/20261018/pags/20261018111816.html",
+      "link": "http://www.df.cl/economia-y-politica/pais/comienzan-a-llegar-a-plaza-baquedano-y-ahumada-manifestantes-para",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/df-mas/por-dentro/los-swaps-el-efecto-manada-el-riesgo-sistemico-las-responsabilidades"
+          "href": "http://www.df.cl/economia-y-politica/pais/comienzan-a-llegar-a-plaza-baquedano-y-ahumada-manifestantes-para"
         }
       ],
-      "published": "Sat, 17 Oct 2026 17:10:33 GMT",
+      "published": "Sun, 18 Oct 2026 22:38:30 GMT",
       "published_parsed": [
         2026,
         10,
-        17,
-        17,
-        10,
-        33,
-        5,
-        290,
+        18,
+        22,
+        38,
+        30,
+        6,
+        291,
         0
       ],
-      "summary": "¿Fallaron los reguladores? ¿Podría volver a suceder cuando se pongan en marcha los fondos generacionales de la reforma al sistema? Aquí 8 preguntas de un caso que volvió a poner en el banquillo a la industria previsional.",
+      "summary": "Los principales distubios se han concentrado a la altura de Portugal con La Alameda, ante el frontis de la Casa Central de La Universidad Católica, donde Carabineros impidió el paso de una marcha. Metro de Santiago informó el cierre de las estaciones Santa Lucía y Universidad Católica, que se encuentran sin detención de trenes, además del cierre de los accesos de Estación Baquedano.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "¿Fallaron los reguladores? ¿Podría volver a suceder cuando se pongan en marcha los fondos generacionales de la reforma al sistema? Aquí 8 preguntas de un caso que volvió a poner en el banquillo a la industria previsional."
+        "value": "Los principales distubios se han concentrado a la altura de Portugal con La Alameda, ante el frontis de la Casa Central de La Universidad Católica, donde Carabineros impidió el paso de una marcha. Metro de Santiago informó el cierre de las estaciones Santa Lucía y Universidad Católica, que se encuentran sin detención de trenes, además del cierre de los accesos de Estación Baquedano."
       },
       "tags": [
         {
-          "term": "DF MAS",
+          "term": "Economía y Política",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Los swaps, el efecto “manada”, el riesgo sistémico, las responsabilidades: la semana negra del fondo E",
+      "title": "Incidentes aislados se registran durante las manifestaciones por la conmemoración del séptimo aniversario del estallido social",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Los swaps, el efecto “manada”, el riesgo sistémico, las responsabilidades: la semana negra del fondo E"
+        "value": "Incidentes aislados se registran durante las manifestaciones por la conmemoración del séptimo aniversario del estallido social"
       }
     }
   },
@@ -312,13 +322,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Jeser Lara",
+      "author": "Constanza Bello Caipillán",
       "author_detail": {
-        "name": "Jeser Lara"
+        "name": "Constanza Bello Caipillán"
       },
       "authors": [
         {
-          "name": "Jeser Lara"
+          "name": "Constanza Bello Caipillán"
         }
       ],
       "content": [
@@ -326,121 +336,126 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>Una avalancha se registró este sábado en el centro de esquí <strong>Portillo</strong> cerca de la <strong>Laguna del Inca</strong> de la comuna de Los Andes y provocó la muerte de al menos tres personas.</p>\n<p>El Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) indicó en un primer momento que el número de víctimas fatales era de cuatro, pero a última hora de hoy rectificó y lo redujo a tres.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/17/siete-montanistas-son-arrastrados-por-deslizamiento-de-nieve-en-laguna-del-inca-al-menos-3-murieron.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/17/siete-montanistas-son-arrastrados-por-deslizamiento-de-nieve-en-laguna-del-inca-al-menos-3-murieron.shtml\">Siete montañistas son arrastrados por deslizamiento de nieve en Los Andes: tres de ellos murieron</a>\n\t\t<span style=\"display: none;\">Sábado 17 Octubre, 2026 | 15:36</span>\n\t</div>\n</div>\n<h2>Laguna del Inca: lugar de la tragedia </h2>\n<p>Además, otros cuatro excursionistas resultaron heridos de distinta gravedad y fueron atendidos por signos de hipotermia.</p>\n<p>El accidente tuvo lugar en los alrededores de la <strong>Laguna del Inca, en el Centro de Esquí Portillo,</strong> el más antiguo de Suramérica, ubicado a dos horas de Santiago y a solo tres kilómetros del Paso Internacional Los Libertadores, que separa la región de Valparaíso con Mendoza (Argentina).</p>\n<p>La avalancha arrastró al grupo de excursionistas a <strong>las aguas heladas de la laguna,</strong> donde los equipos de rescate desplegaron un intenso operativo para recuperar los cuerpos.</p>\n<p>Según el delegado presidencial de la región de Valparaíso, Manuel Millones, los equipos de rescate solo pudieron recuperar dos cuerpos y carecen de momento de maquinaria para sacar el tercero del agua.</p>\n<p>El centro de esquí lamentó los hechos y explicó en un comunicado que <strong>&#8220;el sector donde ocurrió el accidente se encuentra fuera del área esquiable habilitada&#8221;. </strong></p>\n<p>En redes sociales, en tanto, se difundieron imágenes de parte de la avalancha que cobró estas tres víctimas fatales en la Laguna del Inca, en la comuna de Los Andes. </p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">Una avalancha en el sector sur de la Laguna del Inca, en Los Andes, dejó tres fallecidos y cuatro lesionados, según el balance rectificado por las autoridades. Los afectados integraban un grupo de siete excursionistas que se dirigía al cerro Los Tres Hermanos. https://t.co/T7O4k5qpjB</p>\n<p>&mdash; AgenciaUno (@agenciaunochile) <a href=\"https://x.com/agenciaunochile/status/2111618989311062143?ref_src=twsrc%5Etfw\">October 18, 2026</a></p></blockquote>\n<p></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/18/video-i-asi-fue-la-avalancha-que-cobro-la-vida-de-tres-montanistas-en-los-andes.shtml\" rel=\"nofollow\">VIDEO I Así fue la avalancha que cobró la vida de tres montañistas en Los Andes</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>Pese a que <strong>Daniela Nicolás</strong> suele estar lejos del foco de la polémica, en el reciente episodio de <a href=\"https://www.chilevision.cl/programas/fiebre-de-canto/\" rel=\"noopener\" target=\"_blank\"><em>&#8216;Fiebre de Canto&#8217;</em></a> se enfrentó en vivo con<strong> Fanny Cuevas</strong>, quien sin titubeos la llamó &#8220;chanta&#8221;.</p>\n<p>Todo surgió por los dichos de la rubia la semana pasada cuando Etienne Bobenrieth fue eliminado. En esa ocasión, la originaria de Copiapó admitió que Cuevas y Kurt Carrera deberían haber enfrentado la eliminación por su mal desempeño vocal.</p>\n<p>A raíz de aquello, la ex &#8220;chica reality&#8221; le quitó el saludo a quien se creía era su amiga, lo cual Diana Bolocco decidió sacar a colación este domingo; sin embargo, provocó un duro enfrentamiento.</p>\n<p>Mientras la ex Miss Universo Chile hablaba con la animadora en el backstage, se podía ver cómo la morena escribió en una pizarra la palabra &#8220;chanta&#8221;, ante lo que la animadora pidió hablar con ella.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/10/18/sr-kampos-de-expaciente-teleton-a-un-paso-de-estar-en-vina-27-sone-que-camiroaga-me-presentaba.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/10/18/sr-kampos-de-expaciente-teleton-a-un-paso-de-estar-en-vina-27-sone-que-camiroaga-me-presentaba.shtml\">Sr. Kampos, de expaciente Teletón a un paso de estar en Viña 27: \"Soñé que Camiroaga me presentaba\"</a>\n\t\t<span style=\"display: none;\">Domingo 18 Octubre, 2026 | 19:20</span>\n\t</div>\n</div>\n<p>Sin embargo, la primera en reaccionar fue Daniela Nicolás: &#8220;Si ella me está agrediendo diciéndome chanta en la televisión abierta, al menos que diga por qué&#8221;.</p>\n<p>&#8220;Encuentro super chanta a la Daniela porque dice &#8216;la quiero mucho&#8217; y después quiere que me vaya, es como raro&#8221;, alcanzó a decir la morena antes de ser interrumpida.</p>\n<p>&#8220;Este es un programa de canto, Fanny, y con todo el cariño que te tengo te puedo decir también: soy lejos de ser la mejor de este programa vocalmente&#8221;, dijo la actriz.</p>\n<p>Y Cuevas no le dio tregua: &#8220;Se notó, Dani, se notó en tu presentación&#8221;. Pero su ex amiga tampoco desistió.</p>\n<p>&#8220;Creo que hay muchísimos compañeros que son mucho mejores que yo y lo tomo con la mayor humildad y, por lo mismo, también creo que ustedes son más débiles que yo y que otros compañeros&#8221;, insistió Daniela Nicolás.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/10/18/de-estudiar-galaxias-a-cocinar-en-tv-la-cientifica-tailandesa-que-sorprende-en-masterchef-chile.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/10/18/de-estudiar-galaxias-a-cocinar-en-tv-la-cientifica-tailandesa-que-sorprende-en-masterchef-chile.shtml\">De estudiar galaxias a cocinar en TV: la científica tailandesa que sorprende en MasterChef Chile</a>\n\t\t<span style=\"display: none;\">Domingo 18 Octubre, 2026 | 12:52</span>\n\t</div>\n</div>\n<p>Pero Fanny Cuevas se defendió diciendo que aquello lo decidía el jurado, no los participantes, y que ella solo buscaba competir consigo misma.</p>\n<p>En ese momento la rubia volvió a intervenir:<strong> &#8220;Yo jamás te diría chanta en televisión abierta, Fanny, eso es una falta de respeto&#8221;</strong>, dijo, provocando los aplausos en el público.</p>\n<p>&#8220;Habla lo que quieras en televisión, porque siempre vas a querer quedar como la buena, la simpática y la que no quiere hablar&#8221;, le lanzó la ex <em>&#8216;Mundos Opuestos&#8217;</em>. </p>\n<p>Ante ello, Daniela Nicolás se defendió diciendo que aquello ya le había hecho la crítica detrás de cámaras, por lo que no debería ser una sorpresa.</p>\n<p>Dado lo álgido de la discusión, la modelo optó por responderle con sarcasmo: <strong>&#8220;Perdónenme por ser tan chanta, chiquillos, voy a mejorar para la próxima vez&#8221;</strong>, concluyó poniéndole fin a la conversación.</p>\n<p>Cabe mencionar que, luego del enfrentamiento, la morena se presentó ante el jurado, pero optó por renunciar al programa para retomar su vida en Brasil y su empresa de alojamientos.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/dopamina/2026/10/19/fanny-cuevas-le-dijo-chanta-a-daniela-nicolas-y-se-enfrentaron-en-vivo-es-una-falta-de-respeto.shtml\" rel=\"nofollow\">Fanny Cuevas le dijo &quot;chanta&quot; a Daniela Nicolás y se enfrentaron en vivo: &quot;Es una falta de respeto&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6987868",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/18/video-i-asi-fue-la-avalancha-que-cobro-la-vida-de-tres-montanistas-en-los-andes.shtml",
+      "id": "https://www.biobiochile.cl/?p=6988303",
+      "link": "https://www.biobiochile.cl/noticias/dopamina/2026/10/19/fanny-cuevas-le-dijo-chanta-a-daniela-nicolas-y-se-enfrentaron-en-vivo-es-una-falta-de-respeto.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/18/video-i-asi-fue-la-avalancha-que-cobro-la-vida-de-tres-montanistas-en-los-andes.shtml"
+          "href": "https://www.biobiochile.cl/noticias/dopamina/2026/10/19/fanny-cuevas-le-dijo-chanta-a-daniela-nicolas-y-se-enfrentaron-en-vivo-es-una-falta-de-respeto.shtml"
         }
       ],
-      "published": "Sun, 18 Oct 2026 03:19:03 +0000",
+      "published": "Mon, 19 Oct 2026 03:25:40 +0000",
       "published_parsed": [
         2026,
         10,
-        18,
-        3,
         19,
         3,
-        6,
-        291,
+        25,
+        40,
+        0,
+        292,
         0
       ],
-      "summary": "<p>Una avalancha se registró este sábado en el centro de esquí Portillo cerca de la Laguna del Inca de la comuna de Los Andes y provocó la muerte de al menos tres personas. El Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) indicó en un primer momento que el número de víctimas fatales era &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/18/video-i-asi-fue-la-avalancha-que-cobro-la-vida-de-tres-montanistas-en-los-andes.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"VIDEO I Así fue la avalancha que cobró la vida de tres montañistas en Los Andes\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/18/video-i-asi-fue-la-avalancha-que-cobro-la-vida-de-tres-montanistas-en-los-andes.shtml\" rel=\"nofollow\">VIDEO I Así fue la avalancha que cobró la vida de tres montañistas en Los Andes</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>Pese a que Daniela Nicolás suele estar lejos del foco de la polémica, en el reciente episodio de &#8216;Fiebre de Canto&#8217; se enfrentó en vivo con Fanny Cuevas, quien sin titubeos la llamó &#8220;chanta&#8221;. Todo surgió por los dichos de la rubia la semana pasada cuando Etienne Bobenrieth fue eliminado. En esa ocasión, la originaria &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/dopamina/2026/10/19/fanny-cuevas-le-dijo-chanta-a-daniela-nicolas-y-se-enfrentaron-en-vivo-es-una-falta-de-respeto.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Fanny Cuevas le dijo \"chanta\" a Daniela Nicolás y se enfrentaron en vivo: \"Es una falta de respeto\"\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/dopamina/2026/10/19/fanny-cuevas-le-dijo-chanta-a-daniela-nicolas-y-se-enfrentaron-en-vivo-es-una-falta-de-respeto.shtml\" rel=\"nofollow\">Fanny Cuevas le dijo &quot;chanta&quot; a Daniela Nicolás y se enfrentaron en vivo: &quot;Es una falta de respeto&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Una avalancha se registró este sábado en el centro de esquí Portillo cerca de la Laguna del Inca de la comuna de Los Andes y provocó la muerte de al menos tres personas. El Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) indicó en un primer momento que el número de víctimas fatales era &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/18/video-i-asi-fue-la-avalancha-que-cobro-la-vida-de-tres-montanistas-en-los-andes.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"VIDEO I Así fue la avalancha que cobró la vida de tres montañistas en Los Andes\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/18/video-i-asi-fue-la-avalancha-que-cobro-la-vida-de-tres-montanistas-en-los-andes.shtml\" rel=\"nofollow\">VIDEO I Así fue la avalancha que cobró la vida de tres montañistas en Los Andes</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>Pese a que Daniela Nicolás suele estar lejos del foco de la polémica, en el reciente episodio de &#8216;Fiebre de Canto&#8217; se enfrentó en vivo con Fanny Cuevas, quien sin titubeos la llamó &#8220;chanta&#8221;. Todo surgió por los dichos de la rubia la semana pasada cuando Etienne Bobenrieth fue eliminado. En esa ocasión, la originaria &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/dopamina/2026/10/19/fanny-cuevas-le-dijo-chanta-a-daniela-nicolas-y-se-enfrentaron-en-vivo-es-una-falta-de-respeto.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Fanny Cuevas le dijo \"chanta\" a Daniela Nicolás y se enfrentaron en vivo: \"Es una falta de respeto\"\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/dopamina/2026/10/19/fanny-cuevas-le-dijo-chanta-a-daniela-nicolas-y-se-enfrentaron-en-vivo-es-una-falta-de-respeto.shtml\" rel=\"nofollow\">Fanny Cuevas le dijo &quot;chanta&quot; a Daniela Nicolás y se enfrentaron en vivo: &quot;Es una falta de respeto&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Región de Valparaíso",
+          "term": "Dopamina",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Accidente",
+          "term": "celebridades",
           "scheme": null,
           "label": null
         },
         {
-          "term": "avalancha",
+          "term": "chanta",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Centro de Esquí Portillo",
+          "term": "Daniela Nicolás",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Excursionistas",
+          "term": "Diana Bolocco",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Hipotermia",
+          "term": "dopamina",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Laguna del Inca",
+          "term": "Espectáculos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Laguna del Inca: lugar de la tragedia",
+          "term": "Etienne Bobenrieth",
           "scheme": null,
           "label": null
         },
         {
-          "term": "los Andes",
+          "term": "Ex amiga",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Mendoza.tres personas",
+          "term": "Fanny Cuevas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Paso Internacional Los Libertadores",
+          "term": "fiebre de canto",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Portillo",
+          "term": "kurt carrera",
           "scheme": null,
           "label": null
         },
         {
-          "term": "redes sociales",
+          "term": "Mundos Opuestos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Rescate",
+          "term": "seleccion-tendencias",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Valparaíso",
+          "term": "TV",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "TV abierta",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "VIDEO I Así fue la avalancha que cobró la vida de tres montañistas en Los Andes",
+      "title": "Fanny Cuevas le dijo \"chanta\" a Daniela Nicolás y se enfrentaron en vivo: \"Es una falta de respeto\"",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "VIDEO I Así fue la avalancha que cobró la vida de tres montañistas en Los Andes"
+        "value": "Fanny Cuevas le dijo \"chanta\" a Daniela Nicolás y se enfrentaron en vivo: \"Es una falta de respeto\""
       }
     }
   }
