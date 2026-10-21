@@ -20,57 +20,77 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Marcelo Silva",
+      "author": "Colomba Bolognesi",
       "author_detail": {
-        "name": "Marcelo Silva"
+        "name": "Colomba Bolognesi"
       },
       "authors": [
         {
-          "name": "Marcelo Silva"
+          "name": "Colomba Bolognesi"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1811448",
-      "link": "https://www.theclinic.cl/2026/10/20/me-duele-lo-que-estamos-viviendo-la-denuncia-por-abuso-sexual-contra-un-estudiante-con-tea-que-golpea-a-una-comunidad-educativa-en-los-lagos/",
+      "id": "https://www.theclinic.cl/?p=1811502",
+      "link": "https://www.theclinic.cl/2026/10/21/licitar-terrenos-fiscales-y-convertir-el-borde-costero-en-polo-turistico-el-plan-del-gobierno-para-potenciar-bahia-inglesa/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/10/20/me-duele-lo-que-estamos-viviendo-la-denuncia-por-abuso-sexual-contra-un-estudiante-con-tea-que-golpea-a-una-comunidad-educativa-en-los-lagos/"
+          "href": "https://www.theclinic.cl/2026/10/21/licitar-terrenos-fiscales-y-convertir-el-borde-costero-en-polo-turistico-el-plan-del-gobierno-para-potenciar-bahia-inglesa/"
         }
       ],
-      "published": "Wed, 21 Oct 2026 02:14:41 +0000",
+      "published": "Wed, 21 Oct 2026 13:36:02 +0000",
       "published_parsed": [
         2026,
         10,
         21,
+        13,
+        36,
         2,
-        14,
-        41,
         2,
         294,
         0
       ],
-      "summary": "<p>El Ministerio Público abrió una causa para establecer qué sucedió al interior de los baños del Colegio Mauricio Hitchcock de Hualaihue. \"Se están recabando declaraciones, ver protocolos y la actuación del colegio para determinar la edad de los presuntos responsables, entre otras diligencias\", dijo el fiscal Marco Antimilla. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/20/me-duele-lo-que-estamos-viviendo-la-denuncia-por-abuso-sexual-contra-un-estudiante-con-tea-que-golpea-a-una-comunidad-educativa-en-los-lagos/\">&#8220;Me duele lo que estamos viviendo&#8221;: La denuncia por abuso sexual contra un estudiante con TEA que golpea a una comunidad educativa en Los Lagos</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>El Ministerio de Bienes Nacionales elabora un plan que contempla 420,39 hectáreas, y en la primera, se licitarán 79,31 hectáreas. El proyecto, que cuenta con el respaldo del Gobierno Regional de Atacama, contempla transformar el borde costero en un gran polo turístico. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/21/licitar-terrenos-fiscales-y-convertir-el-borde-costero-en-polo-turistico-el-plan-del-gobierno-para-potenciar-bahia-inglesa/\">Licitar terrenos fiscales y convertir el borde costero en polo turístico: el plan del Gobierno para potenciar Bahía Inglesa</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El Ministerio Público abrió una causa para establecer qué sucedió al interior de los baños del Colegio Mauricio Hitchcock de Hualaihue. \"Se están recabando declaraciones, ver protocolos y la actuación del colegio para determinar la edad de los presuntos responsables, entre otras diligencias\", dijo el fiscal Marco Antimilla. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/20/me-duele-lo-que-estamos-viviendo-la-denuncia-por-abuso-sexual-contra-un-estudiante-con-tea-que-golpea-a-una-comunidad-educativa-en-los-lagos/\">&#8220;Me duele lo que estamos viviendo&#8221;: La denuncia por abuso sexual contra un estudiante con TEA que golpea a una comunidad educativa en Los Lagos</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>El Ministerio de Bienes Nacionales elabora un plan que contempla 420,39 hectáreas, y en la primera, se licitarán 79,31 hectáreas. El proyecto, que cuenta con el respaldo del Gobierno Regional de Atacama, contempla transformar el borde costero en un gran polo turístico. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/21/licitar-terrenos-fiscales-y-convertir-el-borde-costero-en-polo-turistico-el-plan-del-gobierno-para-potenciar-bahia-inglesa/\">Licitar terrenos fiscales y convertir el borde costero en polo turístico: el plan del Gobierno para potenciar Bahía Inglesa</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Judicial",
+          "term": "Negocios",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Bahía Inglesa",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Catalina Parot",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Ministerio de Bienes Nacionales",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Región de Atacama",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "“Me duele lo que estamos viviendo”: La denuncia por abuso sexual contra un estudiante con TEA que golpea a una comunidad educativa en Los Lagos",
+      "title": "Licitar terrenos fiscales y convertir el borde costero en polo turístico: el plan del Gobierno para potenciar Bahía Inglesa",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "“Me duele lo que estamos viviendo”: La denuncia por abuso sexual contra un estudiante con TEA que golpea a una comunidad educativa en Los Lagos"
+        "value": "Licitar terrenos fiscales y convertir el borde costero en polo turístico: el plan del Gobierno para potenciar Bahía Inglesa"
       }
     }
   },
@@ -96,13 +116,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Patricia Schüller Gamboa",
+      "author": "Leonardo Medina",
       "author_detail": {
-        "name": "Patricia Schüller Gamboa"
+        "name": "Leonardo Medina"
       },
       "authors": [
         {
-          "name": "Patricia Schüller Gamboa"
+          "name": "Leonardo Medina"
         }
       ],
       "content": [
@@ -110,86 +130,76 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>El Ministerio de Educación (Mineduc) informó que <strong>este miércoles 21 de octubre</strong> se retomarán las clases&nbsp;en las regiones <strong>Metropolitana, de Antofagasta, de Coquimbo, Valparaíso y de O’Higgins.</strong></p>\n\n\n\n<p><strong>Este martes se suspendieron las clases </strong>debido a las condiciones meteorológicas asociadas al sistema frontal.</p>\n\n\n\n<ul>\n<li>Región Metropolitana</li>\n\n\n\n<li>Región de Antofagasta</li>\n\n\n\n<li>Región de Coquimbo</li>\n\n\n\n<li>Región de O’Higgins</li>\n\n\n\n<li>Región de Valparaíso</li>\n</ul>\n\n\n\n<p>La información fue difundida a través de las <strong>redes sociales del Ministerio de Educación</strong>, que además llamó a la comunidad educativa a mantenerse informada por medio de los canales oficiales de cada establecimiento, ante posibles<strong> situaciones particulares</strong> que puedan afectar el retorno a clases, consignó <em>T13</em>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">La Florida mantiene suspendidas las clases</h2>\n\n\n\n<p>El alcalde de La Florida, Daniel Reyes, informó esta noche que las clases se mantendrán suspendidas este miércoles 21 en los colegios municipalizados de la comuna.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-wp-embed is-provider-la-nacion wp-block-embed-la-nacion\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"wp-embedded-content\"><a href=\"https://www.lanacion.cl/declaran-alerta-roja-en-toda-la-rm-por-intensa-lluvia-y-granizos-en-diversas-comunas/\">Declaran Alerta Roja en toda la RM por intensa lluvia y granizos en diversas comunas</a></blockquote>\n</div></figure>\n<p>The post <a href=\"https://www.lanacion.cl/mineduc-anuncia-que-se-reanudan-las-clases-este-miercoles-21-en-5-regiones/\" rel=\"nofollow\">Mineduc anuncia que se reanudan las clases este miércoles 21 en 5 regiones  </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p>El entrenador neerlandés, <strong>Erik ten Hag, recordó el conflicto que tuvo con Cristiano Ronaldo cuando lo dirigió en el Manchester United</strong> y lanzó un dardo al ídolo portugués.&nbsp;</p>\n\n\n\n<p>Para seguir leyendo esta nota <a href=\"https://www.triunfo.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi\"><strong>haz clic aquí, en el sitio web de Triunfo</strong></a>.</p>\n<p>The post <a href=\"https://www.lanacion.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi/\" rel=\"nofollow\">Erik ten Hag recuerda conflicto con Cristiano Ronaldo en el United: “Decepcionó al equipo y me decepcionó a mí”</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=418483",
-      "link": "https://www.lanacion.cl/mineduc-anuncia-que-se-reanudan-las-clases-este-miercoles-21-en-5-regiones/",
+      "id": "https://www.lanacion.cl/?p=418513",
+      "link": "https://www.lanacion.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/mineduc-anuncia-que-se-reanudan-las-clases-este-miercoles-21-en-5-regiones/"
+          "href": "https://www.lanacion.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi/"
         }
       ],
-      "published": "Wed, 21 Oct 2026 00:26:19 +0000",
+      "published": "Wed, 21 Oct 2026 13:31:49 +0000",
       "published_parsed": [
         2026,
         10,
         21,
-        0,
-        26,
-        19,
+        13,
+        31,
+        49,
         2,
         294,
         0
       ],
-      "summary": "<p>El Ministerio de Educación (Mineduc) informó que este miércoles 21 de octubre se retomarán las clases&#160;en las regiones Metropolitana, de Antofagasta, de Coquimbo, Valparaíso y de O’Higgins. Este martes se suspendieron las clases debido a las condiciones meteorológicas asociadas al sistema frontal. La información fue difundida a través de las redes sociales del Ministerio de [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/mineduc-anuncia-que-se-reanudan-las-clases-este-miercoles-21-en-5-regiones/\" rel=\"nofollow\">Mineduc anuncia que se reanudan las clases este miércoles 21 en 5 regiones  </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>El entrenador neerlandés, Erik ten Hag, recordó el conflicto que tuvo con Cristiano Ronaldo cuando lo dirigió en el Manchester United y lanzó un dardo al ídolo portugués.&#160; Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.</p>\n<p>The post <a href=\"https://www.lanacion.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi/\" rel=\"nofollow\">Erik ten Hag recuerda conflicto con Cristiano Ronaldo en el United: “Decepcionó al equipo y me decepcionó a mí”</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El Ministerio de Educación (Mineduc) informó que este miércoles 21 de octubre se retomarán las clases&#160;en las regiones Metropolitana, de Antofagasta, de Coquimbo, Valparaíso y de O’Higgins. Este martes se suspendieron las clases debido a las condiciones meteorológicas asociadas al sistema frontal. La información fue difundida a través de las redes sociales del Ministerio de [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/mineduc-anuncia-que-se-reanudan-las-clases-este-miercoles-21-en-5-regiones/\" rel=\"nofollow\">Mineduc anuncia que se reanudan las clases este miércoles 21 en 5 regiones  </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>El entrenador neerlandés, Erik ten Hag, recordó el conflicto que tuvo con Cristiano Ronaldo cuando lo dirigió en el Manchester United y lanzó un dardo al ídolo portugués.&#160; Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.</p>\n<p>The post <a href=\"https://www.lanacion.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi/\" rel=\"nofollow\">Erik ten Hag recuerda conflicto con Cristiano Ronaldo en el United: “Decepcionó al equipo y me decepcionó a mí”</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
-          "term": "Nacional",
+          "term": "Actualidad",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Portada",
+          "term": "Triunfo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "cinco",
+          "term": "conflicto",
           "scheme": null,
           "label": null
         },
         {
-          "term": "clases",
+          "term": "cristiano ronaldo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "miércoles",
+          "term": "Erik ten Hag",
           "scheme": null,
           "label": null
         },
         {
-          "term": "mineduc",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "reanudan",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Regiones",
+          "term": "manchester united",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Mineduc anuncia que se reanudan las clases este miércoles 21 en 5 regiones",
+      "title": "Erik ten Hag recuerda conflicto con Cristiano Ronaldo en el United: “Decepcionó al equipo y me decepcionó a mí”",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Mineduc anuncia que se reanudan las clases este miércoles 21 en 5 regiones"
+        "value": "Erik ten Hag recuerda conflicto con Cristiano Ronaldo en el United: “Decepcionó al equipo y me decepcionó a mí”"
       }
     }
   },
@@ -218,55 +228,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261020",
-      "df_fechapl": "Martes 20 de octubre de 2026",
+      "df_fechap": "20261021",
+      "df_fechapl": "Miércoles 21 de octubre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261020/imag/foto_0000001120261020104122/SUPERINTENDENCIA-DE-PENSIONES-JC_20260723-_1.jpg",
-      "df_horap": "20:38",
-      "df_tagnames": "Pensiones,AFP,multifondos,fondos generacionales",
-      "df_ts": "20261020104122",
+      "df_foto600": "/noticias/site/artic/20261021/imag/foto_0000000820261021095414/Captura_de_pantalla_2026-10-21_a_las_9.png",
+      "df_horap": "09:49",
+      "df_tagnames": "Sky,Avianca,Aerolíneas",
+      "df_ts": "20261021095414",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261020/pags/20261020104122.html",
-      "link": "http://www.df.cl/mercados/pensiones/superintendencia-de-pensiones-inicia-proceso-sancionatorio-en-contra-de-las",
+      "id": "http://www.df.cl/noticias/site/artic/20261021/pags/20261021095414.html",
+      "link": "http://www.df.cl/df-sud/matriz-de-avianca-y-gol-ve-muy-dificil-salir-a-bolsa-en-2026-por",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/mercados/pensiones/superintendencia-de-pensiones-inicia-proceso-sancionatorio-en-contra-de-las"
+          "href": "http://www.df.cl/df-sud/matriz-de-avianca-y-gol-ve-muy-dificil-salir-a-bolsa-en-2026-por"
         }
       ],
-      "published": "Tue, 20 Oct 2026 23:40:13 GMT",
+      "published": "Wed, 21 Oct 2026 13:36:43 GMT",
       "published_parsed": [
         2026,
         10,
-        20,
-        23,
-        40,
+        21,
         13,
-        1,
-        293,
+        36,
+        43,
+        2,
+        294,
         0
       ],
-      "summary": "La Superintendencia de Pensiones comenzó este procedimiento tras concluir las acciones de fiscalización respecto de los retrocesos de ambos selectivos.",
+      "summary": "Las aerolíneas de Abra han trasladado parte del aumento de costos a los pasajeros mediante tarifas más altas, sin un impacto significativo en la demanda, dijo su director financiero. Esa fortaleza ha llevado al grupo a seguir ampliando su presencia regional con la incorporación de la chilena Sky Airline.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "La Superintendencia de Pensiones comenzó este procedimiento tras concluir las acciones de fiscalización respecto de los retrocesos de ambos selectivos."
+        "value": "Las aerolíneas de Abra han trasladado parte del aumento de costos a los pasajeros mediante tarifas más altas, sin un impacto significativo en la demanda, dijo su director financiero. Esa fortaleza ha llevado al grupo a seguir ampliando su presencia regional con la incorporación de la chilena Sky Airline."
       },
       "tags": [
         {
-          "term": "Mercados",
+          "term": "DF SUD",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Regulador inicia proceso sancionatorio en contra de las AFP por eventuales responsabilidades en la caída de los fondos D y E",
+      "title": "Matriz de Avianca y Gol ve “muy difícil” salir a bolsa en 2026 por incertidumbre",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Regulador inicia proceso sancionatorio en contra de las AFP por eventuales responsabilidades en la caída de los fondos D y E"
+        "value": "Matriz de Avianca y Gol ve “muy difícil” salir a bolsa en 2026 por incertidumbre"
       }
     }
   },
@@ -292,13 +302,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Ignacio Hermosilla",
+      "author": "Claudia Miño",
       "author_detail": {
-        "name": "Ignacio Hermosilla"
+        "name": "Claudia Miño"
       },
       "authors": [
         {
-          "name": "Ignacio Hermosilla"
+          "name": "Claudia Miño"
         }
       ],
       "content": [
@@ -306,116 +316,156 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>Una inesperada confesión protagonizó <strong>Carolina Molina, más conocida como La Rancherita</strong>, al revelar la verdadera inspiración detrás de uno de sus mayores éxitos musicales: <strong>“Maldito Galán”.</strong></p>\n<p>La cantante volvió a interpretar la popular canción de cumbia ranchera en Fiebre de Canto, de Chilevisión, junto a la actriz y participante Constanza Piccoli.</p>\n<p>En el espacio llamó la atención al contar la historia detrás de la letra, marcada por el desamor y la traición.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/dopamina/2026/06/18/rancherita-entrego-detalles-del-carinoso-llamado-de-madrugada-de-americo-mientras-estaba-con-yamila.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/dopamina/2026/06/18/rancherita-entrego-detalles-del-carinoso-llamado-de-madrugada-de-americo-mientras-estaba-con-yamila.shtml\">Rancherita entregó detalles del \"cariñoso\" llamado de madrugada de Américo mientras estaba con Yamila</a>\n\t\t<span style=\"display: none;\">Jueves 18 Junio, 2026 | 00:00</span>\n\t</div>\n</div>\n<h2>La Rancherita, Vidal y el Team Koala</h2>\n<p>Según relató, el tema estaba dedicado a un “maldito galán” que la <strong>habría dejado por una bailarina del Team Koala</strong>, una historia que despertó la curiosidad sobre la identidad del hombre que inspiró la canción.</p>\n<p>El Team Koala fue un conocido grupo de cinco modelos y bailarinas chilenas que alcanzó gran popularidad en 2007 gracias al éxito musical «El Baile del Koala» de la argentina Rocío Marengo.</p>\n<p>Sin embargo, la revelación no quedó ahí. En medio de la evaluación del jurado, y en una particular negociación con Vasco Moulian para que le subiera la nota, <strong>La Rancherita terminó confesando que el destinatario de la canción era nada menos que Arturo Vidal</strong>.</p>\n<p>&#8220;Ha sido el único pololo conocido que he tenido&#8221;, dijo la artista antes de ceder y entregar el nombre del jugador de Colo Colo y ex seleccionado nacional.</p>\n<p>La cantante y Arturo Vidal tuvieron una relación de pareja el año 2007, antes de que el futbolista llevara su carrera a Alemania. Aunque el jugador ha minimizado el vínculo, asegurando que duró apenas dos semanas.</p>\n<blockquote class=\"instagram-media\">\n<div style=\"padding: 16px;\"> <a href=\"https://www.instagram.com/reel/DevVnX6N1Vf/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"line-height: 0; padding: 0 0; text-align: center; text-decoration: none; width: 100%;\" target=\"_blank\"> </p>\n<div style=\"display: flex;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 40px; margin-right: 14px; width: 40px;\"></div>\n<div style=\"display: flex;\">\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 100px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 60px;\"></div>\n</div>\n</div>\n<div style=\"padding: 19% 0;\"></div>\n<div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"></div>\n<div style=\"padding-top: 8px;\">\n<div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">Ver esta publicación en Instagram</div>\n</div>\n<div style=\"padding: 12.5% 0;\"></div>\n<div style=\"display: flex; margin-bottom: 14px;\">\n<div>\n<div></div>\n<div></div>\n<div></div>\n</div>\n<div style=\"margin-left: 8px;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 20px; width: 20px;\"></div>\n<div></div>\n</div>\n<div style=\"margin-left: auto;\">\n<div></div>\n<div></div>\n<div></div>\n</div>\n</div>\n<div style=\"display: flex; margin-bottom: 24px;\">\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 224px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 144px;\"></div>\n</div>\n<p></a></p>\n<p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; white-space: nowrap;\"><a href=\"https://www.instagram.com/reel/DevVnX6N1Vf/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\">Una publicación compartida por Chilevisión (@chilevision)</a></p>\n</div>\n</blockquote>\n<p></p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/dopamina/2026/06/17/cantante-la-rancherita-relato-supuestas-premoniciones-paranormales-que-la-angustian-en-sus-suenos.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/dopamina/2026/06/17/cantante-la-rancherita-relato-supuestas-premoniciones-paranormales-que-la-angustian-en-sus-suenos.shtml\">Cantante \"La Rancherita\" relató supuestas premoniciones paranormales que la angustian en sus sueños</a>\n\t\t<span style=\"display: none;\">Miércoles 17 Junio, 2026 | 18:58</span>\n\t</div>\n</div>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/10/21/la-rancherita-confieza-que-dedico-exitoso-hit-a-arturo-vidal-tras-dejarla-por-miembro-del-team-koala.shtml\" rel=\"nofollow\">La Rancherita confiesa que dedicó exitoso hit a Arturo Vidal tras dejarla por miembro del Team Koala</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>Cada vez que vemos una «estrella fugaz» —o, por su nombre correcto, un meteoro— cruzar el cielo, observamos pequeños fragmentos de materia encontrándose con nuestra atmósfera. <span class=\"destacador\">En los próximos meses tendremos dos buenas oportunidades para observarlos desde Chile: las <strong>Oriónidas</strong> en octubre y las <strong>Gemínidas</strong> en diciembre.</span> </p>\n<p>Para las primeras, el norte del país aparece como uno de los mejores lugares de observación, especialmente en sectores interiores de la Región de Antofagasta, como San Pedro de Atacama, donde los pronósticos anticipan cielos mayormente despejados durante su máxima actividad.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/internacional/asia/2026/10/20/japon-lanza-la-primera-mision-para-recolectar-muestras-de-una-luna-de-marte.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/internacional/asia/2026/10/20/japon-lanza-la-primera-mision-para-recolectar-muestras-de-una-luna-de-marte.shtml\">Japón lanza la primera misión para recolectar muestras de una luna de Marte</a>\n\t\t<span style=\"display: none;\">Martes 20 Octubre, 2026 | 08:12</span>\n\t</div>\n</div>\n<p>Aunque popularmente hablamos de «lluvias de estrellas», no tienen relación con ellas. Son destellos producidos cuando pequeñas partículas espaciales ingresan a gran velocidad en la atmósfera. Sus trazas no siempre son blancas: pueden mostrar amarillos, verdes, azules o rojos. En esos colores intervienen la composición del meteoroide, los gases atmosféricos y la velocidad; por ejemplo, el sodio puede aportar tonos amarillos y el magnesio, azul-blancos.</p>\n<h2>Oriónidas: las huellas del cometa Halley</h2>\n<p><span class=\"destacador\">Las Oriónidas nacen del material dejado por uno de los cometas más conocidos: el Halley.</span> Cada octubre, la Tierra atraviesa parte del polvo y los fragmentos distribuidos a lo largo de su órbita.</p>\n<p>Sus partículas ingresan a unos 66 kilómetros por segundo y algunas dejan estelas visibles brevemente después del destello. La tasa de referencia ronda los 20 meteoros por hora en condiciones ideales, una cifra que no representa necesariamente lo que veremos desde Chile.</p>\n<p>Este año, durante el máximo de las Oriónidas, la Luna tendrá cerca de un 85% de brillo, es decir, estará casi llena y permanecerá en el cielo durante gran parte de la noche, dificultando la observación de los meteoros más tenues. <span class=\"destacador\">En Chile, la mejor apuesta será la <strong>madrugada del 22 de octubre</strong>, antes del amanecer y desde cielos oscuros.</span> </p>\n<p>A eso habrá que sumar un factor imposible de controlar: el clima. En varias zonas del país tendremos que cruzar los dedos para que las nubes den tregua y permitan un cielo despejado.</p>\n<h2>Gemínidas: una lluvia nacida de un asteroide</h2>\n<p>En diciembre será el turno de las Gemínidas, una de las lluvias más activas del año. <span class=\"destacador\">A diferencia de muchas otras, no se asocian a un cometa, sino al asteroide (3200) Faetón, cuyo mecanismo para liberar el material que alimenta esta corriente aún se investiga.</span></p>\n<p>Sus meteoros ingresan a unos 35 kilómetros por segundo y su tasa cenital puede alcanzar unos 150 por hora en condiciones ideales. No es una promesa: desde Chile el radiante alcanza menor altura y veremos bastante menos. </p>\n<p>En 2026, la Luna tendrá alrededor de un 25% de brillo durante el máximo de las Gemínidas, por lo que interferirá mucho menos que en las Oriónidas. <span class=\"destacador\">La <strong>madrugada del 14 de diciembre</strong> será la mejor oportunidad, siempre que el tiempo acompañe.</span></p>\n<h2>Cómo observarlos y fotografiarlos</h2>\n<p>No hacen falta telescopios. Lo mejor es alejarse de las luces urbanas, buscar un lugar seguro y despejado y dejar que la vista se adapte a la oscuridad. <span class=\"destacador\">Para orientarse durante las Oriónidas, se pueden buscar las Tres Marías, las tres estrellas alineadas del cinturón de Orión.</span> </p>\n<p>Por ejemplo, desde San Pedro de Atacama, podemos utilizar el volcán Licancabur como referencia y dirigir la mirada hacia su izquierda, buscando la constelación de Orión y sus reconocibles Tres Marías durante las horas previas al amanecer. <span class=\"destacador\">De todas formas, los meteoros pueden aparecer en cualquier dirección, por lo que conviene observar una zona amplia del cielo.</span></p>\n<p>Para fotografiarlos, la clave es aumentar las probabilidades: cámara sobre trípode, lente gran angular y luminoso, foco manual en las estrellas y exposiciones consecutivas. Un intervalómetro permite dejar la cámara disparando sin tocarla. Como punto de partida: diafragma abierto, ISO alto y exposiciones de unos 10 a 15 segundos, ajustando según el cielo y la distancia focal; idealmente, en RAW.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2026/10/19/el-universo-tambien-celebra-halloween-descubren-inusual-estrella-de-color-verde.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2026/10/19/el-universo-tambien-celebra-halloween-descubren-inusual-estrella-de-color-verde.shtml\">El universo también celebra Halloween: descubren inusual estrella de color verde</a>\n\t\t<span style=\"display: none;\">Lunes 19 Octubre, 2026 | 15:08</span>\n\t</div>\n</div>\n<p><span class=\"destacador\">Con un celular también se puede intentar: siempre sobre un trípode, usando modo nocturno o manual y, si el equipo lo permite, una secuencia de fotografías.</span> No hay que intentar reaccionar al meteoro; cuando lo vemos ya suele ser tarde. La mejor estrategia es dejar la cámara registrando el cielo y esperar que alguno atraviese el encuadre.</p>\n<p><span class=\"destacador\">Y vale la pena ajustar las expectativas: «lluvia» no significa cientos de destellos simultáneos.</span> A veces transcurren largos minutos sin que ocurra nada, hasta que una línea luminosa nos sorprende. </p>\n<p>Quizás esa espera sea parte del encanto: detenernos, levantar la mirada y recordar que la Tierra, en su viaje alrededor del Sol, continúa encontrándose con pequeñas huellas de la historia de nuestro sistema solar.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/21/lluvias-de-estrellas-dos-encuentros-con-el-pasado-del-sistema-solar.shtml\" rel=\"nofollow\">Lluvias de estrellas: dos encuentros con el pasado del sistema solar</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6990771",
-      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/10/21/la-rancherita-confieza-que-dedico-exitoso-hit-a-arturo-vidal-tras-dejarla-por-miembro-del-team-koala.shtml",
+      "id": "https://www.biobiochile.cl/?p=6990996",
+      "link": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/21/lluvias-de-estrellas-dos-encuentros-con-el-pasado-del-sistema-solar.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/10/21/la-rancherita-confieza-que-dedico-exitoso-hit-a-arturo-vidal-tras-dejarla-por-miembro-del-team-koala.shtml"
+          "href": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/21/lluvias-de-estrellas-dos-encuentros-con-el-pasado-del-sistema-solar.shtml"
         }
       ],
-      "published": "Wed, 21 Oct 2026 03:08:23 +0000",
+      "published": "Wed, 21 Oct 2026 13:22:46 +0000",
       "published_parsed": [
         2026,
         10,
         21,
-        3,
-        8,
-        23,
+        13,
+        22,
+        46,
         2,
         294,
         0
       ],
-      "summary": "<p>Una inesperada confesión protagonizó Carolina Molina, más conocida como La Rancherita, al revelar la verdadera inspiración detrás de uno de sus mayores éxitos musicales: “Maldito Galán”. La cantante volvió a interpretar la popular canción de cumbia ranchera en Fiebre de Canto, de Chilevisión, junto a la actriz y participante Constanza Piccoli. En el espacio llamó &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/10/21/la-rancherita-confieza-que-dedico-exitoso-hit-a-arturo-vidal-tras-dejarla-por-miembro-del-team-koala.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"La Rancherita confiesa que dedicó exitoso hit a Arturo Vidal tras dejarla por miembro del Team Koala\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/10/21/la-rancherita-confieza-que-dedico-exitoso-hit-a-arturo-vidal-tras-dejarla-por-miembro-del-team-koala.shtml\" rel=\"nofollow\">La Rancherita confiesa que dedicó exitoso hit a Arturo Vidal tras dejarla por miembro del Team Koala</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>Oriónidas en octubre y Gemínidas en diciembre: qué podremos observar desde Chile y por qué estos destellos cuentan la historia de antiguos cuerpos del sistema solar.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/21/lluvias-de-estrellas-dos-encuentros-con-el-pasado-del-sistema-solar.shtml\" rel=\"nofollow\">Lluvias de estrellas: dos encuentros con el pasado del sistema solar</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Una inesperada confesión protagonizó Carolina Molina, más conocida como La Rancherita, al revelar la verdadera inspiración detrás de uno de sus mayores éxitos musicales: “Maldito Galán”. La cantante volvió a interpretar la popular canción de cumbia ranchera en Fiebre de Canto, de Chilevisión, junto a la actriz y participante Constanza Piccoli. En el espacio llamó &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/10/21/la-rancherita-confieza-que-dedico-exitoso-hit-a-arturo-vidal-tras-dejarla-por-miembro-del-team-koala.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"La Rancherita confiesa que dedicó exitoso hit a Arturo Vidal tras dejarla por miembro del Team Koala\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/10/21/la-rancherita-confieza-que-dedico-exitoso-hit-a-arturo-vidal-tras-dejarla-por-miembro-del-team-koala.shtml\" rel=\"nofollow\">La Rancherita confiesa que dedicó exitoso hit a Arturo Vidal tras dejarla por miembro del Team Koala</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>Oriónidas en octubre y Gemínidas en diciembre: qué podremos observar desde Chile y por qué estos destellos cuentan la historia de antiguos cuerpos del sistema solar.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/21/lluvias-de-estrellas-dos-encuentros-con-el-pasado-del-sistema-solar.shtml\" rel=\"nofollow\">Lluvias de estrellas: dos encuentros con el pasado del sistema solar</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Dopamina",
+          "term": "Astronomía",
           "scheme": null,
           "label": null
         },
         {
-          "term": "TV",
+          "term": "Columnas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Arturo Vidal",
+          "term": "asteroides",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Carolina Molina",
+          "term": "Astrofotografía",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Constanza Piccoli",
+          "term": "Cari Letelier",
           "scheme": null,
           "label": null
         },
         {
-          "term": "cumbia ranchera",
+          "term": "Cielo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "desamor",
+          "term": "Cometas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "fiebre de canto",
+          "term": "estrellas fugaces",
           "scheme": null,
           "label": null
         },
         {
-          "term": "la rancherita",
+          "term": "Faetón",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Maldito Galán",
+          "term": "fotografiar meteoros",
           "scheme": null,
           "label": null
         },
         {
-          "term": "seleccion-tendencias",
+          "term": "Gemínidas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Team Koala",
+          "term": "Halley",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Traición",
+          "term": "Lluvia de estrellas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Vasco Moulián",
+          "term": "Luna",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Meteoro",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Meteoros",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "observación",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "observación de cielos oscuros.",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "observación de estrellas",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "observar meteoros",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "opinión",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Oriónidas",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "La Rancherita confiesa que dedicó exitoso hit a Arturo Vidal tras dejarla por miembro del Team Koala",
+      "title": "Lluvias de estrellas: dos encuentros con el pasado del sistema solar",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "La Rancherita confiesa que dedicó exitoso hit a Arturo Vidal tras dejarla por miembro del Team Koala"
+        "value": "Lluvias de estrellas: dos encuentros con el pasado del sistema solar"
       }
     }
   }
