@@ -21,6 +21,11 @@ jobs:
       - name: Create a copy of database
         run: mkdir -p backups && cp DB/noticias.db "backups/$(date +%F)noticias.db"
 
+      # Se ordena por nombre (prefijo YYYY-MM-DD) y no por mtime, porque el
+      # checkout deja a todos los archivos con la misma fecha de modificación.
+      - name: keep 10 last backups only
+        run: ls -1 backups/*noticias.db | sort -r | tail -n +11 | xargs -r rm -f
+
       - uses: actions/setup-python@v7
         with:
           python-version: '3.14'
