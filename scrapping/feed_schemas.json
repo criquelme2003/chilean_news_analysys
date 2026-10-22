@@ -20,77 +20,67 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Colomba Bolognesi",
+      "author": "Marcelo Silva",
       "author_detail": {
-        "name": "Colomba Bolognesi"
+        "name": "Marcelo Silva"
       },
       "authors": [
         {
-          "name": "Colomba Bolognesi"
+          "name": "Marcelo Silva"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1811502",
-      "link": "https://www.theclinic.cl/2026/10/21/licitar-terrenos-fiscales-y-convertir-el-borde-costero-en-polo-turistico-el-plan-del-gobierno-para-potenciar-bahia-inglesa/",
+      "id": "https://www.theclinic.cl/?p=1811996",
+      "link": "https://www.theclinic.cl/2026/10/21/las-resoluciones-de-angela-vivanco-abren-un-inedito-flanco-judicial-militar-condenado-por-crimen-de-exsacerdote-en-dictadura-la-acusa-de-prevaricacion/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/10/21/licitar-terrenos-fiscales-y-convertir-el-borde-costero-en-polo-turistico-el-plan-del-gobierno-para-potenciar-bahia-inglesa/"
+          "href": "https://www.theclinic.cl/2026/10/21/las-resoluciones-de-angela-vivanco-abren-un-inedito-flanco-judicial-militar-condenado-por-crimen-de-exsacerdote-en-dictadura-la-acusa-de-prevaricacion/"
         }
       ],
-      "published": "Wed, 21 Oct 2026 13:36:02 +0000",
+      "published": "Thu, 22 Oct 2026 01:14:05 +0000",
       "published_parsed": [
         2026,
         10,
-        21,
-        13,
-        36,
-        2,
-        2,
-        294,
+        22,
+        1,
+        14,
+        5,
+        3,
+        295,
         0
       ],
-      "summary": "<p>El Ministerio de Bienes Nacionales elabora un plan que contempla 420,39 hectáreas, y en la primera, se licitarán 79,31 hectáreas. El proyecto, que cuenta con el respaldo del Gobierno Regional de Atacama, contempla transformar el borde costero en un gran polo turístico. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/21/licitar-terrenos-fiscales-y-convertir-el-borde-costero-en-polo-turistico-el-plan-del-gobierno-para-potenciar-bahia-inglesa/\">Licitar terrenos fiscales y convertir el borde costero en polo turístico: el plan del Gobierno para potenciar Bahía Inglesa</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>El recurso fue presentado en el Séptimo Juzgado de Garantía de Santiago. Plantean que la exministra de la Corte Suprema no \"ponderó bien los antecedentes\" al momento de entregar su fallo. El abogado de la causa, Ricardo Bravo Cornejo, afirma que habría recibido \"alguna presión política y no hizo una investigación como una ministra debió haberlo hecho\". </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/21/las-resoluciones-de-angela-vivanco-abren-un-inedito-flanco-judicial-militar-condenado-por-crimen-de-exsacerdote-en-dictadura-la-acusa-de-prevaricacion/\">Las resoluciones de Ángela Vivanco abren un inédito flanco judicial: militar condenado por crimen de exsacerdote en dictadura la acusa de prevaricación</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El Ministerio de Bienes Nacionales elabora un plan que contempla 420,39 hectáreas, y en la primera, se licitarán 79,31 hectáreas. El proyecto, que cuenta con el respaldo del Gobierno Regional de Atacama, contempla transformar el borde costero en un gran polo turístico. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/21/licitar-terrenos-fiscales-y-convertir-el-borde-costero-en-polo-turistico-el-plan-del-gobierno-para-potenciar-bahia-inglesa/\">Licitar terrenos fiscales y convertir el borde costero en polo turístico: el plan del Gobierno para potenciar Bahía Inglesa</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>El recurso fue presentado en el Séptimo Juzgado de Garantía de Santiago. Plantean que la exministra de la Corte Suprema no \"ponderó bien los antecedentes\" al momento de entregar su fallo. El abogado de la causa, Ricardo Bravo Cornejo, afirma que habría recibido \"alguna presión política y no hizo una investigación como una ministra debió haberlo hecho\". </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/21/las-resoluciones-de-angela-vivanco-abren-un-inedito-flanco-judicial-militar-condenado-por-crimen-de-exsacerdote-en-dictadura-la-acusa-de-prevaricacion/\">Las resoluciones de Ángela Vivanco abren un inédito flanco judicial: militar condenado por crimen de exsacerdote en dictadura la acusa de prevaricación</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Negocios",
+          "term": "Judicial",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Bahía Inglesa",
+          "term": "Ángela Vivanco",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Catalina Parot",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Ministerio de Bienes Nacionales",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Región de Atacama",
+          "term": "Dictadura Chile",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Licitar terrenos fiscales y convertir el borde costero en polo turístico: el plan del Gobierno para potenciar Bahía Inglesa",
+      "title": "Las resoluciones de Ángela Vivanco abren un inédito flanco judicial: militar condenado por crimen de exsacerdote en dictadura la acusa de prevaricación",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Licitar terrenos fiscales y convertir el borde costero en polo turístico: el plan del Gobierno para potenciar Bahía Inglesa"
+        "value": "Las resoluciones de Ángela Vivanco abren un inédito flanco judicial: militar condenado por crimen de exsacerdote en dictadura la acusa de prevaricación"
       }
     }
   },
@@ -116,13 +106,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Leonardo Medina",
+      "author": "Eduardo Córdova",
       "author_detail": {
-        "name": "Leonardo Medina"
+        "name": "Eduardo Córdova"
       },
       "authors": [
         {
-          "name": "Leonardo Medina"
+          "name": "Eduardo Córdova"
         }
       ],
       "content": [
@@ -130,37 +120,37 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>El entrenador neerlandés, <strong>Erik ten Hag, recordó el conflicto que tuvo con Cristiano Ronaldo cuando lo dirigió en el Manchester United</strong> y lanzó un dardo al ídolo portugués.&nbsp;</p>\n\n\n\n<p>Para seguir leyendo esta nota <a href=\"https://www.triunfo.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi\"><strong>haz clic aquí, en el sitio web de Triunfo</strong></a>.</p>\n<p>The post <a href=\"https://www.lanacion.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi/\" rel=\"nofollow\">Erik ten Hag recuerda conflicto con Cristiano Ronaldo en el United: “Decepcionó al equipo y me decepcionó a mí”</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p>Los pescados y mariscos son protagonistas de la gastronomía de la Región de Valparaíso. Para quienes disfrutan estos productos, los tenedores libres ofrecen la posibilidad de probar distintas preparaciones durante una misma visita, desde ceviches y ensaladas hasta recetas calientes y acompañamientos.</p>\n\n\n\n<p>Si estás buscando <strong><a href=\"https://www.lanacion.cl/que-hacer-en-la-region-de-valparaiso-la-guia-completa-de-los-panoramas-de-la-zona/\">qué hacer en Viña del Mar y Valparaíso</a></strong>, una alternativa es organizar una salida gastronómica para descubrir propuestas que combinan cocina peruana, preparaciones marinas y buffets internacionales.</p>\n\n\n\n<p>Entre las opciones que puedes considerar están Pisco Mar, Perla del Mar y Santerra Buffet, tres establecimientos de Viña del Mar con propuestas diferentes para quienes quieren incorporar pescados y mariscos a su experiencia gastronómica.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://www.lanacion.cl/que-hacer-en-la-region-de-valparaiso-la-guia-completa-de-los-panoramas-de-la-zona/\">Qué hacer en Viña del Mar y Valparaíso</a>: tenedores libres para disfrutar los sabores del mar</h2>\n\n\n\n<h3 class=\"wp-block-heading\">Pisco Mar: ceviches y mariscos al estilo peruano</h3>\n\n\n\n<p>Ubicado en 5½ Poniente 37, cerca de avenida 1 Norte, Pisco Mar es una alternativa para quienes buscan un tenedor libre con una propuesta centrada en la gastronomía peruana.</p>\n\n\n\n<p>Su buffet incluye preparaciones frías como ceviches, tiraditos y causas, además de pescados, mariscos, arroces y recetas de inspiración chifa y nikkei, que combinan tradiciones culinarias peruanas y asiáticas. La oferta también contempla ensaladas, pastas, alternativas vegetarianas y postres.</p>\n\n\n\n<p>Esta variedad permite probar diferentes sabores durante una misma visita, especialmente si te interesan los platos frescos y las preparaciones marinas características de la cocina peruana.</p>\n\n\n\n<p>Según la información publicada por el restaurante, el servicio funciona por un período determinado y las bebidas no están incluidas en el precio del tenedor libre. Conviene confirmar la tarifa vigente, los horarios y las condiciones antes de acudir.</p>\n\n\n\n<p><strong>Dirección:</strong> 5½ Poniente 37, Viña del Mar.</p>\n\n\n\n<blockquote class=\"instagram-media\"><div style=\"padding: 16px;\"> <a href=\"https://www.instagram.com/reel/DaaqJzWqwqY/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"line-height: 0; padding: 0 0; text-align: center; text-decoration: none; width: 100%;\" target=\"_blank\"> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"></div><div style=\"padding-top: 8px;\"> <div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">Ver esta publicación en Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; margin-bottom: 14px;\"><div> <div></div> <div></div> <div></div></div><div style=\"margin-left: 8px;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 20px; width: 20px;\"></div> <div></div></div><div style=\"margin-left: auto;\"> <div></div> <div></div> <div></div></div></div> <div style=\"display: flex; margin-bottom: 24px;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 144px;\"></div></div></a><p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; white-space: nowrap;\"><a href=\"https://www.instagram.com/reel/DaaqJzWqwqY/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\">Una publicación compartida por Pisco Mar (@piscomar_)</a></p></div></blockquote>\n\n\n\n\n<h3 class=\"wp-block-heading\">Perla del Mar: buffet con pescados y productos del mar</h3>\n\n\n\n<p>Otra alternativa es Perla del Mar, ubicado en el sector de Plaza Vergara, en el centro de Viña del Mar. Su propuesta de buffet reúne diferentes preparaciones, con pescados, mariscos, ensaladas y opciones de cocina asiática, entre otras alternativas.</p>\n\n\n\n<p>La variedad puede resultar atractiva para quienes desean combinar productos del mar con otros platos durante una misma comida. Además, su ubicación céntrica permite incorporarlo a un recorrido por el comercio y los espacios urbanos de la Ciudad Jardín.</p>\n\n\n\n<p>El restaurante también ofrece preparaciones que pueden complementar una comida centrada en pescados y mariscos, por lo que puede ser una opción para grupos con diferentes preferencias gastronómicas.</p>\n\n\n\n<p>Antes de visitarlo, conviene consultar qué productos del mar estarán disponibles durante el servicio. También es recomendable confirmar el precio, las bebidas incluidas y las condiciones de permanencia, ya que estos detalles pueden influir en el presupuesto de la salida.</p>\n\n\n\n<p><strong>Dirección:</strong> sector de Plaza Vergara, Viña del Mar. Los directorios consultados registran la dirección como Plaza Vergara 103 y 191.</p>\n\n\n\n<blockquote class=\"instagram-media\"><div style=\"padding: 16px;\"> <a href=\"https://www.instagram.com/p/CoAVbDPOTVd/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"line-height: 0; padding: 0 0; text-align: center; text-decoration: none; width: 100%;\" target=\"_blank\"> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"></div><div style=\"padding-top: 8px;\"> <div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">Ver esta publicación en Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; margin-bottom: 14px;\"><div> <div></div> <div></div> <div></div></div><div style=\"margin-left: 8px;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 20px; width: 20px;\"></div> <div></div></div><div style=\"margin-left: auto;\"> <div></div> <div></div> <div></div></div></div> <div style=\"display: flex; margin-bottom: 24px;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 144px;\"></div></div></a><p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; white-space: nowrap;\"><a href=\"https://www.instagram.com/p/CoAVbDPOTVd/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\">Una publicación compartida por Tenedor libre perla del mar (@tenedorlibreperladelmar)</a></p></div></blockquote>\n\n\n\n\n<h3 class=\"wp-block-heading\">Santerra Buffet: pescados, mariscos y cocina internacional</h3>\n\n\n\n<p>Santerra Buffet, ubicado al interior del Casino Enjoy Viña del Mar, ofrece una propuesta más amplia de cocina internacional. Su oferta incluye distintas estaciones gastronómicas, con preparaciones frías y calientes, además de carnes, pastas, ensaladas y postres.</p>\n\n\n\n<p>Entre las alternativas descritas para su buffet figuran pescados, mariscos, ceviches y sushi. Esto permite considerar el establecimiento si buscas combinar platos del mar con otras preparaciones durante una misma visita.</p>\n\n\n\n<p>A diferencia de un restaurante especializado exclusivamente en pescados y mariscos, Santerra apuesta por la variedad. Por eso, puede ser una opción para grupos en los que algunas personas prefieren productos marinos y otras optan por carnes, pastas o postres.</p>\n\n\n\n<p>Antes de organizar la visita, consulta los horarios del buffet, los precios y la disponibilidad de las estaciones de pescados y mariscos. También es conveniente verificar si existen diferencias entre los servicios de almuerzo y cena.</p>\n\n\n\n<p><strong>Dirección:</strong> avenida San Martín 199, Casino Enjoy, Viña del Mar.</p>\n\n\n\n<blockquote class=\"instagram-media\"><div style=\"padding: 16px;\"> <a href=\"https://www.instagram.com/reel/DRfqFFQEovc/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"line-height: 0; padding: 0 0; text-align: center; text-decoration: none; width: 100%;\" target=\"_blank\"> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"></div><div style=\"padding-top: 8px;\"> <div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">Ver esta publicación en Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; margin-bottom: 14px;\"><div> <div></div> <div></div> <div></div></div><div style=\"margin-left: 8px;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 20px; width: 20px;\"></div> <div></div></div><div style=\"margin-left: auto;\"> <div></div> <div></div> <div></div></div></div> <div style=\"display: flex; margin-bottom: 24px;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 144px;\"></div></div></a><p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; white-space: nowrap;\"><a href=\"https://www.instagram.com/reel/DRfqFFQEovc/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\">Una publicación compartida por Santerra Buffet Viña del Mar (@santerra_buffet)</a></p></div></blockquote>\n\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://www.lanacion.cl/que-hacer-en-la-region-de-valparaiso-la-guia-completa-de-los-panoramas-de-la-zona/\">Qué hacer en Viña del Mar y Valparaíso</a>: qué revisar antes de elegir un tenedor libre</h2>\n\n\n\n<p>Aunque los tres establecimientos ofrecen propuestas distintas, hay algunos aspectos que conviene revisar antes de escoger dónde comer. Esto es especialmente importante cuando el objetivo es disfrutar pescados y mariscos.</p>\n\n\n\n<ul>\n<li><strong>Variedad de productos del mar:</strong> consulta si el buffet incluye ceviches, pescados cocinados, camarones, otros mariscos o preparaciones calientes.</li>\n\n\n\n<li><strong>Frescura y reposición:</strong> pregunta cómo se reponen los platos y qué preparaciones estarán disponibles durante tu visita.</li>\n\n\n\n<li><strong>Precio por persona:</strong> confirma la tarifa vigente para adultos y niños, si corresponde.</li>\n\n\n\n<li><strong>Bebidas y postres:</strong> verifica si están incluidos en el precio o si tienen un cobro adicional.</li>\n\n\n\n<li><strong>Horario y duración del servicio:</strong> pregunta si existe un límite de tiempo y cuánto dura la experiencia.</li>\n\n\n\n<li><strong>Reservas:</strong> si vas durante el fin de semana o en grupo, consulta si necesitas reservar con anticipación.</li>\n</ul>\n\n\n\n<p>También es recomendable preguntar por los ingredientes de cada preparación si alguien del grupo tiene alergias alimentarias. En los buffets, la manipulación compartida de alimentos puede aumentar el riesgo de contacto cruzado.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://www.lanacion.cl/que-hacer-en-la-region-de-valparaiso-la-guia-completa-de-los-panoramas-de-la-zona/\">Qué hacer en Viña del Mar y Valparaíso</a>: un panorama para los amantes de los productos del mar</h2>\n\n\n\n<p>Los tenedores libres pueden ser una alternativa para quienes disfrutan probar diferentes preparaciones sin limitarse a un solo plato. En el caso de los pescados y mariscos, permiten explorar recetas frías, platos calientes y distintas combinaciones de sabores.</p>\n\n\n\n<p>Pisco Mar destaca por su orientación hacia la cocina peruana, con ceviches, tiraditos y preparaciones marinas. Perla del Mar ofrece un buffet variado en el centro de Viña del Mar, mientras que Santerra combina productos del mar con una oferta más amplia de cocina internacional.</p>\n\n\n\n<p>La mejor elección dependerá de tus preferencias y del tipo de experiencia que buscas. Antes de acudir, confirma directamente con cada establecimiento sus precios, horarios y condiciones de servicio para organizar tu próximo panorama gastronómico en la Región de Valparaíso.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-wp-embed is-provider-la-nacion wp-block-embed-la-nacion\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"wp-embedded-content\"><a href=\"https://www.lanacion.cl/que-hacer-en-vina-del-mar-y-valparaiso-tenedores-libres-para-grupos-con-distintos-gustos/\">Qué hacer en Viña del Mar y Valparaíso: tenedores libres para grupos con distintos gustos</a></blockquote>\n</div></figure>\n<p>The post <a href=\"https://www.lanacion.cl/que-hacer-en-vina-del-mar-y-valparaiso-tenedores-libres-para-quienes-prefieren-pescados-y-mariscos/\" rel=\"nofollow\">Qué hacer en Viña del Mar y Valparaíso: tenedores libres para quienes prefieren pescados y mariscos</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=418513",
-      "link": "https://www.lanacion.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi/",
+      "id": "https://www.lanacion.cl/?p=418600",
+      "link": "https://www.lanacion.cl/que-hacer-en-vina-del-mar-y-valparaiso-tenedores-libres-para-quienes-prefieren-pescados-y-mariscos/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi/"
+          "href": "https://www.lanacion.cl/que-hacer-en-vina-del-mar-y-valparaiso-tenedores-libres-para-quienes-prefieren-pescados-y-mariscos/"
         }
       ],
-      "published": "Wed, 21 Oct 2026 13:31:49 +0000",
+      "published": "Wed, 21 Oct 2026 21:22:41 +0000",
       "published_parsed": [
         2026,
         10,
         21,
-        13,
-        31,
-        49,
+        21,
+        22,
+        41,
         2,
         294,
         0
       ],
-      "summary": "<p>El entrenador neerlandés, Erik ten Hag, recordó el conflicto que tuvo con Cristiano Ronaldo cuando lo dirigió en el Manchester United y lanzó un dardo al ídolo portugués.&#160; Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.</p>\n<p>The post <a href=\"https://www.lanacion.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi/\" rel=\"nofollow\">Erik ten Hag recuerda conflicto con Cristiano Ronaldo en el United: “Decepcionó al equipo y me decepcionó a mí”</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>Los pescados y mariscos son protagonistas de la gastronomía de la Región de Valparaíso. Para quienes disfrutan estos productos, los tenedores libres ofrecen la posibilidad de probar distintas preparaciones durante una misma visita, desde ceviches y ensaladas hasta recetas calientes y acompañamientos. Si estás buscando qué hacer en Viña del Mar y Valparaíso, una alternativa [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/que-hacer-en-vina-del-mar-y-valparaiso-tenedores-libres-para-quienes-prefieren-pescados-y-mariscos/\" rel=\"nofollow\">Qué hacer en Viña del Mar y Valparaíso: tenedores libres para quienes prefieren pescados y mariscos</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El entrenador neerlandés, Erik ten Hag, recordó el conflicto que tuvo con Cristiano Ronaldo cuando lo dirigió en el Manchester United y lanzó un dardo al ídolo portugués.&#160; Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.</p>\n<p>The post <a href=\"https://www.lanacion.cl/erik-ten-hag-recuerda-conflicto-con-cristiano-ronaldo-en-el-united-decepciono-al-equipo-y-me-decepciono-a-mi/\" rel=\"nofollow\">Erik ten Hag recuerda conflicto con Cristiano Ronaldo en el United: “Decepcionó al equipo y me decepcionó a mí”</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>Los pescados y mariscos son protagonistas de la gastronomía de la Región de Valparaíso. Para quienes disfrutan estos productos, los tenedores libres ofrecen la posibilidad de probar distintas preparaciones durante una misma visita, desde ceviches y ensaladas hasta recetas calientes y acompañamientos. Si estás buscando qué hacer en Viña del Mar y Valparaíso, una alternativa [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/que-hacer-en-vina-del-mar-y-valparaiso-tenedores-libres-para-quienes-prefieren-pescados-y-mariscos/\" rel=\"nofollow\">Qué hacer en Viña del Mar y Valparaíso: tenedores libres para quienes prefieren pescados y mariscos</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
@@ -169,37 +159,47 @@
           "label": null
         },
         {
-          "term": "Triunfo",
+          "term": "Panoramas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "conflicto",
+          "term": "Viajes",
           "scheme": null,
           "label": null
         },
         {
-          "term": "cristiano ronaldo",
+          "term": "panoramas gastronómicos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Erik ten Hag",
+          "term": "pescados y mariscos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "manchester united",
+          "term": "Qué hacer en Viña del Mar y Valparaíso",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "restaurantes en Viña del Mar",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "tenedores libres",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Erik ten Hag recuerda conflicto con Cristiano Ronaldo en el United: “Decepcionó al equipo y me decepcionó a mí”",
+      "title": "Qué hacer en Viña del Mar y Valparaíso: tenedores libres para quienes prefieren pescados y mariscos",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Erik ten Hag recuerda conflicto con Cristiano Ronaldo en el United: “Decepcionó al equipo y me decepcionó a mí”"
+        "value": "Qué hacer en Viña del Mar y Valparaíso: tenedores libres para quienes prefieren pescados y mariscos"
       }
     }
   },
@@ -231,52 +231,52 @@
       "df_fechap": "20261021",
       "df_fechapl": "Miércoles 21 de octubre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261021/imag/foto_0000000820261021095414/Captura_de_pantalla_2026-10-21_a_las_9.png",
-      "df_horap": "09:49",
-      "df_tagnames": "Sky,Avianca,Aerolíneas",
-      "df_ts": "20261021095414",
+      "df_foto600": "/noticias/site/artic/20261021/imag/foto_0000001020261021175053/PHOTO-2026-10-21-17-50-30.jpg",
+      "df_horap": "20:40",
+      "df_tagnames": "Italo Sciaraffia,CMPC,JP Morgan,Forestal,bancos de inversión",
+      "df_ts": "20261021175053",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261021/pags/20261021095414.html",
-      "link": "http://www.df.cl/df-sud/matriz-de-avianca-y-gol-ve-muy-dificil-salir-a-bolsa-en-2026-por",
+      "id": "http://www.df.cl/noticias/site/artic/20261021/pags/20261021175053.html",
+      "link": "http://www.df.cl/empresas/industria/cmpc-vende-60-mil-hectareas-forestales-en-el-maule-a-jp-morgan-por-us-365-5",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/df-sud/matriz-de-avianca-y-gol-ve-muy-dificil-salir-a-bolsa-en-2026-por"
+          "href": "http://www.df.cl/empresas/industria/cmpc-vende-60-mil-hectareas-forestales-en-el-maule-a-jp-morgan-por-us-365-5"
         }
       ],
-      "published": "Wed, 21 Oct 2026 13:36:43 GMT",
+      "published": "Wed, 21 Oct 2026 23:41:17 GMT",
       "published_parsed": [
         2026,
         10,
         21,
-        13,
-        36,
-        43,
+        23,
+        41,
+        17,
         2,
         294,
         0
       ],
-      "summary": "Las aerolíneas de Abra han trasladado parte del aumento de costos a los pasajeros mediante tarifas más altas, sin un impacto significativo en la demanda, dijo su director financiero. Esa fortaleza ha llevado al grupo a seguir ampliando su presencia regional con la incorporación de la chilena Sky Airline.",
+      "summary": "La compañía controlada por la familia Matte acordó la venta de 60 mil hectáreas forestales en la Región del Maule a JP Morgan Natural Capital. La operación se suma a la reciente enajenación de su negocio de corrugados a Smurfit Westrock por US$ 420 millones.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "Las aerolíneas de Abra han trasladado parte del aumento de costos a los pasajeros mediante tarifas más altas, sin un impacto significativo en la demanda, dijo su director financiero. Esa fortaleza ha llevado al grupo a seguir ampliando su presencia regional con la incorporación de la chilena Sky Airline."
+        "value": "La compañía controlada por la familia Matte acordó la venta de 60 mil hectáreas forestales en la Región del Maule a JP Morgan Natural Capital. La operación se suma a la reciente enajenación de su negocio de corrugados a Smurfit Westrock por US$ 420 millones."
       },
       "tags": [
         {
-          "term": "DF SUD",
+          "term": "Empresas",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Matriz de Avianca y Gol ve “muy difícil” salir a bolsa en 2026 por incertidumbre",
+      "title": "CMPC acuerda nueva venta y acumula casi US$ 800 millones en desinversiones en menos de un mes",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Matriz de Avianca y Gol ve “muy difícil” salir a bolsa en 2026 por incertidumbre"
+        "value": "CMPC acuerda nueva venta y acumula casi US$ 800 millones en desinversiones en menos de un mes"
       }
     }
   },
@@ -302,13 +302,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Claudia Miño",
+      "author": "Jean Valencia",
       "author_detail": {
-        "name": "Claudia Miño"
+        "name": "Jean Valencia"
       },
       "authors": [
         {
-          "name": "Claudia Miño"
+          "name": "Jean Valencia"
         }
       ],
       "content": [
@@ -316,156 +316,51 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>Cada vez que vemos una «estrella fugaz» —o, por su nombre correcto, un meteoro— cruzar el cielo, observamos pequeños fragmentos de materia encontrándose con nuestra atmósfera. <span class=\"destacador\">En los próximos meses tendremos dos buenas oportunidades para observarlos desde Chile: las <strong>Oriónidas</strong> en octubre y las <strong>Gemínidas</strong> en diciembre.</span> </p>\n<p>Para las primeras, el norte del país aparece como uno de los mejores lugares de observación, especialmente en sectores interiores de la Región de Antofagasta, como San Pedro de Atacama, donde los pronósticos anticipan cielos mayormente despejados durante su máxima actividad.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/internacional/asia/2026/10/20/japon-lanza-la-primera-mision-para-recolectar-muestras-de-una-luna-de-marte.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/internacional/asia/2026/10/20/japon-lanza-la-primera-mision-para-recolectar-muestras-de-una-luna-de-marte.shtml\">Japón lanza la primera misión para recolectar muestras de una luna de Marte</a>\n\t\t<span style=\"display: none;\">Martes 20 Octubre, 2026 | 08:12</span>\n\t</div>\n</div>\n<p>Aunque popularmente hablamos de «lluvias de estrellas», no tienen relación con ellas. Son destellos producidos cuando pequeñas partículas espaciales ingresan a gran velocidad en la atmósfera. Sus trazas no siempre son blancas: pueden mostrar amarillos, verdes, azules o rojos. En esos colores intervienen la composición del meteoroide, los gases atmosféricos y la velocidad; por ejemplo, el sodio puede aportar tonos amarillos y el magnesio, azul-blancos.</p>\n<h2>Oriónidas: las huellas del cometa Halley</h2>\n<p><span class=\"destacador\">Las Oriónidas nacen del material dejado por uno de los cometas más conocidos: el Halley.</span> Cada octubre, la Tierra atraviesa parte del polvo y los fragmentos distribuidos a lo largo de su órbita.</p>\n<p>Sus partículas ingresan a unos 66 kilómetros por segundo y algunas dejan estelas visibles brevemente después del destello. La tasa de referencia ronda los 20 meteoros por hora en condiciones ideales, una cifra que no representa necesariamente lo que veremos desde Chile.</p>\n<p>Este año, durante el máximo de las Oriónidas, la Luna tendrá cerca de un 85% de brillo, es decir, estará casi llena y permanecerá en el cielo durante gran parte de la noche, dificultando la observación de los meteoros más tenues. <span class=\"destacador\">En Chile, la mejor apuesta será la <strong>madrugada del 22 de octubre</strong>, antes del amanecer y desde cielos oscuros.</span> </p>\n<p>A eso habrá que sumar un factor imposible de controlar: el clima. En varias zonas del país tendremos que cruzar los dedos para que las nubes den tregua y permitan un cielo despejado.</p>\n<h2>Gemínidas: una lluvia nacida de un asteroide</h2>\n<p>En diciembre será el turno de las Gemínidas, una de las lluvias más activas del año. <span class=\"destacador\">A diferencia de muchas otras, no se asocian a un cometa, sino al asteroide (3200) Faetón, cuyo mecanismo para liberar el material que alimenta esta corriente aún se investiga.</span></p>\n<p>Sus meteoros ingresan a unos 35 kilómetros por segundo y su tasa cenital puede alcanzar unos 150 por hora en condiciones ideales. No es una promesa: desde Chile el radiante alcanza menor altura y veremos bastante menos. </p>\n<p>En 2026, la Luna tendrá alrededor de un 25% de brillo durante el máximo de las Gemínidas, por lo que interferirá mucho menos que en las Oriónidas. <span class=\"destacador\">La <strong>madrugada del 14 de diciembre</strong> será la mejor oportunidad, siempre que el tiempo acompañe.</span></p>\n<h2>Cómo observarlos y fotografiarlos</h2>\n<p>No hacen falta telescopios. Lo mejor es alejarse de las luces urbanas, buscar un lugar seguro y despejado y dejar que la vista se adapte a la oscuridad. <span class=\"destacador\">Para orientarse durante las Oriónidas, se pueden buscar las Tres Marías, las tres estrellas alineadas del cinturón de Orión.</span> </p>\n<p>Por ejemplo, desde San Pedro de Atacama, podemos utilizar el volcán Licancabur como referencia y dirigir la mirada hacia su izquierda, buscando la constelación de Orión y sus reconocibles Tres Marías durante las horas previas al amanecer. <span class=\"destacador\">De todas formas, los meteoros pueden aparecer en cualquier dirección, por lo que conviene observar una zona amplia del cielo.</span></p>\n<p>Para fotografiarlos, la clave es aumentar las probabilidades: cámara sobre trípode, lente gran angular y luminoso, foco manual en las estrellas y exposiciones consecutivas. Un intervalómetro permite dejar la cámara disparando sin tocarla. Como punto de partida: diafragma abierto, ISO alto y exposiciones de unos 10 a 15 segundos, ajustando según el cielo y la distancia focal; idealmente, en RAW.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2026/10/19/el-universo-tambien-celebra-halloween-descubren-inusual-estrella-de-color-verde.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2026/10/19/el-universo-tambien-celebra-halloween-descubren-inusual-estrella-de-color-verde.shtml\">El universo también celebra Halloween: descubren inusual estrella de color verde</a>\n\t\t<span style=\"display: none;\">Lunes 19 Octubre, 2026 | 15:08</span>\n\t</div>\n</div>\n<p><span class=\"destacador\">Con un celular también se puede intentar: siempre sobre un trípode, usando modo nocturno o manual y, si el equipo lo permite, una secuencia de fotografías.</span> No hay que intentar reaccionar al meteoro; cuando lo vemos ya suele ser tarde. La mejor estrategia es dejar la cámara registrando el cielo y esperar que alguno atraviese el encuadre.</p>\n<p><span class=\"destacador\">Y vale la pena ajustar las expectativas: «lluvia» no significa cientos de destellos simultáneos.</span> A veces transcurren largos minutos sin que ocurra nada, hasta que una línea luminosa nos sorprende. </p>\n<p>Quizás esa espera sea parte del encanto: detenernos, levantar la mirada y recordar que la Tierra, en su viaje alrededor del Sol, continúa encontrándose con pequeñas huellas de la historia de nuestro sistema solar.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/21/lluvias-de-estrellas-dos-encuentros-con-el-pasado-del-sistema-solar.shtml\" rel=\"nofollow\">Lluvias de estrellas: dos encuentros con el pasado del sistema solar</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p><span class=\"destacador\">Una persona murió y ocho resultaron heridas en un ataque contra el aeropuerto internacional Rey Fahd de Dammam, en el este de Arabía Saudita</span>, informaron este jueves las autoridades saudíes, en una <strong>nueva ofensiva contra una instalación aeroportuaria en el contexto del creciente conflicto con los rebeldes hutíes de Yemen</strong>.</p>\n<p>La Autoridad General de Aviación Civil anunció que <strong>el aeropuerto fue atacado la pasada noche, lo que causó &#8220;la muerte de un residente&#8221; y heridas a otras ocho personas &#8220;de diversa gravedad, desde leves hasta graves&#8221;</strong>, en un comunicado recogido por la agencia oficial de noticias saudí SPA.</p>\n<p>El ataque también causó daños materiales, según el texto, y se suma a una serie de recientes ofensivas con decenas de muertos y heridos contra aeropuertos de Arabia Saudita, que interviene en Yemen desde 2015 en apoyo al Gobierno internacionalmente reconocido y lidera una coalición militar antihutí.</p>\n<p>El pasado 10 de octubre, 13 personas murieron y más de 300 resultaron heridas en el aeropuerto internacional Rey Khalid de la capitalina Riad, uno de los más grandes de Medio Oriente, en un ataque atribuido a los hutíes, respaldados por Irán y que controlan la capital yemení, Saná, desde 2014.</p>\n<p>El aeropuerto de Riad, que pausó sus operaciones a raíz de esa y otras ofensivas, se ubica a unos 1.000 kilómetros de Yemen, y cuenta con cinco terminales de pasajeros y un pabellón exclusivo de diseño monumental reservado para jefes de Estado, diplomáticos y la familia real saudita.</p>\n<p>El de Dammam, atacado en las últimas horas, está a más de 1.500 kilómetros de la frontera yemení, en la Región oriental de Arabia Saudí, cerca del golfo Pérsico.</p>\n<p>El último ataque contra un aeropuerto saudí coincide con una escalada más amplia del conflicto, que incluye ataques contra instalaciones energéticas del reino árabe.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/10/22/reportan-al-menos-1-muerto-y-8-heridos-tras-ataque-contra-aeropuerto-internacional-en-arabia-saudita.shtml\" rel=\"nofollow\">Reportan al menos 1 muerto y 8 heridos tras ataque contra aeropuerto internacional en Arabia Saudita</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6990996",
-      "link": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/21/lluvias-de-estrellas-dos-encuentros-con-el-pasado-del-sistema-solar.shtml",
+      "id": "https://www.biobiochile.cl/?p=6991968",
+      "link": "https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/10/22/reportan-al-menos-1-muerto-y-8-heridos-tras-ataque-contra-aeropuerto-internacional-en-arabia-saudita.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/21/lluvias-de-estrellas-dos-encuentros-con-el-pasado-del-sistema-solar.shtml"
+          "href": "https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/10/22/reportan-al-menos-1-muerto-y-8-heridos-tras-ataque-contra-aeropuerto-internacional-en-arabia-saudita.shtml"
         }
       ],
-      "published": "Wed, 21 Oct 2026 13:22:46 +0000",
+      "published": "Thu, 22 Oct 2026 03:24:19 +0000",
       "published_parsed": [
         2026,
         10,
-        21,
-        13,
         22,
-        46,
-        2,
-        294,
+        3,
+        24,
+        19,
+        3,
+        295,
         0
       ],
-      "summary": "<p>Oriónidas en octubre y Gemínidas en diciembre: qué podremos observar desde Chile y por qué estos destellos cuentan la historia de antiguos cuerpos del sistema solar.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/21/lluvias-de-estrellas-dos-encuentros-con-el-pasado-del-sistema-solar.shtml\" rel=\"nofollow\">Lluvias de estrellas: dos encuentros con el pasado del sistema solar</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>, informaron este jueves las autoridades saudíes, en una nueva ofensiva contra una instalación aeroportuaria en el contexto del creciente conflicto con los rebeldes hutíes de Yemen. La Autoridad General de Aviación Civil anunció que el aeropuerto fue atacado la pasada noche, lo que causó &#8220;la muerte de un residente&#8221; y heridas a otras ocho &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/10/22/reportan-al-menos-1-muerto-y-8-heridos-tras-ataque-contra-aeropuerto-internacional-en-arabia-saudita.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Reportan al menos 1 muerto y 8 heridos tras ataque contra aeropuerto internacional en Arabia Saudita\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/10/22/reportan-al-menos-1-muerto-y-8-heridos-tras-ataque-contra-aeropuerto-internacional-en-arabia-saudita.shtml\" rel=\"nofollow\">Reportan al menos 1 muerto y 8 heridos tras ataque contra aeropuerto internacional en Arabia Saudita</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Oriónidas en octubre y Gemínidas en diciembre: qué podremos observar desde Chile y por qué estos destellos cuentan la historia de antiguos cuerpos del sistema solar.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/21/lluvias-de-estrellas-dos-encuentros-con-el-pasado-del-sistema-solar.shtml\" rel=\"nofollow\">Lluvias de estrellas: dos encuentros con el pasado del sistema solar</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>, informaron este jueves las autoridades saudíes, en una nueva ofensiva contra una instalación aeroportuaria en el contexto del creciente conflicto con los rebeldes hutíes de Yemen. La Autoridad General de Aviación Civil anunció que el aeropuerto fue atacado la pasada noche, lo que causó &#8220;la muerte de un residente&#8221; y heridas a otras ocho &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/10/22/reportan-al-menos-1-muerto-y-8-heridos-tras-ataque-contra-aeropuerto-internacional-en-arabia-saudita.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Reportan al menos 1 muerto y 8 heridos tras ataque contra aeropuerto internacional en Arabia Saudita\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/10/22/reportan-al-menos-1-muerto-y-8-heridos-tras-ataque-contra-aeropuerto-internacional-en-arabia-saudita.shtml\" rel=\"nofollow\">Reportan al menos 1 muerto y 8 heridos tras ataque contra aeropuerto internacional en Arabia Saudita</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Astronomía",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Columnas",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "asteroides",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Astrofotografía",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Cari Letelier",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Cielo",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Cometas",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "estrellas fugaces",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Faetón",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "fotografiar meteoros",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Gemínidas",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Halley",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Lluvia de estrellas",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Luna",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Meteoro",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Meteoros",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "observación",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "observación de cielos oscuros.",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "observación de estrellas",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "observar meteoros",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "opinión",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Oriónidas",
+          "term": "Medio Oriente",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Lluvias de estrellas: dos encuentros con el pasado del sistema solar",
+      "title": "Reportan al menos 1 muerto y 8 heridos tras ataque contra aeropuerto internacional en Arabia Saudita",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Lluvias de estrellas: dos encuentros con el pasado del sistema solar"
+        "value": "Reportan al menos 1 muerto y 8 heridos tras ataque contra aeropuerto internacional en Arabia Saudita"
       }
     }
   }
