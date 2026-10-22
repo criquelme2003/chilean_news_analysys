@@ -20,57 +20,77 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Felipe Betancour",
+      "author": "Leo Mellado",
       "author_detail": {
-        "name": "Felipe Betancour"
+        "name": "Leo Mellado"
       },
       "authors": [
         {
-          "name": "Felipe Betancour"
+          "name": "Leo Mellado"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1812111",
-      "link": "https://www.theclinic.cl/2026/10/22/desde-senal-de-impunidad-a-no-hubiese-firmado-las-criticas-de-vallejo-y-matthei-al-gobierno-por-rebajas-de-penas-a-condenados-por-delitos-sexuales/",
+      "id": "https://www.theclinic.cl/?p=1811912",
+      "link": "https://www.theclinic.cl/2026/10/22/aimoga-mobo-chile-robot-humanoide-chery/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/10/22/desde-senal-de-impunidad-a-no-hubiese-firmado-las-criticas-de-vallejo-y-matthei-al-gobierno-por-rebajas-de-penas-a-condenados-por-delitos-sexuales/"
+          "href": "https://www.theclinic.cl/2026/10/22/aimoga-mobo-chile-robot-humanoide-chery/"
         }
       ],
-      "published": "Thu, 22 Oct 2026 12:14:13 +0000",
+      "published": "Thu, 22 Oct 2026 13:00:00 +0000",
       "published_parsed": [
         2026,
         10,
         22,
-        12,
-        14,
         13,
+        0,
+        0,
         3,
         295,
         0
       ],
-      "summary": "<p>Camila Vallejo cuestionó los beneficios concedidos a 56 condenados por delitos sexuales contra menores y pidió que se reviertan o se hagan valer las responsabilidades políticas. Evelyn Matthei también criticó la decisión del Ejecutivo y sostuvo que habría recurrido a todas las instancias para evitar las rebajas.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/22/desde-senal-de-impunidad-a-no-hubiese-firmado-las-criticas-de-vallejo-y-matthei-al-gobierno-por-rebajas-de-penas-a-condenados-por-delitos-sexuales/\">Desde &#8220;señal de impunidad&#8221; a &#8220;no hubiese firmado&#8221;: Las críticas de Vallejo y Matthei al Gobierno por rebajas de penas a condenados por delitos sexuales</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>El AiMOGA Mobo Chile asoma como la nueva frontera tecnológica de Chery. Presentado en Wuhu, este robot humanoide impulsado por IA adapta sensores y radares automotrices para convertirse en el asistente definitivo del hogar.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/22/aimoga-mobo-chile-robot-humanoide-chery/\">Del auto al living: AiMOGA Mobo y el salto del Grupo Chery hacia los robots de hogar</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Camila Vallejo cuestionó los beneficios concedidos a 56 condenados por delitos sexuales contra menores y pidió que se reviertan o se hagan valer las responsabilidades políticas. Evelyn Matthei también criticó la decisión del Ejecutivo y sostuvo que habría recurrido a todas las instancias para evitar las rebajas.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/22/desde-senal-de-impunidad-a-no-hubiese-firmado-las-criticas-de-vallejo-y-matthei-al-gobierno-por-rebajas-de-penas-a-condenados-por-delitos-sexuales/\">Desde &#8220;señal de impunidad&#8221; a &#8220;no hubiese firmado&#8221;: Las críticas de Vallejo y Matthei al Gobierno por rebajas de penas a condenados por delitos sexuales</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>El AiMOGA Mobo Chile asoma como la nueva frontera tecnológica de Chery. Presentado en Wuhu, este robot humanoide impulsado por IA adapta sensores y radares automotrices para convertirse en el asistente definitivo del hogar.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/22/aimoga-mobo-chile-robot-humanoide-chery/\">Del auto al living: AiMOGA Mobo y el salto del Grupo Chery hacia los robots de hogar</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Tiempo Libre",
+          "term": "AUTO TEST",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Chery",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "inteligencia artificial",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "robot humanoide",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "tecnología",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Desde “señal de impunidad” a “no hubiese firmado”: Las críticas de Vallejo y Matthei al Gobierno por rebajas de penas a condenados por delitos sexuales",
+      "title": "Del auto al living: AiMOGA Mobo y el salto del Grupo Chery hacia los robots de hogar",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Desde “señal de impunidad” a “no hubiese firmado”: Las críticas de Vallejo y Matthei al Gobierno por rebajas de penas a condenados por delitos sexuales"
+        "value": "Del auto al living: AiMOGA Mobo y el salto del Grupo Chery hacia los robots de hogar"
       }
     }
   },
@@ -222,22 +242,22 @@
       "df_ts": "20261022092144",
       "guidislink": false,
       "id": "http://www.df.cl/noticias/site/artic/20261022/pags/20261022092144.html",
-      "link": "http://www.df.cl/subcomision-rechaza-partida-presupuestaria-del-ministerio-de-ciencia-y",
+      "link": "http://www.df.cl/df-lab/innovacion-y-startups/subcomision-rechaza-partida-presupuestaria-del-ministerio-de-ciencia-y",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/subcomision-rechaza-partida-presupuestaria-del-ministerio-de-ciencia-y"
+          "href": "http://www.df.cl/df-lab/innovacion-y-startups/subcomision-rechaza-partida-presupuestaria-del-ministerio-de-ciencia-y"
         }
       ],
-      "published": "Thu, 22 Oct 2026 12:54:28 GMT",
+      "published": "Thu, 22 Oct 2026 13:15:34 GMT",
       "published_parsed": [
         2026,
         10,
         22,
-        12,
-        54,
-        28,
+        13,
+        15,
+        34,
         3,
         295,
         0
@@ -287,13 +307,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Camila Álvarez A",
+      "author": "Claudia Miño",
       "author_detail": {
-        "name": "Camila Álvarez A"
+        "name": "Claudia Miño"
       },
       "authors": [
         {
-          "name": "Camila Álvarez A"
+          "name": "Claudia Miño"
         }
       ],
       "content": [
@@ -301,141 +321,131 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>El Gobierno francés informó este jueves que un hombre con inmunodepresión severa, quien falleció a comienzos de octubre en Lyon, al sureste de Francia, estaba infectado con el <strong>virus Shamonda</strong>. Este patógeno afecta principalmente al ganado y, hasta ahora, los especialistas consideraban que no podía transmitirse a los seres humanos.</p>\n<p>A través de un comunicado conjunto, los ministerios de Sanidad y Agricultura de Francia aclararon que, según la información científica disponible, <strong>“no se ha identificado por ahora ningún riesgo sanitario para la población general”.</strong></p>\n<p>El hombre fallecido, del que no se comunicó la edad ni la identidad, estaba internado en los Hospicios Civiles de Lyon por una patología grave, y en su comunicado las autoridades francesas señalaron que se están llevando a cabo investigaciones clínicas, biológicas y epidemiológicas que reúnen expertos en sanidad humana, animal y medioambiental.</p>\n<p>Los expertos que se ocupan del caso creen que las complicaciones cerebrales que se le manifestaron están &#8220;muy probablemente vinculadas con la infección por el virus shamonda&#8221;.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/10/21/descubren-punto-debil-y-posible-tratamiento-del-virus-hanta-que-se-transmite-de-persona-a-persona.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/10/21/descubren-punto-debil-y-posible-tratamiento-del-virus-hanta-que-se-transmite-de-persona-a-persona.shtml\">Descubren \"punto débil\" y posible tratamiento del virus hanta que se transmite de persona a persona</a>\n\t\t<span style=\"display: none;\">Miércoles 21 Octubre, 2026 | 22:33</span>\n\t</div>\n</div>\n<h2>¿Qué se sabe del virus Shamonda? </h2>\n<p>El shamonda es un virus que se identificó por primera vez en Nigeria a mediados de los años 1960, q<strong>ue transmite un mosquito de tipo culicoides principalmente al ganado bovino</strong> y que este pasado verano se detectó por primera vez en varios puntos de Europa, entre otros en Francia.</p>\n<p>La contaminación de este paciente constituye la primera detección documentada de este virus en una persona.</p>\n<p>La hipótesis de las autoridades francesas es que se produjo una contaminación por un mosquito en el este de Francia, una zona en la que se había constatado la circulación de shamonda en primavera y verano.</p>\n<p>En cualquier caso, consideran que éste es <strong>&#8220;un caso excepcional&#8221;</strong> en un paciente con un cuadro gran debilidad del sistema inmunitario.</p>\n<p>Francia lo ha notificado a las instancias sanitarias internacionales, en concreto a la Organización Mundial de la Salud (OMS) y al Centro Europeo para la Prevención y el Control de las Enfermedades (ECDC).</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/10/22/muere-hombre-en-francia-con-extrano-virus-que-se-creia-que-no-afectaba-a-humanos.shtml\" rel=\"nofollow\">Muere hombre en Francia con extraño virus que hasta ahora se creía que no afectaba a humanos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>Chile ha avanzado de manera significativa en la <strong>transformación de su matriz energética</strong>. El desarrollo de las <strong>energías renovables</strong> y el <strong>proceso de descarbonización</strong> han abierto una oportunidad inédita para avanzar hacia un sistema energético más limpio y competitivo. Pero esta transformación plantea un desafío que es cada vez más determinante: <span class=\"destacador\">¿cómo lograr que los territorios donde se despliega esta nueva infraestructura sean parte de la transición y no solamente sus receptores?</span></p>\n<p>Esta pregunta adquiere especial relevancia cuando observamos la experiencia chilena de los últimos años. Nuestro país ha construido una Estrategia Nacional de Transición Socioecológica Justa que reconoce que la transformación energética no consiste simplemente en cerrar centrales a carbón y reemplazarlas por tecnologías limpias. <span class=\"destacador\">Implica también abordar sus efectos sobre el empleo, el bienestar, las comunidades y el desarrollo de los territorios.</span></p>\n<p>Pero la justicia de la transición no puede limitarse a los territorios donde se emplazan las tecnologías en retirada. También debe estar presente allí donde se construye la infraestructura energética del futuro.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/20/cable-electrico-con-peru-vender-energia-y-conquistar-el-poder-en-sudamerica.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/20/cable-electrico-con-peru-vender-energia-y-conquistar-el-poder-en-sudamerica.shtml\">Cable eléctrico con Perú: vender energía y conquistar el poder en Sudamérica</a>\n\t\t<span style=\"display: none;\">Martes 20 Octubre, 2026 | 10:00</span>\n\t</div>\n</div>\n<p>Chile es líder en proyectos de generación renovable y experimenta una expansión de proyectos de transmisión. Son inversiones necesarias para aprovechar nuestro potencial energético, reducir emisiones y avanzar hacia una economía más competitiva. Sin embargo, cuando estos proyectos llegan a territorios sin suficiente planificación, participación efectiva o mecanismos de generación de valor compartido, pueden surgir conflictos que terminan afectando, tanto a las comunidades, como a los propios proyectos.</p>\n<p>La experiencia internacional muestra que existen caminos para abordar este desafío. Pero quizás uno de los principales aprendizajes es que la participación no debería comenzar cuando el proyecto ya está diseñado. <span class=\"destacador\">El diálogo temprano permite identificar mejor los impactos, incorporar información local y construir soluciones antes de que las posiciones se rigidicen.</span></p>\n<p>Las comunidades no deben ser consideradas únicamente receptoras de impactos o beneficiarias de compensaciones, deben convertirse en <strong>“socios” del desarrollo energético</strong>. Eso requiere información transparente, diálogo entre empresas, comunidades y autoridades, y mecanismos concretos para que parte del valor generado por las inversiones contribuya al desarrollo local. </p>\n<p>Esto no significa frenar la inversión energética. Por el contrario, significa crear mejores condiciones para que pueda desarrollarse. La certeza que necesita un proyecto no es solamente regulatoria o financiera. También es territorial y social. Podemos desarrollar los mejores estándares para la llegada de la nueva infraestructura energética. No se trata de replicar mecánicamente una experiencia en todos los territorios, sino de establecer principios comunes: <span class=\"destacador\">participación temprana, información confiable, planificación territorial, diálogo permanente y mecanismos de valor compartido.</span></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml\" rel=\"nofollow\">La transición energética también se juega en los territorios y comunidades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6992151",
-      "link": "https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/10/22/muere-hombre-en-francia-con-extrano-virus-que-se-creia-que-no-afectaba-a-humanos.shtml",
+      "id": "https://www.biobiochile.cl/?p=6992174",
+      "link": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/10/22/muere-hombre-en-francia-con-extrano-virus-que-se-creia-que-no-afectaba-a-humanos.shtml"
+          "href": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml"
         }
       ],
-      "published": "Thu, 22 Oct 2026 12:47:01 +0000",
+      "published": "Thu, 22 Oct 2026 13:13:53 +0000",
       "published_parsed": [
         2026,
         10,
         22,
-        12,
-        47,
-        1,
+        13,
+        13,
+        53,
         3,
         295,
         0
       ],
-      "summary": "<p>El Gobierno francés informó este jueves que un hombre con inmunodepresión severa, quien falleció a comienzos de octubre en Lyon, al sureste de Francia, estaba infectado con el virus Shamonda. Este patógeno afecta principalmente al ganado y, hasta ahora, los especialistas consideraban que no podía transmitirse a los seres humanos. A través de un comunicado &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/10/22/muere-hombre-en-francia-con-extrano-virus-que-se-creia-que-no-afectaba-a-humanos.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Muere hombre en Francia con extraño virus que hasta ahora se creía que no afectaba a humanos\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/10/22/muere-hombre-en-francia-con-extrano-virus-que-se-creia-que-no-afectaba-a-humanos.shtml\" rel=\"nofollow\">Muere hombre en Francia con extraño virus que hasta ahora se creía que no afectaba a humanos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>Chile ha avanzado de manera significativa en la transformación de su matriz energética. El desarrollo de las energías renovables y el proceso de descarbonización han abierto una oportunidad inédita para avanzar hacia un sistema energético más limpio y competitivo. Pero esta transformación plantea un desafío que es cada vez más determinante: Esta pregunta adquiere especial &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"La transición energética también se juega en los territorios y comunidades\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml\" rel=\"nofollow\">La transición energética también se juega en los territorios y comunidades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El Gobierno francés informó este jueves que un hombre con inmunodepresión severa, quien falleció a comienzos de octubre en Lyon, al sureste de Francia, estaba infectado con el virus Shamonda. Este patógeno afecta principalmente al ganado y, hasta ahora, los especialistas consideraban que no podía transmitirse a los seres humanos. A través de un comunicado &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/10/22/muere-hombre-en-francia-con-extrano-virus-que-se-creia-que-no-afectaba-a-humanos.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Muere hombre en Francia con extraño virus que hasta ahora se creía que no afectaba a humanos\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/10/22/muere-hombre-en-francia-con-extrano-virus-que-se-creia-que-no-afectaba-a-humanos.shtml\" rel=\"nofollow\">Muere hombre en Francia con extraño virus que hasta ahora se creía que no afectaba a humanos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>Chile ha avanzado de manera significativa en la transformación de su matriz energética. El desarrollo de las energías renovables y el proceso de descarbonización han abierto una oportunidad inédita para avanzar hacia un sistema energético más limpio y competitivo. Pero esta transformación plantea un desafío que es cada vez más determinante: Esta pregunta adquiere especial &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"La transición energética también se juega en los territorios y comunidades\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml\" rel=\"nofollow\">La transición energética también se juega en los territorios y comunidades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Cuerpo",
+          "term": "Columnas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "complicaciones cerebrales",
+          "term": "Andrés Rebolledo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Contaminación",
+          "term": "desarrollo energetico",
           "scheme": null,
           "label": null
         },
         {
-          "term": "ECDC",
+          "term": "desarrollo local",
           "scheme": null,
           "label": null
         },
         {
-          "term": "europa",
+          "term": "diálogo permanente.",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Francia",
+          "term": "energías renovables",
           "scheme": null,
           "label": null
         },
         {
-          "term": "ganado",
+          "term": "Estrategia Nacional de Transición Socioecológica Justa",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Gobierno francés",
+          "term": "generación renovable",
           "scheme": null,
           "label": null
         },
         {
-          "term": "inmunodepresión severa",
+          "term": "información confiable",
           "scheme": null,
           "label": null
         },
         {
-          "term": "investigaciones clínicas",
+          "term": "justicia de la transición.",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Lyon",
+          "term": "mecanismos de valor compartido",
           "scheme": null,
           "label": null
         },
         {
-          "term": "mosquito",
+          "term": "opinión",
           "scheme": null,
           "label": null
         },
         {
-          "term": "mosquito culicoides",
+          "term": "participación temprana.\"",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Nigeria",
+          "term": "Planificación Territorial",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Organización Mundial de la Salud",
+          "term": "proceso de descarbonización",
           "scheme": null,
           "label": null
         },
         {
-          "term": "riesgo sanitario",
+          "term": "socios del desarrollo energético",
           "scheme": null,
           "label": null
         },
         {
-          "term": "seleccion-tendencias",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "sistema inmunitario",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "virus Shamonda",
+          "term": "transformación de su matriz energética",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Muere hombre en Francia con extraño virus que hasta ahora se creía que no afectaba a humanos",
+      "title": "La transición energética también se juega en los territorios y comunidades",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Muere hombre en Francia con extraño virus que hasta ahora se creía que no afectaba a humanos"
+        "value": "La transición energética también se juega en los territorios y comunidades"
       }
     }
   }
