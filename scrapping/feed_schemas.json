@@ -20,77 +20,57 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Leo Mellado",
+      "author": "Marcelo Silva",
       "author_detail": {
-        "name": "Leo Mellado"
+        "name": "Marcelo Silva"
       },
       "authors": [
         {
-          "name": "Leo Mellado"
+          "name": "Marcelo Silva"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1811912",
-      "link": "https://www.theclinic.cl/2026/10/22/aimoga-mobo-chile-robot-humanoide-chery/",
+      "id": "https://www.theclinic.cl/?p=1812680",
+      "link": "https://www.theclinic.cl/2026/10/22/una-casa-incendiada-por-un-rayo-en-yungay-y-45-personas-damnificadas-los-estragos-del-sistema-frontal-que-afecta-desde-este-jueves-a-la-zona-centro-sur-del-pais/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/10/22/aimoga-mobo-chile-robot-humanoide-chery/"
+          "href": "https://www.theclinic.cl/2026/10/22/una-casa-incendiada-por-un-rayo-en-yungay-y-45-personas-damnificadas-los-estragos-del-sistema-frontal-que-afecta-desde-este-jueves-a-la-zona-centro-sur-del-pais/"
         }
       ],
-      "published": "Thu, 22 Oct 2026 13:00:00 +0000",
+      "published": "Fri, 23 Oct 2026 02:02:16 +0000",
       "published_parsed": [
         2026,
         10,
-        22,
-        13,
-        0,
-        0,
-        3,
-        295,
+        23,
+        2,
+        2,
+        16,
+        4,
+        296,
         0
       ],
-      "summary": "<p>El AiMOGA Mobo Chile asoma como la nueva frontera tecnológica de Chery. Presentado en Wuhu, este robot humanoide impulsado por IA adapta sensores y radares automotrices para convertirse en el asistente definitivo del hogar.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/22/aimoga-mobo-chile-robot-humanoide-chery/\">Del auto al living: AiMOGA Mobo y el salto del Grupo Chery hacia los robots de hogar</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>En la Región del Biobío, las autoridades municipales y de educación determinaron suspender las clases en seis comunas. La medida es de carácter preventivo debido a las intensas precipitaciones en corto periodo de tiempo que se esperan para este viernes. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/22/una-casa-incendiada-por-un-rayo-en-yungay-y-45-personas-damnificadas-los-estragos-del-sistema-frontal-que-afecta-desde-este-jueves-a-la-zona-centro-sur-del-pais/\">Una casa incendiada por un rayo en Yungay y 45 personas damnificadas: los estragos del sistema frontal que afecta desde este jueves a la zona centro sur del país</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El AiMOGA Mobo Chile asoma como la nueva frontera tecnológica de Chery. Presentado en Wuhu, este robot humanoide impulsado por IA adapta sensores y radares automotrices para convertirse en el asistente definitivo del hogar.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/22/aimoga-mobo-chile-robot-humanoide-chery/\">Del auto al living: AiMOGA Mobo y el salto del Grupo Chery hacia los robots de hogar</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>En la Región del Biobío, las autoridades municipales y de educación determinaron suspender las clases en seis comunas. La medida es de carácter preventivo debido a las intensas precipitaciones en corto periodo de tiempo que se esperan para este viernes. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/22/una-casa-incendiada-por-un-rayo-en-yungay-y-45-personas-damnificadas-los-estragos-del-sistema-frontal-que-afecta-desde-este-jueves-a-la-zona-centro-sur-del-pais/\">Una casa incendiada por un rayo en Yungay y 45 personas damnificadas: los estragos del sistema frontal que afecta desde este jueves a la zona centro sur del país</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "AUTO TEST",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Chery",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "inteligencia artificial",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "robot humanoide",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "tecnología",
+          "term": "Ciudad",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Del auto al living: AiMOGA Mobo y el salto del Grupo Chery hacia los robots de hogar",
+      "title": "Una casa incendiada por un rayo en Yungay y 45 personas damnificadas: los estragos del sistema frontal que afecta desde este jueves a la zona centro sur del país",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Del auto al living: AiMOGA Mobo y el salto del Grupo Chery hacia los robots de hogar"
+        "value": "Una casa incendiada por un rayo en Yungay y 45 personas damnificadas: los estragos del sistema frontal que afecta desde este jueves a la zona centro sur del país"
       }
     }
   },
@@ -116,13 +96,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Eduardo Córdova",
+      "author": "Patricia Schüller Gamboa",
       "author_detail": {
-        "name": "Eduardo Córdova"
+        "name": "Patricia Schüller Gamboa"
       },
       "authors": [
         {
-          "name": "Eduardo Córdova"
+          "name": "Patricia Schüller Gamboa"
         }
       ],
       "content": [
@@ -130,37 +110,37 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p><strong>Un adolescente de 17 años murió tras recibir un disparo en el tórax en la vía pública, en el sector del Cerro 18, en Lo Barnechea.</strong> El homicidio ocurrió durante la madrugada de este jueves, luego de que la víctima participara en una celebración posterior a un partido de fútbol.</p>\n\n\n\n<p>Según los primeros antecedentes, el joven se encontraba en una multicancha de calle Circunvalación Sur. En ese momento fue abordado por al menos un desconocido, quien le disparó en reiteradas ocasiones, recogió <em>Emol</em>.</p>\n\n\n\n<p>Tras el ataque, sus familiares lo trasladaron hasta un recinto hospitalario. Sin embargo, <strong>falleció antes de recibir atención médica</strong>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Fiscalía ECOH investiga el homicidio en Lo Barnechea</h2>\n\n\n\n<p>Debido a las características del crimen y al uso de armas de fuego, el Equipo contra el Crimen Organizado y Homicidios (ECOH) de la Fiscalía llegó al lugar para realizar las primeras diligencias.</p>\n\n\n\n<p>El fiscal Enrique Vásquez entregó detalles del ataque y señaló que la víctima se encontraba en la vía pública después de una celebración relacionada con un partido de fútbol.</p>\n\n\n\n<p>&#8220;Una víctima adolescente de 17 años de edad, se encontraba en la vía pública posterior a una celebración de un partido fútbol. En ese contexto a lo menos un sujeto premunido de un arma de fuego efectúa disparos en su contra impactándole uno de estos en la región toráxica, impacto que le causa la muerte&#8221;, explicó.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Víctima mantenía antecedentes policiales</h2>\n\n\n\n<p>De acuerdo con los antecedentes preliminares, <strong>el adolescente registraba antecedentes policiales y una orden vigente por homicidio</strong>. Además, era buscado por las autoridades.</p>\n\n\n\n<p>En la investigación también participa el Laboratorio de Criminalística de la Policía de Investigaciones (PDI). Las diligencias buscan esclarecer la dinámica del ataque e identificar al autor de los disparos, quien hasta el momento no ha sido detenido.</p>\n<p>The post <a href=\"https://www.lanacion.cl/adolescente-de-17-anos-muere-baleado-tras-partido-de-futbol-en-lo-barnechea/\" rel=\"nofollow\">Adolescente de 17 años muere baleado tras partido de fútbol en Lo Barnechea</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p>El <strong>presidente de Francia, Emmanuel Macron</strong>, recibirá este viernes a <strong>representantes de tres organizaciones de estudiantes para tratar con ellos cara a cara el clima de enorme tensión social desatado por las movilizaciones de estudiantes de secundaria</strong>. Y que ha seguido con la incorporación de destacados movimientos de protesta como los “chalecos amarillos”.<br /><br /><strong>El presidente de la organización Renouveau Lycéen, Nathanaël Combary</strong>, anunció que su grupo<strong>, junto a Les Lycéens y la Union de Sindicatos de Estudiantes de Secundaria,</strong> compartirán impresiones con el mandatario a partir de las 15:00 horas, recogió la cadena <em>BFM TV.</em></p>\n\n\n\n<h2 class=\"wp-block-heading\">El Elíseo confirmó el encuentro</h2>\n\n\n\n<p>En un comunicado posterior, <strong>el Elíseo confirmó que el presidente recibirá a &#8220;estudiantes de secundaria y representantes de organizaciones estudiantiles&#8221;</strong>. Para &#8220;escuchar las demandas e inquietudes de los representantes de los estudiantes de secundaria&#8221;.<br /><br /><strong>Los sindicatos de estudiantes piden una reforma integral de la formación de secundaria</strong>. Desde la superpoblación en las aulas hasta, sobre todo, la remodelación del procedimiento de acceso a la educación superior (Parcoursup), vilipendiado hasta el extremo por el “tapón” de solicitudes de admisión que ha creado y la dificultad de los docentes para examinarlas todas.<br /><br />El encuentro entre Macron y los estudiantes ocurrirá en la víspera de la nueva jornada de movilizaciones masivas convocada para el sábado. Eventos que el Elíseo quiere controlar hasta el punto de que el presidente anunciara esta mañana la prohibición de todas las movilizaciones de organizaciones no sindicales, y después de que el Ministerio del Interior haya decidido ampliar el toque de queda en vigor en zonas emblemáticas de París hasta las 06.00 del lunes.<br /><br />Los partidos de izquierda y derecha franceses también comentaron su frustración después de un infructuoso encuentro mantenido este jueves con el primer ministro de Francia, Sébastien Lecornu. Una reunión, denuncia por ejemplo La Francia Insumisa, que no ha redundado en ningún tipo de avances para intentar calmar la situación.</p>\n<p>The post <a href=\"https://www.lanacion.cl/macron-se-reunira-este-viernes-con-estudiantes-en-medio-de-la-tension-social-en-francia/\" rel=\"nofollow\">Macron se reunirá este viernes con estudiantes en medio de la tensión social en Francia</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=418621",
-      "link": "https://www.lanacion.cl/adolescente-de-17-anos-muere-baleado-tras-partido-de-futbol-en-lo-barnechea/",
+      "id": "https://www.lanacion.cl/?p=418715",
+      "link": "https://www.lanacion.cl/macron-se-reunira-este-viernes-con-estudiantes-en-medio-de-la-tension-social-en-francia/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/adolescente-de-17-anos-muere-baleado-tras-partido-de-futbol-en-lo-barnechea/"
+          "href": "https://www.lanacion.cl/macron-se-reunira-este-viernes-con-estudiantes-en-medio-de-la-tension-social-en-francia/"
         }
       ],
-      "published": "Thu, 22 Oct 2026 12:41:32 +0000",
+      "published": "Thu, 22 Oct 2026 21:47:02 +0000",
       "published_parsed": [
         2026,
         10,
         22,
-        12,
-        41,
-        32,
+        21,
+        47,
+        2,
         3,
         295,
         0
       ],
-      "summary": "<p>Un adolescente de 17 años murió tras recibir un disparo en el tórax en la vía pública, en el sector del Cerro 18, en Lo Barnechea. El homicidio ocurrió durante la madrugada de este jueves, luego de que la víctima participara en una celebración posterior a un partido de fútbol. Según los primeros antecedentes, el [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/adolescente-de-17-anos-muere-baleado-tras-partido-de-futbol-en-lo-barnechea/\" rel=\"nofollow\">Adolescente de 17 años muere baleado tras partido de fútbol en Lo Barnechea</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>El presidente de Francia, Emmanuel Macron, recibirá este viernes a representantes de tres organizaciones de estudiantes para tratar con ellos cara a cara el clima de enorme tensión social desatado por las movilizaciones de estudiantes de secundaria. Y que ha seguido con la incorporación de destacados movimientos de protesta como los “chalecos amarillos”. El presidente [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/macron-se-reunira-este-viernes-con-estudiantes-en-medio-de-la-tension-social-en-francia/\" rel=\"nofollow\">Macron se reunirá este viernes con estudiantes en medio de la tensión social en Francia</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Un adolescente de 17 años murió tras recibir un disparo en el tórax en la vía pública, en el sector del Cerro 18, en Lo Barnechea. El homicidio ocurrió durante la madrugada de este jueves, luego de que la víctima participara en una celebración posterior a un partido de fútbol. Según los primeros antecedentes, el [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/adolescente-de-17-anos-muere-baleado-tras-partido-de-futbol-en-lo-barnechea/\" rel=\"nofollow\">Adolescente de 17 años muere baleado tras partido de fútbol en Lo Barnechea</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>El presidente de Francia, Emmanuel Macron, recibirá este viernes a representantes de tres organizaciones de estudiantes para tratar con ellos cara a cara el clima de enorme tensión social desatado por las movilizaciones de estudiantes de secundaria. Y que ha seguido con la incorporación de destacados movimientos de protesta como los “chalecos amarillos”. El presidente [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/macron-se-reunira-este-viernes-con-estudiantes-en-medio-de-la-tension-social-en-francia/\" rel=\"nofollow\">Macron se reunirá este viernes con estudiantes en medio de la tensión social en Francia</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
@@ -169,42 +149,42 @@
           "label": null
         },
         {
-          "term": "Nacional",
+          "term": "Internacional",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Fiscalía ECOH",
+          "term": "estudiantes",
           "scheme": null,
           "label": null
         },
         {
-          "term": "homicidio",
+          "term": "Francia",
           "scheme": null,
           "label": null
         },
         {
-          "term": "lo barnechea",
+          "term": "Macron",
           "scheme": null,
           "label": null
         },
         {
-          "term": "PDI",
+          "term": "reunión",
           "scheme": null,
           "label": null
         },
         {
-          "term": "seguridad",
+          "term": "tensión",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Adolescente de 17 años muere baleado tras partido de fútbol en Lo Barnechea",
+      "title": "Macron se reunirá este viernes con estudiantes en medio de la tensión social en Francia",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Adolescente de 17 años muere baleado tras partido de fútbol en Lo Barnechea"
+        "value": "Macron se reunirá este viernes con estudiantes en medio de la tensión social en Francia"
       }
     }
   },
@@ -236,52 +216,52 @@
       "df_fechap": "20261022",
       "df_fechapl": "Jueves 22 de octubre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261022/imag/foto_0000000720261022092144/Captura_de_pantalla_64.png",
-      "df_horap": "09:54",
-      "df_tagnames": "Ministerio de Ciencia Tecnología Conocimiento e Innovación,presupuesto,Ciencia,tecnología,universidades,Marco Zecchetto",
-      "df_ts": "20261022092144",
+      "df_foto600": "/noticias/site/artic/20261022/imag/foto_0000001320261022162335/COLLAGE.jpg",
+      "df_horap": "20:00",
+      "df_tagnames": "Minera,Minería,abogadas,Consultoras,abogados",
+      "df_ts": "20261022162335",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261022/pags/20261022092144.html",
-      "link": "http://www.df.cl/df-lab/innovacion-y-startups/subcomision-rechaza-partida-presupuestaria-del-ministerio-de-ciencia-y",
+      "id": "http://www.df.cl/noticias/site/artic/20261022/pags/20261022162335.html",
+      "link": "http://www.df.cl/empresas/entre-codigos/ey-refuerza-su-negocio-de-consultoria-en-chile-con-la-incorporacion-de",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/df-lab/innovacion-y-startups/subcomision-rechaza-partida-presupuestaria-del-ministerio-de-ciencia-y"
+          "href": "http://www.df.cl/empresas/entre-codigos/ey-refuerza-su-negocio-de-consultoria-en-chile-con-la-incorporacion-de"
         }
       ],
-      "published": "Thu, 22 Oct 2026 13:15:34 GMT",
+      "published": "Thu, 22 Oct 2026 22:59:19 GMT",
       "published_parsed": [
         2026,
         10,
         22,
-        13,
-        15,
-        34,
+        22,
+        59,
+        19,
         3,
         295,
         0
       ],
-      "summary": "La instancia estuvo marcada por las críticas de representantes de la academia y la ciencia, quienes pidieron reponer recursos para equipamiento, investigación y formación de capital humano. Ahora, la propuesta deberá ser discutida en Comisión Mixta.",
+      "summary": "La operación permitirá a la firma ampliar sus capacidades en consultoría estratégica y fortalecer su presencia en sectores como minería, energía e inmobiliario. La integración incluye a tres socios y una socia adjunta de la compañía chilena.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "La instancia estuvo marcada por las críticas de representantes de la academia y la ciencia, quienes pidieron reponer recursos para equipamiento, investigación y formación de capital humano. Ahora, la propuesta deberá ser discutida en Comisión Mixta."
+        "value": "La operación permitirá a la firma ampliar sus capacidades en consultoría estratégica y fortalecer su presencia en sectores como minería, energía e inmobiliario. La integración incluye a tres socios y una socia adjunta de la compañía chilena."
       },
       "tags": [
         {
-          "term": "DF LAB",
+          "term": "Empresas",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Subcomisión rechaza partida presupuestaria del Ministerio de Ciencia y Tecnología para 2027",
+      "title": "EY refuerza su negocio de consultoría en Chile con la incorporación de Aurys y más de 30 profesionales",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Subcomisión rechaza partida presupuestaria del Ministerio de Ciencia y Tecnología para 2027"
+        "value": "EY refuerza su negocio de consultoría en Chile con la incorporación de Aurys y más de 30 profesionales"
       }
     }
   },
@@ -307,13 +287,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Claudia Miño",
+      "author": "Antonio Gonzalez",
       "author_detail": {
-        "name": "Claudia Miño"
+        "name": "Antonio Gonzalez"
       },
       "authors": [
         {
-          "name": "Claudia Miño"
+          "name": "Antonio Gonzalez"
         }
       ],
       "content": [
@@ -321,131 +301,126 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>Chile ha avanzado de manera significativa en la <strong>transformación de su matriz energética</strong>. El desarrollo de las <strong>energías renovables</strong> y el <strong>proceso de descarbonización</strong> han abierto una oportunidad inédita para avanzar hacia un sistema energético más limpio y competitivo. Pero esta transformación plantea un desafío que es cada vez más determinante: <span class=\"destacador\">¿cómo lograr que los territorios donde se despliega esta nueva infraestructura sean parte de la transición y no solamente sus receptores?</span></p>\n<p>Esta pregunta adquiere especial relevancia cuando observamos la experiencia chilena de los últimos años. Nuestro país ha construido una Estrategia Nacional de Transición Socioecológica Justa que reconoce que la transformación energética no consiste simplemente en cerrar centrales a carbón y reemplazarlas por tecnologías limpias. <span class=\"destacador\">Implica también abordar sus efectos sobre el empleo, el bienestar, las comunidades y el desarrollo de los territorios.</span></p>\n<p>Pero la justicia de la transición no puede limitarse a los territorios donde se emplazan las tecnologías en retirada. También debe estar presente allí donde se construye la infraestructura energética del futuro.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/20/cable-electrico-con-peru-vender-energia-y-conquistar-el-poder-en-sudamerica.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/20/cable-electrico-con-peru-vender-energia-y-conquistar-el-poder-en-sudamerica.shtml\">Cable eléctrico con Perú: vender energía y conquistar el poder en Sudamérica</a>\n\t\t<span style=\"display: none;\">Martes 20 Octubre, 2026 | 10:00</span>\n\t</div>\n</div>\n<p>Chile es líder en proyectos de generación renovable y experimenta una expansión de proyectos de transmisión. Son inversiones necesarias para aprovechar nuestro potencial energético, reducir emisiones y avanzar hacia una economía más competitiva. Sin embargo, cuando estos proyectos llegan a territorios sin suficiente planificación, participación efectiva o mecanismos de generación de valor compartido, pueden surgir conflictos que terminan afectando, tanto a las comunidades, como a los propios proyectos.</p>\n<p>La experiencia internacional muestra que existen caminos para abordar este desafío. Pero quizás uno de los principales aprendizajes es que la participación no debería comenzar cuando el proyecto ya está diseñado. <span class=\"destacador\">El diálogo temprano permite identificar mejor los impactos, incorporar información local y construir soluciones antes de que las posiciones se rigidicen.</span></p>\n<p>Las comunidades no deben ser consideradas únicamente receptoras de impactos o beneficiarias de compensaciones, deben convertirse en <strong>“socios” del desarrollo energético</strong>. Eso requiere información transparente, diálogo entre empresas, comunidades y autoridades, y mecanismos concretos para que parte del valor generado por las inversiones contribuya al desarrollo local. </p>\n<p>Esto no significa frenar la inversión energética. Por el contrario, significa crear mejores condiciones para que pueda desarrollarse. La certeza que necesita un proyecto no es solamente regulatoria o financiera. También es territorial y social. Podemos desarrollar los mejores estándares para la llegada de la nueva infraestructura energética. No se trata de replicar mecánicamente una experiencia en todos los territorios, sino de establecer principios comunes: <span class=\"destacador\">participación temprana, información confiable, planificación territorial, diálogo permanente y mecanismos de valor compartido.</span></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml\" rel=\"nofollow\">La transición energética también se juega en los territorios y comunidades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>El presidente estadounidense, <strong>Donald Trump</strong>, afirmó este jueves que <span class=\"destacador\">&#8220;tiene derecho&#8221; a presentarse de nuevo a las elecciones presidenciales porque, sostuvo, le hicieron &#8220;trampa&#8221; en los comicios de 2020</span>, que perdió frente al demócrata <strong>Joe Bide</strong>n, y volvió a insistir en que ha ganado tres veces la Presidencia.</p>\n<blockquote><p>&#8220;Nos hicieron trampa en la segunda, porque la gané tres veces, así que creo que tengo derecho a presentarme otra vez&#8221;, dijo Trump durante un mitin en Iowa, en referencia a las elecciones de 2020, en las que Biden obtuvo la victoria.</p></blockquote>\n<p>El republicano ha bromeado en repetidas ocasiones con la posibilidad de buscar un tercer mandato, aunque la <strong>Enmienda 22 de la Constitución prohíbe que una persona sea elegida presidente más de dos veces</strong>.</p>\n<p>Trump ganó las elecciones de 2016 y 2024, pero perdió las de 2020, derrotada por Biden.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/10/22/informe-detalla-que-gobierno-de-trump-ha-deportado-a-cerca-de-1-millon-de-personas-en-casi-dos-anos.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/10/22/informe-detalla-que-gobierno-de-trump-ha-deportado-a-cerca-de-1-millon-de-personas-en-casi-dos-anos.shtml\">Informe detalla que gobierno de Trump ha deportado a cerca de 1 millón de personas en casi dos años</a>\n\t\t<span style=\"display: none;\">Jueves 22 Octubre, 2026 | 22:00</span>\n\t</div>\n</div>\n<h2>Trump apunta a fraude electoral para sostener nueva candidatura</h2>\n<p>Desde aquella derrota, Trump ha sostenido repetidamente que hubo fraude electoral, pese a que las impugnaciones judiciales no lograron demostrar irregularidades generalizadas que alteraran el resultado.</p>\n<p><strong>En julio, Trump volvió a cuestionar la legitimidad de las elecciones de 2020</strong> durante un discurso televisado en el que presentó documentos desclasificados que, según afirmó, revelaban vulnerabilidades en el sistema electoral e injerencias extranjeras.</p>\n<p>Sin embargo, revisiones de esos documentos realizadas por medios como FactCheck.org concluyeron que no aportaban pruebas de fraude generalizado ni de que votos hubieran sido manipulados para alterar el resultado de aquellos comicios.</p>\n<p>El mandatario ha intensificado sus actos de campaña en las semanas previas a las elecciones legislativas del 3 de noviembre, en las que los republicanos buscan mantener el control del Congreso.</p>\n<p>Tras sus mítines en Carolina del Norte y Iowa, Trump tiene previstos nuevos actos en Florida, Georgia, Michigan y Texas para movilizar el voto republicano y respaldar a los candidatos de su partido.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/10/23/pese-a-limite-constitucional-trump-dice-tener-derecho-a-otra-candidatura-apuntando-a-trampa-en-2020.shtml\" rel=\"nofollow\">Pese a límite constitucional, Trump dice tener derecho a otra candidatura apuntando a &quot;trampa&quot; en 2020</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6992174",
-      "link": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml",
+      "id": "https://www.biobiochile.cl/?p=6993196",
+      "link": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/10/23/pese-a-limite-constitucional-trump-dice-tener-derecho-a-otra-candidatura-apuntando-a-trampa-en-2020.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml"
+          "href": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/10/23/pese-a-limite-constitucional-trump-dice-tener-derecho-a-otra-candidatura-apuntando-a-trampa-en-2020.shtml"
         }
       ],
-      "published": "Thu, 22 Oct 2026 13:13:53 +0000",
+      "published": "Fri, 23 Oct 2026 03:19:27 +0000",
       "published_parsed": [
         2026,
         10,
-        22,
-        13,
-        13,
-        53,
+        23,
         3,
-        295,
+        19,
+        27,
+        4,
+        296,
         0
       ],
-      "summary": "<p>Chile ha avanzado de manera significativa en la transformación de su matriz energética. El desarrollo de las energías renovables y el proceso de descarbonización han abierto una oportunidad inédita para avanzar hacia un sistema energético más limpio y competitivo. Pero esta transformación plantea un desafío que es cada vez más determinante: Esta pregunta adquiere especial &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"La transición energética también se juega en los territorios y comunidades\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml\" rel=\"nofollow\">La transición energética también se juega en los territorios y comunidades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>El presidente estadounidense, Donald Trump, afirmó este jueves que , que perdió frente al demócrata Joe Biden, y volvió a insistir en que ha ganado tres veces la Presidencia. &#8220;Nos hicieron trampa en la segunda, porque la gané tres veces, así que creo que tengo derecho a presentarme otra vez&#8221;, dijo Trump durante un mitin &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/10/23/pese-a-limite-constitucional-trump-dice-tener-derecho-a-otra-candidatura-apuntando-a-trampa-en-2020.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Pese a límite constitucional, Trump dice tener derecho a otra candidatura apuntando a \"trampa\" en 2020\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/10/23/pese-a-limite-constitucional-trump-dice-tener-derecho-a-otra-candidatura-apuntando-a-trampa-en-2020.shtml\" rel=\"nofollow\">Pese a límite constitucional, Trump dice tener derecho a otra candidatura apuntando a &quot;trampa&quot; en 2020</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Chile ha avanzado de manera significativa en la transformación de su matriz energética. El desarrollo de las energías renovables y el proceso de descarbonización han abierto una oportunidad inédita para avanzar hacia un sistema energético más limpio y competitivo. Pero esta transformación plantea un desafío que es cada vez más determinante: Esta pregunta adquiere especial &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"La transición energética también se juega en los territorios y comunidades\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/22/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades.shtml\" rel=\"nofollow\">La transición energética también se juega en los territorios y comunidades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>El presidente estadounidense, Donald Trump, afirmó este jueves que , que perdió frente al demócrata Joe Biden, y volvió a insistir en que ha ganado tres veces la Presidencia. &#8220;Nos hicieron trampa en la segunda, porque la gané tres veces, así que creo que tengo derecho a presentarme otra vez&#8221;, dijo Trump durante un mitin &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/10/23/pese-a-limite-constitucional-trump-dice-tener-derecho-a-otra-candidatura-apuntando-a-trampa-en-2020.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Pese a límite constitucional, Trump dice tener derecho a otra candidatura apuntando a \"trampa\" en 2020\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/10/23/pese-a-limite-constitucional-trump-dice-tener-derecho-a-otra-candidatura-apuntando-a-trampa-en-2020.shtml\" rel=\"nofollow\">Pese a límite constitucional, Trump dice tener derecho a otra candidatura apuntando a &quot;trampa&quot; en 2020</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Columnas",
+          "term": "EE.UU.",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Andrés Rebolledo",
+          "term": "actos de campaña",
           "scheme": null,
           "label": null
         },
         {
-          "term": "desarrollo energetico",
+          "term": "Campaña Electoral",
           "scheme": null,
           "label": null
         },
         {
-          "term": "desarrollo local",
+          "term": "candidatos republicanos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "diálogo permanente.",
+          "term": "control del Congreso",
           "scheme": null,
           "label": null
         },
         {
-          "term": "energías renovables",
+          "term": "Donald Trump",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Estrategia Nacional de Transición Socioecológica Justa",
+          "term": "elecciones legislativas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "generación renovable",
+          "term": "elecciones presidenciales",
           "scheme": null,
           "label": null
         },
         {
-          "term": "información confiable",
+          "term": "Enmienda 22 de la Constitución",
           "scheme": null,
           "label": null
         },
         {
-          "term": "justicia de la transición.",
+          "term": "Fraude Electoral",
           "scheme": null,
           "label": null
         },
         {
-          "term": "mecanismos de valor compartido",
+          "term": "impugnaciones judiciales",
           "scheme": null,
           "label": null
         },
         {
-          "term": "opinión",
+          "term": "injerencias extranjeras",
           "scheme": null,
           "label": null
         },
         {
-          "term": "participación temprana.\"",
+          "term": "Joe Biden",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Planificación Territorial",
+          "term": "sistema electoral",
           "scheme": null,
           "label": null
         },
         {
-          "term": "proceso de descarbonización",
+          "term": "trump candidatura",
           "scheme": null,
           "label": null
         },
         {
-          "term": "socios del desarrollo energético",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "transformación de su matriz energética",
+          "term": "voto republicano",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "La transición energética también se juega en los territorios y comunidades",
+      "title": "Pese a límite constitucional, Trump dice tener derecho a otra candidatura apuntando a \"trampa\" en 2020",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "La transición energética también se juega en los territorios y comunidades"
+        "value": "Pese a límite constitucional, Trump dice tener derecho a otra candidatura apuntando a \"trampa\" en 2020"
       }
     }
   }
