@@ -20,57 +20,82 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Marcelo Silva",
+      "author": "Catalina Riquelme",
       "author_detail": {
-        "name": "Marcelo Silva"
+        "name": "Catalina Riquelme"
       },
       "authors": [
         {
-          "name": "Marcelo Silva"
+          "name": "Catalina Riquelme"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1813224",
-      "link": "https://www.theclinic.cl/2026/10/23/detienen-a-hombre-acusado-del-homicidio-de-sofia-sanchez-exprotagonista-de-mama-a-los-15/",
+      "id": "https://www.theclinic.cl/?p=1813313",
+      "link": "https://www.theclinic.cl/2026/10/24/gran-oferta-gastronomica-dia-soleado-y-masiva-asistencia-asi-se-vive-la-primera-jornada-del-festival-bamba-en-santiago/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/10/23/detienen-a-hombre-acusado-del-homicidio-de-sofia-sanchez-exprotagonista-de-mama-a-los-15/"
+          "href": "https://www.theclinic.cl/2026/10/24/gran-oferta-gastronomica-dia-soleado-y-masiva-asistencia-asi-se-vive-la-primera-jornada-del-festival-bamba-en-santiago/"
         }
       ],
-      "published": "Sat, 24 Oct 2026 00:24:03 +0000",
+      "published": "Sat, 24 Oct 2026 20:48:42 +0000",
       "published_parsed": [
         2026,
         10,
         24,
-        0,
-        24,
-        3,
+        20,
+        48,
+        42,
         5,
         297,
         0
       ],
-      "summary": "<p>Este viernes, se llevó a cabo la audiencia de formalización contra Jaime Peña Silva en el Cuarto Juzgado de Garantía de Santiago. A juicio de la Fiscalía Local de La Florida, el imputado, que vive hace veinte años en situación de calle, habría golpeado a la víctima en reiteradas oportunidades con un objeto contundente hasta darle muerte. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/23/detienen-a-hombre-acusado-del-homicidio-de-sofia-sanchez-exprotagonista-de-mama-a-los-15/\">Detienen a hombre acusado del homicidio de Sofía Sánchez, exprotagonista de “Mamá a los 15”</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>El evento comenzó al mediodía en Parque O’Higgins con presentaciones de Seamoon y Catalina y las Bordonas de Oro, y siguió con Los Pericos, Coti y Jovanotti. La jornada incluye una amplia oferta gastronómica latinoamericana, barras, coctelería y un horario extendido de Metro de Santiago para el regreso de los asistentes.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/24/gran-oferta-gastronomica-dia-soleado-y-masiva-asistencia-asi-se-vive-la-primera-jornada-del-festival-bamba-en-santiago/\">Gran oferta gastronómica, día soleado y masiva asistencia: así se vive la primera jornada del Festival Bamba en Santiago</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Este viernes, se llevó a cabo la audiencia de formalización contra Jaime Peña Silva en el Cuarto Juzgado de Garantía de Santiago. A juicio de la Fiscalía Local de La Florida, el imputado, que vive hace veinte años en situación de calle, habría golpeado a la víctima en reiteradas oportunidades con un objeto contundente hasta darle muerte. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/23/detienen-a-hombre-acusado-del-homicidio-de-sofia-sanchez-exprotagonista-de-mama-a-los-15/\">Detienen a hombre acusado del homicidio de Sofía Sánchez, exprotagonista de “Mamá a los 15”</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>El evento comenzó al mediodía en Parque O’Higgins con presentaciones de Seamoon y Catalina y las Bordonas de Oro, y siguió con Los Pericos, Coti y Jovanotti. La jornada incluye una amplia oferta gastronómica latinoamericana, barras, coctelería y un horario extendido de Metro de Santiago para el regreso de los asistentes.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/24/gran-oferta-gastronomica-dia-soleado-y-masiva-asistencia-asi-se-vive-la-primera-jornada-del-festival-bamba-en-santiago/\">Gran oferta gastronómica, día soleado y masiva asistencia: así se vive la primera jornada del Festival Bamba en Santiago</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Judicial",
+          "term": "Tiempo Libre",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Festival Bamba",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Juanes",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "metro de santiago",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Parque Ohiggins",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Santiago",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Detienen a hombre acusado del homicidio de Sofía Sánchez, exprotagonista de “Mamá a los 15”",
+      "title": "Gran oferta gastronómica, día soleado y masiva asistencia: así se vive la primera jornada del Festival Bamba en Santiago",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Detienen a hombre acusado del homicidio de Sofía Sánchez, exprotagonista de “Mamá a los 15”"
+        "value": "Gran oferta gastronómica, día soleado y masiva asistencia: así se vive la primera jornada del Festival Bamba en Santiago"
       }
     }
   },
@@ -228,55 +253,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261023",
-      "df_fechapl": "Viernes 23 de octubre de 2026",
+      "df_fechap": "20261024",
+      "df_fechapl": "Sábado 24 de octubre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20260605/imag/foto_0000000120260605202959/WhatsApp_Image_2026-05-08_at_6.53.04_PM.jpeg",
-      "df_horap": "20:20",
-      "df_tagnames": "Bolsa chilena,Wall Street,Francisco Noguera",
-      "df_ts": "20260605202959",
+      "df_foto600": "/noticias/site/artic/20261024/imag/foto_0000000220261024144743/VERCELLI.jpeg",
+      "df_horap": "21:00",
+      "df_tagnames": "",
+      "df_ts": "20261024144743",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20260605/pags/20260605202959.html",
-      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
+      "id": "http://www.df.cl/noticias/site/artic/20261024/pags/20261024144743.html",
+      "link": "http://www.df.cl/df-mas/personaje/gerente-general-de-afp-capital-renzo-vercelli-actuamos-con-diligencia",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0"
+          "href": "http://www.df.cl/df-mas/personaje/gerente-general-de-afp-capital-renzo-vercelli-actuamos-con-diligencia"
         }
       ],
-      "published": "Fri, 23 Oct 2026 23:27:47 GMT",
+      "published": "Sun, 25 Oct 2026 00:25:52 GMT",
       "published_parsed": [
         2026,
         10,
-        23,
-        23,
-        27,
-        47,
-        4,
-        296,
+        25,
+        0,
+        25,
+        52,
+        6,
+        298,
         0
       ],
-      "summary": "Una radiografía semanal de los mercados globales: índices, volatilidad y acciones que marcaron los últimos cinco días de operaciones.",
+      "summary": "La gestión de las inversiones que resultó en una caída de más de 10% del fondo E entre enero y septiembre tiene a la totalidad de la industria de AFP sumida en una crisis y con muy pocos aliados que hablen por ellas. En ese escenario, Vercelli defiende la estrategia de inversiones que llevó adelante la administradora de la que es responsable desde agosto de 2024. Incluso, reconoció que volvería a tomar las mismas decisiones al respecto. En cuanto a autocríticas, cree que tuvieron que haber insistido en la idea de un fondo F",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "Una radiografía semanal de los mercados globales: índices, volatilidad y acciones que marcaron los últimos cinco días de operaciones."
+        "value": "La gestión de las inversiones que resultó en una caída de más de 10% del fondo E entre enero y septiembre tiene a la totalidad de la industria de AFP sumida en una crisis y con muy pocos aliados que hablen por ellas. En ese escenario, Vercelli defiende la estrategia de inversiones que llevó adelante la administradora de la que es responsable desde agosto de 2024. Incluso, reconoció que volvería a tomar las mismas decisiones al respecto. En cuanto a autocríticas, cree que tuvieron que haber insistido en la idea de un fondo F"
       },
       "tags": [
         {
-          "term": "Señal DF",
+          "term": "DF MAS",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Mercados: la semana en datos",
+      "title": "Gerente general de AFP Capital, Renzo Vercelli: “Actuamos con diligencia”",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Mercados: la semana en datos"
+        "value": "Gerente general de AFP Capital, Renzo Vercelli: “Actuamos con diligencia”"
       }
     }
   },
@@ -302,13 +327,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Alberto González",
+      "author": "Lindy Sandoval",
       "author_detail": {
-        "name": "Alberto González"
+        "name": "Lindy Sandoval"
       },
       "authors": [
         {
-          "name": "Alberto González"
+          "name": "Lindy Sandoval"
         }
       ],
       "content": [
@@ -316,141 +341,131 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>A los 78 años falleció <strong>Thierry Defert, conocido como “Loro Coirón”,</strong> artista francés que dedicó gran parte de su vida a retratar los cerros, calles y habitantes de Valparaíso. Su muerte fue dada a conocer por la Municipalidad, que destacó su aporte a la cultura porteña.</p>\n<p>A través de sus redes sociales, <strong>el municipio lamentó el fallecimiento del dibujante y grabador,</strong> cuyas obras se hicieron conocidas por representar la vida cotidiana y los paisajes de la ciudad puerto.</p>\n<p>Nacido en París en 1948, Defert llegó a Chile en la década de 1990 y se estableció en Valparaíso, específicamente en el cerro Cordillera, donde instaló su taller.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2021/12/03/loro-coiron-el-frances-que-dejo-todo-por-valparaiso-expone-sus-iconicos-grabados-del-puerto.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2021/12/03/loro-coiron-el-frances-que-dejo-todo-por-valparaiso-expone-sus-iconicos-grabados-del-puerto.shtml\">Loro Coirón: el francés que dejó todo por Valparaíso expone sus icónicos grabados del puerto</a>\n\t\t<span style=\"display: none;\">Viernes 03 Diciembre, 2021 | 11:40</span>\n\t</div>\n</div>\n<p>Desde allí desarrolló numerosos grabados, dibujos y murales inspirados en los barrios, oficios tradicionales y habitantes del puerto.</p>\n<p>Su trabajo fue presentado en exposiciones dentro y fuera de Chile. En 2020, el Parque Cultural de Valparaíso organizó una muestra que reunió más de cien de sus obras.</p>\n<blockquote class=\"instagram-media\">\n<div style=\"padding: 16px;\"> <a href=\"https://www.instagram.com/p/De281szujNs/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"line-height: 0; padding: 0 0; text-align: center; text-decoration: none; width: 100%;\" target=\"_blank\"> </p>\n<div style=\"display: flex;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 40px; margin-right: 14px; width: 40px;\"></div>\n<div style=\"display: flex;\">\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 100px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 60px;\"></div>\n</div>\n</div>\n<div style=\"padding: 19% 0;\"></div>\n<div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"></div>\n<div style=\"padding-top: 8px;\">\n<div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">Ver esta publicación en Instagram</div>\n</div>\n<div style=\"padding: 12.5% 0;\"></div>\n<div style=\"display: flex; margin-bottom: 14px;\">\n<div>\n<div></div>\n<div></div>\n<div></div>\n</div>\n<div style=\"margin-left: 8px;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 20px; width: 20px;\"></div>\n<div></div>\n</div>\n<div style=\"margin-left: auto;\">\n<div></div>\n<div></div>\n<div></div>\n</div>\n</div>\n<div style=\"display: flex; margin-bottom: 24px;\">\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 224px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 144px;\"></div>\n</div>\n<p></a></p>\n<p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; white-space: nowrap;\"><a href=\"https://www.instagram.com/p/De281szujNs/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\">Una publicación compartida de Municipalidad de Valparaíso (@municipiovalpo)</a></p>\n</div>\n</blockquote>\n<p></p>\n<h2>Municipalidad de Valparaíso despide a Loro Coirón</h2>\n<p>En su publicación, el municipio destacó la relación que el artista mantuvo con la ciudad durante décadas.</p>\n<p><strong>“Thierry Defert, Loro Coirón, encontró en Valparaíso mucho más que un lugar para vivir: encontró una ciudad para amar, retratar y compartir con el mundo”,</strong> señaló.</p>\n<p>Asimismo, destacó que “con su mirada única, inmortalizó nuestros cerros, calles, rincones y, sobre todo, a nuestra gente, dejando un legado artístico de identidad porteña”.</p>\n<p>La Municipalidad también resaltó que <strong>sus obras seguirán presentes en barrios, restaurantes y hogares de Valparaíso,</strong> además de distintos lugares del mundo.</p>\n<p>Finalmente, entregó sus condolencias a la familia y cercanos del artista, señalando que “tu arte seguirá vivo en cada rincón de nuestro querido puerto”.</p>\n<p>Hasta ahora, no se han informado las causas de su fallecimiento.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/24/muere-thierry-defert-loro-coiron-el-artista-frances-que-retrato-la-vida-de-valparaiso.shtml\" rel=\"nofollow\">Muere Thierry Defert, &quot;Loro Coirón&quot;: el artista francés que retrató la vida de Valparaíso</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>La búsqueda de <strong>Benjamín Galdámez</strong>, el joven de 19 años desaparecido en Maipú, continúa en medio de la angustia de su familia, luego de que la Policía de Investigaciones (PDI) detuviera a un sujeto de 20 años por su presunta responsabilidad en el homicidio.</p>\n<p>Aunque las diligencias permitieron avanzar en el esclarecimiento de lo ocurrido, el cuerpo del joven todavía no ha sido encontrado, por lo que sus familiares hicieron un llamado a colaborar con la búsqueda.</p>\n<p>&#8220;<strong>La angustia que estamos sufriendo en este momento es algo indescriptible, no se lo doy a ningún padre, a ninguna mamá</strong>&#8220;, expresó el padre de Benjamín, quien pidió ayuda para dar con el paradero de su hijo.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/24/fueron-companeros-de-colegio-lo-que-se-sabe-del-crimen-de-joven-desaparecido-en-maipu.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/24/fueron-companeros-de-colegio-lo-que-se-sabe-del-crimen-de-joven-desaparecido-en-maipu.shtml\">Fueron compañeros de colegio: lo que se sabe del crimen de joven desaparecido en Maipú</a>\n\t\t<span style=\"display: none;\">Sábado 24 Octubre, 2026 | 19:33</span>\n\t</div>\n</div>\n<p>La familia atraviesa días especialmente difíciles desde que recibió información de la PDI sobre el presunto crimen.</p>\n<p>&#8220;Con el profundo dolor de mi alma, les transmito la información de PDI. A mi hijo Benjamín le quitaron la vida&#8221;, escribió anteriormente su padre en redes sociales.</p>\n<p>&#8220;Por ahora lo único que nos queda es la fuerza, ánimo y buenos deseos que nos han entregado en estos días que han sido terribles&#8221;, agregó.</p>\n<h2>La búsqueda de Benjamín Galdámez en el Zanjón de la Aguada</h2>\n<p>En el marco de la investigación, la PDI detuvo el viernes a un joven de 20 años, sindicado como presunto autor del homicidio de Galdámez.</p>\n<p>De acuerdo con los antecedentes recopilados por los investigadores, la víctima esperaba un vehículo solicitado mediante una aplicación de transporte cuando habría sido abordada por el imputado.</p>\n<p><strong>La indagatoria apunta a que Benjamín habría sido trasladado hasta un sitio eriazo cercano al Zanjón de la Aguada</strong>, lugar donde se le perdió el rastro.</p>\n<p>La subprefecta Tatiana García-Huidobro Ardiles entregó antecedentes sobre el posible destino del cuerpo.</p>\n<p>&#8220;De acuerdo a la propia confesión del detenido, el cuerpo de Galdámez habría caído al interior del Zanjón&#8221;, señaló la funcionaria policial.</p>\n<p>Este antecedente es parte de las diligencias destinadas a establecer lo ocurrido y localizar los restos del joven.</p>\n<h2>Detenido por homicidio había sido compañero de colegio de Benjamín</h2>\n<p>Otro de los antecedentes relevantes de la investigación es que el imputado y Benjamín Galdámez se conocían desde la época escolar.</p>\n<p>&#8220;Tanto la víctima como el victimario se conocen hace muchos años. <strong>Fueron compañeros de curso en su época escolar. Existe ahí todavía por establecer qué motiva el homicidio de este joven desaparecido</strong>&#8220;, explicó García-Huidobro.</p>\n<p>De esta manera, una de las principales interrogantes que busca resolver la investigación es qué ocurrió entre ambos y cuáles fueron las circunstancias que desencadenaron el presunto crimen.</p>\n<p>Mientras continúan las diligencias policiales, la familia de Benjamín mantiene su llamado a entregar cualquier antecedente que permita encontrar su cuerpo y esclarecer completamente lo sucedido.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml\" rel=\"nofollow\">Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: &quot;La angustia es indescriptible&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6994545",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/24/muere-thierry-defert-loro-coiron-el-artista-frances-que-retrato-la-vida-de-valparaiso.shtml",
+      "id": "https://www.biobiochile.cl/?p=6994979",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/24/muere-thierry-defert-loro-coiron-el-artista-frances-que-retrato-la-vida-de-valparaiso.shtml"
+          "href": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml"
         }
       ],
-      "published": "Sat, 24 Oct 2026 03:12:18 +0000",
+      "published": "Sun, 25 Oct 2026 03:17:55 +0000",
       "published_parsed": [
         2026,
         10,
-        24,
+        25,
         3,
-        12,
-        18,
-        5,
-        297,
+        17,
+        55,
+        6,
+        298,
         0
       ],
-      "summary": "<p>A los 78 años falleció Thierry Defert, conocido como “Loro Coirón”, artista francés que dedicó gran parte de su vida a retratar los cerros, calles y habitantes de Valparaíso. Su muerte fue dada a conocer por la Municipalidad, que destacó su aporte a la cultura porteña. A través de sus redes sociales, el municipio lamentó &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/24/muere-thierry-defert-loro-coiron-el-artista-frances-que-retrato-la-vida-de-valparaiso.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Muere Thierry Defert, \"Loro Coirón\": el artista francés que retrató la vida de Valparaíso\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/24/muere-thierry-defert-loro-coiron-el-artista-frances-que-retrato-la-vida-de-valparaiso.shtml\" rel=\"nofollow\">Muere Thierry Defert, &quot;Loro Coirón&quot;: el artista francés que retrató la vida de Valparaíso</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>La búsqueda de Benjamín Galdámez, el joven de 19 años desaparecido en Maipú, continúa en medio de la angustia de su familia, luego de que la Policía de Investigaciones (PDI) detuviera a un sujeto de 20 años por su presunta responsabilidad en el homicidio. Aunque las diligencias permitieron avanzar en el esclarecimiento de lo ocurrido, &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: \"La angustia es indescriptible\"\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml\" rel=\"nofollow\">Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: &quot;La angustia es indescriptible&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>A los 78 años falleció Thierry Defert, conocido como “Loro Coirón”, artista francés que dedicó gran parte de su vida a retratar los cerros, calles y habitantes de Valparaíso. Su muerte fue dada a conocer por la Municipalidad, que destacó su aporte a la cultura porteña. A través de sus redes sociales, el municipio lamentó &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/24/muere-thierry-defert-loro-coiron-el-artista-frances-que-retrato-la-vida-de-valparaiso.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Muere Thierry Defert, \"Loro Coirón\": el artista francés que retrató la vida de Valparaíso\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/24/muere-thierry-defert-loro-coiron-el-artista-frances-que-retrato-la-vida-de-valparaiso.shtml\" rel=\"nofollow\">Muere Thierry Defert, &quot;Loro Coirón&quot;: el artista francés que retrató la vida de Valparaíso</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>La búsqueda de Benjamín Galdámez, el joven de 19 años desaparecido en Maipú, continúa en medio de la angustia de su familia, luego de que la Policía de Investigaciones (PDI) detuviera a un sujeto de 20 años por su presunta responsabilidad en el homicidio. Aunque las diligencias permitieron avanzar en el esclarecimiento de lo ocurrido, &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: \"La angustia es indescriptible\"\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml\" rel=\"nofollow\">Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: &quot;La angustia es indescriptible&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Actualidad Cultural",
+          "term": "Región Metropolitana",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Chile",
+          "term": "antecedentes para esclarecer homicidio de joven",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Región de Valparaíso",
+          "term": "Benjamín Galdámez",
           "scheme": null,
           "label": null
         },
         {
-          "term": "arte porteño",
+          "term": "búsqueda de cuerpo en el Zanjón de la Aguada",
           "scheme": null,
           "label": null
         },
         {
-          "term": "artista francés",
+          "term": "búsqueda de joven desaparecido en Maipú",
           "scheme": null,
           "label": null
         },
         {
-          "term": "artista francés en Valparaíso",
+          "term": "detenido por presunto homicidio en la Región Metropolitana",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Cerro Cordillera",
+          "term": "diligencias de la Policía de Investigaciones",
           "scheme": null,
           "label": null
         },
         {
-          "term": "cultura de Valparaíso",
+          "term": "investigación de crimen en Chile",
           "scheme": null,
           "label": null
         },
         {
-          "term": "dibujos de Valparaíso",
+          "term": "investigación por homicidio en Maipú",
           "scheme": null,
           "label": null
         },
         {
-          "term": "fallecimiento de Loro Coirón",
+          "term": "joven desaparecido esperaba transporte por aplicación",
           "scheme": null,
           "label": null
         },
         {
-          "term": "grabador francés",
+          "term": "llamado de la familia para encontrar a joven desaparecido",
           "scheme": null,
           "label": null
         },
         {
-          "term": "grabados de Valparaíso",
+          "term": "Maipú",
           "scheme": null,
           "label": null
         },
         {
-          "term": "legado artístico de Valparaíso",
+          "term": "Policía de Investigaciones (PDI)",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Loro Coirón",
+          "term": "Santiago",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Municipalidad de Valparaíso",
+          "term": "Tatiana García-Huidobro Ardiles",
           "scheme": null,
           "label": null
         },
         {
-          "term": "murales en Valparaíso",
+          "term": "víctima y detenido fueron compañeros de colegio",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Parque Cultural de Valparaíso",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Thierry Defert",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "vida cotidiana en Valparaíso",
+          "term": "Zanjon de la Aguada",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Muere Thierry Defert, \"Loro Coirón\": el artista francés que retrató la vida de Valparaíso",
+      "title": "Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: \"La angustia es indescriptible\"",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Muere Thierry Defert, \"Loro Coirón\": el artista francés que retrató la vida de Valparaíso"
+        "value": "Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: \"La angustia es indescriptible\""
       }
     }
   }
