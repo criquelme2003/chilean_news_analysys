@@ -20,82 +20,87 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Catalina Riquelme",
+      "author": "Eduardo Monrroy",
       "author_detail": {
-        "name": "Catalina Riquelme"
+        "name": "Eduardo Monrroy"
       },
       "authors": [
         {
-          "name": "Catalina Riquelme"
+          "name": "Eduardo Monrroy"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1813313",
-      "link": "https://www.theclinic.cl/2026/10/24/gran-oferta-gastronomica-dia-soleado-y-masiva-asistencia-asi-se-vive-la-primera-jornada-del-festival-bamba-en-santiago/",
+      "id": "https://www.theclinic.cl/?p=1813429",
+      "link": "https://www.theclinic.cl/2026/10/25/kast-posterga-definicion-sobre-coalicion-de-las-americas-de-trump-y-envia-a-maximo-pavez-a-cumbre-internacional-sin-el-ministro-de-defensa/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/10/24/gran-oferta-gastronomica-dia-soleado-y-masiva-asistencia-asi-se-vive-la-primera-jornada-del-festival-bamba-en-santiago/"
+          "href": "https://www.theclinic.cl/2026/10/25/kast-posterga-definicion-sobre-coalicion-de-las-americas-de-trump-y-envia-a-maximo-pavez-a-cumbre-internacional-sin-el-ministro-de-defensa/"
         }
       ],
-      "published": "Sat, 24 Oct 2026 20:48:42 +0000",
+      "published": "Mon, 26 Oct 2026 01:41:10 +0000",
       "published_parsed": [
         2026,
         10,
-        24,
-        20,
-        48,
-        42,
-        5,
-        297,
+        26,
+        1,
+        41,
+        10,
+        0,
+        299,
         0
       ],
-      "summary": "<p>El evento comenzó al mediodía en Parque O’Higgins con presentaciones de Seamoon y Catalina y las Bordonas de Oro, y siguió con Los Pericos, Coti y Jovanotti. La jornada incluye una amplia oferta gastronómica latinoamericana, barras, coctelería y un horario extendido de Metro de Santiago para el regreso de los asistentes.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/24/gran-oferta-gastronomica-dia-soleado-y-masiva-asistencia-asi-se-vive-la-primera-jornada-del-festival-bamba-en-santiago/\">Gran oferta gastronómica, día soleado y masiva asistencia: así se vive la primera jornada del Festival Bamba en Santiago</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>El Presidente evaluó junto a sus ministros distintas alternativas respecto de una eventual incorproación a la Coalición de las Américas contra los Cárteles (A3C) y decidió postergar el anuncio de la decisión. En el encuentro, además, se designó al subsecretario del Interior, Maximo Pavez, como el representante de Chile en la cumbre hemisférica de seguridad convocada por Estados Unidos. A la cita no asistirá el titular de Defensa, Fernando Barros, ni ningún otro ministro. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/25/kast-posterga-definicion-sobre-coalicion-de-las-americas-de-trump-y-envia-a-maximo-pavez-a-cumbre-internacional-sin-el-ministro-de-defensa/\">Kast posterga definición sobre Coalición de las Américas de Trump y envía a Máximo Pavez a cumbre internacional sin el ministro de Defensa</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El evento comenzó al mediodía en Parque O’Higgins con presentaciones de Seamoon y Catalina y las Bordonas de Oro, y siguió con Los Pericos, Coti y Jovanotti. La jornada incluye una amplia oferta gastronómica latinoamericana, barras, coctelería y un horario extendido de Metro de Santiago para el regreso de los asistentes.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/24/gran-oferta-gastronomica-dia-soleado-y-masiva-asistencia-asi-se-vive-la-primera-jornada-del-festival-bamba-en-santiago/\">Gran oferta gastronómica, día soleado y masiva asistencia: así se vive la primera jornada del Festival Bamba en Santiago</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>El Presidente evaluó junto a sus ministros distintas alternativas respecto de una eventual incorproación a la Coalición de las Américas contra los Cárteles (A3C) y decidió postergar el anuncio de la decisión. En el encuentro, además, se designó al subsecretario del Interior, Maximo Pavez, como el representante de Chile en la cumbre hemisférica de seguridad convocada por Estados Unidos. A la cita no asistirá el titular de Defensa, Fernando Barros, ni ningún otro ministro. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/25/kast-posterga-definicion-sobre-coalicion-de-las-americas-de-trump-y-envia-a-maximo-pavez-a-cumbre-internacional-sin-el-ministro-de-defensa/\">Kast posterga definición sobre Coalición de las Américas de Trump y envía a Máximo Pavez a cumbre internacional sin el ministro de Defensa</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Tiempo Libre",
+          "term": "Política",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Festival Bamba",
+          "term": "Coalición de las Américas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Juanes",
+          "term": "Donald Trump",
           "scheme": null,
           "label": null
         },
         {
-          "term": "metro de santiago",
+          "term": "Escudo de las Américas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Parque Ohiggins",
+          "term": "fernando barros",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Santiago",
+          "term": "josé antonio kast",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Máximo Pavez",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Gran oferta gastronómica, día soleado y masiva asistencia: así se vive la primera jornada del Festival Bamba en Santiago",
+      "title": "Kast posterga definición sobre Coalición de las Américas de Trump y envía a Máximo Pavez a cumbre internacional sin el ministro de Defensa",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Gran oferta gastronómica, día soleado y masiva asistencia: así se vive la primera jornada del Festival Bamba en Santiago"
+        "value": "Kast posterga definición sobre Coalición de las Américas de Trump y envía a Máximo Pavez a cumbre internacional sin el ministro de Defensa"
       }
     }
   },
@@ -253,55 +258,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261024",
-      "df_fechapl": "Sábado 24 de octubre de 2026",
+      "df_fechap": "20261025",
+      "df_fechapl": "Domingo 25 de octubre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261024/imag/foto_0000000220261024144743/VERCELLI.jpeg",
-      "df_horap": "21:00",
-      "df_tagnames": "",
-      "df_ts": "20261024144743",
+      "df_foto600": "/noticias/site/artic/20261025/imag/foto_0000001120261025221247/kast.jpg",
+      "df_horap": "22:28",
+      "df_tagnames": "Brasil,elecciones,elecciones presidenciales,Lula da Silva,Maria Gabriela Arteaga",
+      "df_ts": "20261025221247",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261024/pags/20261024144743.html",
-      "link": "http://www.df.cl/df-mas/personaje/gerente-general-de-afp-capital-renzo-vercelli-actuamos-con-diligencia",
+      "id": "http://www.df.cl/noticias/site/artic/20261025/pags/20261025221247.html",
+      "link": "http://www.df.cl/internacional/politica/presidente-kast-felicita-a-lula-por-su-triunfo-electoral-y-ofrece-trabajar",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/df-mas/personaje/gerente-general-de-afp-capital-renzo-vercelli-actuamos-con-diligencia"
+          "href": "http://www.df.cl/internacional/politica/presidente-kast-felicita-a-lula-por-su-triunfo-electoral-y-ofrece-trabajar"
         }
       ],
-      "published": "Sun, 25 Oct 2026 00:25:52 GMT",
+      "published": "Mon, 26 Oct 2026 01:29:30 GMT",
       "published_parsed": [
         2026,
         10,
-        25,
+        26,
+        1,
+        29,
+        30,
         0,
-        25,
-        52,
-        6,
-        298,
+        299,
         0
       ],
-      "summary": "La gestión de las inversiones que resultó en una caída de más de 10% del fondo E entre enero y septiembre tiene a la totalidad de la industria de AFP sumida en una crisis y con muy pocos aliados que hablen por ellas. En ese escenario, Vercelli defiende la estrategia de inversiones que llevó adelante la administradora de la que es responsable desde agosto de 2024. Incluso, reconoció que volvería a tomar las mismas decisiones al respecto. En cuanto a autocríticas, cree que tuvieron que haber insistido en la idea de un fondo F",
+      "summary": "Gabriel Boric, Michelle Bachelet y otros líderes políticos de la región se sumaron a las felicitaciones.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "La gestión de las inversiones que resultó en una caída de más de 10% del fondo E entre enero y septiembre tiene a la totalidad de la industria de AFP sumida en una crisis y con muy pocos aliados que hablen por ellas. En ese escenario, Vercelli defiende la estrategia de inversiones que llevó adelante la administradora de la que es responsable desde agosto de 2024. Incluso, reconoció que volvería a tomar las mismas decisiones al respecto. En cuanto a autocríticas, cree que tuvieron que haber insistido en la idea de un fondo F"
+        "value": "Gabriel Boric, Michelle Bachelet y otros líderes políticos de la región se sumaron a las felicitaciones."
       },
       "tags": [
         {
-          "term": "DF MAS",
+          "term": "Internacional",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Gerente general de AFP Capital, Renzo Vercelli: “Actuamos con diligencia”",
+      "title": "Presidente Kast felicita a Lula por su triunfo electoral y ofrece trabajar juntos \"en integración económica y combate al crimen organizado en la región\"",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Gerente general de AFP Capital, Renzo Vercelli: “Actuamos con diligencia”"
+        "value": "Presidente Kast felicita a Lula por su triunfo electoral y ofrece trabajar juntos \"en integración económica y combate al crimen organizado en la región\""
       }
     }
   },
@@ -327,13 +332,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Lindy Sandoval",
+      "author": "Franco López",
       "author_detail": {
-        "name": "Lindy Sandoval"
+        "name": "Franco López"
       },
       "authors": [
         {
-          "name": "Lindy Sandoval"
+          "name": "Franco López"
         }
       ],
       "content": [
@@ -341,131 +346,131 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>La búsqueda de <strong>Benjamín Galdámez</strong>, el joven de 19 años desaparecido en Maipú, continúa en medio de la angustia de su familia, luego de que la Policía de Investigaciones (PDI) detuviera a un sujeto de 20 años por su presunta responsabilidad en el homicidio.</p>\n<p>Aunque las diligencias permitieron avanzar en el esclarecimiento de lo ocurrido, el cuerpo del joven todavía no ha sido encontrado, por lo que sus familiares hicieron un llamado a colaborar con la búsqueda.</p>\n<p>&#8220;<strong>La angustia que estamos sufriendo en este momento es algo indescriptible, no se lo doy a ningún padre, a ninguna mamá</strong>&#8220;, expresó el padre de Benjamín, quien pidió ayuda para dar con el paradero de su hijo.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/24/fueron-companeros-de-colegio-lo-que-se-sabe-del-crimen-de-joven-desaparecido-en-maipu.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/24/fueron-companeros-de-colegio-lo-que-se-sabe-del-crimen-de-joven-desaparecido-en-maipu.shtml\">Fueron compañeros de colegio: lo que se sabe del crimen de joven desaparecido en Maipú</a>\n\t\t<span style=\"display: none;\">Sábado 24 Octubre, 2026 | 19:33</span>\n\t</div>\n</div>\n<p>La familia atraviesa días especialmente difíciles desde que recibió información de la PDI sobre el presunto crimen.</p>\n<p>&#8220;Con el profundo dolor de mi alma, les transmito la información de PDI. A mi hijo Benjamín le quitaron la vida&#8221;, escribió anteriormente su padre en redes sociales.</p>\n<p>&#8220;Por ahora lo único que nos queda es la fuerza, ánimo y buenos deseos que nos han entregado en estos días que han sido terribles&#8221;, agregó.</p>\n<h2>La búsqueda de Benjamín Galdámez en el Zanjón de la Aguada</h2>\n<p>En el marco de la investigación, la PDI detuvo el viernes a un joven de 20 años, sindicado como presunto autor del homicidio de Galdámez.</p>\n<p>De acuerdo con los antecedentes recopilados por los investigadores, la víctima esperaba un vehículo solicitado mediante una aplicación de transporte cuando habría sido abordada por el imputado.</p>\n<p><strong>La indagatoria apunta a que Benjamín habría sido trasladado hasta un sitio eriazo cercano al Zanjón de la Aguada</strong>, lugar donde se le perdió el rastro.</p>\n<p>La subprefecta Tatiana García-Huidobro Ardiles entregó antecedentes sobre el posible destino del cuerpo.</p>\n<p>&#8220;De acuerdo a la propia confesión del detenido, el cuerpo de Galdámez habría caído al interior del Zanjón&#8221;, señaló la funcionaria policial.</p>\n<p>Este antecedente es parte de las diligencias destinadas a establecer lo ocurrido y localizar los restos del joven.</p>\n<h2>Detenido por homicidio había sido compañero de colegio de Benjamín</h2>\n<p>Otro de los antecedentes relevantes de la investigación es que el imputado y Benjamín Galdámez se conocían desde la época escolar.</p>\n<p>&#8220;Tanto la víctima como el victimario se conocen hace muchos años. <strong>Fueron compañeros de curso en su época escolar. Existe ahí todavía por establecer qué motiva el homicidio de este joven desaparecido</strong>&#8220;, explicó García-Huidobro.</p>\n<p>De esta manera, una de las principales interrogantes que busca resolver la investigación es qué ocurrió entre ambos y cuáles fueron las circunstancias que desencadenaron el presunto crimen.</p>\n<p>Mientras continúan las diligencias policiales, la familia de Benjamín mantiene su llamado a entregar cualquier antecedente que permita encontrar su cuerpo y esclarecer completamente lo sucedido.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml\" rel=\"nofollow\">Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: &quot;La angustia es indescriptible&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>Si aún no ha oído hablar de él, quizá sea hora. </p>\n<p>Y es que, <span class=\"destacador\">pese a más de un siglo de investigaciones, ningún experto ha conseguido averiguar qué dice realmente el <strong>manuscrito de Voynich.</strong></span> Plantas que nadie logra identificar, extraños diagramas astronómicos, figuras humanas sumergidas en baños y miles de palabras trazadas en una escritura que nadie ha conseguido descifrar. El alimento perfecto para amantes de los misterios.</p>\n<p>Ahora, no obstante, un nuevo estudio apunta a una explicación &#8220;sencilla&#8221; para al menos parte del desconcierto: <strong>quizá llevamos todo este tiempo intentando leerlo en el orden equivocado.</strong></p>\n<p>Así lo defienden Colin Layfield, de la Universidad de Malta, y Lisa Fagin Davis, directora ejecutiva de la Academia Medieval de América, en un trabajo publicado en la revista Digital Medievalist. Según su tesis, alguien habría encuadernado mal el libro entre mediados y finales del siglo XV, posiblemente sin entender una sola palabra de lo que tenía al frente.</p>\n<h2>Qué es el manuscrito de Voynich</h2>\n<p>Para contextualizar este hallazgo, conviene mirar de cerca el enigmático objeto. Se trata del <strong>Manuscrito Cifrado de Beinecke (Beinecke MS 408),</strong> conocido más comúnmente como el Manuscrito de Voynich. </p>\n<p>Según Live Science, este códice reúne <strong>unas 38.000 palabras repartidas por aproximadamente 240 páginas de pergamino.</strong> Todas ellas están escritas en el llamado &#8220;voynichés&#8221;, un sistema de escritura que sigue sin descifrarse.</p>\n<p>Según la Biblioteca de Yale, en el manuscrito se distinguen seis secciones temáticas. Una de ellas contiene textos sin ilustraciones, posiblemente recetas, cuyas entradas están señaladas con pequeñas flores en forma de estrella. Las otras cinco reúnen dibujos de plantas, representaciones de hierbas y raíces medicinales, escenas de baños, diagramas astronómicos y astrológicos y medallones cosmológicos.</p>\n<figure class=\"wp-caption alignnone\" id=\"attachment_6995563\" style=\"width: 1200px;\"><img alt=\"\" class=\"size-large wp-image-6995563\" height=\"633\" src=\"https://media.biobiochile.cl/wp-content/uploads/2026/10/manuscrito-voynich-1-1280x675.jpg\" width=\"1200\" /><figcaption class=\"wp-caption-text\" id=\"caption-attachment-6995563\">DW</figcaption></figure>\n<p>Durante años, el manuscrito llegó a atribuirse a personajes como Roger Bacon y Leonardo da Vinci, aunque <strong>ninguna de estas teorías cuenta con pruebas convincentes.</strong> Según recoge IFL Science, la datación por carbono sitúa las pieles utilizadas para el pergamino entre 1404 y 1438, con un 95 % de probabilidad. Esto descarta que Bacon, que vivió en el siglo XIII, escribiera sobre esas hojas, aunque no permite determinar cuándo se añadió el texto.</p>\n<p>También hay pistas sobre su posible lugar de origen escondidas en las ilustraciones. Según recoge IFL Science, algunos elementos arquitectónicos, como las almenas &#8220;en cola de golondrina&#8221;, junto con el diseño de una corona y los motivos zodiacales, apuntan a un posible origen en el entorno cultural del norte de Italia o el sur de Alemania.</p>\n<h2>Su viaje hasta la Universidad de Yale</h2>\n<p>Tras ese origen incierto, su recorrido posterior es sorprendentemente bien conocido. Según la Biblioteca de Yale, el primer propietario confirmado fue el emperador Rodolfo II, que lo compró por 600 ducados de oro. </p>\n<p>Después pasó por manos de boticarios y alquimistas hasta que, en 1912, lo adquirió el librero Wilfrid Voynich en un colegio jesuita cerca de Roma. Desde 1969 reposa en la biblioteca Beinecke de Yale, que solo lo ha dejado salir una vez, en 2014-2015, para una exposición en la Biblioteca Folger Shakespeare, en Washington, Estados Unidos.</p>\n<h2>Las pistas de un posible desorden en las páginas</h2>\n<p>Pero la historia del Voynich no termina con su llegada a Yale. Mientras su escritura sigue resistiéndose a cualquier intento de ser finalmente descifrada, la nueva investigación ha puesto el foco en algo mucho más tangible: el orden de sus páginas. Y es que, al examinar la caligrafía, Davis observó que <strong>la secuencia de las hojas no parecía seguir un orden lógico.</strong></p>\n<p>A ello se sumaban <strong>ilustraciones que se cuelan por el centro del libro y reaparecen al otro lado,</strong> &#8220;a pesar de que hay un montón de páginas de por medio&#8221;, contó a Live Science. Todo ello hacía pensar que las páginas podrían no estar colocadas en su orden original.</p>\n<p>Para poner a prueba la hipótesis sin haber traducido ni una palabra, el equipo utilizó el análisis semántico latente (LSA), un método desarrollado en los años ochenta que permite identificar patrones y relaciones entre textos. </p>\n<p>Layfield destaca que este método resulta especialmente útil cuando se dispone de poco texto, a diferencia de muchas técnicas modernas de inteligencia artificial, que necesitan grandes cantidades de datos para entrenarse.</p>\n<figure class=\"wp-caption alignnone\" id=\"attachment_6995564\" style=\"width: 1200px;\"><img alt=\"\" class=\"size-large wp-image-6995564\" height=\"633\" src=\"https://media.biobiochile.cl/wp-content/uploads/2026/10/manuscrito-voynich-2-1280x675.jpg\" width=\"1200\" /><figcaption class=\"wp-caption-text\" id=\"caption-attachment-6995564\">DW</figcaption></figure>\n<p>Con ese método compararon bloques de texto, tomando como referencia obras conocidas como el Bestiario de Aberdeen, y encontraron similitudes estadísticas que no siempre encajaban con la disposición actual de las hojas.</p>\n<p>Los investigadores proponen así que el manuscrito no estaba pensado para encuadernarse de manera convencional, sino que originalmente habría consistido en una serie de &#8220;singuliones&#8221;, hojas dobladas por la mitad y dispuestas una detrás de otra, &#8220;como una pila de tarjetas de Navidad&#8221;, según describe The Guardian. Un encuadernador posterior los habría colocado unos dentro de otros, como si fueran los pliegos de un libro convencional, y ahí empezó el lío.</p>\n<h2>Un manuscrito escrito por varias manos</h2>\n<p>Las consecuencias van más allá de convertirse en un puro rompecabezas. <strong>Davis cree que esto cuestiona el mito del &#8220;genio loco&#8221;</strong> trabajando solo en su ático, pues las pruebas apuntan a <strong>algo más colectivo,</strong> y el análisis paleográfico sugiere hasta cinco escribas distintos.</p>\n<p>Y quizá no fuera solo una obra de varias manos, sino también una forma de compartir conocimientos. Davis señaló a The Guardian un curioso precedente: unos coranes medievales del norte de África, los únicos otros ejemplos que ha encontrado conservados con una disposición similar de hojas. Estos podrían haberse utilizado como pequeños folletos destinados a la enseñanza.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/10/17/cientificos-chilenos-resuelven-enigma-de-mas-de-400-anos-con-hueso-que-vincula-a-aves-y-dinosaurios.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/10/17/cientificos-chilenos-resuelven-enigma-de-mas-de-400-anos-con-hueso-que-vincula-a-aves-y-dinosaurios.shtml\">Científicos chilenos resuelven enigma de más de 400 años con hueso que vincula a aves y dinosaurios</a>\n\t\t<span style=\"display: none;\">Sábado 17 Octubre, 2026 | 09:56</span>\n\t</div>\n</div>\n<p>En el caso del Voynich, las ilustraciones ofrecen pistas sobre qué tipo de conocimientos podría haber reunido. Entre sus dibujos aparecen figuras que parecen representar el sistema reproductivo femenino, además de referencias a plantas medicinales y a la astrología. <span class=\"destacador\">Esa combinación lleva a Davis a plantear que <strong>podría tratarse de un libro de saberes populares femeninos,</strong> aunque reconoce que, por ahora, &#8220;eso aún no se puede demostrar&#8221;</span>.</p>\n<p>Hay incluso una ironía final. Como recuerda Davis a The Guardian, se conservan muy pocos manuscritos medievales sin encuadernar, así que quien lo montó mal &#8220;nos hizo un gran favor&#8221; al garantizar su supervivencia.</p>\n<h2>¿Se descifrará algún día? </h2>\n<p>Davis se muestra optimista y <strong>apunta a un precedente, &#8220;Cain&#8217;s Jawbone&#8221;,</strong> un puzle de los años treinta con 100 páginas de una novela policíaca desordenadas, que un puñado de personas ha logrado resolver, aunque la inteligencia artificial no. </p>\n<p>Su equipo, además, ya tiene otra pista entre manos: una mancha de humedad visible en la parte superior de varias hojas. Estudiar sus contornos podría ayudar a reconstruir parte del orden original del manuscrito.</p>\n<p>El verdadero misterio sigue sin resolverse, pero Davis recordó a Live Science por qué este avance importa: &#8220;No se puede entender un libro en el que todas las páginas están desordenadas&#8221;</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/10/26/el-libro-que-nadie-puede-descifrar-la-explicacion-que-ayudaria-a-resolver-el-manuscrito-voynich.shtml\" rel=\"nofollow\">El libro que nadie puede descifrar: la explicación que ayudaría a resolver el Manuscrito Voynich</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=6994979",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml",
+      "id": "https://www.biobiochile.cl/?p=6995561",
+      "link": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/10/26/el-libro-que-nadie-puede-descifrar-la-explicacion-que-ayudaria-a-resolver-el-manuscrito-voynich.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml"
+          "href": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/10/26/el-libro-que-nadie-puede-descifrar-la-explicacion-que-ayudaria-a-resolver-el-manuscrito-voynich.shtml"
         }
       ],
-      "published": "Sun, 25 Oct 2026 03:17:55 +0000",
+      "published": "Mon, 26 Oct 2026 03:26:18 +0000",
       "published_parsed": [
         2026,
         10,
-        25,
+        26,
         3,
-        17,
-        55,
-        6,
-        298,
+        26,
+        18,
+        0,
+        299,
         0
       ],
-      "summary": "<p>La búsqueda de Benjamín Galdámez, el joven de 19 años desaparecido en Maipú, continúa en medio de la angustia de su familia, luego de que la Policía de Investigaciones (PDI) detuviera a un sujeto de 20 años por su presunta responsabilidad en el homicidio. Aunque las diligencias permitieron avanzar en el esclarecimiento de lo ocurrido, &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: \"La angustia es indescriptible\"\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml\" rel=\"nofollow\">Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: &quot;La angustia es indescriptible&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>Si aún no ha oído hablar de él, quizá sea hora. Y es que, Plantas que nadie logra identificar, extraños diagramas astronómicos, figuras humanas sumergidas en baños y miles de palabras trazadas en una escritura que nadie ha conseguido descifrar. El alimento perfecto para amantes de los misterios. Ahora, no obstante, un nuevo estudio apunta &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/10/26/el-libro-que-nadie-puede-descifrar-la-explicacion-que-ayudaria-a-resolver-el-manuscrito-voynich.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"El libro que nadie puede descifrar: la explicación que ayudaría a resolver el Manuscrito Voynich\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/10/26/el-libro-que-nadie-puede-descifrar-la-explicacion-que-ayudaria-a-resolver-el-manuscrito-voynich.shtml\" rel=\"nofollow\">El libro que nadie puede descifrar: la explicación que ayudaría a resolver el Manuscrito Voynich</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La búsqueda de Benjamín Galdámez, el joven de 19 años desaparecido en Maipú, continúa en medio de la angustia de su familia, luego de que la Policía de Investigaciones (PDI) detuviera a un sujeto de 20 años por su presunta responsabilidad en el homicidio. Aunque las diligencias permitieron avanzar en el esclarecimiento de lo ocurrido, &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: \"La angustia es indescriptible\"\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/padre-de-benjamin-galdamez-pide-ayuda-para-encontrar-su-cuerpo-la-angustia-es-indescriptible.shtml\" rel=\"nofollow\">Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: &quot;La angustia es indescriptible&quot;</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>Si aún no ha oído hablar de él, quizá sea hora. Y es que, Plantas que nadie logra identificar, extraños diagramas astronómicos, figuras humanas sumergidas en baños y miles de palabras trazadas en una escritura que nadie ha conseguido descifrar. El alimento perfecto para amantes de los misterios. Ahora, no obstante, un nuevo estudio apunta &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/10/26/el-libro-que-nadie-puede-descifrar-la-explicacion-que-ayudaria-a-resolver-el-manuscrito-voynich.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"El libro que nadie puede descifrar: la explicación que ayudaría a resolver el Manuscrito Voynich\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/10/26/el-libro-que-nadie-puede-descifrar-la-explicacion-que-ayudaria-a-resolver-el-manuscrito-voynich.shtml\" rel=\"nofollow\">El libro que nadie puede descifrar: la explicación que ayudaría a resolver el Manuscrito Voynich</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Región Metropolitana",
+          "term": "Curiosidades",
           "scheme": null,
           "label": null
         },
         {
-          "term": "antecedentes para esclarecer homicidio de joven",
+          "term": "Historias",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Benjamín Galdámez",
+          "term": "Academia Medieval de América",
           "scheme": null,
           "label": null
         },
         {
-          "term": "búsqueda de cuerpo en el Zanjón de la Aguada",
+          "term": "análisis paleográfico de manuscritos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "búsqueda de joven desaparecido en Maipú",
+          "term": "análisis semántico latente aplicado a textos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "detenido por presunto homicidio en la Región Metropolitana",
+          "term": "Biblioteca Beinecke de Yale",
           "scheme": null,
           "label": null
         },
         {
-          "term": "diligencias de la Policía de Investigaciones",
+          "term": "códices medievales sin descifrar",
           "scheme": null,
           "label": null
         },
         {
-          "term": "investigación de crimen en Chile",
+          "term": "Colin Layfield",
           "scheme": null,
           "label": null
         },
         {
-          "term": "investigación por homicidio en Maipú",
+          "term": "conocimientos populares femeninos en la Edad Media",
           "scheme": null,
           "label": null
         },
         {
-          "term": "joven desaparecido esperaba transporte por aplicación",
+          "term": "encuadernación y orden de páginas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "llamado de la familia para encontrar a joven desaparecido",
+          "term": "historia de la escritura y los libros",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Maipú",
+          "term": "historia de la Universidad de Yale",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Policía de Investigaciones (PDI)",
+          "term": "investigación sobre manuscritos antiguos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Santiago",
+          "term": "Lisa Fagin Davis",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Tatiana García-Huidobro Ardiles",
+          "term": "manuscrito de Voynich",
           "scheme": null,
           "label": null
         },
         {
-          "term": "víctima y detenido fueron compañeros de colegio",
+          "term": "manuscritos medievales y misterios históricos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Zanjon de la Aguada",
+          "term": "pergaminos y datación por carbono",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: \"La angustia es indescriptible\"",
+      "title": "El libro que nadie puede descifrar: la explicación que ayudaría a resolver el Manuscrito Voynich",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Padre de Benjamín Galdámez pide ayuda para encontrar su cuerpo: \"La angustia es indescriptible\""
+        "value": "El libro que nadie puede descifrar: la explicación que ayudaría a resolver el Manuscrito Voynich"
       }
     }
   }
