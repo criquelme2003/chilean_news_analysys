@@ -20,62 +20,82 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Marcelo Silva",
+      "author": "Marianne Mathieu",
       "author_detail": {
-        "name": "Marcelo Silva"
+        "name": "Marianne Mathieu"
       },
       "authors": [
         {
-          "name": "Marcelo Silva"
+          "name": "Marianne Mathieu"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1816549",
-      "link": "https://www.theclinic.cl/2026/10/30/negociaron-un-pago-de-rescate-pese-a-que-la-victima-ya-habia-sido-asesinada-detalles-del-secuestro-con-homicidio-de-martin-perez/",
+      "id": "https://www.theclinic.cl/?p=1816698",
+      "link": "https://www.theclinic.cl/2026/10/31/poduje-le-da-24-horas-a-milovan-kevegic-para-desocupar-sede-de-la-federacion-de-tenis-en-cerro-colorado-amenaza-con-desalojarlo-y-presentar-una-querella/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/10/30/negociaron-un-pago-de-rescate-pese-a-que-la-victima-ya-habia-sido-asesinada-detalles-del-secuestro-con-homicidio-de-martin-perez/"
+          "href": "https://www.theclinic.cl/2026/10/31/poduje-le-da-24-horas-a-milovan-kevegic-para-desocupar-sede-de-la-federacion-de-tenis-en-cerro-colorado-amenaza-con-desalojarlo-y-presentar-una-querella/"
         }
       ],
-      "published": "Sat, 31 Oct 2026 01:46:43 +0000",
+      "published": "Sat, 31 Oct 2026 21:00:21 +0000",
       "published_parsed": [
         2026,
         10,
         31,
-        1,
-        46,
-        43,
+        21,
+        0,
+        21,
         5,
         304,
         0
       ],
-      "summary": "<p>Una de las principales hipótesis del Ministerio Público, es que el joven de 19 años fue abatido por los delincuentes luego que intentara escapar de su rapto. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/30/negociaron-un-pago-de-rescate-pese-a-que-la-victima-ya-habia-sido-asesinada-detalles-del-secuestro-con-homicidio-de-martin-perez/\">Negociaron un pago de rescate pese a que la víctima ya había sido asesinada: Detalles del secuestro con homicidio de Martín Pérez</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>La propiedad de cuatro hectáreas lleva años en disputa y ha sido objeto de distintos proyectos que no han logrado concretarse. El Minvu busca recuperar el inmueble que históricamente se arrendaba a la Federación de Tenis (organismo que además ahora denuncia está ocupado irregularmente por Kegevic) para retomar un proyecto de viviendas sociales.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/31/poduje-le-da-24-horas-a-milovan-kevegic-para-desocupar-sede-de-la-federacion-de-tenis-en-cerro-colorado-amenaza-con-desalojarlo-y-presentar-una-querella/\">Poduje le da 24 horas a Milovan Kegevic para desocupar sede de la Federación de Tenis en Cerro Colorado: amenaza desalojo con Carabineros y una querella</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Una de las principales hipótesis del Ministerio Público, es que el joven de 19 años fue abatido por los delincuentes luego que intentara escapar de su rapto. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/30/negociaron-un-pago-de-rescate-pese-a-que-la-victima-ya-habia-sido-asesinada-detalles-del-secuestro-con-homicidio-de-martin-perez/\">Negociaron un pago de rescate pese a que la víctima ya había sido asesinada: Detalles del secuestro con homicidio de Martín Pérez</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>La propiedad de cuatro hectáreas lleva años en disputa y ha sido objeto de distintos proyectos que no han logrado concretarse. El Minvu busca recuperar el inmueble que históricamente se arrendaba a la Federación de Tenis (organismo que además ahora denuncia está ocupado irregularmente por Kegevic) para retomar un proyecto de viviendas sociales.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/31/poduje-le-da-24-horas-a-milovan-kevegic-para-desocupar-sede-de-la-federacion-de-tenis-en-cerro-colorado-amenaza-con-desalojarlo-y-presentar-una-querella/\">Poduje le da 24 horas a Milovan Kegevic para desocupar sede de la Federación de Tenis en Cerro Colorado: amenaza desalojo con Carabineros y una querella</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Judicial",
+          "term": "Ciudad",
           "scheme": null,
           "label": null
         },
         {
-          "term": "secuestros",
+          "term": "Cerro Colorado",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Federación de Tenis de Chile",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Iván Poduje",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "milovan kegevic",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "SERVIU Metropolitano",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Negociaron un pago de rescate pese a que la víctima ya había sido asesinada: Detalles del secuestro con homicidio de Martín Pérez",
+      "title": "Poduje le da 24 horas a Milovan Kegevic para desocupar sede de la Federación de Tenis en Cerro Colorado: amenaza desalojo con Carabineros y una querella",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Negociaron un pago de rescate pese a que la víctima ya había sido asesinada: Detalles del secuestro con homicidio de Martín Pérez"
+        "value": "Poduje le da 24 horas a Milovan Kegevic para desocupar sede de la Federación de Tenis en Cerro Colorado: amenaza desalojo con Carabineros y una querella"
       }
     }
   },
@@ -228,55 +248,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261030",
-      "df_fechapl": "Viernes 30 de octubre de 2026",
+      "df_fechap": "20261031",
+      "df_fechapl": "Sábado 31 de octubre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20260605/imag/foto_0000000120260605202959/WhatsApp_Image_2026-05-08_at_6.53.04_PM.jpeg",
-      "df_horap": "21:30",
-      "df_tagnames": "Bolsa chilena,Wall Street,Francisco Noguera",
-      "df_ts": "20260605202959",
+      "df_foto600": "/noticias/site/artic/20261031/imag/foto_0000000720261031132118/WhatsApp_Image_2026-10-31_at_1.jpeg",
+      "df_horap": "21:00",
+      "df_tagnames": "Política,gobierno,José Antonio Kast",
+      "df_ts": "20261031132118",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20260605/pags/20260605202959.html",
-      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
+      "id": "http://www.df.cl/noticias/site/artic/20261031/pags/20261031132118.html",
+      "link": "http://www.df.cl/df-mas/politica/la-tragedia-del-callejon-rabat-kast-al-borde-de-su-voto-duro",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0"
+          "href": "http://www.df.cl/df-mas/politica/la-tragedia-del-callejon-rabat-kast-al-borde-de-su-voto-duro"
         }
       ],
-      "published": "Sat, 31 Oct 2026 00:42:21 GMT",
+      "published": "Sat, 31 Oct 2026 16:36:05 GMT",
       "published_parsed": [
         2026,
         10,
         31,
-        0,
-        42,
-        21,
+        16,
+        36,
+        5,
         5,
         304,
         0
       ],
-      "summary": "Una radiografía semanal de los mercados globales: índices, volatilidad y acciones que marcaron los últimos cinco días de operaciones.",
+      "summary": "En su décimo día, el cisma originado en una cadena de decisiones inconsultas tiene al Presidente a dos puntos y fracción de su 23,93% en primera vuelta, adelanta en exclusiva Cadem. La Moneda sólo entrega al exsubsecretario Silva e insiste en que llegará con el ministro Rabat a una eventual acusación pese a fugas entre sus votos: quien no se cuadre le dará la espalda al Mandatario. En el Partido Republicano sinceran que “si el barco se hunde, nos hundimos con el barco”.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "Una radiografía semanal de los mercados globales: índices, volatilidad y acciones que marcaron los últimos cinco días de operaciones."
+        "value": "En su décimo día, el cisma originado en una cadena de decisiones inconsultas tiene al Presidente a dos puntos y fracción de su 23,93% en primera vuelta, adelanta en exclusiva Cadem. La Moneda sólo entrega al exsubsecretario Silva e insiste en que llegará con el ministro Rabat a una eventual acusación pese a fugas entre sus votos: quien no se cuadre le dará la espalda al Mandatario. En el Partido Republicano sinceran que “si el barco se hunde, nos hundimos con el barco”."
       },
       "tags": [
         {
-          "term": "Señal DF",
+          "term": "DF MAS",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Mercados: la semana en datos",
+      "title": "La tragedia del Callejón Rabat: Kast, al borde de su voto duro",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Mercados: la semana en datos"
+        "value": "La tragedia del Callejón Rabat: Kast, al borde de su voto duro"
       }
     }
   },
@@ -302,13 +322,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Antonio Gonzalez",
+      "author": "Ignacio Hermosilla",
       "author_detail": {
-        "name": "Antonio Gonzalez"
+        "name": "Ignacio Hermosilla"
       },
       "authors": [
         {
-          "name": "Antonio Gonzalez"
+          "name": "Ignacio Hermosilla"
         }
       ],
       "content": [
@@ -316,126 +336,131 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>La Segunda Sala de la Corte Suprema confirmó este viernes, en fallo dividido, la sentencia de la Corte de Apelaciones de Santiago del 29 de septiembre de 2026, en el amparo del <a href=\"https://www.biobiochile.cl/buscador.shtml?s=caso+junaeb\" rel=\"noopener\" target=\"_blank\">caso Junaeb</a>, que limita la revisión de información extraída de los dispositivos incautados. Así, el máximo tribunal del país resolvió el amparo interpuesto por la defensa del abogado <strong>Darío Calderón</strong> en la causa en que también son investigados los políticos Sergio Gahona, Hugo Gutiérrez y Miguel Ángel Calisto.</p>\n<p>En tanto, según el relato de altas fuentes de la Fiscalía Metropolitana Oriente, la decisión de la Corte representa &#8220;una victoria&#8221; para el ente persecutor.</p>\n<p>La resolución, a la que accedió <strong>Radio Bío Bío</strong>, mantiene el mismo criterio que la Suprema fijó en el caso Camila Flores, conocido como la &#8220;<a href=\"https://www.biobiochile.cl/buscador.shtml?s=cuota+flores\" rel=\"noopener\" target=\"_blank\">cuota Flores</a>&#8220;; es decir, que la Fiscalía adopte una serie de medidas al momento de proceder al examen y traspaso de la información contenida en los dispositivos.</p>\n<h2>Origen del amparo en la trama Junaeb</h2>\n<p>El amparo del caso Junaeb se origina en la autorización del 19 de agosto de 2026 del Cuarto Juzgado de Garantía de Santiago, para la entrada y registro de diversos domicilios y la <strong>incautación de teléfonos celulares, computadores y demás dispositivos de almacenamiento digital</strong> de titularidad de las personas individualizadas, entre ellos el amparado.</p>\n<blockquote><p>Esa autorización permitió al persecutor y a la policía &#8220;el acceso, revisión, extracción y análisis de la información contenida en los dispositivos electrónicos incautados&#8221;, comprensiva de memorias internas y externas, tarjeta SIM, imágenes, videos, audios y todo dato almacenado, &#8220;así como en sus aplicaciones, redes sociales, correos electrónicos y nubes de almacenamiento a las que se halle vinculado el dispositivo&#8221;.</p></blockquote>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/27/fiscalia-acudira-a-la-suprema-para-revertir-fallo-que-acoto-revision-de-telefonos-en-caso-junaeb.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/27/fiscalia-acudira-a-la-suprema-para-revertir-fallo-que-acoto-revision-de-telefonos-en-caso-junaeb.shtml\">Fiscalía acudirá a la Suprema para revertir fallo que acotó revisión de teléfonos en caso Junaeb</a>\n\t\t<span style=\"display: none;\">Martes 27 Octubre, 2026 | 07:45</span>\n\t</div>\n</div>\n<p>La medida se decretó en el contexto de una investigación desformalizada y reservada por delitos de lavado de activos, cohecho y fraude al fisco, entre otros ilícitos.</p>\n<p>El 26 de agosto de 2026, al resolver una cautela de garantías presentada por la defensa, la magistratura acotó temporalmente el acceso a la información entre 2018 y el 20 de agosto de 2026, <strong>prohibió entregar e incorporar a la carpeta información ajena a los hechos investigados</strong> y ordenó al persecutor ajustar su proceder a dos instructivos internos del Ministerio Público.</p>\n<h2>Medidas impuestas a Fiscalía</h2>\n<blockquote><p>El criterio del máximo tribunal del país dispuso una serie de medidas clave en la indagatoria del caso Junaeb. La primera dice relación con &#8220;los dispositivos incautados y su custodia deberán estar a cargo únicamente de la Fiscalía Regional y del Fiscal Adjunto a cargo de la investigación, en su caso&#8221;.</p>\n<p>La segunda ordena que el Ministerio Público informe al Cuarto Juzgado de Garantía de Santiago &#8220;<strong>el nombre de los funcionarios o peritos que tendrán acceso a estos dispositivos</strong>&#8220;.</p>\n<p>La tercera establece que &#8220;<strong>solo podrán ser analizados los asuntos e información que tengan pertinencia con los hechos investigados y que justificaron la incautación de los dispositivos</strong>&#8220;, correspondiente al periodo comprendido entre 2018 y el 20 de agosto de 2026 ya fijado, con excepción de hallazgos casuales de hechos que puedan revestir caracteres de otros delitos. Quedan excluidas del análisis las comunicaciones y documentos relativos a los clientes del amparado, abogado, cubiertos por el deber de secreto que reconoce el Código Procesal Penal.</p>\n<p>La cuarta medida señala que <span class=\"destacador\">toda información extraída y analizada fuera de esos límites &#8220;no podrá ser examinada más allá de lo necesario para su identificación, ni entregada a otros intervinientes o a terceros, ni incorporada a la carpeta investigativa ni a informes policiales&#8221;</span>. </p>\n<p>Asimismo, la Suprema <strong>ordena eliminar la información que carezca de interés criminalístico</strong>, informando al tribunal los protocolos seguidos para dicha eliminación y las personas encargadas de su ejecución.</p></blockquote>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/especial/bbcl-investiga/noticias/de-pasillo/2026/09/29/trama-junaeb-corte-acota-revision-de-telefonos-de-senador-gahona-el-conde-negro-y-hugo-gutierrez.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/especial/bbcl-investiga/noticias/de-pasillo/2026/09/29/trama-junaeb-corte-acota-revision-de-telefonos-de-senador-gahona-el-conde-negro-y-hugo-gutierrez.shtml\">Trama Junaeb: Corte acota revisión de teléfonos de senador Gahona, el Conde Negro y Hugo Gutiérrez</a>\n\t\t<span style=\"display: none;\">Martes 29 Septiembre, 2026 | 16:55</span>\n\t</div>\n</div>\n<h2>Límite para acceder a información de dispositivos en caso Junaeb</h2>\n<p>El fallo recuerda que la medida intrusiva afecta el derecho fundamental a la intimidad, protegido en el artículo 19 N°4 y 5 de la Constitución Política de la República, y que el Código Procesal Penal no establece de manera expresa limitaciones al persecutor en cuanto a la extensión de la revisión y obtención de información de los dispositivos electrónicos incautados. </p>\n<p>El escrito del máximo tribunal del país consigna que &#8220;la injerencia se consuma con la copia, no con el uso; desde ese momento el Estado dispone de toda la información y el afectado depende de la buena disposición del órgano que la tiene&#8221;.</p>\n<p>También expone que &#8220;ningún otro objeto concentra tanta información sobre una persona&#8221;. Y cierra precisando que &#8220;quien accede a un teléfono accede a todo lo que contiene&#8221;.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/31/suprema-fija-criterio-en-caso-junaeb-e-impone-limites-a-fiscalia-en-revision-de-dispositivos.shtml\" rel=\"nofollow\">Suprema fija criterio en caso Junaeb e impone límites a Fiscalía en revisión de dispositivos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>Una pelea masiva entre diputados quedó registrada en video dentro del Parlamento de Armenia, en medio de la polémica por un supuesto <strong>&#8220;Ministerio del Sexo&#8221;</strong>.</p>\n<p> Según informa el diario británico The Sun, ocurrió el jueves y fue la tercera riña en pocos días.</p>\n<p>Las imágenes muestran a legisladores <strong>lanzando golpes y silla</strong>s. Uno vacía un vaso de agua sobre la cabeza de otro, mientras algunos colegas se patean entre sí.</p>\n<h2>Qué desató la pelea</h2>\n<p>El origen es una idea atribuida al partido opositor prorruso Armenia Fuerte, que <strong>planteó un Ministerio del Sexo tras afirmar que la falta de satisfacción sexual llevaba a las mujeres al activismo político.</strong> </p>\n<p>El propósito, añade el medio, era que no quedaran &#8220;mujeres insatisfechas&#8221;.</p>\n<p>El partido oficialista Contrato Civil rechazó de inmediato el plan. La tensión estalló cuando un diputado oficialista exigió una disculpa. Varios parlamentarios corrieron al podio donde hablaba Taron Chakhoyan, de Contrato Civil, y <strong>comenzaron a golpearse.</strong></p>\n<p>Chakhoyan había acusado a la oposición de estar &#8220;sumida en la corrupción&#8221; y apuntó al supuesto nepotismo de Narek Karapetyan, de Armenia Fuerte. </p>\n<p>Según el diario The Telegraph, citado por The Sun, el <strong>vicepresidente de la cámara, Vahagn Aleksanyan, lanzó una silla de cuero rojo.</strong></p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\"><img alt=\"🔴\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f534.png\" style=\"height: 1em;\" /> #AHORA | Pelea entre el partido gobernante y la oposición en el Parlamento de Armenia. https://t.co/9TBKyc1tVl</p>\n<p>&mdash; Mundo en Conflicto <img alt=\"🌎\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png\" style=\"height: 1em;\" /> (@MundoEConflicto) <a href=\"https://x.com/MundoEConflicto/status/2115784171205415081?ref_src=twsrc%5Etfw\">October 29, 2026</a></p></blockquote>\n<p></p>\n<h2>Reacciones y consecuencias</h2>\n<p>El primer ministro, Nikol Pashinyan, dijo: &#8220;Condeno la violencia, pero apoyo las medidas tomadas hoy por la facción de Contrato Civil&#8221;. Agregó que, <strong>&#8220;con una silla o con otra cosa&#8221;, la reacción fue &#8220;proporcionada y correcta&#8221;.</strong></p>\n<p>Karapetyan defendió la pelea como un <strong>&#8220;combate normal de hombre a hombre, al estilo armenio&#8221;</strong>. El presidente de la cámara llamó a un receso cuando la violencia se desbordó, pero este habría sido ignorado.</p>\n<p>Los choques habrían seguido en los pasillos, y varios diputados salieron con la ropa rota y lesiones. La fiscalía dijo a medios locales que no tenía &#8220;información disponible&#8221; sobre procesos penales.</p>\n<blockquote><p>¿Cómo hicimos esta nota?</p>\n<p>Esta nota fue redactada con la inteligencia artificial de Claude (Anthropic). El periodista investigó preliminarmente, seleccionó las fuentes y las entregó a Claude para su redacción usando como referencia el estilo de escritura del autor. Luego el periodista revisó la nota, realizó ediciones y verificó sus fuentes.</p></blockquote>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml\" rel=\"nofollow\">Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=7003113",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/31/suprema-fija-criterio-en-caso-junaeb-e-impone-limites-a-fiscalia-en-revision-de-dispositivos.shtml",
+      "id": "https://www.biobiochile.cl/?p=7003609",
+      "link": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/31/suprema-fija-criterio-en-caso-junaeb-e-impone-limites-a-fiscalia-en-revision-de-dispositivos.shtml"
+          "href": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml"
         }
       ],
-      "published": "Sat, 31 Oct 2026 03:05:07 +0000",
+      "published": "Sun, 01 Nov 2026 04:04:14 +0000",
       "published_parsed": [
         2026,
-        10,
-        31,
-        3,
-        5,
-        7,
-        5,
-        304,
+        11,
+        1,
+        4,
+        4,
+        14,
+        6,
+        305,
         0
       ],
-      "summary": "<p>La Segunda Sala de la Corte Suprema confirmó este viernes, en fallo dividido, la sentencia de la Corte de Apelaciones de Santiago del 29 de septiembre de 2026, en el amparo del caso Junaeb, que limita la revisión de información extraída de los dispositivos incautados. Así, el máximo tribunal del país resolvió el amparo interpuesto &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/31/suprema-fija-criterio-en-caso-junaeb-e-impone-limites-a-fiscalia-en-revision-de-dispositivos.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Suprema fija criterio en caso Junaeb e impone límites a Fiscalía en revisión de dispositivos\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/31/suprema-fija-criterio-en-caso-junaeb-e-impone-limites-a-fiscalia-en-revision-de-dispositivos.shtml\" rel=\"nofollow\">Suprema fija criterio en caso Junaeb e impone límites a Fiscalía en revisión de dispositivos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>Una pelea masiva entre diputados quedó registrada en video dentro del Parlamento de Armenia, en medio de la polémica por un supuesto &#8220;Ministerio del Sexo&#8221;. Según informa el diario británico The Sun, ocurrió el jueves y fue la tercera riña en pocos días. Las imágenes muestran a legisladores lanzando golpes y sillas. Uno vacía un &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml\" rel=\"nofollow\">Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La Segunda Sala de la Corte Suprema confirmó este viernes, en fallo dividido, la sentencia de la Corte de Apelaciones de Santiago del 29 de septiembre de 2026, en el amparo del caso Junaeb, que limita la revisión de información extraída de los dispositivos incautados. Así, el máximo tribunal del país resolvió el amparo interpuesto &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/31/suprema-fija-criterio-en-caso-junaeb-e-impone-limites-a-fiscalia-en-revision-de-dispositivos.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Suprema fija criterio en caso Junaeb e impone límites a Fiscalía en revisión de dispositivos\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/10/31/suprema-fija-criterio-en-caso-junaeb-e-impone-limites-a-fiscalia-en-revision-de-dispositivos.shtml\" rel=\"nofollow\">Suprema fija criterio en caso Junaeb e impone límites a Fiscalía en revisión de dispositivos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>Una pelea masiva entre diputados quedó registrada en video dentro del Parlamento de Armenia, en medio de la polémica por un supuesto &#8220;Ministerio del Sexo&#8221;. Según informa el diario británico The Sun, ocurrió el jueves y fue la tercera riña en pocos días. Las imágenes muestran a legisladores lanzando golpes y sillas. Uno vacía un &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml\" rel=\"nofollow\">Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Chile",
+          "term": "Curiosidades",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Caso Junaeb",
+          "term": "Armenia",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Corte de Apelaciones de Santiago",
+          "term": "Armenia Fuerte",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Corte Suprema",
+          "term": "Claude (Anthropic)",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Cuarto Juzgado de Garantía",
+          "term": "Contrato Civil",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Darío Calderón",
+          "term": "corrupción política",
           "scheme": null,
           "label": null
         },
         {
-          "term": "derecho a la intimidad",
+          "term": "Diputados armenios",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Fiscalía Metropolitana Oriente",
+          "term": "Ministerio del Sexo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Hugo Gutiérrez",
+          "term": "Narek Karapetyan",
           "scheme": null,
           "label": null
         },
         {
-          "term": "incautación de dispositivos",
+          "term": "Nikol Pashinyan",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Información electrónica",
+          "term": "Parlamento de Armenia",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Miguel Calisto",
+          "term": "Política Internacional",
           "scheme": null,
           "label": null
         },
         {
-          "term": "privacidad digital",
+          "term": "Riña parlamentaria",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Revisión de teléfonos",
+          "term": "seleccion-tendencias",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Secreto Profesional",
+          "term": "Taron Chakhoyan",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Sergio Gahona",
+          "term": "Vahagn Aleksanyan",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "violencia política",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Suprema fija criterio en caso Junaeb e impone límites a Fiscalía en revisión de dispositivos",
+      "title": "Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Suprema fija criterio en caso Junaeb e impone límites a Fiscalía en revisión de dispositivos"
+        "value": "Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres"
       }
     }
   }
