@@ -30,33 +30,33 @@
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1816698",
-      "link": "https://www.theclinic.cl/2026/10/31/poduje-le-da-24-horas-a-milovan-kevegic-para-desocupar-sede-de-la-federacion-de-tenis-en-cerro-colorado-amenaza-con-desalojarlo-y-presentar-una-querella/",
+      "id": "https://www.theclinic.cl/?p=1816774",
+      "link": "https://www.theclinic.cl/2026/11/01/tres-personas-fallecidas-y-cerca-de-siete-desaparecidas-en-fatal-accidente-en-el-cajon-del-maipo-embarcacion-no-perteneceria-a-una-empresa/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/10/31/poduje-le-da-24-horas-a-milovan-kevegic-para-desocupar-sede-de-la-federacion-de-tenis-en-cerro-colorado-amenaza-con-desalojarlo-y-presentar-una-querella/"
+          "href": "https://www.theclinic.cl/2026/11/01/tres-personas-fallecidas-y-cerca-de-siete-desaparecidas-en-fatal-accidente-en-el-cajon-del-maipo-embarcacion-no-perteneceria-a-una-empresa/"
         }
       ],
-      "published": "Sat, 31 Oct 2026 21:00:21 +0000",
+      "published": "Sun, 01 Nov 2026 19:48:21 +0000",
       "published_parsed": [
         2026,
-        10,
-        31,
+        11,
+        1,
+        19,
+        48,
         21,
-        0,
-        21,
-        5,
-        304,
+        6,
+        305,
         0
       ],
-      "summary": "<p>La propiedad de cuatro hectáreas lleva años en disputa y ha sido objeto de distintos proyectos que no han logrado concretarse. El Minvu busca recuperar el inmueble que históricamente se arrendaba a la Federación de Tenis (organismo que además ahora denuncia está ocupado irregularmente por Kegevic) para retomar un proyecto de viviendas sociales.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/31/poduje-le-da-24-horas-a-milovan-kevegic-para-desocupar-sede-de-la-federacion-de-tenis-en-cerro-colorado-amenaza-con-desalojarlo-y-presentar-una-querella/\">Poduje le da 24 horas a Milovan Kegevic para desocupar sede de la Federación de Tenis en Cerro Colorado: amenaza desalojo con Carabineros y una querella</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>La última actualización, a las 18:30 horas, apuntaba a que la información que se maneja es que el accidente ocurrido en el sector de San Alfonso involucró a un grupo de 13 personas que hacía rafting en una balsa que la Asociación de Empresas de Rafting del Cajón del Maipo aseguró que no era operada por ninguno de sus miembros y de la cual, hasta el cierre de esta edición, ninguna empresa había dicho ser responsable. Tres mujeres fallecieron, ocho fueron rescatadas y derivadas al hospital de la zona y las dos personas restantes, que se especulaba estaban desaparecidas, lograron salir por sus propios medios. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/01/tres-personas-fallecidas-y-cerca-de-siete-desaparecidas-en-fatal-accidente-en-el-cajon-del-maipo-embarcacion-no-perteneceria-a-una-empresa/\">Qué se sabe del fatal accidente en el Cajón del Maipo: grupo hacía rafting en una balsa no reconocida por las empresas locales y tres personas fallecieron tras volcarse</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La propiedad de cuatro hectáreas lleva años en disputa y ha sido objeto de distintos proyectos que no han logrado concretarse. El Minvu busca recuperar el inmueble que históricamente se arrendaba a la Federación de Tenis (organismo que además ahora denuncia está ocupado irregularmente por Kegevic) para retomar un proyecto de viviendas sociales.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/10/31/poduje-le-da-24-horas-a-milovan-kevegic-para-desocupar-sede-de-la-federacion-de-tenis-en-cerro-colorado-amenaza-con-desalojarlo-y-presentar-una-querella/\">Poduje le da 24 horas a Milovan Kegevic para desocupar sede de la Federación de Tenis en Cerro Colorado: amenaza desalojo con Carabineros y una querella</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>La última actualización, a las 18:30 horas, apuntaba a que la información que se maneja es que el accidente ocurrido en el sector de San Alfonso involucró a un grupo de 13 personas que hacía rafting en una balsa que la Asociación de Empresas de Rafting del Cajón del Maipo aseguró que no era operada por ninguno de sus miembros y de la cual, hasta el cierre de esta edición, ninguna empresa había dicho ser responsable. Tres mujeres fallecieron, ocho fueron rescatadas y derivadas al hospital de la zona y las dos personas restantes, que se especulaba estaban desaparecidas, lograron salir por sus propios medios. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/01/tres-personas-fallecidas-y-cerca-de-siete-desaparecidas-en-fatal-accidente-en-el-cajon-del-maipo-embarcacion-no-perteneceria-a-una-empresa/\">Qué se sabe del fatal accidente en el Cajón del Maipo: grupo hacía rafting en una balsa no reconocida por las empresas locales y tres personas fallecieron tras volcarse</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
@@ -65,37 +65,57 @@
           "label": null
         },
         {
-          "term": "Cerro Colorado",
+          "term": "accidente",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Federación de Tenis de Chile",
+          "term": "balsa",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Iván Poduje",
+          "term": "Cajón del Maipo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "milovan kegevic",
+          "term": "gope",
           "scheme": null,
           "label": null
         },
         {
-          "term": "SERVIU Metropolitano",
+          "term": "Rafting",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "río Maipo",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Región Metropolitana",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "san alfonso",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "San José de Maipo",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Poduje le da 24 horas a Milovan Kegevic para desocupar sede de la Federación de Tenis en Cerro Colorado: amenaza desalojo con Carabineros y una querella",
+      "title": "Qué se sabe del fatal accidente en el Cajón del Maipo: grupo hacía rafting en una balsa no reconocida por las empresas locales y tres personas fallecieron tras volcarse",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Poduje le da 24 horas a Milovan Kegevic para desocupar sede de la Federación de Tenis en Cerro Colorado: amenaza desalojo con Carabineros y una querella"
+        "value": "Qué se sabe del fatal accidente en el Cajón del Maipo: grupo hacía rafting en una balsa no reconocida por las empresas locales y tres personas fallecieron tras volcarse"
       }
     }
   },
@@ -121,13 +141,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Patricia Schüller Gamboa",
+      "author": "Leonardo Medina",
       "author_detail": {
-        "name": "Patricia Schüller Gamboa"
+        "name": "Leonardo Medina"
       },
       "authors": [
         {
-          "name": "Patricia Schüller Gamboa"
+          "name": "Leonardo Medina"
         }
       ],
       "content": [
@@ -135,91 +155,71 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>El <strong>subsecretario de Justicia, Luis Silva, fue removido de su cargo</strong> este viernes <strong>luego de publicar un polémico video donde justificaba la firma de decretos por la rebaja de penas de condenados por delitos sexuales contra menores de edad.</strong></p>\n\n\n\n<p>Según consignó <em>T13</em>, en el video Silva defendió que <strong>&#8220;el ministro de Justicia (Fernando Rabat) decidió ajustar el criterio jurídico</strong> con el que en adelante se resolverían las rebajas de condena ¿Y por qué aparece mi firma?&nbsp;A quien le corresponde firmar es al ministro de Justicia, pero cuando el ministro no está, lo subroga el subsecretario&#8221;.</p>\n\n\n\n<p>El registro no habría sido autorizado por sus superiores. Frente a las críticas el subsecretario sostuvo que su objetivo <strong>fue &#8220;informar a la ciudadanía </strong>sobre una materia que existe un gran desconocimiento&#8221;.</p>\n\n\n\n<p>“C<strong>omo el propósito de ese video fue informar</strong>, yo&nbsp;no estimé necesario consultarlo con el ministro, porque no estaba diciendo en él, y lo pueden comprobar fácilmente, nada distinto de lo que el ministro ya había dicho el día miércoles en la Cámara de Diputados&#8221;, agregó.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-wp-embed is-provider-la-nacion wp-block-embed-la-nacion\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"wp-embedded-content\"><a href=\"https://www.lanacion.cl/subsecretario-de-justicia-no-informo-a-rabat-sobre-video-donde-explica-rebaja-de-condenas/\">Subsecretario de Justicia no informó a Rabat sobre video donde explica rebaja de condenas</a></blockquote>\n</div></figure>\n<p>The post <a href=\"https://www.lanacion.cl/rebajas-de-condenas-subsecretario-de-justicia-es-removido-de-su-cargo-tras-publicar-video-sin-consultar-a-rabat/\" rel=\"nofollow\">Rebajas de condenas: Subsecretario de Justicia es removido de su cargo tras publicar video sin consultar a Rabat</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p><strong>Universidad Católica se hizo fuerte este domingo en el Claro Arena y venció 1-0 a Universidad de Chile</strong>, encendiendo nuevamente la lucha por el cupo del Chile 2 a la Copa Libertadores 2027. </p>\n\n\n\n<p>Para seguir leyendo esta nota <a href=\"https://www.triunfo.cl/el-clasico-universitario-fue-cruzado-catolica-vencio-a-la-u-y-encendio-la-lucha-por-el-chile-2\"><strong>haz clic aquí, en el sitio web de Triunfo</strong></a>.</p>\n<p>The post <a href=\"https://www.lanacion.cl/el-clasico-universitario-fue-cruzado-catolica-vencio-a-la-u-y-encendio-la-lucha-por-el-chile-2/\" rel=\"nofollow\">El clásico universitario fue Cruzado: Católica venció a la U y encendió la lucha por el Chile 2</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=419438",
-      "link": "https://www.lanacion.cl/rebajas-de-condenas-subsecretario-de-justicia-es-removido-de-su-cargo-tras-publicar-video-sin-consultar-a-rabat/",
+      "id": "https://www.lanacion.cl/?p=419452",
+      "link": "https://www.lanacion.cl/el-clasico-universitario-fue-cruzado-catolica-vencio-a-la-u-y-encendio-la-lucha-por-el-chile-2/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/rebajas-de-condenas-subsecretario-de-justicia-es-removido-de-su-cargo-tras-publicar-video-sin-consultar-a-rabat/"
+          "href": "https://www.lanacion.cl/el-clasico-universitario-fue-cruzado-catolica-vencio-a-la-u-y-encendio-la-lucha-por-el-chile-2/"
         }
       ],
-      "published": "Fri, 30 Oct 2026 21:41:36 +0000",
+      "published": "Sun, 01 Nov 2026 18:03:35 +0000",
       "published_parsed": [
         2026,
-        10,
-        30,
-        21,
-        41,
-        36,
-        4,
-        303,
+        11,
+        1,
+        18,
+        3,
+        35,
+        6,
+        305,
         0
       ],
-      "summary": "<p>El subsecretario de Justicia, Luis Silva, fue removido de su cargo este viernes luego de publicar un polémico video donde justificaba la firma de decretos por la rebaja de penas de condenados por delitos sexuales contra menores de edad. Según consignó T13, en el video Silva defendió que &#8220;el ministro de Justicia (Fernando Rabat) decidió [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/rebajas-de-condenas-subsecretario-de-justicia-es-removido-de-su-cargo-tras-publicar-video-sin-consultar-a-rabat/\" rel=\"nofollow\">Rebajas de condenas: Subsecretario de Justicia es removido de su cargo tras publicar video sin consultar a Rabat</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>Universidad Católica se hizo fuerte este domingo en el Claro Arena y venció 1-0 a Universidad de Chile, encendiendo nuevamente la lucha por el cupo del Chile 2 a la Copa Libertadores 2027.  Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.</p>\n<p>The post <a href=\"https://www.lanacion.cl/el-clasico-universitario-fue-cruzado-catolica-vencio-a-la-u-y-encendio-la-lucha-por-el-chile-2/\" rel=\"nofollow\">El clásico universitario fue Cruzado: Católica venció a la U y encendió la lucha por el Chile 2</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El subsecretario de Justicia, Luis Silva, fue removido de su cargo este viernes luego de publicar un polémico video donde justificaba la firma de decretos por la rebaja de penas de condenados por delitos sexuales contra menores de edad. Según consignó T13, en el video Silva defendió que &#8220;el ministro de Justicia (Fernando Rabat) decidió [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/rebajas-de-condenas-subsecretario-de-justicia-es-removido-de-su-cargo-tras-publicar-video-sin-consultar-a-rabat/\" rel=\"nofollow\">Rebajas de condenas: Subsecretario de Justicia es removido de su cargo tras publicar video sin consultar a Rabat</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>Universidad Católica se hizo fuerte este domingo en el Claro Arena y venció 1-0 a Universidad de Chile, encendiendo nuevamente la lucha por el cupo del Chile 2 a la Copa Libertadores 2027.  Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.</p>\n<p>The post <a href=\"https://www.lanacion.cl/el-clasico-universitario-fue-cruzado-catolica-vencio-a-la-u-y-encendio-la-lucha-por-el-chile-2/\" rel=\"nofollow\">El clásico universitario fue Cruzado: Católica venció a la U y encendió la lucha por el Chile 2</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
-        {
-          "term": "Nacional",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Política",
-          "scheme": null,
-          "label": null
-        },
         {
           "term": "Portada",
           "scheme": null,
           "label": null
         },
         {
-          "term": "condenas",
+          "term": "Triunfo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "rabat",
+          "term": "clásico universitario",
           "scheme": null,
           "label": null
         },
         {
-          "term": "rebajas",
+          "term": "universidad católica",
           "scheme": null,
           "label": null
         },
         {
-          "term": "silva",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "subsecretario",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "video",
+          "term": "universidad de chile",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Rebajas de condenas: Subsecretario de Justicia es removido de su cargo tras publicar video sin consultar a Rabat",
+      "title": "El clásico universitario fue Cruzado: Católica venció a la U y encendió la lucha por el Chile 2",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Rebajas de condenas: Subsecretario de Justicia es removido de su cargo tras publicar video sin consultar a Rabat"
+        "value": "El clásico universitario fue Cruzado: Católica venció a la U y encendió la lucha por el Chile 2"
       }
     }
   },
@@ -248,55 +248,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261031",
-      "df_fechapl": "Sábado 31 de octubre de 2026",
+      "df_fechap": "20261101",
+      "df_fechapl": "Domingo 1 de noviembre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261031/imag/foto_0000000720261031132118/WhatsApp_Image_2026-10-31_at_1.jpeg",
-      "df_horap": "21:00",
-      "df_tagnames": "Política,gobierno,José Antonio Kast",
-      "df_ts": "20261031132118",
+      "df_foto600": "/noticias/site/artic/20261030/imag/foto_0000000620261030171250.jpg",
+      "df_horap": "20:30",
+      "df_tagnames": "",
+      "df_ts": "20261030171250",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261031/pags/20261031132118.html",
-      "link": "http://www.df.cl/df-mas/politica/la-tragedia-del-callejon-rabat-kast-al-borde-de-su-voto-duro",
+      "id": "http://www.df.cl/noticias/site/artic/20261030/pags/20261030171250.html",
+      "link": "http://www.df.cl/empresas/retail/autoridad-resuelve-que-nuevo-mall-de-cencosud-en-puente-alto-no-requiere",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/df-mas/politica/la-tragedia-del-callejon-rabat-kast-al-borde-de-su-voto-duro"
+          "href": "http://www.df.cl/empresas/retail/autoridad-resuelve-que-nuevo-mall-de-cencosud-en-puente-alto-no-requiere"
         }
       ],
-      "published": "Sat, 31 Oct 2026 16:36:05 GMT",
+      "published": "Sun, 01 Nov 2026 22:07:48 GMT",
       "published_parsed": [
         2026,
-        10,
-        31,
-        16,
-        36,
-        5,
-        5,
-        304,
+        11,
+        1,
+        22,
+        7,
+        48,
+        6,
+        305,
         0
       ],
-      "summary": "En su décimo día, el cisma originado en una cadena de decisiones inconsultas tiene al Presidente a dos puntos y fracción de su 23,93% en primera vuelta, adelanta en exclusiva Cadem. La Moneda sólo entrega al exsubsecretario Silva e insiste en que llegará con el ministro Rabat a una eventual acusación pese a fugas entre sus votos: quien no se cuadre le dará la espalda al Mandatario. En el Partido Republicano sinceran que “si el barco se hunde, nos hundimos con el barco”.",
+      "summary": "Obra se levantará en terrenos de la Hacienda El Peñón y contempla una inversión de US$ 30 millones.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "En su décimo día, el cisma originado en una cadena de decisiones inconsultas tiene al Presidente a dos puntos y fracción de su 23,93% en primera vuelta, adelanta en exclusiva Cadem. La Moneda sólo entrega al exsubsecretario Silva e insiste en que llegará con el ministro Rabat a una eventual acusación pese a fugas entre sus votos: quien no se cuadre le dará la espalda al Mandatario. En el Partido Republicano sinceran que “si el barco se hunde, nos hundimos con el barco”."
+        "value": "Obra se levantará en terrenos de la Hacienda El Peñón y contempla una inversión de US$ 30 millones."
       },
       "tags": [
         {
-          "term": "DF MAS",
+          "term": "Empresas",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "La tragedia del Callejón Rabat: Kast, al borde de su voto duro",
+      "title": "Autoridad resuelve que nuevo mall de Cencosud en Puente Alto no requiere evaluación ambiental",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "La tragedia del Callejón Rabat: Kast, al borde de su voto duro"
+        "value": "Autoridad resuelve que nuevo mall de Cencosud en Puente Alto no requiere evaluación ambiental"
       }
     }
   },
@@ -322,13 +322,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Ignacio Hermosilla",
+      "author": "Emilio Contreras",
       "author_detail": {
-        "name": "Ignacio Hermosilla"
+        "name": "Emilio Contreras"
       },
       "authors": [
         {
-          "name": "Ignacio Hermosilla"
+          "name": "Emilio Contreras"
         }
       ],
       "content": [
@@ -336,101 +336,101 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>Una pelea masiva entre diputados quedó registrada en video dentro del Parlamento de Armenia, en medio de la polémica por un supuesto <strong>&#8220;Ministerio del Sexo&#8221;</strong>.</p>\n<p> Según informa el diario británico The Sun, ocurrió el jueves y fue la tercera riña en pocos días.</p>\n<p>Las imágenes muestran a legisladores <strong>lanzando golpes y silla</strong>s. Uno vacía un vaso de agua sobre la cabeza de otro, mientras algunos colegas se patean entre sí.</p>\n<h2>Qué desató la pelea</h2>\n<p>El origen es una idea atribuida al partido opositor prorruso Armenia Fuerte, que <strong>planteó un Ministerio del Sexo tras afirmar que la falta de satisfacción sexual llevaba a las mujeres al activismo político.</strong> </p>\n<p>El propósito, añade el medio, era que no quedaran &#8220;mujeres insatisfechas&#8221;.</p>\n<p>El partido oficialista Contrato Civil rechazó de inmediato el plan. La tensión estalló cuando un diputado oficialista exigió una disculpa. Varios parlamentarios corrieron al podio donde hablaba Taron Chakhoyan, de Contrato Civil, y <strong>comenzaron a golpearse.</strong></p>\n<p>Chakhoyan había acusado a la oposición de estar &#8220;sumida en la corrupción&#8221; y apuntó al supuesto nepotismo de Narek Karapetyan, de Armenia Fuerte. </p>\n<p>Según el diario The Telegraph, citado por The Sun, el <strong>vicepresidente de la cámara, Vahagn Aleksanyan, lanzó una silla de cuero rojo.</strong></p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\"><img alt=\"🔴\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f534.png\" style=\"height: 1em;\" /> #AHORA | Pelea entre el partido gobernante y la oposición en el Parlamento de Armenia. https://t.co/9TBKyc1tVl</p>\n<p>&mdash; Mundo en Conflicto <img alt=\"🌎\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png\" style=\"height: 1em;\" /> (@MundoEConflicto) <a href=\"https://x.com/MundoEConflicto/status/2115784171205415081?ref_src=twsrc%5Etfw\">October 29, 2026</a></p></blockquote>\n<p></p>\n<h2>Reacciones y consecuencias</h2>\n<p>El primer ministro, Nikol Pashinyan, dijo: &#8220;Condeno la violencia, pero apoyo las medidas tomadas hoy por la facción de Contrato Civil&#8221;. Agregó que, <strong>&#8220;con una silla o con otra cosa&#8221;, la reacción fue &#8220;proporcionada y correcta&#8221;.</strong></p>\n<p>Karapetyan defendió la pelea como un <strong>&#8220;combate normal de hombre a hombre, al estilo armenio&#8221;</strong>. El presidente de la cámara llamó a un receso cuando la violencia se desbordó, pero este habría sido ignorado.</p>\n<p>Los choques habrían seguido en los pasillos, y varios diputados salieron con la ropa rota y lesiones. La fiscalía dijo a medios locales que no tenía &#8220;información disponible&#8221; sobre procesos penales.</p>\n<blockquote><p>¿Cómo hicimos esta nota?</p>\n<p>Esta nota fue redactada con la inteligencia artificial de Claude (Anthropic). El periodista investigó preliminarmente, seleccionó las fuentes y las entregó a Claude para su redacción usando como referencia el estilo de escritura del autor. Luego el periodista revisó la nota, realizó ediciones y verificó sus fuentes.</p></blockquote>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml\" rel=\"nofollow\">Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p><strong>&#8216;Socios por Chile&#8217; </strong>confirmó la salida de uno de sus integrantes tras el cierre de la temporada 2026 en Canal 13.</p>\n<p>Se trata de <strong>Pedro Ruminot</strong>, quien mediante su perfil en Instagram dio a conocer la decisión: <strong>&#8220;Quiero contarles que después de 6 años en los Socios, dejo el proyecto&#8221;</strong>, escribió.</p>\n<p><strong>&#8220;Me voy contento porque salgo en un buen momento del programa. </strong>Creo que los lindos proyectos deben terminar arriba, con la preferencia de la gente y su cariño y no agotar con nuestra presencia, espero que se haya logrado&#8221;, agregó.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/05/13/pedro-ruminot-recuerda-con-carino-a-la-fallecida-madre-de-sergio-freire-era-una-persona-excepcional.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/05/13/pedro-ruminot-recuerda-con-carino-a-la-fallecida-madre-de-sergio-freire-era-una-persona-excepcional.shtml\">Pedro Ruminot recuerda con cariño a la fallecida madre de Sergio Freire: \"Era una persona excepcional\"</a>\n\t\t<span style=\"display: none;\">Miércoles 13 Mayo, 2026 | 18:35</span>\n\t</div>\n</div>\n<p>&#8220;Quiero dedicarme en profundidad a mi carrera de comediante y también tener el tiempo que requieren mi esposa y mis cuatro hijos, no quiero perder ni un segundo de su crecimiento y quiero estar presente siempre. <strong>Asimismo debo recuperar mi salud que no está pasando por un buen momento y es necesario parar un poco&#8221;</strong>, añadió sobre los motivos del alejamiento. </p>\n<p>&#8220;Agradezco enormemente la amistad, la paciencia y la generosidad de @franciscosaavedr y @zabaletachile  todos estos años, donde descubrí otras formas de trabajo, nuevas maneras de llegar a otros públicos y lograr madurar en muchos aspectos. Ellos confiaron a ciegas en mi talento para poder crear programas que han llegado al corazón de los chilenos, y logramos que nos abrieran las puertas de su hogar y ese es para mi el mejor pago que he tenido en la vida; el cariño de los chilenos&#8221;, se lee en el mensaje.</p>\n<p>&#8220;Estaré siempre agradecido de sus consejos tanto profesionales como humanos y serán siempre parte de los más lindos recuerdos que me llevaré; viajes, momentos únicos y risas interminables. <strong>Éxito en todos los futuros proyectos de los dos&#8221;</strong>, añadió Ruminot.</p>\n<blockquote class=\"instagram-media\">\n<div style=\"padding: 16px;\"> <a href=\"https://www.instagram.com/p/DfN7Z8gljA6/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"line-height: 0; padding: 0 0; text-align: center; text-decoration: none; width: 100%;\" target=\"_blank\"> </p>\n<div style=\"display: flex;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 40px; margin-right: 14px; width: 40px;\"></div>\n<div style=\"display: flex;\">\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 100px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 60px;\"></div>\n</div>\n</div>\n<div style=\"padding: 19% 0;\"></div>\n<div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"></div>\n<div style=\"padding-top: 8px;\">\n<div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">Ver esta publicación en Instagram</div>\n</div>\n<div style=\"padding: 12.5% 0;\"></div>\n<div style=\"display: flex; margin-bottom: 14px;\">\n<div>\n<div></div>\n<div></div>\n<div></div>\n</div>\n<div style=\"margin-left: 8px;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 20px; width: 20px;\"></div>\n<div></div>\n</div>\n<div style=\"margin-left: auto;\">\n<div></div>\n<div></div>\n<div></div>\n</div>\n</div>\n<div style=\"display: flex; margin-bottom: 24px;\">\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 224px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 144px;\"></div>\n</div>\n<p></a></p>\n<p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; white-space: nowrap;\"><a href=\"https://www.instagram.com/p/DfN7Z8gljA6/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\">Una publicación compartida por Pedro Ruminot (@pedroruminot)</a></p>\n</div>\n</blockquote>\n<p></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/02/debo-recuperar-mi-salud-socios-por-chile-deja-ir-a-uno-sus-integrantes-tras-fin-de-temporada.shtml\" rel=\"nofollow\">&quot;Debo recuperar mi salud&quot;: ’Socios por Chile’ deja ir a uno de sus integrantes tras fin de temporada</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=7003609",
-      "link": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml",
+      "id": "https://www.biobiochile.cl/?p=7004030",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/02/debo-recuperar-mi-salud-socios-por-chile-deja-ir-a-uno-sus-integrantes-tras-fin-de-temporada.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml"
+          "href": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/02/debo-recuperar-mi-salud-socios-por-chile-deja-ir-a-uno-sus-integrantes-tras-fin-de-temporada.shtml"
         }
       ],
-      "published": "Sun, 01 Nov 2026 04:04:14 +0000",
+      "published": "Mon, 02 Nov 2026 03:47:15 +0000",
       "published_parsed": [
         2026,
         11,
-        1,
-        4,
-        4,
-        14,
-        6,
-        305,
+        2,
+        3,
+        47,
+        15,
+        0,
+        306,
         0
       ],
-      "summary": "<p>Una pelea masiva entre diputados quedó registrada en video dentro del Parlamento de Armenia, en medio de la polémica por un supuesto &#8220;Ministerio del Sexo&#8221;. Según informa el diario británico The Sun, ocurrió el jueves y fue la tercera riña en pocos días. Las imágenes muestran a legisladores lanzando golpes y sillas. Uno vacía un &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml\" rel=\"nofollow\">Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>&#8216;Socios por Chile&#8217; confirmó la salida de uno de sus integrantes tras el cierre de la temporada 2026 en Canal 13. Se trata de Pedro Ruminot, quien mediante su perfil en Instagram dio a conocer la decisión: &#8220;Quiero contarles que después de 6 años en los Socios, dejo el proyecto&#8221;, escribió. &#8220;Me voy contento porque &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/02/debo-recuperar-mi-salud-socios-por-chile-deja-ir-a-uno-sus-integrantes-tras-fin-de-temporada.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"\"Debo recuperar mi salud\": ’Socios por Chile’ deja ir a uno de sus integrantes tras fin de temporada\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/02/debo-recuperar-mi-salud-socios-por-chile-deja-ir-a-uno-sus-integrantes-tras-fin-de-temporada.shtml\" rel=\"nofollow\">&quot;Debo recuperar mi salud&quot;: ’Socios por Chile’ deja ir a uno de sus integrantes tras fin de temporada</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Una pelea masiva entre diputados quedó registrada en video dentro del Parlamento de Armenia, en medio de la polémica por un supuesto &#8220;Ministerio del Sexo&#8221;. Según informa el diario británico The Sun, ocurrió el jueves y fue la tercera riña en pocos días. Las imágenes muestran a legisladores lanzando golpes y sillas. Uno vacía un &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/11/01/brutal-pelea-en-parlamento-armenio-por-propuesta-de-ministerio-para-satisfacer-sexualmente-a-mujeres.shtml\" rel=\"nofollow\">Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>&#8216;Socios por Chile&#8217; confirmó la salida de uno de sus integrantes tras el cierre de la temporada 2026 en Canal 13. Se trata de Pedro Ruminot, quien mediante su perfil en Instagram dio a conocer la decisión: &#8220;Quiero contarles que después de 6 años en los Socios, dejo el proyecto&#8221;, escribió. &#8220;Me voy contento porque &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/02/debo-recuperar-mi-salud-socios-por-chile-deja-ir-a-uno-sus-integrantes-tras-fin-de-temporada.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"\"Debo recuperar mi salud\": ’Socios por Chile’ deja ir a uno de sus integrantes tras fin de temporada\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/02/debo-recuperar-mi-salud-socios-por-chile-deja-ir-a-uno-sus-integrantes-tras-fin-de-temporada.shtml\" rel=\"nofollow\">&quot;Debo recuperar mi salud&quot;: ’Socios por Chile’ deja ir a uno de sus integrantes tras fin de temporada</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Curiosidades",
+          "term": "TV",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Armenia",
+          "term": "Canal 13",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Armenia Fuerte",
+          "term": "Carrera de comediante",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Claude (Anthropic)",
+          "term": "comedia chilena",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Contrato Civil",
+          "term": "Espectáculos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "corrupción política",
+          "term": "Familia de Pedro Ruminot",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Diputados armenios",
+          "term": "Fin de Temporada",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Ministerio del Sexo",
+          "term": "Francisco Saavedra",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Narek Karapetyan",
+          "term": "Jorge Zabaleta",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Nikol Pashinyan",
+          "term": "Pedro Ruminot",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Parlamento de Armenia",
+          "term": "programas de televisión",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Política Internacional",
+          "term": "Salida de Pedro Ruminot",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Riña parlamentaria",
+          "term": "Salud de Pedro Ruminot",
           "scheme": null,
           "label": null
         },
@@ -440,27 +440,27 @@
           "label": null
         },
         {
-          "term": "Taron Chakhoyan",
+          "term": "Socios por Chile",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Vahagn Aleksanyan",
+          "term": "televisión",
           "scheme": null,
           "label": null
         },
         {
-          "term": "violencia política",
+          "term": "televisión chilena",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres",
+      "title": "\"Debo recuperar mi salud\": ’Socios por Chile’ deja ir a uno de sus integrantes tras fin de temporada",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Brutal pelea en parlamento armenio por propuesta de ministerio para satisfacer sexualmente a mujeres"
+        "value": "\"Debo recuperar mi salud\": ’Socios por Chile’ deja ir a uno de sus integrantes tras fin de temporada"
       }
     }
   }
