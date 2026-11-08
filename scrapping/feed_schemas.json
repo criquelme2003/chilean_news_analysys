@@ -20,43 +20,43 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Marcelo Silva",
+      "author": "Carolina Mardones L.",
       "author_detail": {
-        "name": "Marcelo Silva"
+        "name": "Carolina Mardones L."
       },
       "authors": [
         {
-          "name": "Marcelo Silva"
+          "name": "Carolina Mardones L."
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1819297",
-      "link": "https://www.theclinic.cl/2026/11/06/uno-tiene-que-retroceder-cuando-se-equivoca-poduje-da-marcha-atras-y-descarta-dos-polemicas-exigencias-para-ciclistas-en-el-cerro-san-cristobal/",
+      "id": "https://www.theclinic.cl/?p=1819375",
+      "link": "https://www.theclinic.cl/2026/11/07/12-fallecidos-y-menores-de-edad-entre-los-lesionados-que-se-sabe-de-la-colision-multiple-en-la-ruta-de-la-fruta/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/11/06/uno-tiene-que-retroceder-cuando-se-equivoca-poduje-da-marcha-atras-y-descarta-dos-polemicas-exigencias-para-ciclistas-en-el-cerro-san-cristobal/"
+          "href": "https://www.theclinic.cl/2026/11/07/12-fallecidos-y-menores-de-edad-entre-los-lesionados-que-se-sabe-de-la-colision-multiple-en-la-ruta-de-la-fruta/"
         }
       ],
-      "published": "Sat, 07 Nov 2026 01:28:52 +0000",
+      "published": "Sat, 07 Nov 2026 19:14:08 +0000",
       "published_parsed": [
         2026,
         11,
         7,
-        1,
-        28,
-        52,
+        19,
+        14,
+        8,
         5,
         311,
         0
       ],
-      "summary": "<p>El chaleco amarillo para los pedaleros que ingresen al parque metropolitano ya no van, así como tampoco el empadronamiento. Esto último solo se mantendrá para quienes practiquen enduro. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/06/uno-tiene-que-retroceder-cuando-se-equivoca-poduje-da-marcha-atras-y-descarta-dos-polemicas-exigencias-para-ciclistas-en-el-cerro-san-cristobal/\">“Uno tiene que retroceder cuando se equivoca&#8221;: Poduje da marcha atrás y descarta dos polémicas exigencias para ciclistas en el Cerro San Cristóbal </a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>Las autoridades regionales informaron que todas las personas fallecidas son mayores de edad mientras que entre los heridos hay dos niños de 11 y 3 años. Se espera que la SIAT confirme las causas del accidente. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/07/12-fallecidos-y-menores-de-edad-entre-los-lesionados-que-se-sabe-de-la-colision-multiple-en-la-ruta-de-la-fruta/\">11 fallecidos y menores de edad entre los lesionados: qué se sabe de la colisión múltiple en la &#8220;Ruta de la Fruta&#8221;</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El chaleco amarillo para los pedaleros que ingresen al parque metropolitano ya no van, así como tampoco el empadronamiento. Esto último solo se mantendrá para quienes practiquen enduro. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/06/uno-tiene-que-retroceder-cuando-se-equivoca-poduje-da-marcha-atras-y-descarta-dos-polemicas-exigencias-para-ciclistas-en-el-cerro-san-cristobal/\">“Uno tiene que retroceder cuando se equivoca&#8221;: Poduje da marcha atrás y descarta dos polémicas exigencias para ciclistas en el Cerro San Cristóbal </a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>Las autoridades regionales informaron que todas las personas fallecidas son mayores de edad mientras que entre los heridos hay dos niños de 11 y 3 años. Se espera que la SIAT confirme las causas del accidente. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/07/12-fallecidos-y-menores-de-edad-entre-los-lesionados-que-se-sabe-de-la-colision-multiple-en-la-ruta-de-la-fruta/\">11 fallecidos y menores de edad entre los lesionados: qué se sabe de la colisión múltiple en la &#8220;Ruta de la Fruta&#8221;</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
@@ -65,12 +65,12 @@
           "label": null
         }
       ],
-      "title": "“Uno tiene que retroceder cuando se equivoca”: Poduje da marcha atrás y descarta dos polémicas exigencias para ciclistas en el Cerro San Cristóbal",
+      "title": "11 fallecidos y menores de edad entre los lesionados: qué se sabe de la colisión múltiple en la “Ruta de la Fruta”",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "“Uno tiene que retroceder cuando se equivoca”: Poduje da marcha atrás y descarta dos polémicas exigencias para ciclistas en el Cerro San Cristóbal"
+        "value": "11 fallecidos y menores de edad entre los lesionados: qué se sabe de la colisión múltiple en la “Ruta de la Fruta”"
       }
     }
   },
@@ -218,41 +218,41 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261106",
-      "df_fechapl": "Viernes 6 de noviembre de 2026",
+      "df_fechap": "20261107",
+      "df_fechapl": "Sábado 7 de noviembre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261106/imag/foto_0000000420261106224751/daza.jpg",
-      "df_horap": "22:49",
+      "df_foto600": "/noticias/site/artic/20261107/imag/foto_0000000420261107154142/IMG_7841.jpg",
+      "df_horap": "21:00",
       "df_tagnames": "",
-      "df_ts": "20261106224751",
+      "df_ts": "20261107154142",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261106/pags/20261106224751.html",
-      "link": "http://www.df.cl/df-mas/coffee-break/la-comitiva-de-la-udd-que-viajo-a-buenos-aires-a-reunirse-con-daza-y",
+      "id": "http://www.df.cl/noticias/site/artic/20261107/pags/20261107154142.html",
+      "link": "http://www.df.cl/df-mas/personaje/gonzalo-maza-despide-a-lelio-sebastian-era-insoportablemente-perfecto",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/df-mas/coffee-break/la-comitiva-de-la-udd-que-viajo-a-buenos-aires-a-reunirse-con-daza-y"
+          "href": "http://www.df.cl/df-mas/personaje/gonzalo-maza-despide-a-lelio-sebastian-era-insoportablemente-perfecto"
         }
       ],
-      "published": "Sat, 07 Nov 2026 01:49:46 GMT",
+      "published": "Sat, 07 Nov 2026 19:00:08 GMT",
       "published_parsed": [
         2026,
         11,
         7,
-        1,
-        49,
-        46,
+        19,
+        0,
+        8,
         5,
         311,
         0
       ],
-      "summary": "Economistas, abogados, empresarios y periodistas sub 40 participan en la segunda Cumbre 2040 de Faro UDD, el centro de estudios de la Universidad del Desarrollo.",
+      "summary": "Se conocieron en 2005, cuando el cineasta lo invitó a ver un corte de “La Sagrada Familia”. Se hicieron amigos y “por los siguientes diez años fuimos inseparables”, recuerda Maza. Escribieron juntos “Una mujer fantástica”. Frente a la muerte de Sebastián Lelio este viernes, el guionista radicado en Londres escribe estas palabras.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "Economistas, abogados, empresarios y periodistas sub 40 participan en la segunda Cumbre 2040 de Faro UDD, el centro de estudios de la Universidad del Desarrollo."
+        "value": "Se conocieron en 2005, cuando el cineasta lo invitó a ver un corte de “La Sagrada Familia”. Se hicieron amigos y “por los siguientes diez años fuimos inseparables”, recuerda Maza. Escribieron juntos “Una mujer fantástica”. Frente a la muerte de Sebastián Lelio este viernes, el guionista radicado en Londres escribe estas palabras."
       },
       "tags": [
         {
@@ -261,12 +261,12 @@
           "label": null
         }
       ],
-      "title": "La comitiva de la UDD que viajó a Buenos Aires a reunirse con Daza y Bullrich",
+      "title": "Gonzalo Maza despide a Lelio: “Sebastián era insoportablemente perfecto”",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "La comitiva de la UDD que viajó a Buenos Aires a reunirse con Daza y Bullrich"
+        "value": "Gonzalo Maza despide a Lelio: “Sebastián era insoportablemente perfecto”"
       }
     }
   },
@@ -292,13 +292,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Vivian Cheuquiante",
+      "author": "Constanza Bello Caipillán",
       "author_detail": {
-        "name": "Vivian Cheuquiante"
+        "name": "Constanza Bello Caipillán"
       },
       "authors": [
         {
-          "name": "Vivian Cheuquiante"
+          "name": "Constanza Bello Caipillán"
         }
       ],
       "content": [
@@ -306,126 +306,61 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>La porfía de Kast ya incomoda a todos. La indiferencia de Rabat, molesta a varios. Porque los costos no solo lo pagan ellos sino todos los que los acompañan y deben defender algo en que no creen. La inmolación es personal, no colectiva. Lo otro es propio de sectas. Está malo el ambiente.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/biobiotv/opinion/comentarios/2026/11/07/kast-y-rabat-hasta-que-la-muerte-los-separe.shtml\" rel=\"nofollow\">Kast y Rabat: ¿hasta que la muerte los separe?</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>Aunque la meta cada vez se veía más lejana, la Teletón 2026 no defraudó y una vez más logró la recaudación que se impusieron.</p>\n<p>Así, a solo minutos del cierre de la campaña televisada, incluso pudieron superar el monto de $44.253.268.546 pesos de este año.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/08/teleton-supero-la-meta-tras-una-angustiante-campana-sobrepasaron-los-44-mil-millones-de-pesos.shtml\" rel=\"nofollow\">Teletón superó la meta: tras una angustiante campaña sobrepasaron los 44 mil millones de pesos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=7010911",
-      "link": "https://www.biobiochile.cl/biobiotv/opinion/comentarios/2026/11/07/kast-y-rabat-hasta-que-la-muerte-los-separe.shtml",
+      "id": "https://www.biobiochile.cl/?p=7011523",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/08/teleton-supero-la-meta-tras-una-angustiante-campana-sobrepasaron-los-44-mil-millones-de-pesos.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/biobiotv/opinion/comentarios/2026/11/07/kast-y-rabat-hasta-que-la-muerte-los-separe.shtml"
+          "href": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/08/teleton-supero-la-meta-tras-una-angustiante-campana-sobrepasaron-los-44-mil-millones-de-pesos.shtml"
         }
       ],
-      "published": "Sat, 07 Nov 2026 04:42:23 +0000",
+      "published": "Sun, 08 Nov 2026 04:45:05 +0000",
       "published_parsed": [
         2026,
         11,
-        7,
+        8,
         4,
-        42,
-        23,
+        45,
         5,
-        311,
+        6,
+        312,
         0
       ],
-      "summary": "<p>La porfía de Kast ya incomoda a todos. La indiferencia de Rabat, molesta a varios. Porque los costos no solo lo pagan ellos sino todos los que los acompañan y deben defender algo en que no creen. La inmolación es personal, no colectiva. Lo otro es propio de sectas. Está malo el ambiente.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/biobiotv/opinion/comentarios/2026/11/07/kast-y-rabat-hasta-que-la-muerte-los-separe.shtml\" rel=\"nofollow\">Kast y Rabat: ¿hasta que la muerte los separe?</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>Aunque la meta cada vez se veía más lejana, la Teletón 2026 no defraudó y una vez más logró la recaudación que se impusieron. Así, a solo minutos del cierre de la campaña televisada, incluso pudieron superar el monto de $44.253.268.546 pesos de este año.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/08/teleton-supero-la-meta-tras-una-angustiante-campana-sobrepasaron-los-44-mil-millones-de-pesos.shtml\" rel=\"nofollow\">Teletón superó la meta: tras una angustiante campaña sobrepasaron los 44 mil millones de pesos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La porfía de Kast ya incomoda a todos. La indiferencia de Rabat, molesta a varios. Porque los costos no solo lo pagan ellos sino todos los que los acompañan y deben defender algo en que no creen. La inmolación es personal, no colectiva. Lo otro es propio de sectas. Está malo el ambiente.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/biobiotv/opinion/comentarios/2026/11/07/kast-y-rabat-hasta-que-la-muerte-los-separe.shtml\" rel=\"nofollow\">Kast y Rabat: ¿hasta que la muerte los separe?</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>Aunque la meta cada vez se veía más lejana, la Teletón 2026 no defraudó y una vez más logró la recaudación que se impusieron. Así, a solo minutos del cierre de la campaña televisada, incluso pudieron superar el monto de $44.253.268.546 pesos de este año.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/08/teleton-supero-la-meta-tras-una-angustiante-campana-sobrepasaron-los-44-mil-millones-de-pesos.shtml\" rel=\"nofollow\">Teletón superó la meta: tras una angustiante campaña sobrepasaron los 44 mil millones de pesos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Comentarios",
+          "term": "TV",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Acusación Constitucional",
+          "term": "seleccion-tendencias",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Aprobación Presidencial",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "cambio de gabinete",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Codelco",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Crisis de Gobierno",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Crisis Política",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "economía chilena",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Empresas Estatales",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Encuesta Cadem",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Fernando Rabat",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Gobierno de Chile",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "José Antonio Kast",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Ministerio de Justicia",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Producción de Cobre",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "rebaja de penas",
+          "term": "Teletón 2026",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Kast y Rabat: ¿hasta que la muerte los separe?",
+      "title": "Teletón superó la meta: tras una angustiante campaña sobrepasaron los 44 mil millones de pesos",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Kast y Rabat: ¿hasta que la muerte los separe?"
+        "value": "Teletón superó la meta: tras una angustiante campaña sobrepasaron los 44 mil millones de pesos"
       }
     }
   }
