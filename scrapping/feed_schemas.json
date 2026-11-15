@@ -20,57 +20,67 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Marcelo Silva",
+      "author": "The Clinic",
       "author_detail": {
-        "name": "Marcelo Silva"
+        "name": "The Clinic"
       },
       "authors": [
         {
-          "name": "Marcelo Silva"
+          "name": "The Clinic"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1822099",
-      "link": "https://www.theclinic.cl/2026/11/13/meteorito-o-chatarra-espacial-caida-de-objeto-desde-el-cielo-provoca-estruendo-en-el-nuble-y-biobio/",
+      "id": "https://www.theclinic.cl/?p=1822207",
+      "link": "https://www.theclinic.cl/2026/11/14/la-crisis-sin-fin-en-el-ministerio-de-ciencia-subsecretaria-rossi-acusa-despidos-sin-su-autorizacion-y-cuestiona-actuar-de-ministra-lincolao/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/11/13/meteorito-o-chatarra-espacial-caida-de-objeto-desde-el-cielo-provoca-estruendo-en-el-nuble-y-biobio/"
+          "href": "https://www.theclinic.cl/2026/11/14/la-crisis-sin-fin-en-el-ministerio-de-ciencia-subsecretaria-rossi-acusa-despidos-sin-su-autorizacion-y-cuestiona-actuar-de-ministra-lincolao/"
         }
       ],
-      "published": "Sat, 14 Nov 2026 01:42:24 +0000",
+      "published": "Sat, 14 Nov 2026 20:42:20 +0000",
       "published_parsed": [
         2026,
         11,
         14,
-        1,
+        20,
         42,
-        24,
+        20,
         5,
         318,
         0
       ],
-      "summary": "<p>El origen de este anormal hecho están siendo investigados por científicos y autoridades nacionales. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/13/meteorito-o-chatarra-espacial-caida-de-objeto-desde-el-cielo-provoca-estruendo-en-el-nuble-y-biobio/\">¿Meteorito o chatarra espacial?: Caída de objeto desde el cielo provoca estruendo en el Ñuble y Biobío</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>La ministra Ximena Lincolao habría ordenado nuevas desvinculaciones mientras permanece en Estados Unidos, sin informar previamente a Carolina Rossi, quien actualmente la subroga. La subsecretaria expresó su molestia mediante un correo interno, en el que calificó el procedimiento como “poco ético”. El episodio profundiza una disputa que ya había obligado a intervenir a La Moneda.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/14/la-crisis-sin-fin-en-el-ministerio-de-ciencia-subsecretaria-rossi-acusa-despidos-sin-su-autorizacion-y-cuestiona-actuar-de-ministra-lincolao/\">La crisis sin fin en el Ministerio de Ciencia: subsecretaria Rossi acusa despidos sin su autorización y cuestiona actuar de ministra Lincolao</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El origen de este anormal hecho están siendo investigados por científicos y autoridades nacionales. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/13/meteorito-o-chatarra-espacial-caida-de-objeto-desde-el-cielo-provoca-estruendo-en-el-nuble-y-biobio/\">¿Meteorito o chatarra espacial?: Caída de objeto desde el cielo provoca estruendo en el Ñuble y Biobío</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>La ministra Ximena Lincolao habría ordenado nuevas desvinculaciones mientras permanece en Estados Unidos, sin informar previamente a Carolina Rossi, quien actualmente la subroga. La subsecretaria expresó su molestia mediante un correo interno, en el que calificó el procedimiento como “poco ético”. El episodio profundiza una disputa que ya había obligado a intervenir a La Moneda.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/14/la-crisis-sin-fin-en-el-ministerio-de-ciencia-subsecretaria-rossi-acusa-despidos-sin-su-autorizacion-y-cuestiona-actuar-de-ministra-lincolao/\">La crisis sin fin en el Ministerio de Ciencia: subsecretaria Rossi acusa despidos sin su autorización y cuestiona actuar de ministra Lincolao</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Ciudad",
+          "term": "Política",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "ciencia",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Lincolao",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "¿Meteorito o chatarra espacial?: Caída de objeto desde el cielo provoca estruendo en el Ñuble y Biobío",
+      "title": "La crisis sin fin en el Ministerio de Ciencia: subsecretaria Rossi acusa despidos sin su autorización y cuestiona actuar de ministra Lincolao",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "¿Meteorito o chatarra espacial?: Caída de objeto desde el cielo provoca estruendo en el Ñuble y Biobío"
+        "value": "La crisis sin fin en el Ministerio de Ciencia: subsecretaria Rossi acusa despidos sin su autorización y cuestiona actuar de ministra Lincolao"
       }
     }
   },
@@ -238,55 +248,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261113",
-      "df_fechapl": "Viernes 13 de noviembre de 2026",
+      "df_fechap": "20261114",
+      "df_fechapl": "Sábado 14 de noviembre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20260605/imag/foto_0000000120260605202959/WhatsApp_Image_2026-05-08_at_6.53.04_PM.jpeg",
-      "df_horap": "20:50",
-      "df_tagnames": "Bolsa chilena,Wall Street,Francisco Noguera",
-      "df_ts": "20260605202959",
+      "df_foto600": "/noticias/site/artic/20261113/imag/foto_0000000320261113213636/30.jpg",
+      "df_horap": "21:00",
+      "df_tagnames": "Patricio De la Paz",
+      "df_ts": "20261113213636",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20260605/pags/20260605202959.html",
-      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
+      "id": "http://www.df.cl/noticias/site/artic/20261113/pags/20261113213636.html",
+      "link": "http://www.df.cl/df-mas/personaje/jorge-said-y-las-memorias-de-un-reportero-de-guerra-yo-de-alguna-manera",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0"
+          "href": "http://www.df.cl/df-mas/personaje/jorge-said-y-las-memorias-de-un-reportero-de-guerra-yo-de-alguna-manera"
         }
       ],
-      "published": "Sat, 14 Nov 2026 00:30:26 GMT",
+      "published": "Sat, 14 Nov 2026 00:55:38 GMT",
       "published_parsed": [
         2026,
         11,
         14,
         0,
-        30,
-        26,
+        55,
+        38,
         5,
         318,
         0
       ],
-      "summary": "Una radiografía semanal de los mercados globales: índices, volatilidad y acciones que marcaron los últimos cinco días de operaciones.",
+      "summary": "El periodista, fotógrafo y documentalista lleva cubriendo conflictos desde 2011. Sus series y documentales se han exhibido en canales como BBC o History Channel. Recién presentó su primer libro, Mis heridas de la guerra, donde cuenta varios de estos viajes en medio del horror y el sufrimiento: Siria, Irak, El Líbano, Ucrania, entre ellos. ¿Qué se hace con el miedo? ¿qué marcas deja trabajar tantos años con la violencia alrededor? ¿por qué insistir en volver una y otra vez? Said responde esas y otras preguntas en el siguiente testimonial.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "Una radiografía semanal de los mercados globales: índices, volatilidad y acciones que marcaron los últimos cinco días de operaciones."
+        "value": "El periodista, fotógrafo y documentalista lleva cubriendo conflictos desde 2011. Sus series y documentales se han exhibido en canales como BBC o History Channel. Recién presentó su primer libro, Mis heridas de la guerra, donde cuenta varios de estos viajes en medio del horror y el sufrimiento: Siria, Irak, El Líbano, Ucrania, entre ellos. ¿Qué se hace con el miedo? ¿qué marcas deja trabajar tantos años con la violencia alrededor? ¿por qué insistir en volver una y otra vez? Said responde esas y otras preguntas en el siguiente testimonial."
       },
       "tags": [
         {
-          "term": "Señal DF",
+          "term": "DF MAS",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Mercados: la semana en datos",
+      "title": "Jorge Said y las memorias de un reportero de guerra: \"Yo, de alguna manera, estoy esperando la muerte”",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Mercados: la semana en datos"
+        "value": "Jorge Said y las memorias de un reportero de guerra: \"Yo, de alguna manera, estoy esperando la muerte”"
       }
     }
   },
@@ -312,13 +322,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Jean Valencia",
+      "author": "Lindy Sandoval",
       "author_detail": {
-        "name": "Jean Valencia"
+        "name": "Lindy Sandoval"
       },
       "authors": [
         {
-          "name": "Jean Valencia"
+          "name": "Lindy Sandoval"
         }
       ],
       "content": [
@@ -326,131 +336,121 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>La <span class=\"destacador\">Casa Blanca y el Departamento de Transporte de Estados Unidos (EEUU) reclamaron este viernes al Congreso otros 30.000 millones de dólares para modernizar la infraestructura aeroportuaria y los sistemas de control del tráfico aéreo</span>, después de que un <strong>fallo en las comunicaciones obligara a suspender durante cuatro horas los despegues en todo el país</strong>.</p>\n<p>El secretario de Transporte, Sean Duffy, explicó que una sobrecarga de datos en los sistemas de telecomunicaciones de la Administración Federal de Aviación (FAA) provocó inconsistencias en la información transmitida por los enrutadores, lo que llevó a las autoridades a apagar la red como medida preventiva.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/13/falla-aerea-alcanza-a-chile-aeropuerto-de-santiago-confirma-suspension-de-algunos-vuelos-hacia-eeuu.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/13/falla-aerea-alcanza-a-chile-aeropuerto-de-santiago-confirma-suspension-de-algunos-vuelos-hacia-eeuu.shtml\">Falla aérea alcanza a Chile: Aeropuerto de Santiago confirma suspensión de tres vuelos hacia EEUU</a>\n\t\t<span style=\"display: none;\">Viernes 13 Noviembre, 2026 | 20:24</span>\n\t</div>\n</div>\n<p>Duffy defendió la necesidad de acelerar la renovación tecnológica y advirtió de que los equipos actuales seguirán fallando si no se sustituyen. &#8220;No puedo construir cosas si no tengo dinero&#8221;, afirmó durante una comparecencia en la Casa Blanca, en la que llegó a reclamar hasta 50.000 millones de dólares para estas mejoras.</p>\n<p>La solicitud oficial, presentada por Duffy y el director de la Oficina de Administración y Presupuesto, Russell Vought, contempla 10.100 millones de dólares para modernizar los sistemas de control aéreo, otros 2.000 millones para renovar o sustituir torres de control y 18.000 millones para proyectos de infraestructura aeroportuaria, incluidos 10.000 millones para terminales.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/13/suspension-de-despegues-en-eeuu-provoca-mas-de-10-000-retrasos-y-1-700-cancelaciones.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/13/suspension-de-despegues-en-eeuu-provoca-mas-de-10-000-retrasos-y-1-700-cancelaciones.shtml\">Suspensión de despegues en EEUU provoca más de 10.000 retrasos y 1.700 cancelaciones</a>\n\t\t<span style=\"display: none;\">Viernes 13 Noviembre, 2026 | 21:37</span>\n\t</div>\n</div>\n<p>El Congreso ya había aprobado en julio de 2025 una partida de 12.500 millones de dólares para iniciar la renovación de los sistemas de la FAA.</p>\n<p>Sin embargo, la Oficina de Responsabilidad Gubernamental (GAO), órgano de supervisión legislativa, advirtió en septiembre de que la agencia todavía carecía de una estimación completa de los costes y de un calendario integrado para ejecutar el proyecto, lo que aumenta el riesgo de sobrecostes y retrasos.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/13/falla-aerea-alcanza-a-chile-aeropuerto-de-santiago-confirma-suspension-de-algunos-vuelos-hacia-eeuu.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/13/falla-aerea-alcanza-a-chile-aeropuerto-de-santiago-confirma-suspension-de-algunos-vuelos-hacia-eeuu.shtml\">Falla aérea alcanza a Chile: Aeropuerto de Santiago confirma suspensión de tres vuelos hacia EEUU</a>\n\t\t<span style=\"display: none;\">Viernes 13 Noviembre, 2026 | 20:24</span>\n\t</div>\n</div>\n<p>La suspensión provocó más de 10.000 retrasos y al menos 1.479 cancelaciones de vuelos en todo el país, según los registros de FlightAware.</p>\n<p>Aunque la FAA levantó la restricción a las 20:15 hora local (01:15 GMT del sábado), la acumulación de incidencias y el desplazamiento de aeronaves y tripulaciones anticipaban nuevas alteraciones durante la noche y el fin de semana.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/13/falla-de-comunicaciones-suspende-vuelos-en-eeuu-autoridades-descartan-ataque-terrorista-y-ciberataque.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/13/falla-de-comunicaciones-suspende-vuelos-en-eeuu-autoridades-descartan-ataque-terrorista-y-ciberataque.shtml\">Falla de comunicaciones suspende vuelos en EEUU: autoridades descartan ataque terrorista y ciberataque</a>\n\t\t<span style=\"display: none;\">Viernes 13 Noviembre, 2026 | 19:57</span>\n\t</div>\n</div>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/14/gobierno-de-eeuu-pide-us30-000-millones-para-modernizar-sistemas-de-control-aereo-tras-caos-en-vuelos.shtml\" rel=\"nofollow\">Gobierno de EEUU pide US&#036;30.000 millones para modernizar sistemas de control aéreo tras caos en vuelos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p><strong>El presidente José Antonio Kast aterrizó en Hanói, Vietnam, en la primera escala de su gira por Asia</strong>, que se extenderá hasta el 22 de noviembre e incluirá su participación en la cumbre de la APEC en Shenzhen, China.</p>\n<p>El mandatario llegó al aeropuerto de Nội Bài a bordo de un avión de la Fuerza Aérea de Chile, acompañado por parlamentarios, integrantes de su gabinete y representantes del empresariado. En el terminal fue recibido con honores por autoridades vietnamitas y representantes diplomáticos.</p>\n<p>Según informó desde Hanói la enviada especial de Radio Bío Bío, María José de la Barra, Kast no tiene actividades oficiales programadas para esta jornada, tras el extenso vuelo que comenzó el viernes por la noche.</p>\n<p><strong>Su agenda se iniciará el lunes con encuentros con autoridades locales, entre ellas el presidente de Vietnam, Tô Lâm</strong>. La visita a ese país se prolongará hasta el 17 de noviembre, antes del traslado de la comitiva a China.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/13/alcaldesa-de-valparaiso-camila-nieto-viajara-a-asia-y-participara-de-gira-del-presidente-kast.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/13/alcaldesa-de-valparaiso-camila-nieto-viajara-a-asia-y-participara-de-gira-del-presidente-kast.shtml\">Alcaldesa de Valparaíso, Camila Nieto, viajará a Asia y participará de gira del presidente Kast</a>\n\t\t<span style=\"display: none;\">Viernes 13 Noviembre, 2026 | 08:01</span>\n\t</div>\n</div>\n<h2>Candidatura de Valparaíso marcará agenda en APEC</h2>\n<p><strong>Uno de los objetivos de la gira será promover la candidatura de Valparaíso para albergar la Secretaría del Tratado de Alta Mar</strong>, en el marco de la propuesta conjunta de Chile y Bélgica, que involucra a la ciudad puerto y Bruselas.</p>\n<p>La alcaldesa de Valparaíso, <strong>Camila Nieto</strong>, también integra la delegación. La candidatura será abordada en medio de los reparos expresados por China al acuerdo entre ambos países.</p>\n<p>De acuerdo con lo reportado por la enviada especial, la posición chilena apunta a destacar que el país manifestó su intención de ser sede desde 2023 y ha seguido los pasos correspondientes para impulsar su postulación.</p>\n<p>La participación en APEC será, además, una oportunidad para promover la propuesta antes de la votación prevista para enero en Nueva York, durante la primera Conferencia de las Partes del tratado.</p>\n<p>En paralelo, <strong>la cumbre estará marcada por la atención internacional sobre el encuentro trilateral previsto entre Donald Trump, Vladímir Putin y Xi Jinping</strong>, que reunirá a los mandatarios de Estados Unidos, Rusia y China.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml\" rel=\"nofollow\">Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=7019247",
-      "link": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/14/gobierno-de-eeuu-pide-us30-000-millones-para-modernizar-sistemas-de-control-aereo-tras-caos-en-vuelos.shtml",
+      "id": "https://www.biobiochile.cl/?p=7019785",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/14/gobierno-de-eeuu-pide-us30-000-millones-para-modernizar-sistemas-de-control-aereo-tras-caos-en-vuelos.shtml"
+          "href": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml"
         }
       ],
-      "published": "Sat, 14 Nov 2026 03:03:23 +0000",
+      "published": "Sun, 15 Nov 2026 04:15:30 +0000",
       "published_parsed": [
         2026,
         11,
-        14,
-        3,
-        3,
-        23,
-        5,
-        318,
+        15,
+        4,
+        15,
+        30,
+        6,
+        319,
         0
       ],
-      "summary": "<p>La , después de que un fallo en las comunicaciones obligara a suspender durante cuatro horas los despegues en todo el país. El secretario de Transporte, Sean Duffy, explicó que una sobrecarga de datos en los sistemas de telecomunicaciones de la Administración Federal de Aviación (FAA) provocó inconsistencias en la información transmitida por los enrutadores, &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/14/gobierno-de-eeuu-pide-us30-000-millones-para-modernizar-sistemas-de-control-aereo-tras-caos-en-vuelos.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Gobierno de EEUU pide US&#36;30.000 millones para modernizar sistemas de control aéreo tras caos en vuelos\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/14/gobierno-de-eeuu-pide-us30-000-millones-para-modernizar-sistemas-de-control-aereo-tras-caos-en-vuelos.shtml\" rel=\"nofollow\">Gobierno de EEUU pide US&#036;30.000 millones para modernizar sistemas de control aéreo tras caos en vuelos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>El presidente José Antonio Kast aterrizó en Hanói, Vietnam, en la primera escala de su gira por Asia, que se extenderá hasta el 22 de noviembre e incluirá su participación en la cumbre de la APEC en Shenzhen, China. El mandatario llegó al aeropuerto de Nội Bài a bordo de un avión de la Fuerza &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml\" rel=\"nofollow\">Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La , después de que un fallo en las comunicaciones obligara a suspender durante cuatro horas los despegues en todo el país. El secretario de Transporte, Sean Duffy, explicó que una sobrecarga de datos en los sistemas de telecomunicaciones de la Administración Federal de Aviación (FAA) provocó inconsistencias en la información transmitida por los enrutadores, &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/14/gobierno-de-eeuu-pide-us30-000-millones-para-modernizar-sistemas-de-control-aereo-tras-caos-en-vuelos.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Gobierno de EEUU pide US&#36;30.000 millones para modernizar sistemas de control aéreo tras caos en vuelos\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/14/gobierno-de-eeuu-pide-us30-000-millones-para-modernizar-sistemas-de-control-aereo-tras-caos-en-vuelos.shtml\" rel=\"nofollow\">Gobierno de EEUU pide US&#036;30.000 millones para modernizar sistemas de control aéreo tras caos en vuelos</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>El presidente José Antonio Kast aterrizó en Hanói, Vietnam, en la primera escala de su gira por Asia, que se extenderá hasta el 22 de noviembre e incluirá su participación en la cumbre de la APEC en Shenzhen, China. El mandatario llegó al aeropuerto de Nội Bài a bordo de un avión de la Fuerza &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml\" rel=\"nofollow\">Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "EE.UU.",
+          "term": "Chile",
           "scheme": null,
           "label": null
         },
         {
-          "term": "aeropuertos",
+          "term": "APEC",
           "scheme": null,
           "label": null
         },
         {
-          "term": "cancelaciones de vuelos",
+          "term": "Camila Nieto",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Casa Blanca",
+          "term": "Candidatura de Valparaíso",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Congreso Estadounidense",
+          "term": "China",
           "scheme": null,
           "label": null
         },
         {
-          "term": "control del tráfico aéreo",
+          "term": "Cooperación Chile-Bélgica",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Departamento de Transporte",
+          "term": "Cumbre de líderes mundiales",
           "scheme": null,
           "label": null
         },
         {
-          "term": "EEUU",
+          "term": "gira por Asia",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Estados Unidos",
+          "term": "Hanoi",
           "scheme": null,
           "label": null
         },
         {
-          "term": "FAA",
+          "term": "José Antonio Kast",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Fallo de comunicaciones",
+          "term": "política exterior chilena",
           "scheme": null,
           "label": null
         },
         {
-          "term": "infraestructura aeroportuaria",
+          "term": "Relaciones Chile-Vietnam",
           "scheme": null,
           "label": null
         },
         {
-          "term": "modernización tecnológica",
+          "term": "Tratado de Alta Mar",
           "scheme": null,
           "label": null
         },
         {
-          "term": "retrasos de vuelos",
+          "term": "Valparaíso",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Seguridad Aérea",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Sistemas de Telecomunicaciones",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Transporte aéreo",
+          "term": "Vietnam",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Gobierno de EEUU pide US$30.000 millones para modernizar sistemas de control aéreo tras caos en vuelos",
+      "title": "Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Gobierno de EEUU pide US$30.000 millones para modernizar sistemas de control aéreo tras caos en vuelos"
+        "value": "Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades"
       }
     }
   }
