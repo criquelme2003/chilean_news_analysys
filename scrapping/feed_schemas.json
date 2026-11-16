@@ -20,67 +20,67 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "The Clinic",
+      "author": "Sebastián Palma",
       "author_detail": {
-        "name": "The Clinic"
+        "name": "Sebastián Palma"
       },
       "authors": [
         {
-          "name": "The Clinic"
+          "name": "Sebastián Palma"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1822207",
-      "link": "https://www.theclinic.cl/2026/11/14/la-crisis-sin-fin-en-el-ministerio-de-ciencia-subsecretaria-rossi-acusa-despidos-sin-su-autorizacion-y-cuestiona-actuar-de-ministra-lincolao/",
+      "id": "https://www.theclinic.cl/?p=1822264",
+      "link": "https://www.theclinic.cl/2026/11/15/de-actuar-en-una-pelicula-para-adultos-a-vender-a-su-perro-butkus-por-40-dolares-los-anos-de-pobreza-de-stallone-que-revive-el-estreno-de-yo-soy-rocky/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/11/14/la-crisis-sin-fin-en-el-ministerio-de-ciencia-subsecretaria-rossi-acusa-despidos-sin-su-autorizacion-y-cuestiona-actuar-de-ministra-lincolao/"
+          "href": "https://www.theclinic.cl/2026/11/15/de-actuar-en-una-pelicula-para-adultos-a-vender-a-su-perro-butkus-por-40-dolares-los-anos-de-pobreza-de-stallone-que-revive-el-estreno-de-yo-soy-rocky/"
         }
       ],
-      "published": "Sat, 14 Nov 2026 20:42:20 +0000",
+      "published": "Sun, 15 Nov 2026 20:22:37 +0000",
       "published_parsed": [
         2026,
         11,
-        14,
+        15,
         20,
-        42,
-        20,
-        5,
-        318,
+        22,
+        37,
+        6,
+        319,
         0
       ],
-      "summary": "<p>La ministra Ximena Lincolao habría ordenado nuevas desvinculaciones mientras permanece en Estados Unidos, sin informar previamente a Carolina Rossi, quien actualmente la subroga. La subsecretaria expresó su molestia mediante un correo interno, en el que calificó el procedimiento como “poco ético”. El episodio profundiza una disputa que ya había obligado a intervenir a La Moneda.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/14/la-crisis-sin-fin-en-el-ministerio-de-ciencia-subsecretaria-rossi-acusa-despidos-sin-su-autorizacion-y-cuestiona-actuar-de-ministra-lincolao/\">La crisis sin fin en el Ministerio de Ciencia: subsecretaria Rossi acusa despidos sin su autorización y cuestiona actuar de ministra Lincolao</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>Antes de convertirse en una estrella de Hollywood, Sylvester Stallone sobrevivía con pequeños trabajos, llegó a participar en una película erótica por necesidad económica y tuvo que vender a Butkus, su único compañero, porque no tenía dinero para alimentarlo. Cuando consiguió llevar Rocky al cine, regresó a buscar al animal y pagó una fortuna para recuperarlo.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/15/de-actuar-en-una-pelicula-para-adultos-a-vender-a-su-perro-butkus-por-40-dolares-los-anos-de-pobreza-de-stallone-que-revive-el-estreno-de-yo-soy-rocky/\">De actuar en una película para adultos a vender a su perro Butkus por $40 dólares: los años de pobreza de Stallone que revive el estreno de “Yo soy Rocky”</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La ministra Ximena Lincolao habría ordenado nuevas desvinculaciones mientras permanece en Estados Unidos, sin informar previamente a Carolina Rossi, quien actualmente la subroga. La subsecretaria expresó su molestia mediante un correo interno, en el que calificó el procedimiento como “poco ético”. El episodio profundiza una disputa que ya había obligado a intervenir a La Moneda.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/14/la-crisis-sin-fin-en-el-ministerio-de-ciencia-subsecretaria-rossi-acusa-despidos-sin-su-autorizacion-y-cuestiona-actuar-de-ministra-lincolao/\">La crisis sin fin en el Ministerio de Ciencia: subsecretaria Rossi acusa despidos sin su autorización y cuestiona actuar de ministra Lincolao</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>Antes de convertirse en una estrella de Hollywood, Sylvester Stallone sobrevivía con pequeños trabajos, llegó a participar en una película erótica por necesidad económica y tuvo que vender a Butkus, su único compañero, porque no tenía dinero para alimentarlo. Cuando consiguió llevar Rocky al cine, regresó a buscar al animal y pagó una fortuna para recuperarlo.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/15/de-actuar-en-una-pelicula-para-adultos-a-vender-a-su-perro-butkus-por-40-dolares-los-anos-de-pobreza-de-stallone-que-revive-el-estreno-de-yo-soy-rocky/\">De actuar en una película para adultos a vender a su perro Butkus por $40 dólares: los años de pobreza de Stallone que revive el estreno de “Yo soy Rocky”</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Política",
+          "term": "Tiempo Libre",
           "scheme": null,
           "label": null
         },
         {
-          "term": "ciencia",
+          "term": "Rocky",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Lincolao",
+          "term": "Sylvester Stallone",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "La crisis sin fin en el Ministerio de Ciencia: subsecretaria Rossi acusa despidos sin su autorización y cuestiona actuar de ministra Lincolao",
+      "title": "De actuar en una película para adultos a vender a su perro Butkus por $40 dólares: los años de pobreza de Stallone que revive el estreno de “Yo soy Rocky”",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "La crisis sin fin en el Ministerio de Ciencia: subsecretaria Rossi acusa despidos sin su autorización y cuestiona actuar de ministra Lincolao"
+        "value": "De actuar en una película para adultos a vender a su perro Butkus por $40 dólares: los años de pobreza de Stallone que revive el estreno de “Yo soy Rocky”"
       }
     }
   },
@@ -248,55 +248,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261114",
-      "df_fechapl": "Sábado 14 de noviembre de 2026",
+      "df_fechap": "20261115",
+      "df_fechapl": "Domingo 15 de noviembre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261113/imag/foto_0000000320261113213636/30.jpg",
-      "df_horap": "21:00",
-      "df_tagnames": "Patricio De la Paz",
-      "df_ts": "20261113213636",
+      "df_foto600": "/noticias/site/artic/20261113/imag/foto_0000000920261113175840/CableSubmarino1.jpg",
+      "df_horap": "20:30",
+      "df_tagnames": "Catalina Vicuña",
+      "df_ts": "20261113175840",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261113/pags/20261113213636.html",
-      "link": "http://www.df.cl/df-mas/personaje/jorge-said-y-las-memorias-de-un-reportero-de-guerra-yo-de-alguna-manera",
+      "id": "http://www.df.cl/noticias/site/artic/20261113/pags/20261113175840.html",
+      "link": "http://www.df.cl/empresas/telecom-tecnologia/china-mobile-reafirma-planes-de-inversion-en-chile-mientras-subtel-continua",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/df-mas/personaje/jorge-said-y-las-memorias-de-un-reportero-de-guerra-yo-de-alguna-manera"
+          "href": "http://www.df.cl/empresas/telecom-tecnologia/china-mobile-reafirma-planes-de-inversion-en-chile-mientras-subtel-continua"
         }
       ],
-      "published": "Sat, 14 Nov 2026 00:55:38 GMT",
+      "published": "Mon, 16 Nov 2026 00:29:18 GMT",
       "published_parsed": [
         2026,
         11,
-        14,
+        16,
         0,
-        55,
-        38,
-        5,
-        318,
+        29,
+        18,
+        0,
+        320,
         0
       ],
-      "summary": "El periodista, fotógrafo y documentalista lleva cubriendo conflictos desde 2011. Sus series y documentales se han exhibido en canales como BBC o History Channel. Recién presentó su primer libro, Mis heridas de la guerra, donde cuenta varios de estos viajes en medio del horror y el sufrimiento: Siria, Irak, El Líbano, Ucrania, entre ellos. ¿Qué se hace con el miedo? ¿qué marcas deja trabajar tantos años con la violencia alrededor? ¿por qué insistir en volver una y otra vez? Said responde esas y otras preguntas en el siguiente testimonial.",
+      "summary": "La visita de Kast a China se sitúa en medio de la tramitación del cable que la estatal China Mobile quiere desplegar en el país, y que podría extenderse a más localidades de la región.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "El periodista, fotógrafo y documentalista lleva cubriendo conflictos desde 2011. Sus series y documentales se han exhibido en canales como BBC o History Channel. Recién presentó su primer libro, Mis heridas de la guerra, donde cuenta varios de estos viajes en medio del horror y el sufrimiento: Siria, Irak, El Líbano, Ucrania, entre ellos. ¿Qué se hace con el miedo? ¿qué marcas deja trabajar tantos años con la violencia alrededor? ¿por qué insistir en volver una y otra vez? Said responde esas y otras preguntas en el siguiente testimonial."
+        "value": "La visita de Kast a China se sitúa en medio de la tramitación del cable que la estatal China Mobile quiere desplegar en el país, y que podría extenderse a más localidades de la región."
       },
       "tags": [
         {
-          "term": "DF MAS",
+          "term": "Empresas",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Jorge Said y las memorias de un reportero de guerra: \"Yo, de alguna manera, estoy esperando la muerte”",
+      "title": "China Mobile reafirma planes de inversión en Chile mientras Subtel continúa estudio de antecedentes del cable a Hong Kong",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Jorge Said y las memorias de un reportero de guerra: \"Yo, de alguna manera, estoy esperando la muerte”"
+        "value": "China Mobile reafirma planes de inversión en Chile mientras Subtel continúa estudio de antecedentes del cable a Hong Kong"
       }
     }
   },
@@ -336,76 +336,76 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p><strong>El presidente José Antonio Kast aterrizó en Hanói, Vietnam, en la primera escala de su gira por Asia</strong>, que se extenderá hasta el 22 de noviembre e incluirá su participación en la cumbre de la APEC en Shenzhen, China.</p>\n<p>El mandatario llegó al aeropuerto de Nội Bài a bordo de un avión de la Fuerza Aérea de Chile, acompañado por parlamentarios, integrantes de su gabinete y representantes del empresariado. En el terminal fue recibido con honores por autoridades vietnamitas y representantes diplomáticos.</p>\n<p>Según informó desde Hanói la enviada especial de Radio Bío Bío, María José de la Barra, Kast no tiene actividades oficiales programadas para esta jornada, tras el extenso vuelo que comenzó el viernes por la noche.</p>\n<p><strong>Su agenda se iniciará el lunes con encuentros con autoridades locales, entre ellas el presidente de Vietnam, Tô Lâm</strong>. La visita a ese país se prolongará hasta el 17 de noviembre, antes del traslado de la comitiva a China.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/13/alcaldesa-de-valparaiso-camila-nieto-viajara-a-asia-y-participara-de-gira-del-presidente-kast.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/13/alcaldesa-de-valparaiso-camila-nieto-viajara-a-asia-y-participara-de-gira-del-presidente-kast.shtml\">Alcaldesa de Valparaíso, Camila Nieto, viajará a Asia y participará de gira del presidente Kast</a>\n\t\t<span style=\"display: none;\">Viernes 13 Noviembre, 2026 | 08:01</span>\n\t</div>\n</div>\n<h2>Candidatura de Valparaíso marcará agenda en APEC</h2>\n<p><strong>Uno de los objetivos de la gira será promover la candidatura de Valparaíso para albergar la Secretaría del Tratado de Alta Mar</strong>, en el marco de la propuesta conjunta de Chile y Bélgica, que involucra a la ciudad puerto y Bruselas.</p>\n<p>La alcaldesa de Valparaíso, <strong>Camila Nieto</strong>, también integra la delegación. La candidatura será abordada en medio de los reparos expresados por China al acuerdo entre ambos países.</p>\n<p>De acuerdo con lo reportado por la enviada especial, la posición chilena apunta a destacar que el país manifestó su intención de ser sede desde 2023 y ha seguido los pasos correspondientes para impulsar su postulación.</p>\n<p>La participación en APEC será, además, una oportunidad para promover la propuesta antes de la votación prevista para enero en Nueva York, durante la primera Conferencia de las Partes del tratado.</p>\n<p>En paralelo, <strong>la cumbre estará marcada por la atención internacional sobre el encuentro trilateral previsto entre Donald Trump, Vladímir Putin y Xi Jinping</strong>, que reunirá a los mandatarios de Estados Unidos, Rusia y China.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml\" rel=\"nofollow\">Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p><strong>El presidente José Antonio Kast llamó a empresarios vietnamitas a invertir en Chile</strong> y planteó como una de las prioridades de su visita avanzar en las autorizaciones sanitarias para ampliar las exportaciones de carnes y frutas al país asiático.</p>\n<p>El mandatario intervino en el foro empresarial &#8220;<span class=\"destacador\">Choose Chile: Un socio que acompaña en el comercio y la cooperación</span>&#8220;, realizado en el Hotel Meliá de Hanói, durante la primera etapa de su gira por Asia.</p>\n<p>&#8220;Como Gobierno hemos venido con una misión clara: buscar inversión y trabajo para los chilenos, y también para abrir oportunidades para la inversión de empresas y personas de Vietnam en Chile&#8221;, sostuvo.</p>\n<p>Ante autoridades y representantes del sector privado de ambos países, Kast destacó la presencia de una delegación política diversa, que incluyó a representantes parlamentarios y municipales.</p>\n<p>Según señaló, esa composición refleja cómo Chile enfrenta sus relaciones internacionales: &#8220;unidos en torno a lo que es el progreso y el desarrollo de nuestra nación, sin diferencias políticas&#8221;.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/espinoza-compara-el-respaldo-de-kast-a-rabat-con-boric-y-jackson-la-amistad-hay-que-dejarla-de-lado.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/espinoza-compara-el-respaldo-de-kast-a-rabat-con-boric-y-jackson-la-amistad-hay-que-dejarla-de-lado.shtml\">Espinoza compara el respaldo de Kast a Rabat con Boric y Jackson: \"La amistad hay que dejarla de lado\"</a>\n\t\t<span style=\"display: none;\">Domingo 15 Noviembre, 2026 | 23:49</span>\n\t</div>\n</div>\n<h2>Carnes, kiwis y arándanos entre las prioridades de la visita</h2>\n<p>Uno de los objetivos expuestos por el presidente fue avanzar en la habilitación sanitaria de establecimientos chilenos para exportar carne bovina, porcina y de ave a Vietnam.</p>\n<p>&#8220;<strong>Una de nuestras principales prioridades de esta visita es avanzar en la habilitación sanitaria de establecimientos chilenos que exportan carne bovina, porcina y de ave</strong>, y es algo que nuestro ministro de Agricultura se ha comprometido a materializar junto al ministro de Agricultura de Vietnam&#8221;, afirmó.</p>\n<p>Asimismo, indicó que s<strong>e busca ampliar el acceso de kiwis y arándanos frescos</strong>, cuyas negociaciones sanitarias se encuentran en curso.</p>\n<p><span class=\"destacador\">Kast también destacó que las cerezas chilenas ya pueden ingresar a Vietnam sin tratamiento de frío</span>, tanto por vía aérea como marítima. A su juicio, ese avance muestra cómo la cooperación técnica permite abrir mercados para los productores nacionales.</p>\n<p>De acuerdo con las cifras entregadas por el mandatario, las exportaciones agrícolas y pecuarias chilenas a Vietnam crecieron casi un 50% entre 2021 y 2025, hasta alcanzar los US$40 millones.</p>\n<h2>Kast invita a empresas vietnamitas a invertir en Chile</h2>\n<p>Durante su discurso, el jefe de Estado promovió a Chile como un destino para inversiones de largo plazo y como una posible plataforma de vinculación de las empresas vietnamitas con América Latina.</p>\n<p>&#8220;Somos, como lo dije, un país confiable, estable y amigable con quienes quieren invertir en Chile&#8221;, aseguró.</p>\n<p>En ese contexto, destacó la oferta exportadora nacional en alimentos, minería, productos forestales y del mar, además del cobre y el litio. También mencionó capacidades en tecnología, innovación y servicios especializados.</p>\n<p>Kast sostuvo que los acuerdos comerciales deben traducirse en oportunidades concretas para las empresas y los trabajadores.</p>\n<p>&#8220;Los tratados entre gobiernos abren puertas, pero son las empresas las que tienen que cruzarlas. El verdadero valor de un tratado aparece cuando una empresa logra entrar a un nuevo mercado, cuando un productor encuentra nuevos compradores o cuando una inversión genera actividad económica y empleo&#8221;, expresó.</p>\n<p><strong>El encuentro se desarrolla en el año en que Chile y Vietnam conmemoran 55 años de relaciones diplomáticas</strong>. Ambos países mantienen un Tratado de Libre Comercio vigente desde 2014 y su intercambio comercial superó los US$2.100 millones en 2025.</p>\n<p>En la ceremonia también participaron la Cámara de Comercio e Industria de Vietnam, la presidenta de la CPC, Susana Jiménez, el ministro de Industria y Comercio vietnamita, Lê Mạnh Hùng, y el canciller Francisco Pérez Mackenna.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/16/kast-busca-inversiones-en-vietnam-y-apunta-a-abrir-mercados-para-carnes-y-frutas-chilenas.shtml\" rel=\"nofollow\">Kast busca inversiones en Vietnam y apunta a abrir mercados para carnes y frutas chilenas</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=7019785",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml",
+      "id": "https://www.biobiochile.cl/?p=7020229",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/16/kast-busca-inversiones-en-vietnam-y-apunta-a-abrir-mercados-para-carnes-y-frutas-chilenas.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml"
+          "href": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/16/kast-busca-inversiones-en-vietnam-y-apunta-a-abrir-mercados-para-carnes-y-frutas-chilenas.shtml"
         }
       ],
-      "published": "Sun, 15 Nov 2026 04:15:30 +0000",
+      "published": "Mon, 16 Nov 2026 04:57:55 +0000",
       "published_parsed": [
         2026,
         11,
-        15,
+        16,
         4,
-        15,
-        30,
-        6,
-        319,
+        57,
+        55,
+        0,
+        320,
         0
       ],
-      "summary": "<p>El presidente José Antonio Kast aterrizó en Hanói, Vietnam, en la primera escala de su gira por Asia, que se extenderá hasta el 22 de noviembre e incluirá su participación en la cumbre de la APEC en Shenzhen, China. El mandatario llegó al aeropuerto de Nội Bài a bordo de un avión de la Fuerza &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml\" rel=\"nofollow\">Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>El presidente José Antonio Kast llamó a empresarios vietnamitas a invertir en Chile y planteó como una de las prioridades de su visita avanzar en las autorizaciones sanitarias para ampliar las exportaciones de carnes y frutas al país asiático. El mandatario intervino en el foro empresarial &#8220;&#8221;, realizado en el Hotel Meliá de Hanói, durante &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/16/kast-busca-inversiones-en-vietnam-y-apunta-a-abrir-mercados-para-carnes-y-frutas-chilenas.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Kast busca inversiones en Vietnam y apunta a abrir mercados para carnes y frutas chilenas\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/16/kast-busca-inversiones-en-vietnam-y-apunta-a-abrir-mercados-para-carnes-y-frutas-chilenas.shtml\" rel=\"nofollow\">Kast busca inversiones en Vietnam y apunta a abrir mercados para carnes y frutas chilenas</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El presidente José Antonio Kast aterrizó en Hanói, Vietnam, en la primera escala de su gira por Asia, que se extenderá hasta el 22 de noviembre e incluirá su participación en la cumbre de la APEC en Shenzhen, China. El mandatario llegó al aeropuerto de Nội Bài a bordo de un avión de la Fuerza &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/kast-aterriza-en-vietnam-e-inicia-gira-por-asia-con-candidatura-de-valparaiso-entre-sus-prioridades.shtml\" rel=\"nofollow\">Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>El presidente José Antonio Kast llamó a empresarios vietnamitas a invertir en Chile y planteó como una de las prioridades de su visita avanzar en las autorizaciones sanitarias para ampliar las exportaciones de carnes y frutas al país asiático. El mandatario intervino en el foro empresarial &#8220;&#8221;, realizado en el Hotel Meliá de Hanói, durante &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/16/kast-busca-inversiones-en-vietnam-y-apunta-a-abrir-mercados-para-carnes-y-frutas-chilenas.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Kast busca inversiones en Vietnam y apunta a abrir mercados para carnes y frutas chilenas\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2026/11/16/kast-busca-inversiones-en-vietnam-y-apunta-a-abrir-mercados-para-carnes-y-frutas-chilenas.shtml\" rel=\"nofollow\">Kast busca inversiones en Vietnam y apunta a abrir mercados para carnes y frutas chilenas</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
+        {
+          "term": "Asia",
+          "scheme": null,
+          "label": null
+        },
         {
           "term": "Chile",
           "scheme": null,
           "label": null
         },
         {
-          "term": "APEC",
+          "term": "Agricultura",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Camila Nieto",
+          "term": "carnes chilenas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Candidatura de Valparaíso",
+          "term": "Comercio Internacional",
           "scheme": null,
           "label": null
         },
         {
-          "term": "China",
+          "term": "cooperación económica",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Cooperación Chile-Bélgica",
+          "term": "Exportaciones chilenas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Cumbre de líderes mundiales",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "gira por Asia",
+          "term": "habilitación sanitaria",
           "scheme": null,
           "label": null
         },
@@ -415,27 +415,32 @@
           "label": null
         },
         {
+          "term": "Industria Alimentaria",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "inversión extranjera",
+          "scheme": null,
+          "label": null
+        },
+        {
           "term": "José Antonio Kast",
           "scheme": null,
           "label": null
         },
         {
-          "term": "política exterior chilena",
+          "term": "Kiwis y arándanos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Relaciones Chile-Vietnam",
+          "term": "relaciones diplomáticas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Tratado de Alta Mar",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Valparaíso",
+          "term": "Tratado de Libre Comercio",
           "scheme": null,
           "label": null
         },
@@ -445,12 +450,12 @@
           "label": null
         }
       ],
-      "title": "Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades",
+      "title": "Kast busca inversiones en Vietnam y apunta a abrir mercados para carnes y frutas chilenas",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades"
+        "value": "Kast busca inversiones en Vietnam y apunta a abrir mercados para carnes y frutas chilenas"
       }
     }
   }
