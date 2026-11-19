@@ -20,57 +20,57 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Marcelo Silva",
+      "author": "The Clinic",
       "author_detail": {
-        "name": "Marcelo Silva"
+        "name": "The Clinic"
       },
       "authors": [
         {
-          "name": "Marcelo Silva"
+          "name": "The Clinic"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1823230",
-      "link": "https://www.theclinic.cl/2026/11/17/el-detalle-del-polemico-acuerdo-entre-el-ministerio-de-ciencias-y-openai-considera-capacitacion-en-inteligencia-artificial-para-funcionarios-publicos/",
+      "id": "https://www.theclinic.cl/?p=1823769",
+      "link": "https://www.theclinic.cl/2026/11/18/guardianas-de-la-memoria-190-mujeres-lickanantay-rescatan-sus-historias-y-tradiciones-en-un-libro-colectivo/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/11/17/el-detalle-del-polemico-acuerdo-entre-el-ministerio-de-ciencias-y-openai-considera-capacitacion-en-inteligencia-artificial-para-funcionarios-publicos/"
+          "href": "https://www.theclinic.cl/2026/11/18/guardianas-de-la-memoria-190-mujeres-lickanantay-rescatan-sus-historias-y-tradiciones-en-un-libro-colectivo/"
         }
       ],
-      "published": "Wed, 18 Nov 2026 01:14:23 +0000",
+      "published": "Thu, 19 Nov 2026 02:04:20 +0000",
       "published_parsed": [
         2026,
         11,
-        18,
-        1,
-        14,
-        23,
+        19,
         2,
-        322,
+        4,
+        20,
+        3,
+        323,
         0
       ],
-      "summary": "<p>Entre sus objetivos está el mejorar los servicios públicos, capacitar a funcionarios en el uso eficaz y responsable de inteligencia artificial, explorar apoyo para la infraestructura tecnológica de Ciencias y fortalecer el ecosistema chileno de startups e innovación en IA. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/17/el-detalle-del-polemico-acuerdo-entre-el-ministerio-de-ciencias-y-openai-considera-capacitacion-en-inteligencia-artificial-para-funcionarios-publicos/\">El detalle del polémico acuerdo entre el Ministerio de Ciencias y OpenAI: considera capacitación en inteligencia artificial para funcionarios públicos</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>La publicación, impulsada a través del programa Alianza Mujer Atacameña (AMA) de Novandino Litio, reúne testimonios de mujeres de Atacama La Grande sobre maternidad, oficios, cultivos y la vida en el desierto, preservando conocimientos transmitidos durante generaciones.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/18/guardianas-de-la-memoria-190-mujeres-lickanantay-rescatan-sus-historias-y-tradiciones-en-un-libro-colectivo/\">“Guardianas de la Memoria”: 190 mujeres Lickanantay rescatan sus historias y tradiciones en un libro colectivo</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Entre sus objetivos está el mejorar los servicios públicos, capacitar a funcionarios en el uso eficaz y responsable de inteligencia artificial, explorar apoyo para la infraestructura tecnológica de Ciencias y fortalecer el ecosistema chileno de startups e innovación en IA. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/17/el-detalle-del-polemico-acuerdo-entre-el-ministerio-de-ciencias-y-openai-considera-capacitacion-en-inteligencia-artificial-para-funcionarios-publicos/\">El detalle del polémico acuerdo entre el Ministerio de Ciencias y OpenAI: considera capacitación en inteligencia artificial para funcionarios públicos</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>La publicación, impulsada a través del programa Alianza Mujer Atacameña (AMA) de Novandino Litio, reúne testimonios de mujeres de Atacama La Grande sobre maternidad, oficios, cultivos y la vida en el desierto, preservando conocimientos transmitidos durante generaciones.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/18/guardianas-de-la-memoria-190-mujeres-lickanantay-rescatan-sus-historias-y-tradiciones-en-un-libro-colectivo/\">“Guardianas de la Memoria”: 190 mujeres Lickanantay rescatan sus historias y tradiciones en un libro colectivo</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Tendencias",
+          "term": "The Clinic | Lab",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "El detalle del polémico acuerdo entre el Ministerio de Ciencias y OpenAI: considera capacitación en inteligencia artificial para funcionarios públicos",
+      "title": "“Guardianas de la Memoria”: 190 mujeres Lickanantay rescatan sus historias y tradiciones en un libro colectivo",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "El detalle del polémico acuerdo entre el Ministerio de Ciencias y OpenAI: considera capacitación en inteligencia artificial para funcionarios públicos"
+        "value": "“Guardianas de la Memoria”: 190 mujeres Lickanantay rescatan sus historias y tradiciones en un libro colectivo"
       }
     }
   },
@@ -96,13 +96,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Leonardo Medina",
+      "author": "Eduardo Córdova",
       "author_detail": {
-        "name": "Leonardo Medina"
+        "name": "Eduardo Córdova"
       },
       "authors": [
         {
-          "name": "Leonardo Medina"
+          "name": "Eduardo Córdova"
         }
       ],
       "content": [
@@ -110,71 +110,86 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p><strong>La selección chilena cerró un año de pocas luces con un pálido empate 0-0 ante Colombia en el Estadio Monumental</strong>, sembrando dudas en su rendimiento de cara a un 2027 donde iniciarán las Clasificatorias para el Mundial 2030.</p>\n\n\n\n<p>Para seguir leyendo esta nota <a href=\"https://www.triunfo.cl/la-roja-cerro-el-2026-con-un-palido-empate-sin-goles-ante-colombia-en-el-monumental\"><strong>haz clic aquí, en el sitio web de Triunfo</strong></a>.</p>\n<p>The post <a href=\"https://www.lanacion.cl/la-roja-cerro-el-2026-con-un-palido-empate-sin-goles-ante-colombia-en-el-monumental/\" rel=\"nofollow\">La Roja cerró el 2026 con un pálido empate sin goles ante Colombia en el Monumental</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p><strong>Desde las clásicas empanadas de pino hasta preparaciones de camarón, jaiba, ostiones y queso, estos locales de Viña del Mar ofrecen alternativas para quienes buscan disfrutar de uno de los productos más tradicionales de la gastronomía chilena.</strong></p>\n\n\n\n<p>Las empanadas son una de las preparaciones más representativas de la cocina nacional y una alternativa que se puede disfrutar durante todo el año. Aunque las versiones de pino y queso suelen ser las más conocidas, también existen variedades con pescados y mariscos, carnes, verduras y distintas combinaciones de ingredientes.</p>\n\n\n\n<p>En Viña del Mar hay locales especializados que ofrecen alternativas para distintos gustos, con empanadas horneadas y fritas, rellenos tradicionales y preparaciones que incorporan productos del mar. Si estás buscando <a href=\"https://www.lanacion.cl/que-hacer-en-la-region-de-valparaiso-la-guia-completa-de-los-panoramas-de-la-zona/\">qué hacer en Viña del Mar</a> y quieres disfrutar de esta clásica comida chilena, estos tres establecimientos son algunas opciones para considerar.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://www.lanacion.cl/que-hacer-en-la-region-de-valparaiso-la-guia-completa-de-los-panoramas-de-la-zona/\">Qué hacer en Viña del Mar</a>: tres locales para disfrutar empanadas de distintos sabores</h2>\n\n\n\n<h3 class=\"wp-block-heading\">Empanadas Emilú: una amplia variedad de rellenos</h3>\n\n\n\n<p>Ubicado en Agua Santa 26, Empanadas Emilú es una alternativa para quienes buscan probar distintos sabores en un mismo lugar. Su carta incluye empanadas tradicionales de pino y queso, junto con preparaciones de camarón queso, jaiba queso, ostión queso y surtido de mariscos.</p>\n\n\n\n<p>También cuenta con opciones de carne y tocino, mechada queso, pollo queso y napolitana, entre otras variedades. De esta manera, el local reúne alternativas clásicas y combinaciones que incorporan ingredientes del mar.</p>\n\n\n\n<blockquote class=\"instagram-media\"><div style=\"padding: 16px;\"> <a href=\"https://www.instagram.com/reel/CvctoOXArvO/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"line-height: 0; padding: 0 0; text-align: center; text-decoration: none; width: 100%;\" target=\"_blank\"> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"></div><div style=\"padding-top: 8px;\"> <div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">Ver esta publicación en Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; margin-bottom: 14px;\"><div> <div></div> <div></div> <div></div></div><div style=\"margin-left: 8px;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 20px; width: 20px;\"></div> <div></div></div><div style=\"margin-left: auto;\"> <div></div> <div></div> <div></div></div></div> <div style=\"display: flex; margin-bottom: 24px;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 144px;\"></div></div></a><p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; white-space: nowrap;\"><a href=\"https://www.instagram.com/reel/CvctoOXArvO/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\">Una publicación compartida por Empanadas Emilú (@empanadas.emilu)</a></p></div></blockquote>\n\n\n\n\n<h3 class=\"wp-block-heading\">Empanadas Lucía: preparaciones tradicionales y marinas</h3>\n\n\n\n<p>En calle Valparaíso 1101 se encuentra Empanadas Lucía, un establecimiento céntrico que ofrece distintas preparaciones para quienes prefieren comprar algo al paso o llevar empanadas a casa.</p>\n\n\n\n<p>Entre las alternativas disponibles figuran las empanadas de pino, queso y napolitana, además de variedades como camarón queso, jaiba queso y mariscos. La carta también contempla opciones como la empanada mexicana, que incorpora carne, ají verde y cebolla morada.</p>\n\n\n\n<blockquote class=\"instagram-media\"><div style=\"padding: 16px;\"> <a href=\"https://www.instagram.com/p/DavP-QzRzTi/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"line-height: 0; padding: 0 0; text-align: center; text-decoration: none; width: 100%;\" target=\"_blank\"> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"></div><div style=\"padding-top: 8px;\"> <div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">Ver esta publicación en Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; margin-bottom: 14px;\"><div> <div></div> <div></div> <div></div></div><div style=\"margin-left: 8px;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 20px; width: 20px;\"></div> <div></div></div><div style=\"margin-left: auto;\"> <div></div> <div></div> <div></div></div></div> <div style=\"display: flex; margin-bottom: 24px;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 144px;\"></div></div></a><p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; white-space: nowrap;\"><a href=\"https://www.instagram.com/p/DavP-QzRzTi/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\">Una publicación compartida por Empanadas Lucía (@empanadas_lucia)</a></p></div></blockquote>\n\n\n\n\n<h3 class=\"wp-block-heading\">Masita Rica: empanadas con protagonismo de los mariscos</h3>\n\n\n\n<p>En Diego Portales 476, Masa Rica es otra alternativa para quienes buscan empanadas en el centro de Viña del Mar. El establecimiento destaca por sus preparaciones con productos del mar, entre ellas variedades de camarón y ostiones.</p>\n\n\n\n<p>Su propuesta permite explorar rellenos distintos a los tradicionales, especialmente para quienes prefieren combinar mariscos con queso. Es una opción para incorporar a un recorrido gastronómico por el sector céntrico de la ciudad.</p>\n\n\n\n<blockquote class=\"instagram-media\"><div style=\"padding: 16px;\"> <a href=\"https://www.instagram.com/reel/DdWaJT1x-67/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"line-height: 0; padding: 0 0; text-align: center; text-decoration: none; width: 100%;\" target=\"_blank\"> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"></div><div style=\"padding-top: 8px;\"> <div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">Ver esta publicación en Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; margin-bottom: 14px;\"><div> <div></div> <div></div> <div></div></div><div style=\"margin-left: 8px;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 20px; width: 20px;\"></div> <div></div></div><div style=\"margin-left: auto;\"> <div></div> <div></div> <div></div></div></div> <div style=\"display: flex; margin-bottom: 24px;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 144px;\"></div></div></a><p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; white-space: nowrap;\"><a href=\"https://www.instagram.com/reel/DdWaJT1x-67/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noopener\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\">Una publicación compartida por Masita Rica Viñamarina (@masitarica)</a></p></div></blockquote>\n\n\n\n\n<h2 class=\"wp-block-heading\">Empanadas en Viña del Mar: una preparación para todos los gustos</h2>\n\n\n\n<p>Ya sea al horno o fritas, las empanadas permiten recorrer distintos sabores de la gastronomía chilena. Las opciones de pino y queso siguen siendo parte de las preferencias tradicionales, mientras que los rellenos de camarón, jaiba, ostiones y mariscos ofrecen alternativas para quienes buscan probar preparaciones diferentes.</p>\n\n\n\n<p>Estos tres establecimientos permiten conocer parte de esa variedad en Viña del Mar, con propuestas que combinan recetas clásicas y sabores del mar.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-wp-embed is-provider-la-nacion wp-block-embed-la-nacion\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"wp-embedded-content\"><a href=\"https://www.lanacion.cl/que-hacer-en-vina-del-mar-panaderias-artesanales-para-descubrir-panes-de-distintas-tradiciones/\">Qué hacer en Viña del Mar: panaderías artesanales para descubrir panes de distintas tradiciones</a></blockquote>\n</div></figure>\n<p>The post <a href=\"https://www.lanacion.cl/que-hacer-en-vina-del-mar-donde-comer-empanadas-y-ademas-probar-distintas-variedades/\" rel=\"nofollow\">Qué hacer en Viña del Mar: dónde comer empanadas y además probar distintas variedades</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=421032",
-      "link": "https://www.lanacion.cl/la-roja-cerro-el-2026-con-un-palido-empate-sin-goles-ante-colombia-en-el-monumental/",
+      "id": "https://www.lanacion.cl/?p=421154",
+      "link": "https://www.lanacion.cl/que-hacer-en-vina-del-mar-donde-comer-empanadas-y-ademas-probar-distintas-variedades/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/la-roja-cerro-el-2026-con-un-palido-empate-sin-goles-ante-colombia-en-el-monumental/"
+          "href": "https://www.lanacion.cl/que-hacer-en-vina-del-mar-donde-comer-empanadas-y-ademas-probar-distintas-variedades/"
         }
       ],
-      "published": "Wed, 18 Nov 2026 01:19:27 +0000",
+      "published": "Wed, 18 Nov 2026 21:23:54 +0000",
       "published_parsed": [
         2026,
         11,
         18,
-        1,
-        19,
-        27,
+        21,
+        23,
+        54,
         2,
         322,
         0
       ],
-      "summary": "<p>La selección chilena cerró un año de pocas luces con un pálido empate 0-0 ante Colombia en el Estadio Monumental, sembrando dudas en su rendimiento de cara a un 2027 donde iniciarán las Clasificatorias para el Mundial 2030. Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.</p>\n<p>The post <a href=\"https://www.lanacion.cl/la-roja-cerro-el-2026-con-un-palido-empate-sin-goles-ante-colombia-en-el-monumental/\" rel=\"nofollow\">La Roja cerró el 2026 con un pálido empate sin goles ante Colombia en el Monumental</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>Desde las clásicas empanadas de pino hasta preparaciones de camarón, jaiba, ostiones y queso, estos locales de Viña del Mar ofrecen alternativas para quienes buscan disfrutar de uno de los productos más tradicionales de la gastronomía chilena. Las empanadas son una de las preparaciones más representativas de la cocina nacional y una alternativa que se [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/que-hacer-en-vina-del-mar-donde-comer-empanadas-y-ademas-probar-distintas-variedades/\" rel=\"nofollow\">Qué hacer en Viña del Mar: dónde comer empanadas y además probar distintas variedades</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La selección chilena cerró un año de pocas luces con un pálido empate 0-0 ante Colombia en el Estadio Monumental, sembrando dudas en su rendimiento de cara a un 2027 donde iniciarán las Clasificatorias para el Mundial 2030. Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.</p>\n<p>The post <a href=\"https://www.lanacion.cl/la-roja-cerro-el-2026-con-un-palido-empate-sin-goles-ante-colombia-en-el-monumental/\" rel=\"nofollow\">La Roja cerró el 2026 con un pálido empate sin goles ante Colombia en el Monumental</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>Desde las clásicas empanadas de pino hasta preparaciones de camarón, jaiba, ostiones y queso, estos locales de Viña del Mar ofrecen alternativas para quienes buscan disfrutar de uno de los productos más tradicionales de la gastronomía chilena. Las empanadas son una de las preparaciones más representativas de la cocina nacional y una alternativa que se [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/que-hacer-en-vina-del-mar-donde-comer-empanadas-y-ademas-probar-distintas-variedades/\" rel=\"nofollow\">Qué hacer en Viña del Mar: dónde comer empanadas y además probar distintas variedades</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
-          "term": "Portada",
+          "term": "Actualidad",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Triunfo",
+          "term": "Panoramas",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Colombia",
+          "term": "Viajes",
           "scheme": null,
           "label": null
         },
         {
-          "term": "empate",
+          "term": "comida chilena",
           "scheme": null,
           "label": null
         },
         {
-          "term": "la roja",
+          "term": "empanadas",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "gastronomía",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Región de Valparaíso",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Viña del Mar",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "La Roja cerró el 2026 con un pálido empate sin goles ante Colombia en el Monumental",
+      "title": "Qué hacer en Viña del Mar: dónde comer empanadas y además probar distintas variedades",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "La Roja cerró el 2026 con un pálido empate sin goles ante Colombia en el Monumental"
+        "value": "Qué hacer en Viña del Mar: dónde comer empanadas y además probar distintas variedades"
       }
     }
   },
@@ -203,55 +218,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261117",
-      "df_fechapl": "Martes 17 de noviembre de 2026",
+      "df_fechap": "20261118",
+      "df_fechapl": "Miércoles 18 de noviembre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261117/imag/foto_0000000620261117094606/RosannaCostaIEFenelsenadoAton.jpg",
-      "df_horap": "20:30",
-      "df_tagnames": "Banco Central,tasas de interés,EEUU,Chile",
-      "df_ts": "20261117094606",
+      "df_foto600": "/noticias/site/artic/20261118/imag/foto_0000001920261118183721/AnthropicRT2.jpg",
+      "df_horap": "21:00",
+      "df_tagnames": "Anthropic,Inteligencia Artificial,Oferta Pública Inicial,Estados Unidos,Maria Gabriela Arteaga",
+      "df_ts": "20261118183721",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261117/pags/20261117094606.html",
-      "link": "http://www.df.cl/mercados/renta-fija/ief-aborda-el-riesgo-de-nuevas-alzas-de-tasas-en-eeuu-y-su-impacto-en-chile",
+      "id": "http://www.df.cl/noticias/site/artic/20261118/pags/20261118183721.html",
+      "link": "http://www.df.cl/df-lab/tech-empresas/anthropic-fija-el-precio-para-su-salida-a-bolsa-en-us-83-por-accion-segun",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/mercados/renta-fija/ief-aborda-el-riesgo-de-nuevas-alzas-de-tasas-en-eeuu-y-su-impacto-en-chile"
+          "href": "http://www.df.cl/df-lab/tech-empresas/anthropic-fija-el-precio-para-su-salida-a-bolsa-en-us-83-por-accion-segun"
         }
       ],
-      "published": "Tue, 17 Nov 2026 23:31:45 GMT",
+      "published": "Thu, 19 Nov 2026 00:14:53 GMT",
       "published_parsed": [
         2026,
         11,
-        17,
-        23,
-        31,
-        45,
-        1,
-        321,
+        19,
+        0,
+        14,
+        53,
+        3,
+        323,
         0
       ],
-      "summary": "El Informe de Estabilidad Financiera (IEF) dio cuenta de un escenario de financiamiento global más costoso y el deterioro en la capacidad de pago de los deudores.",
+      "summary": "La compañía detrás del asistente de inteligencia artificial Claude fijó el precio de sus acciones por encima del rango previsto, tras una fuerte demanda de los inversionistas. La operación se complementará con una colocación privada de US$ 26.000 millones respaldada por gigantes tecnológicos como Nvidia, Microsoft y Google.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "El Informe de Estabilidad Financiera (IEF) dio cuenta de un escenario de financiamiento global más costoso y el deterioro en la capacidad de pago de los deudores."
+        "value": "La compañía detrás del asistente de inteligencia artificial Claude fijó el precio de sus acciones por encima del rango previsto, tras una fuerte demanda de los inversionistas. La operación se complementará con una colocación privada de US$ 26.000 millones respaldada por gigantes tecnológicos como Nvidia, Microsoft y Google."
       },
       "tags": [
         {
-          "term": "Mercados",
+          "term": "DF LAB",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "La doble alerta del IEF del Banco Central: tasas globales en alza y hogares y empresas bajo presión",
+      "title": "Anthropic recauda más de US$ 81.000 millones y supera el récord del debut bursátil de SpaceX",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "La doble alerta del IEF del Banco Central: tasas globales en alza y hogares y empresas bajo presión"
+        "value": "Anthropic recauda más de US$ 81.000 millones y supera el récord del debut bursátil de SpaceX"
       }
     }
   },
@@ -291,37 +306,37 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>La solicitud del presidente estadounidense al Congreso llega luego del caos en los aeropuertos que obligó a suspender miles de vuelos.</p>\n<p>El gobierno de Donald Trump pidió este martes (17.11.2026) al Congreso que aprobara un presupuesto de <strong>50.100 millones de dólares</strong> para modernizar la infraestructura aérea del país, pocos días después de una caída del sistema a nivel nacional que suspendió los vuelos durante cuatro horas.</p>\n<p>La paralización del tráfico aéreo del viernes fue <strong>la más larga en Estados Unidos desde los atentados del 11 de septiembre de 2001</strong>, y desató un caos en los aeropuertos que se extendió durante el fin de semana.</p>\n<p>El secretario de Transporte, Sean Duffy, el jefe de la agencia que regula la aviación civil (FAA), Bryan Bedford, y el director de presupuesto de la Casa Blanca, Russ Vought, pidieron los fondos en una carta dirigida a los legisladores estadounidenses que detalla cómo se gastarían.</p>\n<p>Duffy ya había reclamado este monto de forma informal el viernes, poco después de que la FAA ordenara suspender todos los despegues en Estados Unidos, lo que obligó a cancelar miles de vuelos.</p>\n<p>Según el gobierno, son necesarias <strong>cinco partidas de 10.000 millones de dólares cada una</strong>.</p>\n<p>La primera, para mejorar la tecnología del control de tráfico aéreo, incluidas las redes de comunicación. La segunda, para mejorar las infraestructuras aeroportuarias del país. La tercera, para la modernización de terminales envejecidos.</p>\n<p>La cuarta financiaría <strong>cinco nuevos centros regionales de control de tráfico aéreo</strong>, para reemplazar a los 22 actuales. Los últimos 10.000 millones de dólares se destinarían a la <strong>renovación o la construcción de 140 torres de control</strong>.</p>\n<h2>Descartan ciberataque</h2>\n<p>&quot;Equipos obsoletos y antiguos interrumpieron las comunicaciones de las aeronaves y las señales de radar&quot;, escribieron los funcionarios, que argumentaron que la crisis subrayó la urgencia de las inversiones.</p>\n<p>Duffy defendió el martes la orden de suspensión como una precaución de seguridad necesaria.</p>\n<p>&quot;<strong>No voy a disculparme por haber cerrado el espacio aéreo</strong>&quot;, declaró al reunirse con legisladores en el Capitolio de Washington.</p>\n<p>A su lado, Bedford afirmó que, aunque el origen de la avería se atribuyó a un router, no se determinaron aún sus causas exactas.</p>\n<p>Las agencias de inteligencia estadounidenses <strong>descartaron que se hubiera tratado de un ciberataque</strong>.</p>\n<p>La demanda de fondos adicionales generó críticas de los demócratas, que acusan a Duffy de haber gestionado mal miles de millones de dólares ya otorgados a la FAA.</p>\n<p>La demócrata Rosa DeLauro, del Comité de Asignaciones Presupuestarias de la Cámara de Representantes, acusó a Duffy de pedir un &quot;rescate de 50.000 millones de dólares sin un auténtico plan&quot;.</p>\n<p>Trump atribuyó la responsabilidad de la caída del sistema a equipos obsoletos, pero también a los anteriores gobiernos, e instó al Congreso a proporcionar el dinero requerido.</p>\n<p>Duffy también aseguró el martes en el Capitolio haber &quot;heredado una red vieja&quot;.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/18/trump-pide-al-congreso-us-50-100-millones-para-modernizar-la-infraestructura-aerea-de-eeuu.shtml\" rel=\"nofollow\">Trump pide al Congreso US&#036; 50.100 millones para modernizar la infraestructura aérea de EEUU</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>El conflicto en el estrecho de Ormuz provocará un &quot;enorme shock&quot; en el sector energético, dijo el director de la AIE, Fatih Birol.</p>\n<p>El conflicto en Medio Oriente <strong>dejará una &quot;huella duradera&quot; en el sector energético mundial</strong> y no permitirá volver a la situación anterior a la crisis, advirtió el jueves (19.11.2026) la Agencia Internacional de la Energía (AIE) en su informe anual de referencia.</p>\n<p>&quot;La crisis del estrecho de Ormuz ha generado <strong>la mayor amenaza para la seguridad energética de la historia</strong>, eclipsando ampliamente la magnitud de las crisis petroleras de la década de 1970&quot;, escribió el <strong>director ejecutivo de la AIE, Fatih Birol</strong>, en la introducción de su informe anual.</p>\n<p>Como respuesta a este &quot;enorme shock&quot;, los Estados están poniendo &quot;el acento en la diversificación y la resiliencia para protegerse de futuras perturbaciones. La seguridad energética y la asequibilidad ocupan ahora un lugar central en la agenda política&quot;, añadió.</p>\n<p>Antes de la guerra en Oriente Medio, desencadenada por los ataques de Israel y Estados Unidos contra Irán el 28 de febrero, <strong>una quinta parte del petróleo y del gas natural licuado del mundo</strong> transitaba por el estrecho de Ormuz, <strong>actualmente bloqueado</strong>.</p>\n<h2>Los tres escenarios</h2>\n<p>En su informe, la AIE presenta tres escenarios sobre el futuro de la energía: uno basado en las políticas actuales de los países, que refleja una visión prudente del ritmo de la transición energética; un escenario intermedio que incorpora las medidas ya anunciadas por los Estados; y un tercero que contempla las acciones necesarias para alcanzar la <strong>neutralidad de carbono en 2050</strong>.</p>\n<p>Como muestra del profundo impacto de la actual crisis energética, la AIE añade un &quot;caso de respuesta adicional&quot; (ARC), que estudia la hipótesis de que los gobiernos adopten nuevas medidas si el conflicto en Oriente Medio se prolonga.</p>\n<p>También incorpora un escenario de &quot;bajo tránsito por Ormuz&quot;, que analiza si el sistema energético mundial podría funcionar sin el paso por ese estrecho.</p>\n<p>&quot;Si bien el sector energético y la economía mundial han demostrado una resiliencia considerable, cuanto más dure la crisis, más profundos serán sus efectos. Y <strong>no veo ninguna vía creíble para que el sector energético vuelva a la situación anterior</strong>&quot;, advirtió Birol.</p>\n<p>Una certeza para la AIE es que &quot;la demanda de carbón se ha beneficiado de un impulso a corto plazo ligado a la crisis, pero para 2030 disminuye en todos nuestros escenarios&quot;.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/19/aie-advierte-que-la-crisis-de-ormuz-es-la-mayor-amenaza-para-la-seguridad-energetica-de-la-historia.shtml\" rel=\"nofollow\">AIE advierte que la crisis de Ormuz es la mayor amenaza para la seguridad energética de la historia</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=7023291",
-      "link": "https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/18/trump-pide-al-congreso-us-50-100-millones-para-modernizar-la-infraestructura-aerea-de-eeuu.shtml",
+      "id": "https://www.biobiochile.cl/?p=7024737",
+      "link": "https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/19/aie-advierte-que-la-crisis-de-ormuz-es-la-mayor-amenaza-para-la-seguridad-energetica-de-la-historia.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/18/trump-pide-al-congreso-us-50-100-millones-para-modernizar-la-infraestructura-aerea-de-eeuu.shtml"
+          "href": "https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/19/aie-advierte-que-la-crisis-de-ormuz-es-la-mayor-amenaza-para-la-seguridad-energetica-de-la-historia.shtml"
         }
       ],
-      "published": "Wed, 18 Nov 2026 05:56:33 +0000",
+      "published": "Thu, 19 Nov 2026 06:01:31 +0000",
       "published_parsed": [
         2026,
         11,
-        18,
-        5,
-        56,
-        33,
-        2,
-        322,
+        19,
+        6,
+        1,
+        31,
+        3,
+        323,
         0
       ],
-      "summary": "<p>La solicitud del presidente estadounidense al Congreso llega luego del caos en los aeropuertos que obligó a suspender miles de vuelos. El gobierno de Donald Trump pidió este martes (17.11.2026) al Congreso que aprobara un presupuesto de 50.100 millones de dólares para modernizar la infraestructura aérea del país, pocos días después de una caída del &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/18/trump-pide-al-congreso-us-50-100-millones-para-modernizar-la-infraestructura-aerea-de-eeuu.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Trump pide al Congreso US&#36; 50.100 millones para modernizar la infraestructura aérea de EEUU\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/18/trump-pide-al-congreso-us-50-100-millones-para-modernizar-la-infraestructura-aerea-de-eeuu.shtml\" rel=\"nofollow\">Trump pide al Congreso US&#036; 50.100 millones para modernizar la infraestructura aérea de EEUU</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>El conflicto en el estrecho de Ormuz provocará un \"enorme shock\" en el sector energético, dijo el director de la AIE, Fatih Birol. El conflicto en Medio Oriente dejará una \"huella duradera\" en el sector energético mundial y no permitirá volver a la situación anterior a la crisis, advirtió el jueves (19.11.2026) la Agencia Internacional &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/19/aie-advierte-que-la-crisis-de-ormuz-es-la-mayor-amenaza-para-la-seguridad-energetica-de-la-historia.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"AIE advierte que la crisis de Ormuz es la mayor amenaza para la seguridad energética de la historia\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/19/aie-advierte-que-la-crisis-de-ormuz-es-la-mayor-amenaza-para-la-seguridad-energetica-de-la-historia.shtml\" rel=\"nofollow\">AIE advierte que la crisis de Ormuz es la mayor amenaza para la seguridad energética de la historia</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La solicitud del presidente estadounidense al Congreso llega luego del caos en los aeropuertos que obligó a suspender miles de vuelos. El gobierno de Donald Trump pidió este martes (17.11.2026) al Congreso que aprobara un presupuesto de 50.100 millones de dólares para modernizar la infraestructura aérea del país, pocos días después de una caída del &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/18/trump-pide-al-congreso-us-50-100-millones-para-modernizar-la-infraestructura-aerea-de-eeuu.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Trump pide al Congreso US&#36; 50.100 millones para modernizar la infraestructura aérea de EEUU\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/18/trump-pide-al-congreso-us-50-100-millones-para-modernizar-la-infraestructura-aerea-de-eeuu.shtml\" rel=\"nofollow\">Trump pide al Congreso US&#036; 50.100 millones para modernizar la infraestructura aérea de EEUU</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>El conflicto en el estrecho de Ormuz provocará un \"enorme shock\" en el sector energético, dijo el director de la AIE, Fatih Birol. El conflicto en Medio Oriente dejará una \"huella duradera\" en el sector energético mundial y no permitirá volver a la situación anterior a la crisis, advirtió el jueves (19.11.2026) la Agencia Internacional &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/19/aie-advierte-que-la-crisis-de-ormuz-es-la-mayor-amenaza-para-la-seguridad-energetica-de-la-historia.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"AIE advierte que la crisis de Ormuz es la mayor amenaza para la seguridad energética de la historia\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/19/aie-advierte-que-la-crisis-de-ormuz-es-la-mayor-amenaza-para-la-seguridad-energetica-de-la-historia.shtml\" rel=\"nofollow\">AIE advierte que la crisis de Ormuz es la mayor amenaza para la seguridad energética de la historia</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
@@ -330,52 +345,47 @@
           "label": null
         },
         {
-          "term": "EE.UU.",
+          "term": "Medio Oriente",
           "scheme": null,
           "label": null
         },
         {
-          "term": "aeropuertos",
+          "term": "Agencia Internacional de la Energía",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Congreso de EEUU",
+          "term": "Estrecho de Ormuz",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Donald Trump",
+          "term": "Fatih Birol",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Estados Unidos",
+          "term": "Irán",
           "scheme": null,
           "label": null
         },
         {
-          "term": "FAA",
+          "term": "Petróleo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Sean Duffy",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Transporte aéreo",
+          "term": "seguridad energética",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Trump pide al Congreso US$ 50.100 millones para modernizar la infraestructura aérea de EEUU",
+      "title": "AIE advierte que la crisis de Ormuz es la mayor amenaza para la seguridad energética de la historia",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Trump pide al Congreso US$ 50.100 millones para modernizar la infraestructura aérea de EEUU"
+        "value": "AIE advierte que la crisis de Ormuz es la mayor amenaza para la seguridad energética de la historia"
       }
     }
   }
