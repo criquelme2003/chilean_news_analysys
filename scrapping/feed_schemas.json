@@ -30,47 +30,97 @@
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1825120",
-      "link": "https://www.theclinic.cl/2026/11/21/lo-que-se-sabe-de-la-avioneta-caida-en-un-condominio-en-penalolen-problemas-en-su-tren-de-aterrizaje-y-cuatro-posibles-lesionados/",
+      "id": "https://www.theclinic.cl/?p=1825187",
+      "link": "https://www.theclinic.cl/2026/11/22/dmc-anuncia-hasta-34-grados-en-siete-regiones-revisa-donde-y-cuando-se-registraran-las-temperaturas-mas-altas/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/11/21/lo-que-se-sabe-de-la-avioneta-caida-en-un-condominio-en-penalolen-problemas-en-su-tren-de-aterrizaje-y-cuatro-posibles-lesionados/"
+          "href": "https://www.theclinic.cl/2026/11/22/dmc-anuncia-hasta-34-grados-en-siete-regiones-revisa-donde-y-cuando-se-registraran-las-temperaturas-mas-altas/"
         }
       ],
-      "published": "Sat, 21 Nov 2026 21:34:32 +0000",
+      "published": "Sun, 22 Nov 2026 21:09:02 +0000",
       "published_parsed": [
         2026,
         11,
+        22,
         21,
-        21,
-        34,
-        32,
-        5,
-        325,
+        9,
+        2,
+        6,
+        326,
         0
       ],
-      "summary": "<p>El incidente ocurrió durante la tarde de este sábado en calle Valle de Casablanca, en la Región Metropolitana. Según información preliminar, la aeronave estaría vinculada al Club Aéreo del Personal de la PDI. Bomberos acudió al lugar y se reportan cuatro posibles lesionados.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/21/lo-que-se-sabe-de-la-avioneta-caida-en-un-condominio-en-penalolen-problemas-en-su-tren-de-aterrizaje-y-cuatro-posibles-lesionados/\">Lo que se sabe de la avioneta caída en un condominio en Peñalolén: problemas en su tren de aterrizaje y cuatro posibles lesionados</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>La Dirección Meteorológica de Chile (DMC) actualizó su aviso por altas temperaturas para siete regiones del país. El fenómeno comenzará el martes 24 de noviembre y se extenderá hasta el viernes 27. Las temperaturas podrían alcanzar los 34 °C en sectores de Valparaíso y los 33 °C en la Región Metropolitana. El pronóstico también contempla zonas de Coquimbo, O'Higgins, Maule, Ñuble y Biobío. El organismo atribuye el aumento de las temperaturas a una dorsal en altura.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/22/dmc-anuncia-hasta-34-grados-en-siete-regiones-revisa-donde-y-cuando-se-registraran-las-temperaturas-mas-altas/\">DMC anuncia hasta 34 grados en siete regiones: revisa dónde y cuándo se registrarán las temperaturas más altas</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>El incidente ocurrió durante la tarde de este sábado en calle Valle de Casablanca, en la Región Metropolitana. Según información preliminar, la aeronave estaría vinculada al Club Aéreo del Personal de la PDI. Bomberos acudió al lugar y se reportan cuatro posibles lesionados.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/21/lo-que-se-sabe-de-la-avioneta-caida-en-un-condominio-en-penalolen-problemas-en-su-tren-de-aterrizaje-y-cuatro-posibles-lesionados/\">Lo que se sabe de la avioneta caída en un condominio en Peñalolén: problemas en su tren de aterrizaje y cuatro posibles lesionados</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>La Dirección Meteorológica de Chile (DMC) actualizó su aviso por altas temperaturas para siete regiones del país. El fenómeno comenzará el martes 24 de noviembre y se extenderá hasta el viernes 27. Las temperaturas podrían alcanzar los 34 °C en sectores de Valparaíso y los 33 °C en la Región Metropolitana. El pronóstico también contempla zonas de Coquimbo, O'Higgins, Maule, Ñuble y Biobío. El organismo atribuye el aumento de las temperaturas a una dorsal en altura.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/22/dmc-anuncia-hasta-34-grados-en-siete-regiones-revisa-donde-y-cuando-se-registraran-las-temperaturas-mas-altas/\">DMC anuncia hasta 34 grados en siete regiones: revisa dónde y cuándo se registrarán las temperaturas más altas</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
           "term": "Ciudad",
           "scheme": null,
           "label": null
+        },
+        {
+          "term": "altas temperaturas",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "biobio",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "coquimbo",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Dirección Meteorológica de Chile",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "dmc",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Maule",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Ohiggins",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "región de valparaíso",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Región Metropolitana",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Santiago",
+          "scheme": null,
+          "label": null
         }
       ],
-      "title": "Lo que se sabe de la avioneta caída en un condominio en Peñalolén: problemas en su tren de aterrizaje y cuatro posibles lesionados",
+      "title": "DMC anuncia hasta 34 grados en siete regiones: revisa dónde y cuándo se registrarán las temperaturas más altas",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Lo que se sabe de la avioneta caída en un condominio en Peñalolén: problemas en su tren de aterrizaje y cuatro posibles lesionados"
+        "value": "DMC anuncia hasta 34 grados en siete regiones: revisa dónde y cuándo se registrarán las temperaturas más altas"
       }
     }
   },
@@ -110,37 +160,37 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p><strong>Cobreloa logró el ansiado regreso a Primera División,</strong> luego de imponerse en una infartante definición a penales a San Luis y <strong>proclamarse campeón de la Liga de Ascenso.</strong></p>\n\n\n\n<p>Para seguir leyendo esta nota <a href=\"https://www.triunfo.cl/regresa-a-primera-cobreloa-vencio-a-san-luis-en-los-penales-y-se-corono-campeon-de-la-liga-de-ascenso\"><strong>haz clic aquí, en el sitio web de Triunfo</strong></a>.</p>\n<p>The post <a href=\"https://www.lanacion.cl/regresa-a-primera-cobreloa-vencio-a-san-luis-en-los-penales-y-se-corono-campeon-de-la-liga-de-ascenso/\" rel=\"nofollow\">Regresa a Primera: Cobreloa venció a San Luis en los penales y se coronó campeón de la Liga de Ascenso </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p>Una verdadera fiesta se vivió este domingo en el Estadio Monumental, <strong>con Colo Colo estrenando su título de la Liga de Primera con una contundente goleada por 3-0 en el clásico ante Universidad Católica</strong>.</p>\n\n\n\n<p>Tras bajar su estrella número 35, el cuadro popular se presentó al encuentro con bajas importantísimas, como <strong>Arturo Vidal, Diego Ulloa y Javier Correa</strong>. Esto obligó al DT Fernando Ortiz a mover las piezas con una oncena inédita.</p>\n\n\n\n<p>Los cruzados, en tanto, venían con el ánimo por las nubes después de haber cosechado dos victorias consecutivas. Sin embargo, el triunfo de Universidad de Chile sobre O&#8217;Higgins les dejó tarea pendiente <strong>pensando en la disputa por quedarse con el codiciado cupo de Chile 2 para la Copa Libertadores.</strong></p>\n\n\n\n<p>Si bien la visita comenzó mejor y tuvo un par de acercamientos al área rival (5&#8242; y 11&#8242;), <strong>fueron los locales quienes tomaron la delantera gracias a un zapatazo de Maximiliano Romero</strong>. El ex O&#8217;Higgins aprovechó un balonazo de Álvaro Madrid, se fue en demanda del arco y fusiló al portero Darío Melo (14&#8242;).</p>\n\n\n\n<p>Los abrazos, eso sí, llegaron con delay, ya que inicialmente el juez de línea había cobrado un offside del atacante. No obstante, <strong>el VAR revirtió la decisión,</strong> desatando los festejos en el reducto de Macul.</p>\n\n\n\n<p>Aunque el forastero buscó los espacios para hacer daño y llegar a la igualdad (19&#8242;), <strong>el gol le dio tranquilidad al dueño de casa</strong>. A su vez, el elenco popular hizo lo posible para volver a doblegar al guardameta del equipo de la franja (27&#8242;, 30&#8242; y 36&#8242;).</p>\n\n\n\n<p>Sin embargo, sobre el final de la primera fracción se instaló la tensión en el recinto deportivo. Todo esto, luego de que la barra del Cacique empezara a lanzar bombas de estruendo, poniendo en riesgo la continuidad de las acciones. <strong>Pero finalmente el duelo siguió su curso sin problemas.</strong></p>\n\n\n\n<p>Y en el arranque del complemento, cuando parecía que la UC se animaría a ir por el empate, <strong>Madrid con una gran jugada individual eludió a Agustín Farías y envió un centro rasante que Romero conectó en la boca del arco</strong> para aumentar las cifras en favor de los pupilos de Ortiz (48&#8242;).</p>\n\n\n\n<p>Los albos contaron con buenas chances para haber ampliado las diferencias sin ser capaces de capitalizarlas (57&#8242; y 64&#8242;). En la vereda contraria,<strong> el conjunto precordillerano tuvo como principal estandarte a su capitán y goleador histórico Fernando Zampedri</strong>. El &#8220;Toro&#8221; erró un disparo (70&#8242;) y después se encontró con las manos de Vozinha en un remate de chilena (78&#8242;).</p>\n\n\n\n<p>Cuando el árbitro José Cabero se alistaba a anunciar el tiempo añadido, Jonathan Villagra rompió línea y <strong>habilitó a &#8220;Maxi&#8221; Romero, quien sacó un potente derechazo que sentenció la goleada </strong>con su tercer tanto personal de la jornada (88&#8242;).</p>\n\n\n\n<p>De esta manera, <strong>el flamante campeón del fútbol chileno alcanzó la línea de los 64 puntos, mientras que los estudiantiles se quedaron en el tercer puesto con 49 unidades. </strong>A falta de dos fechas, la UC quedó sumamente complicada en la lucha con Universidad de Chile. Y es que<strong> los azules son sublíderes con 54 puntos, y podrían sellar el Chile 2 el próximo fin de semana. </strong></p>\n\n\n\n<p>En el marco de la penúltima fecha del certamen, <strong>Colo Colo recibirá a Deportes La Serena</strong> desde las 20:30 horas del sábado 28 de noviembre. Un día más tarde, a las 18:00, <strong>Universidad Católica medirá fuerzas con Huachipato</strong> en el Claro Arena.</p>\n<p>The post <a href=\"https://www.lanacion.cl/colo-colo-estreno-su-estrella-35-con-una-contundente-goleada-en-el-clasico-ante-universidad-catolica/\" rel=\"nofollow\">Colo Colo estrenó su estrella 35 con una contundente goleada en el clásico ante Universidad Católica </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=421403",
-      "link": "https://www.lanacion.cl/regresa-a-primera-cobreloa-vencio-a-san-luis-en-los-penales-y-se-corono-campeon-de-la-liga-de-ascenso/",
+      "id": "https://www.lanacion.cl/?p=421407",
+      "link": "https://www.lanacion.cl/colo-colo-estreno-su-estrella-35-con-una-contundente-goleada-en-el-clasico-ante-universidad-catolica/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/regresa-a-primera-cobreloa-vencio-a-san-luis-en-los-penales-y-se-corono-campeon-de-la-liga-de-ascenso/"
+          "href": "https://www.lanacion.cl/colo-colo-estreno-su-estrella-35-con-una-contundente-goleada-en-el-clasico-ante-universidad-catolica/"
         }
       ],
-      "published": "Sun, 22 Nov 2026 00:12:16 +0000",
+      "published": "Sun, 22 Nov 2026 23:18:41 +0000",
       "published_parsed": [
         2026,
         11,
         22,
-        0,
-        12,
-        16,
+        23,
+        18,
+        41,
         6,
         326,
         0
       ],
-      "summary": "<p>Cobreloa logró el ansiado regreso a Primera División, luego de imponerse en una infartante definición a penales a San Luis y proclamarse campeón de la Liga de Ascenso. Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.</p>\n<p>The post <a href=\"https://www.lanacion.cl/regresa-a-primera-cobreloa-vencio-a-san-luis-en-los-penales-y-se-corono-campeon-de-la-liga-de-ascenso/\" rel=\"nofollow\">Regresa a Primera: Cobreloa venció a San Luis en los penales y se coronó campeón de la Liga de Ascenso </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>Una verdadera fiesta se vivió este domingo en el Estadio Monumental, con Colo Colo estrenando su título de la Liga de Primera con una contundente goleada por 3-0 en el clásico ante Universidad Católica. Tras bajar su estrella número 35, el cuadro popular se presentó al encuentro con bajas importantísimas, como Arturo Vidal, Diego Ulloa [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/colo-colo-estreno-su-estrella-35-con-una-contundente-goleada-en-el-clasico-ante-universidad-catolica/\" rel=\"nofollow\">Colo Colo estrenó su estrella 35 con una contundente goleada en el clásico ante Universidad Católica </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Cobreloa logró el ansiado regreso a Primera División, luego de imponerse en una infartante definición a penales a San Luis y proclamarse campeón de la Liga de Ascenso. Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.</p>\n<p>The post <a href=\"https://www.lanacion.cl/regresa-a-primera-cobreloa-vencio-a-san-luis-en-los-penales-y-se-corono-campeon-de-la-liga-de-ascenso/\" rel=\"nofollow\">Regresa a Primera: Cobreloa venció a San Luis en los penales y se coronó campeón de la Liga de Ascenso </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>Una verdadera fiesta se vivió este domingo en el Estadio Monumental, con Colo Colo estrenando su título de la Liga de Primera con una contundente goleada por 3-0 en el clásico ante Universidad Católica. Tras bajar su estrella número 35, el cuadro popular se presentó al encuentro con bajas importantísimas, como Arturo Vidal, Diego Ulloa [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/colo-colo-estreno-su-estrella-35-con-una-contundente-goleada-en-el-clasico-ante-universidad-catolica/\" rel=\"nofollow\">Colo Colo estrenó su estrella 35 con una contundente goleada en el clásico ante Universidad Católica </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
@@ -154,37 +204,32 @@
           "label": null
         },
         {
-          "term": "campeón",
+          "term": "Clásico",
           "scheme": null,
           "label": null
         },
         {
-          "term": "cobreloa",
+          "term": "colo colo",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Liga de Ascenso",
+          "term": "Liga de Primera",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Primera División",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "san luis",
+          "term": "universidad católica",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Regresa a Primera: Cobreloa venció a San Luis en los penales y se coronó campeón de la Liga de Ascenso",
+      "title": "Colo Colo estrenó su estrella 35 con una contundente goleada en el clásico ante Universidad Católica",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Regresa a Primera: Cobreloa venció a San Luis en los penales y se coronó campeón de la Liga de Ascenso"
+        "value": "Colo Colo estrenó su estrella 35 con una contundente goleada en el clásico ante Universidad Católica"
       }
     }
   },
@@ -213,55 +258,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261121",
-      "df_fechapl": "Sábado 21 de noviembre de 2026",
+      "df_fechap": "20261122",
+      "df_fechapl": "Domingo 22 de noviembre de 2026",
       "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261121/imag/foto_0000001420261121085125/WhatsAppImage20261119at11.jpg",
-      "df_horap": "21:00",
-      "df_tagnames": "Política,José Antonio Kast,gobierno,acusación constitucional",
-      "df_ts": "20261121085125",
+      "df_foto600": "/noticias/site/artic/20261120/imag/foto_0000000920261120151353.jpg",
+      "df_horap": "20:30",
+      "df_tagnames": "Supermercados,Walmart,PriceSmart,Inapi,Chile,empresas",
+      "df_ts": "20261120151353",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261121/pags/20261121085125.html",
-      "link": "http://www.df.cl/df-mas/politica/rabat-al-filo-de-la-hora",
+      "id": "http://www.df.cl/noticias/site/artic/20261120/pags/20261120151353.html",
+      "link": "http://www.df.cl/empresas/industria/pricesmart-logra-desactivar-disputa-con-walmart-involucraba-el-nombre-de",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/df-mas/politica/rabat-al-filo-de-la-hora"
+          "href": "http://www.df.cl/empresas/industria/pricesmart-logra-desactivar-disputa-con-walmart-involucraba-el-nombre-de"
         }
       ],
-      "published": "Sat, 21 Nov 2026 17:43:37 GMT",
+      "published": "Sun, 22 Nov 2026 18:30:57 GMT",
       "published_parsed": [
         2026,
         11,
-        21,
-        17,
-        43,
-        37,
-        5,
-        325,
+        22,
+        18,
+        30,
+        57,
+        6,
+        326,
         0
       ],
-      "summary": "Un mes después de que estallara el caso que lo tiene como el primer ministro de este Gobierno acusado constitucionalmente, Fernando Rabat es estrechamente asesorado y aconsejado por Presidencia, el Comité Político y la Secom. A escasos días de la hora de la verdad en la Cámara, su interna deja varias pistas.",
+      "summary": "La dueña de los supermercados Lider sostenía que ellos manejan la marca SmartPrice y eso podría confundir a los consumidores.",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "Un mes después de que estallara el caso que lo tiene como el primer ministro de este Gobierno acusado constitucionalmente, Fernando Rabat es estrechamente asesorado y aconsejado por Presidencia, el Comité Político y la Secom. A escasos días de la hora de la verdad en la Cámara, su interna deja varias pistas."
+        "value": "La dueña de los supermercados Lider sostenía que ellos manejan la marca SmartPrice y eso podría confundir a los consumidores."
       },
       "tags": [
         {
-          "term": "DF MAS",
+          "term": "Empresas",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Rabat, al filo de la hora",
+      "title": "PriceSmart logra desactivar disputa con Walmart: involucraba el nombre de la cadena",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Rabat, al filo de la hora"
+        "value": "PriceSmart logra desactivar disputa con Walmart: involucraba el nombre de la cadena"
       }
     }
   },
@@ -287,13 +332,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Lindy Sandoval",
+      "author": "Constanza Bello Caipillán",
       "author_detail": {
-        "name": "Lindy Sandoval"
+        "name": "Constanza Bello Caipillán"
       },
       "authors": [
         {
-          "name": "Lindy Sandoval"
+          "name": "Constanza Bello Caipillán"
         }
       ],
       "content": [
@@ -301,126 +346,136 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p><strong>España celebrará elecciones generales anticipadas el domingo 29 de noviembre.</strong> Más de 38,7 millones de personas están habilitadas para votar en unos comicios que renovarán el Congreso de los Diputados y los escaños del Senado que se eligen por voto directo. </p>\n<p>El socialista <strong>Pedro Sánchez</strong> busca seguir al frente del Gobierno y el conservador <strong>Alberto Núñez Feijóo</strong> aspira a llegar a La Moncloa tras haber ganado las elecciones de 2023 sin conseguir los apoyos para ser investido. </p>\n<h2>Por qué se adelantaron las elecciones</h2>\n<p>Sánchez anunció el 5 de octubre la disolución de las Cortes y adelantó una elección prevista para 2027. </p>\n<p>El anuncio llegó después de que el Congreso derogara decretos sobre vivienda con los votos en contra del <strong>Partido Popular</strong> (PP), <strong>Vox</strong>, <strong>Junts</strong> y <strong>Unión del Pueblo Navarro</strong> (UPN). </p>\n<p>La derrota parlamentaria puso el <strong>acceso a la vivienda</strong> en el centro de la disputa electoral. </p>\n<p><div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/internacional/europa/2026/11/20/aunque-vivan-en-espana-mantienen-suspendido-el-voto-a-mas-de-163-mil-descendientes-de-exiliados.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/internacional/europa/2026/11/20/aunque-vivan-en-espana-mantienen-suspendido-el-voto-a-mas-de-163-mil-descendientes-de-exiliados.shtml\">Aunque vivan en España: mantienen suspendido el voto a más de 163 mil descendientes de exiliados</a>\n\t\t<span style=\"display: none;\">Viernes 20 Noviembre, 2026 | 17:46</span>\n\t</div>\n</div><br />\n[/LeeTambien]</p>\n<h2>Quiénes compiten y qué dicen las encuestas</h2>\n<p>Los tres principales partidos repiten sus candidaturas. Feijóo encabeza al PP, Sánchez al Partido Socialista Obrero Español (PSOE) y Santiago Abascal a Vox. </p>\n<p>A la izquierda del PSOE, el Frente Amplio se incorpora a la contienda, mientras que las formaciones regionales podrían volver a ser decisivas si los principales bloques quedan lejos de la mayoría. </p>\n<p>El promedio de encuestas de RTVE al 18 de noviembre proyectaba al PP como primera fuerza, con 129 diputados, seguido por el PSOE, con 112. <strong>En esa estimación, PP y Vox sumarían 193 escaños, por encima de los 176 de la mayoría absoluta.</strong> </p>\n<p>La cifra proyecta cuántos diputados podrían reunir ambas fuerzas y un eventual acuerdo se negociaría después de la votación. </p>\n<h2>Por qué importan los 176 escaños</h2>\n<p>Los electores eligen a los 350 miembros del Congreso, que luego votan la investidura del presidente del Gobierno. En la primera votación, el candidato necesita 176 votos a favor. </p>\n<p>Si no alcanza ese umbral, se realiza una segunda votación 48 horas después, en la que basta con obtener más votos a favor que en contra. </p>\n<p>Las abstenciones, por lo tanto, también pueden facilitar una investidura. </p>\n<p>El resultado de 2023 muestra por qué el primer lugar puede ser insuficiente. El PP ganó con 137 diputados, pero Feijóo no consiguió los votos necesarios para gobernar. </p>\n<p>Sánchez logró seguir en el cargo al reunir apoyos en el Congreso. Por eso, <span class=\"destacador\">el dato a seguir la noche del 29-N será cuántos escaños suma cada bloque y qué partidos quedan en posición de inclinar la investidura</span>.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/europa/2026/11/22/elecciones-en-espana-las-claves-del-29-n-y-los-pactos-que-definiran-quien-gobierna.shtml\" rel=\"nofollow\">Elecciones en España: las claves del 29-N y los pactos que definirán quién gobierna</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>Un insólito momento quedó registrado en el reciente episodio de <em>&#8216;MasterChef Chile&#8217;,</em> otra vez protagonizado por <strong>Regina</strong>, la medium y aspirante a cocinera de 37 años.</p>\n<p>En el capítulo, los participantes debían elaborar un plato de la cocina tex-mex utilizando como ingrediente obligatorio un tipo de queso de un auspiciador. </p>\n<p>Pero no solo eso, pues además varios hicieron valer sus beneficios para congelar a sus contrincantes o ganar más tiempo, lo que dejó una ajustada competencia.</p>\n<p>Tras una elección al azar, Regina tuvo que cocinar junto a Julio Canessa y Giannina Ortiz, hermana del comediante Alex Ortiz, ambos quienes ingresaron a la competencia en el repechaje.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/dopamina/2026/11/19/el-sabor-era-horroroso-participante-de-masterchef-quedo-al-borde-de-la-eliminacion-tras-polemico-pl.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/dopamina/2026/11/19/el-sabor-era-horroroso-participante-de-masterchef-quedo-al-borde-de-la-eliminacion-tras-polemico-pl.shtml\">\"El sabor era horroroso\": participante de MasterChef quedó al borde de eliminación tras polémico plato</a>\n\t\t<span style=\"display: none;\">Jueves 19 Noviembre, 2026 | 07:35</span>\n\t</div>\n</div>\n<p>Pese a las dificultades, el trío logró preparar nachos, tacos y quesadillas, pero se les olvidó lo principal en uno de los platos: el queso.</p>\n<p>La participante de 37 años se percató de aquello cuando la animadora ya había pedido que todos pusieran las manos en alto, pues el tiempo había terminado, por lo que Giannina le reprochó: <strong>&#8220;Te dije que lo ponía yo y no me dejaste. No me dejas hacer las cosas; hubiésemos tenido eso listo. La base es el cheddar y no lo tenemos&#8221;</strong>, le reclamó.</p>\n<p>&#8220;Ya, yo voy a asumir la culpa&#8221;, le aseguró Regina dándole la razón, pero por si fuera poco intentó buscar una solución que salió muy mal.</p>\n<p>&#8220;Voy a hacer algo y tú quédate callada&#8221;, agregó la aspirante a <a href=\"https://www.tvn.cl/programas/masterchef\" rel=\"noopener\" target=\"_blank\"><em>&#8216;MasterChef&#8217;</em></a>. Acto seguido, a vista y paciencia de todos, Regina tomó una cuchara y esparció queso fundido sobre su plato.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/dopamina/2026/11/18/valentina-abarca-sorprendio-con-ausencia-en-masterchef-chile-debera-enfrentar-prueba-de-eliminacion.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/dopamina/2026/11/18/valentina-abarca-sorprendio-con-ausencia-en-masterchef-chile-debera-enfrentar-prueba-de-eliminacion.shtml\">Valentina Abarca sorprendió con ausencia en MasterChef Chile: deberá enfrentar prueba de eliminación</a>\n\t\t<span style=\"display: none;\">Miércoles 18 Noviembre, 2026 | 09:24</span>\n\t</div>\n</div>\n<p>Como era obvio, la chef Fernanda inmediatamente la reprendió: <strong>&#8220;¿Por qué pusieron ahora la salsa?&#8221;</strong>. &#8220;Sí tenía&#8221;, se defendió la tarotista, pero eso era falso. </p>\n<p>&#8220;Pusieron ahora la salsa fuera del tiempo y eso es hacer trampa, chicas, eso no se hace&#8221;, la reprendió la chef chilena.</p>\n<p>Más adelante, cuando fue el momento de evaluar su plato, el jurado fue aún más severo, pues decidieron descalificarlos y enviarlos directo a la prueba de nominación. </p>\n<p>&#8220;A partir del minuto 10 los empieza a cantar Mari (Godoy) y ustedes, lamentablemente, fuera de tiempo, que nosotros además los vimos y está registrado, y no solamente lo vio jurado, sino jurado invitado, y también Mari, de que agregaron ingredientes en su preparación fuera del tiempo de la competencia. Lamentablemente, eso en un concurso aquí y en cualquier sitio los deja descalificados; por tanto, no vamos a poder probar, porque además era el ingrediente principal y que además lo pusieron con trampa, por tanto, no lo podemos probar. Quedan descalificados y <strong>pasan directamente a la prueba de nominación</strong>&#8220;, les anunció.</p>\n<p>En su defensa, la participante aseguró que hizo aquello porque &#8220;se sentía traviesa&#8221;, pero su actuar no dejó para nada felices a sus compañeros de equipo.</p>\n<p>&#8220;A mí me da mucha vergüenza, me da lata, pero Regina se lo toma para chiste&#8221;, le dijo en su cara la hermana del comediante, quien también pasó a nominación.</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">#MasterChefTexMex  eso es el karma sita Regina tomate en serio la competencia mujer déjate de ser payasa https://t.co/ZekC8garBL</p>\n<p>&mdash; Doña malas pulgas insolente <img alt=\"🤦🏽‍♀️\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f926-1f3fd-200d-2640-fe0f.png\" style=\"height: 1em;\" /> (@Insolentessssss) <a href=\"https://x.com/Insolentessssss/status/2124710194517098701?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p></p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"pt\">Giannina está emperradísima con Regina amooooo <img alt=\"🤭\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f92d.png\" style=\"height: 1em;\" /><img alt=\"🤭\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f92d.png\" style=\"height: 1em;\" /><img alt=\"🤭\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f92d.png\" style=\"height: 1em;\" /><img alt=\"🤭\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f92d.png\" style=\"height: 1em;\" /><img alt=\"🙊\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f64a.png\" style=\"height: 1em;\" /><img alt=\"🙊\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f64a.png\" style=\"height: 1em;\" /><img alt=\"🙊\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f64a.png\" style=\"height: 1em;\" /><img alt=\"🙊\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f64a.png\" style=\"height: 1em;\" /><img alt=\"😬\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f62c.png\" style=\"height: 1em;\" /><img alt=\"😬\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f62c.png\" style=\"height: 1em;\" /><img alt=\"😬\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f62c.png\" style=\"height: 1em;\" /><img alt=\"😬\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f62c.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🔥\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png\" style=\"height: 1em;\" /><img alt=\"🔥\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png\" style=\"height: 1em;\" /><img alt=\"🔥\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png\" style=\"height: 1em;\" /><img alt=\"🔥\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png\" style=\"height: 1em;\" /><br />\n#MasterChefTexMex #MasterChefChile https://t.co/QKgJ0UBYVS</p>\n<p>&mdash; Cristian Retamales (@CristianReta03) <a href=\"https://x.com/CristianReta03/status/2124698328155705651?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p></p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">#MasterChefChile Regina perjudico a sus compañeros .<br />\nEso es ser mala compañera<br />\n#MasterChefTexMex</p>\n<p>&mdash; <img alt=\"🎬\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f3ac.png\" style=\"height: 1em;\" />María Eugenia<img alt=\"🌳\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f333.png\" style=\"height: 1em;\" /><img alt=\"🐾\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f43e.png\" style=\"height: 1em;\" /><img alt=\"📚\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f4da.png\" style=\"height: 1em;\" /><img alt=\"🇨🇱\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f1e8-1f1f1.png\" style=\"height: 1em;\" /> (@tobitagatita) <a href=\"https://x.com/tobitagatita/status/2124698283549368322?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p></p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">Regina en modo Valentina boicoteando a sus compañeros para después salvarse sola.<br />\n#MasterChefTexMex</p>\n<p>&mdash; Cata (@La_GranPrima) <a href=\"https://x.com/La_GranPrima/status/2124698202926350721?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p></p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">Excelente parada de carro de la Chef Fernanda. Regina es una IDIOTA y una mala compañera con su equipo. Debió hasta ser nominada ella y por arrastre, su equipo por hacer trampa y poner ingredientes fuera de tiempo.</p>\n<p>#MasterChefChile #MasterChefTexMex https://t.co/jmABwOEO5p</p>\n<p>&mdash; Vicente Antonio Arteaga Aedo  (@ArteagaAedo) <a href=\"https://x.com/ArteagaAedo/status/2124697917415989660?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml\" rel=\"nofollow\">&quot;Mala compañera&quot;: Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=7028023",
-      "link": "https://www.biobiochile.cl/noticias/internacional/europa/2026/11/22/elecciones-en-espana-las-claves-del-29-n-y-los-pactos-que-definiran-quien-gobierna.shtml",
+      "id": "https://www.biobiochile.cl/?p=7028555",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/internacional/europa/2026/11/22/elecciones-en-espana-las-claves-del-29-n-y-los-pactos-que-definiran-quien-gobierna.shtml"
+          "href": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml"
         }
       ],
-      "published": "Sun, 22 Nov 2026 04:08:28 +0000",
+      "published": "Mon, 23 Nov 2026 04:03:54 +0000",
       "published_parsed": [
         2026,
         11,
-        22,
+        23,
         4,
-        8,
-        28,
-        6,
-        326,
+        3,
+        54,
+        0,
+        327,
         0
       ],
-      "summary": "<p>España celebrará elecciones generales anticipadas el domingo 29 de noviembre. Más de 38,7 millones de personas están habilitadas para votar en unos comicios que renovarán el Congreso de los Diputados y los escaños del Senado que se eligen por voto directo. El socialista Pedro Sánchez busca seguir al frente del Gobierno y el conservador Alberto &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/europa/2026/11/22/elecciones-en-espana-las-claves-del-29-n-y-los-pactos-que-definiran-quien-gobierna.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Elecciones en España: las claves del 29-N y los pactos que definirán quién gobierna\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/europa/2026/11/22/elecciones-en-espana-las-claves-del-29-n-y-los-pactos-que-definiran-quien-gobierna.shtml\" rel=\"nofollow\">Elecciones en España: las claves del 29-N y los pactos que definirán quién gobierna</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>Un insólito momento quedó registrado en el reciente episodio de &#8216;MasterChef Chile&#8217;, otra vez protagonizado por Regina, la medium y aspirante a cocinera de 37 años. En el capítulo, los participantes debían elaborar un plato de la cocina tex-mex utilizando como ingrediente obligatorio un tipo de queso de un auspiciador. Pero no solo eso, pues &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"\"Mala compañera\": Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml\" rel=\"nofollow\">&quot;Mala compañera&quot;: Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>España celebrará elecciones generales anticipadas el domingo 29 de noviembre. Más de 38,7 millones de personas están habilitadas para votar en unos comicios que renovarán el Congreso de los Diputados y los escaños del Senado que se eligen por voto directo. El socialista Pedro Sánchez busca seguir al frente del Gobierno y el conservador Alberto &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/internacional/europa/2026/11/22/elecciones-en-espana-las-claves-del-29-n-y-los-pactos-que-definiran-quien-gobierna.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Elecciones en España: las claves del 29-N y los pactos que definirán quién gobierna\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/internacional/europa/2026/11/22/elecciones-en-espana-las-claves-del-29-n-y-los-pactos-que-definiran-quien-gobierna.shtml\" rel=\"nofollow\">Elecciones en España: las claves del 29-N y los pactos que definirán quién gobierna</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>Un insólito momento quedó registrado en el reciente episodio de &#8216;MasterChef Chile&#8217;, otra vez protagonizado por Regina, la medium y aspirante a cocinera de 37 años. En el capítulo, los participantes debían elaborar un plato de la cocina tex-mex utilizando como ingrediente obligatorio un tipo de queso de un auspiciador. Pero no solo eso, pues &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"\"Mala compañera\": Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml\" rel=\"nofollow\">&quot;Mala compañera&quot;: Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "Europa",
+          "term": "TV",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Alberto Núñez Feijóo",
+          "term": "cocina chilena",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Congreso de los Diputados",
+          "term": "Cocina tex-mex",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Elecciones Generales",
+          "term": "Competencia de cocina",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Encuestas electorales",
+          "term": "Descalificación",
           "scheme": null,
           "label": null
         },
         {
-          "term": "España",
+          "term": "Espectáculos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "investidura presidencial",
+          "term": "Fernanda Fuentes{",
           "scheme": null,
           "label": null
         },
         {
-          "term": "La Moncloa",
+          "term": "Giannina Ortiz",
           "scheme": null,
           "label": null
         },
         {
-          "term": "mayoria absoluta",
+          "term": "Julio Canessa",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Pactos de gobierno",
+          "term": "MasterChef Chile",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Partido Popular",
+          "term": "MasterChef Tex-Mex",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Pedro Sánchez",
+          "term": "Programa de Televisión",
           "scheme": null,
           "label": null
         },
         {
-          "term": "PSOE",
+          "term": "Prueba de nominación",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Senado de España",
+          "term": "Queso cheddar",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Sistema parlamentario",
+          "term": "Reality culinario",
           "scheme": null,
           "label": null
         },
         {
-          "term": "VOX",
+          "term": "Regina MasterChef",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "seleccion-tendencias",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Trampa en competencia",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Elecciones en España: las claves del 29-N y los pactos que definirán quién gobierna",
+      "title": "\"Mala compañera\": Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Elecciones en España: las claves del 29-N y los pactos que definirán quién gobierna"
+        "value": "\"Mala compañera\": Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas"
       }
     }
   }
