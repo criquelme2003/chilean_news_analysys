@@ -20,107 +20,57 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Victoria García",
+      "author": "Marcelo Silva",
       "author_detail": {
-        "name": "Victoria García"
+        "name": "Marcelo Silva"
       },
       "authors": [
         {
-          "name": "Victoria García"
+          "name": "Marcelo Silva"
         }
       ],
       "guidislink": false,
-      "id": "https://www.theclinic.cl/?p=1825187",
-      "link": "https://www.theclinic.cl/2026/11/22/dmc-anuncia-hasta-34-grados-en-siete-regiones-revisa-donde-y-cuando-se-registraran-las-temperaturas-mas-altas/",
+      "id": "https://www.theclinic.cl/?p=1825688",
+      "link": "https://www.theclinic.cl/2026/11/23/diputados-envian-a-comision-mixta-el-proyecto-de-presupuesto-para-2027/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.theclinic.cl/2026/11/22/dmc-anuncia-hasta-34-grados-en-siete-regiones-revisa-donde-y-cuando-se-registraran-las-temperaturas-mas-altas/"
+          "href": "https://www.theclinic.cl/2026/11/23/diputados-envian-a-comision-mixta-el-proyecto-de-presupuesto-para-2027/"
         }
       ],
-      "published": "Sun, 22 Nov 2026 21:09:02 +0000",
+      "published": "Tue, 24 Nov 2026 02:05:34 +0000",
       "published_parsed": [
         2026,
         11,
-        22,
-        21,
-        9,
+        24,
         2,
-        6,
-        326,
+        5,
+        34,
+        1,
+        328,
         0
       ],
-      "summary": "<p>La Dirección Meteorológica de Chile (DMC) actualizó su aviso por altas temperaturas para siete regiones del país. El fenómeno comenzará el martes 24 de noviembre y se extenderá hasta el viernes 27. Las temperaturas podrían alcanzar los 34 °C en sectores de Valparaíso y los 33 °C en la Región Metropolitana. El pronóstico también contempla zonas de Coquimbo, O'Higgins, Maule, Ñuble y Biobío. El organismo atribuye el aumento de las temperaturas a una dorsal en altura.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/22/dmc-anuncia-hasta-34-grados-en-siete-regiones-revisa-donde-y-cuando-se-registraran-las-temperaturas-mas-altas/\">DMC anuncia hasta 34 grados en siete regiones: revisa dónde y cuándo se registrarán las temperaturas más altas</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
+      "summary": "<p>Si bien la Cámara Baja aprobó de forma unánime la gran mayoría de las partidas, se rechazaron enmiendas en 10 materias, incluyendo Seguridad Pública, Vivienda, Congreso Nacional, entre otras. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/23/diputados-envian-a-comision-mixta-el-proyecto-de-presupuesto-para-2027/\">Diputados envían a Comisión Mixta el proyecto de Presupuesto para 2027</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>La Dirección Meteorológica de Chile (DMC) actualizó su aviso por altas temperaturas para siete regiones del país. El fenómeno comenzará el martes 24 de noviembre y se extenderá hasta el viernes 27. Las temperaturas podrían alcanzar los 34 °C en sectores de Valparaíso y los 33 °C en la Región Metropolitana. El pronóstico también contempla zonas de Coquimbo, O'Higgins, Maule, Ñuble y Biobío. El organismo atribuye el aumento de las temperaturas a una dorsal en altura.</p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/22/dmc-anuncia-hasta-34-grados-en-siete-regiones-revisa-donde-y-cuando-se-registraran-las-temperaturas-mas-altas/\">DMC anuncia hasta 34 grados en siete regiones: revisa dónde y cuándo se registrarán las temperaturas más altas</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
+        "value": "<p>Si bien la Cámara Baja aprobó de forma unánime la gran mayoría de las partidas, se rechazaron enmiendas en 10 materias, incluyendo Seguridad Pública, Vivienda, Congreso Nacional, entre otras. </p>\n<p>The post <a href=\"https://www.theclinic.cl/2026/11/23/diputados-envian-a-comision-mixta-el-proyecto-de-presupuesto-para-2027/\">Diputados envían a Comisión Mixta el proyecto de Presupuesto para 2027</a> appeared first on <a href=\"https://www.theclinic.cl\">The Clinic</a>.</p>"
       },
       "tags": [
         {
-          "term": "Ciudad",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "altas temperaturas",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "biobio",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "coquimbo",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Dirección Meteorológica de Chile",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "dmc",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Maule",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Ohiggins",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "región de valparaíso",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Región Metropolitana",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Santiago",
+          "term": "Negocios",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "DMC anuncia hasta 34 grados en siete regiones: revisa dónde y cuándo se registrarán las temperaturas más altas",
+      "title": "Diputados envían a Comisión Mixta el proyecto de Presupuesto para 2027",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "DMC anuncia hasta 34 grados en siete regiones: revisa dónde y cuándo se registrarán las temperaturas más altas"
+        "value": "Diputados envían a Comisión Mixta el proyecto de Presupuesto para 2027"
       }
     }
   },
@@ -146,13 +96,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Leonardo Medina",
+      "author": "Patricia Schüller Gamboa",
       "author_detail": {
-        "name": "Leonardo Medina"
+        "name": "Patricia Schüller Gamboa"
       },
       "authors": [
         {
-          "name": "Leonardo Medina"
+          "name": "Patricia Schüller Gamboa"
         }
       ],
       "content": [
@@ -160,76 +110,81 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>Una verdadera fiesta se vivió este domingo en el Estadio Monumental, <strong>con Colo Colo estrenando su título de la Liga de Primera con una contundente goleada por 3-0 en el clásico ante Universidad Católica</strong>.</p>\n\n\n\n<p>Tras bajar su estrella número 35, el cuadro popular se presentó al encuentro con bajas importantísimas, como <strong>Arturo Vidal, Diego Ulloa y Javier Correa</strong>. Esto obligó al DT Fernando Ortiz a mover las piezas con una oncena inédita.</p>\n\n\n\n<p>Los cruzados, en tanto, venían con el ánimo por las nubes después de haber cosechado dos victorias consecutivas. Sin embargo, el triunfo de Universidad de Chile sobre O&#8217;Higgins les dejó tarea pendiente <strong>pensando en la disputa por quedarse con el codiciado cupo de Chile 2 para la Copa Libertadores.</strong></p>\n\n\n\n<p>Si bien la visita comenzó mejor y tuvo un par de acercamientos al área rival (5&#8242; y 11&#8242;), <strong>fueron los locales quienes tomaron la delantera gracias a un zapatazo de Maximiliano Romero</strong>. El ex O&#8217;Higgins aprovechó un balonazo de Álvaro Madrid, se fue en demanda del arco y fusiló al portero Darío Melo (14&#8242;).</p>\n\n\n\n<p>Los abrazos, eso sí, llegaron con delay, ya que inicialmente el juez de línea había cobrado un offside del atacante. No obstante, <strong>el VAR revirtió la decisión,</strong> desatando los festejos en el reducto de Macul.</p>\n\n\n\n<p>Aunque el forastero buscó los espacios para hacer daño y llegar a la igualdad (19&#8242;), <strong>el gol le dio tranquilidad al dueño de casa</strong>. A su vez, el elenco popular hizo lo posible para volver a doblegar al guardameta del equipo de la franja (27&#8242;, 30&#8242; y 36&#8242;).</p>\n\n\n\n<p>Sin embargo, sobre el final de la primera fracción se instaló la tensión en el recinto deportivo. Todo esto, luego de que la barra del Cacique empezara a lanzar bombas de estruendo, poniendo en riesgo la continuidad de las acciones. <strong>Pero finalmente el duelo siguió su curso sin problemas.</strong></p>\n\n\n\n<p>Y en el arranque del complemento, cuando parecía que la UC se animaría a ir por el empate, <strong>Madrid con una gran jugada individual eludió a Agustín Farías y envió un centro rasante que Romero conectó en la boca del arco</strong> para aumentar las cifras en favor de los pupilos de Ortiz (48&#8242;).</p>\n\n\n\n<p>Los albos contaron con buenas chances para haber ampliado las diferencias sin ser capaces de capitalizarlas (57&#8242; y 64&#8242;). En la vereda contraria,<strong> el conjunto precordillerano tuvo como principal estandarte a su capitán y goleador histórico Fernando Zampedri</strong>. El &#8220;Toro&#8221; erró un disparo (70&#8242;) y después se encontró con las manos de Vozinha en un remate de chilena (78&#8242;).</p>\n\n\n\n<p>Cuando el árbitro José Cabero se alistaba a anunciar el tiempo añadido, Jonathan Villagra rompió línea y <strong>habilitó a &#8220;Maxi&#8221; Romero, quien sacó un potente derechazo que sentenció la goleada </strong>con su tercer tanto personal de la jornada (88&#8242;).</p>\n\n\n\n<p>De esta manera, <strong>el flamante campeón del fútbol chileno alcanzó la línea de los 64 puntos, mientras que los estudiantiles se quedaron en el tercer puesto con 49 unidades. </strong>A falta de dos fechas, la UC quedó sumamente complicada en la lucha con Universidad de Chile. Y es que<strong> los azules son sublíderes con 54 puntos, y podrían sellar el Chile 2 el próximo fin de semana. </strong></p>\n\n\n\n<p>En el marco de la penúltima fecha del certamen, <strong>Colo Colo recibirá a Deportes La Serena</strong> desde las 20:30 horas del sábado 28 de noviembre. Un día más tarde, a las 18:00, <strong>Universidad Católica medirá fuerzas con Huachipato</strong> en el Claro Arena.</p>\n<p>The post <a href=\"https://www.lanacion.cl/colo-colo-estreno-su-estrella-35-con-una-contundente-goleada-en-el-clasico-ante-universidad-catolica/\" rel=\"nofollow\">Colo Colo estrenó su estrella 35 con una contundente goleada en el clásico ante Universidad Católica </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+          "value": "<p>El <strong>secretario general de la OTAN, Mark Rutte</strong>, reiteró este lunes que <strong>Ucrania tiene la perspectiva de ingresar en la Alianza Atlántica, pero no hay consenso sobre la adhesión</strong>. Mientras que el <strong>presidente ucraniano, Volodímir Zelenski,</strong> reclamó que la organización aclare el tipo de garantías de seguridad que ofrecerá a Kiev para el escenario posguerra, después de que se haya instalado la idea de que serán similar a la cláusula de defensa mutua de la OTAN.<br /><br />En el marco de la Asamblea Parlamentaria de la OTAN celebrada en Berlín, Rutte subrayó la postura tradicional del bloque militar. Incidiendo en que <strong>Kiev tiene la &#8220;perspectiva&#8221; de la adhesión</strong>. Pero que <strong>actualmente &#8220;no hay unanimidad&#8221; entre los aliados para completar el ingreso.<br /></strong><br /><strong>&#8220;La adhesión de Ucrania a la OTAN es una posición que la Alianza mantiene desde hace mucho tiempo y sigue siendo su postura actual&#8221;,</strong> indicó. Reiteró que este debate le corresponde únicamente a los miembros de la OTAN.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Rutte defendió el trabajo &#8220;hercúleo&#8221; de Estados Unidos</h2>\n\n\n\n<p>Asimismo, Rutte defendió el trabajo &#8220;hercúleo&#8221; de Estados Unidos en el marco de los contactos con Rusia para poner fin a la guerra lanzada por Vladimir Putin en febrero 2022. Así como para incluir a representantes europeos en próximas rondas de las conversaciones.<br /><br />En todo caso, añadió que en dichas negociaciones que &#8220;todavía tienen que comenzar&#8221;, no estará sobre la mesa la postura militar de la OTAN. &#8220;<strong>Lo que no puede ocurrir es que nos obliguen a retroceder a las fronteras de la OTAN de 1997, ni que otros decidan sobre nuestra postura, en lugar de que sean los propios aliados quienes lo hagan&#8221;,</strong> señaló.<br /><br />Estas declaraciones llegan en pleno debate sobre el tipo de mecanismos de seguridad que ofrecerían los países europeos a Kiev en el escenario posguerra. Después de que los enviados de Estados Unidos en las conversaciones con Rusia hayan recalcado que sobre la mesa están garantías similares al artículo 5 de la OTAN, que consagra la asistencia mutua frente a un ataque.<br /></p>\n\n\n\n<p>Junto a Rutte, el <strong>canciller alemán, Friedrich Merz</strong>, apostó porque las garantías de seguridad para Kiev equivalgan a su pertenencia a la OTAN. Tras reconocer el &#8220;error&#8221; que supuso en la cumbre de Bucarest en 2008 no admitir a Ucrania como miembro y solo reconocer su perspectiva euroatlántica, posición que mantiene a día de hoy el bloque militar.<br /><br />&#8220;Si Ucrania hubiera ingresado en la OTAN, probablemente esta guerra se habría evitado&#8221;, apuntó. <strong>Esto ras recoger el guante del presidente galo, Emmanuel Macron,</strong> que ha sacado a la palestra la necesidad de que Ucrania entre en la OTAN.<br /><br />&#8220;Estas garantías deberían ser similares a las que contempla el artículo 5&#8221;, dijo Merz en pleno debate sobre el tipo de asistencia militar con la que debe contar Kiev cuando acabe el conflicto.<br /><br />Apostó porque las garantías &#8220;se acerquen mucho a la adhesión a la OTAN&#8221;. &#8220;No puedo imaginar un futuro para Ucrania sin unas garantías de seguridad de este tipo, que necesita urgentemente&#8221;, explicó tras ahondar en que la ayuda a Ucrania también ofrece certidumbre en materia de seguridad a todo el flanco este.</p>\n\n\n\n<h2 class=\"wp-block-heading\">&#8220;Necesitamos respuestas a algunas preguntas muy claras&#8221;</h2>\n\n\n\n<p>El presidente ucraniano llamó en el mismo evento a que los aliados aclaren el ofrecimiento a Ucrania en materia de seguridad. &#8220;Necesitamos respuestas a algunas preguntas muy claras&#8221;, dijo.<br /><br /><strong>&#8220;¿Qué países apoyarán a Ucrania si vuelve a ser atacada?</strong> ¿Qué harán exactamente nuestros socios en respuesta? ¿Qué tropas estarán desplegadas de antemano en nuestro territorio? ¿Cuánto costará todo esto? Y, ¿realmente funcionará?&#8221;, se cuestionó.<br /><br />Zelenski lamentó que <strong>hasta el momento no hay &#8220;respuestas claras y concretas</strong>&#8220;. Esto a una propuesta como un mecanismo de seguridad para garantizar la paz en el escenario posguerra en Ucrania.<br /><br />&#8220;Estamos haciendo todo lo posible para asegurarnos de obtener esas respuestas&#8221;, aseguró, al tiempo que defendió la experiencia y capacidad del Ejército ucraniano como aval para ingresar en la OTAN y y &#8220;hacer que la experiencia pase a formar parte de la propia experiencia de la OTAN&#8221;.<br /><br />Asimismo, atacó a Rusia, al señalar que su historia reciente indica que representa una &#8220;amenaza&#8221; a la seguridad europea. &#8220;¿Hay alguien aquí que todavía crea que algún día Rusia volverá a ser, sencillamente, un país pacífico y seguro?&#8221;, se preguntó.<br /><br />El mandatario ucraniano afirmó así que Rusia ha protagonizado <strong>&#8220;guerras frías, guerras híbridas, guerras comerciales, guerras ideológicas, guerras abiertas&#8221; contra el área euroatlántica</strong>. &#8220;Distintas formas, pero siempre amenazas. Y no hay motivos para creer que Rusia vaya a convertirse en un país diferente dentro de uno o cinco años&#8221;, recalcó. Aseguró que Kiev debe disponer de &#8220;los recursos suficientes para defenderse&#8221;.</p>\n<p>The post <a href=\"https://www.lanacion.cl/otan-mantiene-abierta-opcion-de-ingreso-de-ucrania-pero-sin-consenso/\" rel=\"nofollow\">OTAN mantiene abierta opción de ingreso de Ucrania, pero sin consenso</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.lanacion.cl/?p=421407",
-      "link": "https://www.lanacion.cl/colo-colo-estreno-su-estrella-35-con-una-contundente-goleada-en-el-clasico-ante-universidad-catolica/",
+      "id": "https://www.lanacion.cl/?p=421530",
+      "link": "https://www.lanacion.cl/otan-mantiene-abierta-opcion-de-ingreso-de-ucrania-pero-sin-consenso/",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.lanacion.cl/colo-colo-estreno-su-estrella-35-con-una-contundente-goleada-en-el-clasico-ante-universidad-catolica/"
+          "href": "https://www.lanacion.cl/otan-mantiene-abierta-opcion-de-ingreso-de-ucrania-pero-sin-consenso/"
         }
       ],
-      "published": "Sun, 22 Nov 2026 23:18:41 +0000",
+      "published": "Mon, 23 Nov 2026 21:39:37 +0000",
       "published_parsed": [
         2026,
         11,
-        22,
         23,
-        18,
-        41,
-        6,
-        326,
+        21,
+        39,
+        37,
+        0,
+        327,
         0
       ],
-      "summary": "<p>Una verdadera fiesta se vivió este domingo en el Estadio Monumental, con Colo Colo estrenando su título de la Liga de Primera con una contundente goleada por 3-0 en el clásico ante Universidad Católica. Tras bajar su estrella número 35, el cuadro popular se presentó al encuentro con bajas importantísimas, como Arturo Vidal, Diego Ulloa [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/colo-colo-estreno-su-estrella-35-con-una-contundente-goleada-en-el-clasico-ante-universidad-catolica/\" rel=\"nofollow\">Colo Colo estrenó su estrella 35 con una contundente goleada en el clásico ante Universidad Católica </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
+      "summary": "<p>El secretario general de la OTAN, Mark Rutte, reiteró este lunes que Ucrania tiene la perspectiva de ingresar en la Alianza Atlántica, pero no hay consenso sobre la adhesión. Mientras que el presidente ucraniano, Volodímir Zelenski, reclamó que la organización aclare el tipo de garantías de seguridad que ofrecerá a Kiev para el escenario posguerra, [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/otan-mantiene-abierta-opcion-de-ingreso-de-ucrania-pero-sin-consenso/\" rel=\"nofollow\">OTAN mantiene abierta opción de ingreso de Ucrania, pero sin consenso</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Una verdadera fiesta se vivió este domingo en el Estadio Monumental, con Colo Colo estrenando su título de la Liga de Primera con una contundente goleada por 3-0 en el clásico ante Universidad Católica. Tras bajar su estrella número 35, el cuadro popular se presentó al encuentro con bajas importantísimas, como Arturo Vidal, Diego Ulloa [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/colo-colo-estreno-su-estrella-35-con-una-contundente-goleada-en-el-clasico-ante-universidad-catolica/\" rel=\"nofollow\">Colo Colo estrenó su estrella 35 con una contundente goleada en el clásico ante Universidad Católica </a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
+        "value": "<p>El secretario general de la OTAN, Mark Rutte, reiteró este lunes que Ucrania tiene la perspectiva de ingresar en la Alianza Atlántica, pero no hay consenso sobre la adhesión. Mientras que el presidente ucraniano, Volodímir Zelenski, reclamó que la organización aclare el tipo de garantías de seguridad que ofrecerá a Kiev para el escenario posguerra, [&#8230;]</p>\n<p>The post <a href=\"https://www.lanacion.cl/otan-mantiene-abierta-opcion-de-ingreso-de-ucrania-pero-sin-consenso/\" rel=\"nofollow\">OTAN mantiene abierta opción de ingreso de Ucrania, pero sin consenso</a> appeared first on <a href=\"https://www.lanacion.cl\" rel=\"nofollow\">La Nación</a>.</p>"
       },
       "tags": [
         {
-          "term": "Portada",
+          "term": "Actualidad",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Triunfo",
+          "term": "Internacional",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Clásico",
+          "term": "consensos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "colo colo",
+          "term": "ingreso",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Liga de Primera",
+          "term": "opción",
           "scheme": null,
           "label": null
         },
         {
-          "term": "universidad católica",
+          "term": "otan",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "ucrania",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "Colo Colo estrenó su estrella 35 con una contundente goleada en el clásico ante Universidad Católica",
+      "title": "OTAN mantiene abierta opción de ingreso de Ucrania, pero sin consenso",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "Colo Colo estrenó su estrella 35 con una contundente goleada en el clásico ante Universidad Católica"
+        "value": "OTAN mantiene abierta opción de ingreso de Ucrania, pero sin consenso"
       }
     }
   },
@@ -258,55 +213,55 @@
       "title_detail"
     ],
     "ejemplo": {
-      "df_fechap": "20261122",
-      "df_fechapl": "Domingo 22 de noviembre de 2026",
-      "df_fid": "fid_noticia",
-      "df_foto600": "/noticias/site/artic/20261120/imag/foto_0000000920261120151353.jpg",
-      "df_horap": "20:30",
-      "df_tagnames": "Supermercados,Walmart,PriceSmart,Inapi,Chile,empresas",
-      "df_ts": "20261120151353",
+      "df_fechap": "20261124",
+      "df_fechapl": "Martes 24 de noviembre de 2026",
+      "df_fid": "fid_opinion",
+      "df_foto600": "/noticias/site/artic/20261123/imag/foto_0000000220261123200011/clauddd.jpg",
+      "df_horap": "04:04",
+      "df_tagnames": "",
+      "df_ts": "20261123200011",
       "guidislink": false,
-      "id": "http://www.df.cl/noticias/site/artic/20261120/pags/20261120151353.html",
-      "link": "http://www.df.cl/empresas/industria/pricesmart-logra-desactivar-disputa-con-walmart-involucraba-el-nombre-de",
+      "id": "http://www.df.cl/noticias/site/artic/20261123/pags/20261123200011.html",
+      "link": "http://www.df.cl/opinion/columnistas/no-basta-con-electrificar-la-cop31-y-el-olvido-del-clima",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "http://www.df.cl/empresas/industria/pricesmart-logra-desactivar-disputa-con-walmart-involucraba-el-nombre-de"
+          "href": "http://www.df.cl/opinion/columnistas/no-basta-con-electrificar-la-cop31-y-el-olvido-del-clima"
         }
       ],
-      "published": "Sun, 22 Nov 2026 18:30:57 GMT",
+      "published": "Mon, 23 Nov 2026 23:05:02 GMT",
       "published_parsed": [
         2026,
         11,
-        22,
-        18,
-        30,
-        57,
-        6,
-        326,
+        23,
+        23,
+        5,
+        2,
+        0,
+        327,
         0
       ],
-      "summary": "La dueña de los supermercados Lider sostenía que ellos manejan la marca SmartPrice y eso podría confundir a los consumidores.",
+      "summary": "CLAUDIO SEEBACH Decano Facultad de Ingeniería y Ciencias UAI",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "La dueña de los supermercados Lider sostenía que ellos manejan la marca SmartPrice y eso podría confundir a los consumidores."
+        "value": "CLAUDIO SEEBACH Decano Facultad de Ingeniería y Ciencias UAI"
       },
       "tags": [
         {
-          "term": "Empresas",
+          "term": "Opinión",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "PriceSmart logra desactivar disputa con Walmart: involucraba el nombre de la cadena",
+      "title": "No basta con electrificar: la COP31 y el olvido del clima",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "PriceSmart logra desactivar disputa con Walmart: involucraba el nombre de la cadena"
+        "value": "No basta con electrificar: la COP31 y el olvido del clima"
       }
     }
   },
@@ -332,13 +287,13 @@
       "title_detail"
     ],
     "ejemplo": {
-      "author": "Constanza Bello Caipillán",
+      "author": "Jean Valencia",
       "author_detail": {
-        "name": "Constanza Bello Caipillán"
+        "name": "Jean Valencia"
       },
       "authors": [
         {
-          "name": "Constanza Bello Caipillán"
+          "name": "Jean Valencia"
         }
       ],
       "content": [
@@ -346,136 +301,126 @@
           "type": "text/html",
           "language": null,
           "base": "",
-          "value": "<p>Un insólito momento quedó registrado en el reciente episodio de <em>&#8216;MasterChef Chile&#8217;,</em> otra vez protagonizado por <strong>Regina</strong>, la medium y aspirante a cocinera de 37 años.</p>\n<p>En el capítulo, los participantes debían elaborar un plato de la cocina tex-mex utilizando como ingrediente obligatorio un tipo de queso de un auspiciador. </p>\n<p>Pero no solo eso, pues además varios hicieron valer sus beneficios para congelar a sus contrincantes o ganar más tiempo, lo que dejó una ajustada competencia.</p>\n<p>Tras una elección al azar, Regina tuvo que cocinar junto a Julio Canessa y Giannina Ortiz, hermana del comediante Alex Ortiz, ambos quienes ingresaron a la competencia en el repechaje.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/dopamina/2026/11/19/el-sabor-era-horroroso-participante-de-masterchef-quedo-al-borde-de-la-eliminacion-tras-polemico-pl.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/dopamina/2026/11/19/el-sabor-era-horroroso-participante-de-masterchef-quedo-al-borde-de-la-eliminacion-tras-polemico-pl.shtml\">\"El sabor era horroroso\": participante de MasterChef quedó al borde de eliminación tras polémico plato</a>\n\t\t<span style=\"display: none;\">Jueves 19 Noviembre, 2026 | 07:35</span>\n\t</div>\n</div>\n<p>Pese a las dificultades, el trío logró preparar nachos, tacos y quesadillas, pero se les olvidó lo principal en uno de los platos: el queso.</p>\n<p>La participante de 37 años se percató de aquello cuando la animadora ya había pedido que todos pusieran las manos en alto, pues el tiempo había terminado, por lo que Giannina le reprochó: <strong>&#8220;Te dije que lo ponía yo y no me dejaste. No me dejas hacer las cosas; hubiésemos tenido eso listo. La base es el cheddar y no lo tenemos&#8221;</strong>, le reclamó.</p>\n<p>&#8220;Ya, yo voy a asumir la culpa&#8221;, le aseguró Regina dándole la razón, pero por si fuera poco intentó buscar una solución que salió muy mal.</p>\n<p>&#8220;Voy a hacer algo y tú quédate callada&#8221;, agregó la aspirante a <a href=\"https://www.tvn.cl/programas/masterchef\" rel=\"noopener\" target=\"_blank\"><em>&#8216;MasterChef&#8217;</em></a>. Acto seguido, a vista y paciencia de todos, Regina tomó una cuchara y esparció queso fundido sobre su plato.</p>\n<div class=\"lee-tambien-bbcl\">\n\t<div class=\"lee-tambien-titulo\">Lee también...</div>\n\t<div class=\"lee-tambien-caja\">\n\t\t<a href=\"https://www.biobiochile.cl/noticias/dopamina/2026/11/18/valentina-abarca-sorprendio-con-ausencia-en-masterchef-chile-debera-enfrentar-prueba-de-eliminacion.shtml\">\n\t\t\t<div class=\"lee-tambien-img lazy\"></div>\n\t\t</a>\n\t\t<a class=\"lee-tambien-titular\" href=\"https://www.biobiochile.cl/noticias/dopamina/2026/11/18/valentina-abarca-sorprendio-con-ausencia-en-masterchef-chile-debera-enfrentar-prueba-de-eliminacion.shtml\">Valentina Abarca sorprendió con ausencia en MasterChef Chile: deberá enfrentar prueba de eliminación</a>\n\t\t<span style=\"display: none;\">Miércoles 18 Noviembre, 2026 | 09:24</span>\n\t</div>\n</div>\n<p>Como era obvio, la chef Fernanda inmediatamente la reprendió: <strong>&#8220;¿Por qué pusieron ahora la salsa?&#8221;</strong>. &#8220;Sí tenía&#8221;, se defendió la tarotista, pero eso era falso. </p>\n<p>&#8220;Pusieron ahora la salsa fuera del tiempo y eso es hacer trampa, chicas, eso no se hace&#8221;, la reprendió la chef chilena.</p>\n<p>Más adelante, cuando fue el momento de evaluar su plato, el jurado fue aún más severo, pues decidieron descalificarlos y enviarlos directo a la prueba de nominación. </p>\n<p>&#8220;A partir del minuto 10 los empieza a cantar Mari (Godoy) y ustedes, lamentablemente, fuera de tiempo, que nosotros además los vimos y está registrado, y no solamente lo vio jurado, sino jurado invitado, y también Mari, de que agregaron ingredientes en su preparación fuera del tiempo de la competencia. Lamentablemente, eso en un concurso aquí y en cualquier sitio los deja descalificados; por tanto, no vamos a poder probar, porque además era el ingrediente principal y que además lo pusieron con trampa, por tanto, no lo podemos probar. Quedan descalificados y <strong>pasan directamente a la prueba de nominación</strong>&#8220;, les anunció.</p>\n<p>En su defensa, la participante aseguró que hizo aquello porque &#8220;se sentía traviesa&#8221;, pero su actuar no dejó para nada felices a sus compañeros de equipo.</p>\n<p>&#8220;A mí me da mucha vergüenza, me da lata, pero Regina se lo toma para chiste&#8221;, le dijo en su cara la hermana del comediante, quien también pasó a nominación.</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">#MasterChefTexMex  eso es el karma sita Regina tomate en serio la competencia mujer déjate de ser payasa https://t.co/ZekC8garBL</p>\n<p>&mdash; Doña malas pulgas insolente <img alt=\"🤦🏽‍♀️\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f926-1f3fd-200d-2640-fe0f.png\" style=\"height: 1em;\" /> (@Insolentessssss) <a href=\"https://x.com/Insolentessssss/status/2124710194517098701?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p></p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"pt\">Giannina está emperradísima con Regina amooooo <img alt=\"🤭\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f92d.png\" style=\"height: 1em;\" /><img alt=\"🤭\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f92d.png\" style=\"height: 1em;\" /><img alt=\"🤭\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f92d.png\" style=\"height: 1em;\" /><img alt=\"🤭\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f92d.png\" style=\"height: 1em;\" /><img alt=\"🙊\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f64a.png\" style=\"height: 1em;\" /><img alt=\"🙊\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f64a.png\" style=\"height: 1em;\" /><img alt=\"🙊\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f64a.png\" style=\"height: 1em;\" /><img alt=\"🙊\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f64a.png\" style=\"height: 1em;\" /><img alt=\"😬\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f62c.png\" style=\"height: 1em;\" /><img alt=\"😬\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f62c.png\" style=\"height: 1em;\" /><img alt=\"😬\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f62c.png\" style=\"height: 1em;\" /><img alt=\"😬\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f62c.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🍿\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f37f.png\" style=\"height: 1em;\" /><img alt=\"🔥\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png\" style=\"height: 1em;\" /><img alt=\"🔥\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png\" style=\"height: 1em;\" /><img alt=\"🔥\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png\" style=\"height: 1em;\" /><img alt=\"🔥\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png\" style=\"height: 1em;\" /><br />\n#MasterChefTexMex #MasterChefChile https://t.co/QKgJ0UBYVS</p>\n<p>&mdash; Cristian Retamales (@CristianReta03) <a href=\"https://x.com/CristianReta03/status/2124698328155705651?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p></p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">#MasterChefChile Regina perjudico a sus compañeros .<br />\nEso es ser mala compañera<br />\n#MasterChefTexMex</p>\n<p>&mdash; <img alt=\"🎬\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f3ac.png\" style=\"height: 1em;\" />María Eugenia<img alt=\"🌳\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f333.png\" style=\"height: 1em;\" /><img alt=\"🐾\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f43e.png\" style=\"height: 1em;\" /><img alt=\"📚\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f4da.png\" style=\"height: 1em;\" /><img alt=\"🇨🇱\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f1e8-1f1f1.png\" style=\"height: 1em;\" /> (@tobitagatita) <a href=\"https://x.com/tobitagatita/status/2124698283549368322?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p></p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">Regina en modo Valentina boicoteando a sus compañeros para después salvarse sola.<br />\n#MasterChefTexMex</p>\n<p>&mdash; Cata (@La_GranPrima) <a href=\"https://x.com/La_GranPrima/status/2124698202926350721?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p></p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"es\">Excelente parada de carro de la Chef Fernanda. Regina es una IDIOTA y una mala compañera con su equipo. Debió hasta ser nominada ella y por arrastre, su equipo por hacer trampa y poner ingredientes fuera de tiempo.</p>\n<p>#MasterChefChile #MasterChefTexMex https://t.co/jmABwOEO5p</p>\n<p>&mdash; Vicente Antonio Arteaga Aedo  (@ArteagaAedo) <a href=\"https://x.com/ArteagaAedo/status/2124697917415989660?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml\" rel=\"nofollow\">&quot;Mala compañera&quot;: Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+          "value": "<p>Un <span class=\"destacador\">hombre fue detenido en Puerto Montt por trasladar a menores en un furgón escolar que conducía, pese a tener una condena por abuso sexual a un menor</span>, lo que le prohíbe trabajar con niños, niñas y adolescentes. Además, el sujeto <strong>no tenía la licencia requerida</strong>.</p>\n<p>Fue alrededor de las 16:00 horas del lunes, en medio de patrullajes preventivos que realizaban <a href=\"http://carabineros.cl\" rel=\"noopener\" target=\"_blank\">Carabineros</a> en el sector Pichi Pelluco de la capital regional de <a href=\"https://www.biobiochile.cl/lista/categorias/region-de-los-lagos\" rel=\"noopener\" target=\"_blank\">Los Lagos</a>, que sorprendieron al hombre conduciendo un furgón escolar sin contar con la documentación necesaria.</p>\n<p>En ese contexto, los funcionarios policiales se percataron que la persona además tenía prohibición para trabajar con menores de edad debido a una condena por abuso sexual. Pese a ello, este adulto trasladaba a 7 niños en dicho vehículo.</p>\n<p>La capitán de la Sexta Comisaría de Carabineros Alerce, Carolina Villanueva, se refirió a la detención del sujeto.</p>\n<p>&#8220;Al verificar los antecedentes del conductor, un hombre adulto de iniciales H.E.S.T., los funcionarios policiales constataron que no poseía la licencia de conducir profesional exigida para el transporte remunerado de escolares&#8221;.</p>\n<p>&#8220;Asimismo, al revisar su historial judicial, se detectó que registra una condena previa por el delito de abuso sexual de menor de edad, correspondiente al año 2007. Esa sentencia conlleva una inhabilitación absoluta para desempeñar cargos u oficios que involucren una relación directa y habitual con niños, niñas y adolescentes&#8221;.</p>\n<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->\n<audio class=\"wp-audio-shortcode\" controls=\"controls\" id=\"audio-0-1\" preload=\"none\" style=\"width: 100%;\"><source src=\"https://media.biobiochile.cl/wp-content/uploads/2026/11/fyh9yhslzhbpdhf8f67244evf1ynnnxp1avrkkvs.mp3?_=1\" type=\"audio/mpeg\" /><a href=\"https://media.biobiochile.cl/wp-content/uploads/2026/11/fyh9yhslzhbpdhf8f67244evf1ynnnxp1avrkkvs.mp3\">https://media.biobiochile.cl/wp-content/uploads/2026/11/fyh9yhslzhbpdhf8f67244evf1ynnnxp1avrkkvs.mp3</a></audio>\n<p>El vehículo que conducía el individuo, que al momento de su detención transportaba a 7 menores -los cuales quedaron bajo resguardo-, fue incautado. El sujeto fue detenido y quedó a disposición del Ministerio Público. </p>\n\n<p>Todos los antecedentes del procedimiento fueron puestos a disposición de la Fiscalía, entidad que instruirá las diligencias investigativas correspondientes y determinará el control de detención del imputado.</p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/24/sin-licencia-y-con-condena-por-abuso-sexual-a-menor-cae-conductor-de-furgon-escolar-en-puerto-montt.shtml\" rel=\"nofollow\">Sin licencia y con condena por abuso sexual a menor: cae conductor de furgón escolar en Puerto Montt</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
         }
       ],
       "guidislink": false,
-      "id": "https://www.biobiochile.cl/?p=7028555",
-      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml",
+      "id": "https://www.biobiochile.cl/?p=7029771",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/24/sin-licencia-y-con-condena-por-abuso-sexual-a-menor-cae-conductor-de-furgon-escolar-en-puerto-montt.shtml",
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml"
+          "href": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/24/sin-licencia-y-con-condena-por-abuso-sexual-a-menor-cae-conductor-de-furgon-escolar-en-puerto-montt.shtml"
         }
       ],
-      "published": "Mon, 23 Nov 2026 04:03:54 +0000",
+      "published": "Tue, 24 Nov 2026 08:25:01 +0000",
       "published_parsed": [
         2026,
         11,
-        23,
-        4,
-        3,
-        54,
-        0,
-        327,
+        24,
+        8,
+        25,
+        1,
+        1,
+        328,
         0
       ],
-      "summary": "<p>Un insólito momento quedó registrado en el reciente episodio de &#8216;MasterChef Chile&#8217;, otra vez protagonizado por Regina, la medium y aspirante a cocinera de 37 años. En el capítulo, los participantes debían elaborar un plato de la cocina tex-mex utilizando como ingrediente obligatorio un tipo de queso de un auspiciador. Pero no solo eso, pues &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"\"Mala compañera\": Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml\" rel=\"nofollow\">&quot;Mala compañera&quot;: Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
+      "summary": "<p>Un , lo que le prohíbe trabajar con niños, niñas y adolescentes. Además, el sujeto no tenía la licencia requerida. Fue alrededor de las 16:00 horas del lunes, en medio de patrullajes preventivos que realizaban Carabineros en el sector Pichi Pelluco de la capital regional de Los Lagos, que sorprendieron al hombre conduciendo un furgón &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/24/sin-licencia-y-con-condena-por-abuso-sexual-a-menor-cae-conductor-de-furgon-escolar-en-puerto-montt.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Sin licencia y con condena por abuso sexual a menor: cae conductor de furgón escolar en Puerto Montt\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/24/sin-licencia-y-con-condena-por-abuso-sexual-a-menor-cae-conductor-de-furgon-escolar-en-puerto-montt.shtml\" rel=\"nofollow\">Sin licencia y con condena por abuso sexual a menor: cae conductor de furgón escolar en Puerto Montt</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>",
       "summary_detail": {
         "type": "text/html",
         "language": null,
         "base": "",
-        "value": "<p>Un insólito momento quedó registrado en el reciente episodio de &#8216;MasterChef Chile&#8217;, otra vez protagonizado por Regina, la medium y aspirante a cocinera de 37 años. En el capítulo, los participantes debían elaborar un plato de la cocina tex-mex utilizando como ingrediente obligatorio un tipo de queso de un auspiciador. Pero no solo eso, pues &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"\"Mala compañera\": Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/23/mala-companera-regina-hizo-trampa-ante-el-jurado-llevo-a-su-equipo-a-nominacion-y-recibio-criticas.shtml\" rel=\"nofollow\">&quot;Mala compañera&quot;: Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
+        "value": "<p>Un , lo que le prohíbe trabajar con niños, niñas y adolescentes. Además, el sujeto no tenía la licencia requerida. Fue alrededor de las 16:00 horas del lunes, en medio de patrullajes preventivos que realizaban Carabineros en el sector Pichi Pelluco de la capital regional de Los Lagos, que sorprendieron al hombre conduciendo un furgón &#8230; <a class=\"more-link\" href=\"https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/24/sin-licencia-y-con-condena-por-abuso-sexual-a-menor-cae-conductor-de-furgon-escolar-en-puerto-montt.shtml\">Continua leyendo<span class=\"screen-reader-text\"> \"Sin licencia y con condena por abuso sexual a menor: cae conductor de furgón escolar en Puerto Montt\"</span></a></p>\n<p>The post <a href=\"https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/24/sin-licencia-y-con-condena-por-abuso-sexual-a-menor-cae-conductor-de-furgon-escolar-en-puerto-montt.shtml\" rel=\"nofollow\">Sin licencia y con condena por abuso sexual a menor: cae conductor de furgón escolar en Puerto Montt</a> appeared first on <a href=\"https://www.biobiochile.cl\" rel=\"nofollow\">BioBioChile</a>.</p>"
       },
       "tags": [
         {
-          "term": "TV",
+          "term": "Región de los Lagos",
           "scheme": null,
           "label": null
         },
         {
-          "term": "cocina chilena",
+          "term": "abuso sexual infantil",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Cocina tex-mex",
+          "term": "Carabineros de Chile",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Competencia de cocina",
+          "term": "control de detención",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Descalificación",
+          "term": "delitos sexuales",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Espectáculos",
+          "term": "Derechos de la Infancia",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Fernanda Fuentes{",
+          "term": "Fiscalía",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Giannina Ortiz",
+          "term": "Furgón Escolar",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Julio Canessa",
+          "term": "inhabilitación laboral",
           "scheme": null,
           "label": null
         },
         {
-          "term": "MasterChef Chile",
+          "term": "Licencia profesional",
           "scheme": null,
           "label": null
         },
         {
-          "term": "MasterChef Tex-Mex",
+          "term": "Pichi Pelluco",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Programa de Televisión",
+          "term": "Protección de Menores",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Prueba de nominación",
+          "term": "Puerto Montt",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Queso cheddar",
+          "term": "Seguridad Infantil",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Reality culinario",
+          "term": "transporte de escolares",
           "scheme": null,
           "label": null
         },
         {
-          "term": "Regina MasterChef",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "seleccion-tendencias",
-          "scheme": null,
-          "label": null
-        },
-        {
-          "term": "Trampa en competencia",
+          "term": "transporte escolar",
           "scheme": null,
           "label": null
         }
       ],
-      "title": "\"Mala compañera\": Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas",
+      "title": "Sin licencia y con condena por abuso sexual a menor: cae conductor de furgón escolar en Puerto Montt",
       "title_detail": {
         "type": "text/plain",
         "language": null,
         "base": "",
-        "value": "\"Mala compañera\": Regina hizo trampa ante el jurado, llevó a su equipo a nominación y recibió críticas"
+        "value": "Sin licencia y con condena por abuso sexual a menor: cae conductor de furgón escolar en Puerto Montt"
       }
     }
   }
